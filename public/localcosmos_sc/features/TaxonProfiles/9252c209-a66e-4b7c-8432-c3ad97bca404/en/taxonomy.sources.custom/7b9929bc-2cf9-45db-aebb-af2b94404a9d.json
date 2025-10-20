@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Codium fragile (Suringar)",
+    "taxonAuthor": "Hariot, 1889",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "7b9929bc-2cf9-45db-aebb-af2b94404a9d",
+    "taxonNuid": "003007001003003",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1310-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1310-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1310-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 756,
+    "vernacular": {
+        "en": "Fragile upright codium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fragile upright codium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms tall dark-green tree-like growths of soft spongy branches emerging from a single holdfast. The repeatedly branching fronds are fairly thick and cylindrical, but may be somewhat flattened towards their bases. Internally they are made up of large interwoven tubes that are each single multinucleated cells. On the surface these emerge as distinct swellings (utricles) and the shapes of these needs to be examined microscopically to distinguish between many of the species. In this species the utricles have distinctively pointed tips.</p>",
+            "shortTextKey": "taxon_text_1_7376",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Cylindrical fronds 5-8 mm in diameter; whole tree-like structure 100-300 mm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7377",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> The species has a widespread distribution in both northern and southern hemispheres, including several introduced populations, but the subspecies <i>capense</i> is endemic to Southern Africa. There is still considerable confusion though as to the entities within <i>C. fragile</i>.</p><p><u>Local/Regional:</u><i> </i>Namibia to<i> </i>Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_7378",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Grows on the margins of intertidal pools and on shallow sublittoral reefs. Fed on by sap-sucking sea slugs of the genus <i>Elysia</i>, which penetrate the large calls and suck up the contents, including the chloroplasts, which continue to photosynthesize within the slug’s body, making it essentially ‘solar-powered’.</p>",
+            "shortTextKey": "taxon_text_4_7379",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7380",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Can reproduce asexually by fragmentation allowing it to rapidly colonise new areas. Sexual reproduction in this genus is variable and complex and can involve production of parthenogenetically developing ‘swarmer cells’ or separate males and females producing spores from reproductive structures on the surfaces of the utricles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7381",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several similar tree-like species in this genus and the utricles need to be examined under the microscope for accurate identification. This species has spine-like projections on the ends of the utricles. Other similar species in the region include <i>C. isaacii</i> and <i>C. duthieae</i> (rounded tips to utricles) and<i> C. extricatum </i>(hairs on tips of utricles).</p>",
+            "shortTextKey": "taxon_text_7_7382",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 376). <br><br>Silva, PC (1959). The genus <i>Codium</i> (Chlorophyta) in South Africa. <i>Journal of South African Botany</i>, 25, 101-165.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 117).<br><br>Verbruggen, H, Brookes, MJL & Costa, JF (2016). DNA barcodes and morphometric data indicate that <i>Codium fragile</i> (Bryopsidales, Chlorophyta) may consist of two species. <i>Phycologia</i>, 56 (1), 54-62.",
+            "shortTextKey": "taxon_text_8_7383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1310-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1310-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1310-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1310-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1310-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1310-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

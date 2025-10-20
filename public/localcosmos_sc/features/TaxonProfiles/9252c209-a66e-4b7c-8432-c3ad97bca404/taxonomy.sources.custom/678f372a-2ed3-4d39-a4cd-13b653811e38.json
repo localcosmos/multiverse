@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ceramium planum",
+    "taxonAuthor": "Kützing, 1849",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "678f372a-2ed3-4d39-a4cd-13b653811e38",
+    "taxonNuid": "003002004008002",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1363-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1363-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1363-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 778,
+    "vernacular": {
+        "en": "Flat-fern ceramium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Flat-fern ceramium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Attractive and delicate purplish-red species forming flat, fern-like fronds. Main axes segmented (but nor banded in colour) and give off alternating lateral branches to left and right, but all in the same plane, at intervals of 3-4 segments. These re-branch several times into fairly dense tufts, but tips are not strongly incurved (as in many other <i>Ceramium</i> species).</p>",
+            "shortTextKey": "taxon_text_1_7574",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Reaches about 200 mm on west coast, but much smaller on south coast. Main branches about 1 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7575",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa and Antarctica. Also reported from Mozambique, but that record is considered suspect.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_7576",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Primarily a west coast species and often epiphytic of other algae. Common in low intertidal and subtidal reefs.</p>",
+            "shortTextKey": "taxon_text_4_7577",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7578",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetraspores borne externally around the branches of the axes.</p>",
+            "shortTextKey": "taxon_text_6_7579",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The branching pattern is distinctive, but there are several other similar regional species in this and closely-related genera – see Stegenga reference for a more detailed account of and identification key to west coast species.</p>",
+            "shortTextKey": "taxon_text_7_7580",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 412). <br><br>Simons, RH (1966). The genus <i>Ceramium</i> in South Africa. <i>Bothalia</i>, 9, 153-168.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 423).",
+            "shortTextKey": "taxon_text_8_7581",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1363-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1363-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1363-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1363-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1363-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1363-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

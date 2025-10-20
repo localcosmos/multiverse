@@ -1,0 +1,199 @@
+{
+    "taxonLatname": "Semimytilus patagonicus",
+    "taxonAuthor": "(Hanley, 1843)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "82459a24-84aa-4d89-9f76-9f417c1223d1",
+    "taxonNuid": "00100k00200100200900200100m008001",
+    "gbifNubkey": 11159773,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-649-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-649-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-649-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 115,
+    "vernacular": {
+        "en": "Bisexual mussel"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bisexual mussel"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Semimytilus algosus </i>&amp;<i> Modiola patagonica.</i></p>",
+            "shortTextKey": "taxon_text_9_985",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, relatively delicate, smooth-shelled mussel with a brown to black shell, often tinged with green. The anterior (pointed) end is markedly swollen relative to other regional species. Internally most individuals are hermaphrodite, with male gonad on the one side and female on the other, but a small proportion of individuals in the native Chile have been shown to be entirely male or entirely female.</p>",
+            "shortTextKey": "taxon_text_1_986",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Most common in low intertidal, where specimens seldom exceed 50 mm, but deeper water specimens can attain almost double that size.</p>",
+            "shortTextKey": "taxon_text_2_987",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Native to Chile, but accidentally introduced to both Namibia and west coast of South Africa.</p><p><u>Local/Regional:</u> South African population ranges from Groenrivier on west coast to about Hermanus, but is still spreading eastwards.</p>",
+            "shortTextKey": "taxon_text_3_988",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>First detected in South Africa in 2009, but as the population was already widespread and well-established when discovered, certainly present for some time previously. Most abundant in the lower intertidal, where it often occurs adjacent to and below the Mediterranean mussel <i>Mytilus galloprovincialis</i>, another invasive species which dominates the mid-intertidal zone across much the same range. The two species are often separated by a distinct boundary, with the paler and larger <i>Mytilus</i> above and smaller, darker <i>Semimytilus </i>below!</p><p>Usually occurs in extremely dense beds, newly-settled spat carpeting the rocks in densities exceeding 100 000 per meter squared. As growth proceeds self-thinning occurs, smaller individuals often physically undermining and forcing larger ones off the rocks (see image below). Since the mussels are small and tightly-packed, they offer less habitat for infaunal species than the larger <i>Mytilus</i>, so the beds are relatively devoid of other organisms. Small limpets, for example, are absent here, but common living on <i>Mytilus</i> shells. Being small, abundant and relatively thin-shelled this species probably forms a new and plentiful food source for various local predators, such as rock-lobsters, drilling whelks and kelp gulls and may thus benefit those populations, while displacing and outcompeting other sessile animals, such as limpets.</p><p>Recent studies show that the species is still expanding eastwards and has extended its eastward limit from Blauberg in 2010 to Hermanus in 2022.</p>",
+            "shortTextKey": "taxon_text_4_989",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All mussels feed by drawing water in though a distal and ventral inhalant siphon, which is surrounded by branched lobes to keep out particles too large to be consumed. The water is then filtered thought the enlarged sieve-like gills and ejected though a dorsal, smooth-edged exhalent siphon. Food particles filtered from the water are transported by cilia to the ventral edge of the gill and then forward to the mouth at the anterior (pointed) end, where they are sorted by the labial palps and lighter particles ingested. Inedible particles are rejected by the palps and ejected as ‘pseudo faeces’ which has not passed thought the digestive tract.</p>",
+            "shortTextKey": "taxon_text_5_990",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Mussels are unusual in that the gonad permeates throughout the body and when ripe can make up more than 50% of the total body weight. Spawning is usually synchronised via hormones released with the sperm and eggs and after spawning ‘spent’ individuals are thin and flaccid. Spawning is triggered by temperature changes and in temperate areas spawning occurs predictably in spring and autumn. However, in South Africa sea temperatures show much more seasonal stability and spawning tends to be more irregular and is probably triggered by short-term upwelling events. The numbers of eggs produced is enormous, running to the millions per mussel and hence billions per square meter of mussel bed! &nbsp;Larval development takes about 30 days and juvenile mussels (spat) sometimes settle in densities of hundreds of thousands per square meter. The way hermaphroditic gonads of this species affect reproduction (for example whether individuals can self-fertilise) is not known.</p>",
+            "shortTextKey": "taxon_text_6_991",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the Mediterranean mussel <i>Mytilus galloprovincialis, </i>which occurs on the same sites and often adjacently on the rocks. The species can, however, be separated by both shell shape and shell colour. <i>Mytilus</i> are narrow and ‘pointed’ at the anterior end, whereas <i>Semimytilus</i> are notable swollen. <i>Mytilus </i>are also usually strongly eroded with rough, light blue sides, whereas most <i>Semumytilis</i> are brown especially ventrally (sometimes with black margin) and have green tinges.</p><p>If all else fails it is necessary to examine the resilial ridge (the white band alongside the hinge ligament on the inside of the shell) under the microscope. This is pitted in <i>Mytilus</i> and smooth in <i>Semimytilus</i> and can be used to differentiate even small, immature individuals.</p>",
+            "shortTextKey": "taxon_text_7_992",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "De Greef K, Zeeman, Z & Griffiths, CL (2013). Déjà vu? A second mytilid mussel, <i>Semimytilus algosus</i>, invades South Africa’s west coast. <i>African Journal of Marine Science</i>, 35, 307-313.<br><br>Skein, L, Alexander, M, & Robinson, T (2018). Contrasting invasion patterns in intertidal and subtidal mussel communities. <i>African Zoology</i>, 53(1), 47-52.",
+            "shortTextKey": "taxon_text_8_993",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-649-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-649-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-649-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-649-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-649-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-649-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Mytilus dactyliformis",
+            "taxonAuthor": "Hupé, 1854"
+        },
+        {
+            "taxonLatname": "Modiolus patagonicus",
+            "taxonAuthor": "(d'Orbigny, 1846)"
+        },
+        {
+            "taxonLatname": "Modiolus nonuranus",
+            "taxonAuthor": "Pilsbry & Olsson, 1935"
+        },
+        {
+            "taxonLatname": "Mytilus similis",
+            "taxonAuthor": "Clessin, 1887"
+        },
+        {
+            "taxonLatname": "Modiola patagonica",
+            "taxonAuthor": "Hanley, 1843"
+        },
+        {
+            "taxonLatname": "Semimytilus pseudocapensis",
+            "taxonAuthor": "(E. Lamy, 1931)"
+        },
+        {
+            "taxonLatname": "Mytilus algosus",
+            "taxonAuthor": "Gould, 1850"
+        },
+        {
+            "taxonLatname": "Mytilus splendens",
+            "taxonAuthor": "Dunker, 1857"
+        },
+        {
+            "taxonLatname": "Modiola pseudocapensis",
+            "taxonAuthor": "E. Lamy, 1931"
+        },
+        {
+            "taxonLatname": "Semimytilus algosus",
+            "taxonAuthor": "(Gould, 1850)"
+        },
+        {
+            "taxonLatname": "Mytilus cuneiformis",
+            "taxonAuthor": "Reeve, 1857"
+        },
+        {
+            "taxonLatname": "Modiolus (Modiolus) nonuranus",
+            "taxonAuthor": "Pilsbry & Olsson, 1935"
+        },
+        {
+            "taxonLatname": "Mytilus patagonicus",
+            "taxonAuthor": "d'Orbigny, 1846"
+        },
+        {
+            "taxonLatname": "Mytilus angustanus",
+            "taxonAuthor": "Lamarck, 1819"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

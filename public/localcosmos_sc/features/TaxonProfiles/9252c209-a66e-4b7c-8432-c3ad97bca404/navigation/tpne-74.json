@@ -1,0 +1,460 @@
+{
+    "name": "Brown algae",
+    "description": null,
+    "verboseName": "Brown algae",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1620-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1620-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1620-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2103-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2103-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2103-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2104-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2104-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2104-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-165",
+            "parentKey": "tpne-74",
+            "name": "Laminarian kelp",
+            "verboseName": "Laminarian kelp",
+            "taxa": [
+                {
+                    "taxonLatname": "Laminariales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1e0862f5-97ea-4a08-87fe-1c3e0937fa9c",
+                    "taxonNuid": "00400b00700i"
+                },
+                {
+                    "taxonLatname": "Ecklonia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "69f36d58-2694-41e3-b69b-c64e40645338",
+                    "taxonNuid": "003001009"
+                },
+                {
+                    "taxonLatname": "Laminaria",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "75245fba-ba5f-434f-b197-c95dc7b00de3",
+                    "taxonNuid": "00300100e"
+                },
+                {
+                    "taxonLatname": "Macrocystis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "0c41ce65-3713-45e0-9ab0-c60af77dd520",
+                    "taxonNuid": "00300100g"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1800-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1800-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1800-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1800-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1800-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1800-1000.webp"
+                }
+            },
+            "slug": "laminarian-kelp"
+        },
+        {
+            "key": "tpne-167",
+            "parentKey": "tpne-74",
+            "name": "Wrack & Broom weed",
+            "verboseName": "Wrack & Broom weed",
+            "taxa": [
+                {
+                    "taxonLatname": "Bifurcariopsis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "3856f2fa-fb0f-44fd-a60b-9c736d1dd9a2",
+                    "taxonNuid": "003001003"
+                },
+                {
+                    "taxonLatname": "Brassicophycus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "13fe15ac-cde4-4df5-a6d0-7e963c333dd6",
+                    "taxonNuid": "003001004"
+                },
+                {
+                    "taxonLatname": "Halopteris",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "fc82b590-eb96-449a-86ab-746112477ee0",
+                    "taxonNuid": "00300100c"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1808-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1808-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1808-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1808-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1808-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1808-1000.webp"
+                }
+            },
+            "slug": "wrack-broom-weed"
+        },
+        {
+            "key": "tpne-166",
+            "parentKey": "tpne-74",
+            "name": "Sargassum & Acid weed",
+            "verboseName": "Sargassum & Acid weed",
+            "taxa": [
+                {
+                    "taxonLatname": "Desmarestia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "c108db67-8df4-481c-84ab-a1164fb710a1",
+                    "taxonNuid": "003001007"
+                },
+                {
+                    "taxonLatname": "Anthophycus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "b2102344-7e2f-42cf-a13f-6a61f1329e35",
+                    "taxonNuid": "003001001"
+                },
+                {
+                    "taxonLatname": "Sargassum",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "55c6045a-936e-40a9-9e79-af65d0c303e7",
+                    "taxonNuid": "00300100k"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2096-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2096-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2096-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2096-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2096-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2096-1000.webp"
+                }
+            },
+            "slug": "sargassum-acid-weed"
+        },
+        {
+            "key": "tpne-168",
+            "parentKey": "tpne-74",
+            "name": "Forked, flat-shaped",
+            "verboseName": "Forked, flat-shaped",
+            "taxa": [
+                {
+                    "taxonLatname": "Axillariella",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "72b4dc5b-d329-453e-ace2-9c9d39e2330e",
+                    "taxonNuid": "003001002"
+                },
+                {
+                    "taxonLatname": "Dictyota",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "8abc2f5c-7d89-45bf-9ae4-96150e22b54f",
+                    "taxonNuid": "003001008"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2097-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2097-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2097-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2097-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2097-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2097-1000.webp"
+                }
+            },
+            "slug": "forked-flat-shaped"
+        },
+        {
+            "key": "tpne-170",
+            "parentKey": "tpne-74",
+            "name": "Fan-like or flat-shaped",
+            "verboseName": "Fan-like or flat-shaped",
+            "taxa": [
+                {
+                    "taxonLatname": "Pseudoralfsia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "25e66d4d-87c8-4d2f-8f02-eff9c0afeb51",
+                    "taxonNuid": "00300100j"
+                },
+                {
+                    "taxonLatname": "Exallosorus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "8e92ca18-ec86-4f6d-9512-c518a70dce90",
+                    "taxonNuid": "00300100b"
+                },
+                {
+                    "taxonLatname": "Zeacarpa",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "2fba87cc-3555-4113-bbff-16f493402de4",
+                    "taxonNuid": "00300100n"
+                },
+                {
+                    "taxonLatname": "Zonaria",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "1a43e6dd-3c7f-493e-9da2-42cf42a8b342",
+                    "taxonNuid": "00300100o"
+                },
+                {
+                    "taxonLatname": "Sonderophycus",
+                    "taxonAuthor": "Denizot, 1968",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "bb6e5f60-666b-4f15-b511-893493a0efcd",
+                    "taxonNuid": "00300200d001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2102-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2102-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2102-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2102-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2102-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2102-1000.webp"
+                }
+            },
+            "slug": "fan-like-or-flat-shaped"
+        },
+        {
+            "key": "tpne-169",
+            "parentKey": "tpne-74",
+            "name": "Bladder-like or bulb-shaped",
+            "verboseName": "Bladder-like or bulb-shaped",
+            "taxa": [
+                {
+                    "taxonLatname": "Colpomenia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "bd4ae0fb-4bc9-47bc-9d3d-558ee06a1849",
+                    "taxonNuid": "003001006"
+                },
+                {
+                    "taxonLatname": "Leathesia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "38886eaf-d189-4c1a-802e-4c2763db19bc",
+                    "taxonNuid": "00300100f"
+                },
+                {
+                    "taxonLatname": "Iyengaria",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "44474ed1-78aa-4dda-9994-54938d7bbc9d",
+                    "taxonNuid": "00300100d"
+                },
+                {
+                    "taxonLatname": "Splachnidium",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "39cfd7bd-560d-4604-8bea-a8830ca1e843",
+                    "taxonNuid": "00300100m"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1809-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1809-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1809-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1809-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1809-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1809-1000.webp"
+                }
+            },
+            "slug": "bladder-like-or-bulb-shaped"
+        },
+        {
+            "key": "tpne-172",
+            "parentKey": "tpne-74",
+            "name": "Strings & Tubes",
+            "verboseName": "Strings & Tubes",
+            "taxa": [
+                {
+                    "taxonLatname": "Scytosiphon",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "62f07b9e-6223-406f-a19f-392a27efd8d9",
+                    "taxonNuid": "00300100l"
+                },
+                {
+                    "taxonLatname": "Papenfussiella",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "799c3259-4531-4f56-a4ea-df327ff43dc2",
+                    "taxonNuid": "00300100h"
+                },
+                {
+                    "taxonLatname": "Splachnidium",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "39cfd7bd-560d-4604-8bea-a8830ca1e843",
+                    "taxonNuid": "00300100m"
+                },
+                {
+                    "taxonLatname": "Chordariopsis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "69f63dc1-7b51-4475-bb6e-5113f1f9b629",
+                    "taxonNuid": "003001005"
+                },
+                {
+                    "taxonLatname": "Ectocarpus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "ab842900-664a-4e1c-a311-6625884ad697",
+                    "taxonNuid": "00300100a"
+                },
+                {
+                    "taxonLatname": "Petalonia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "466f20c0-07e5-4fa2-9c5f-7cde17f7e210",
+                    "taxonNuid": "00300100i"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2107-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2107-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2107-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2107-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2107-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2107-1000.webp"
+                }
+            },
+            "slug": "strings-tubes"
+        }
+    ],
+    "taxonProfiles": []
+}

@@ -1,0 +1,136 @@
+{
+    "taxonLatname": "Ruschia spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "dacb813b-7534-4312-a443-427520c609ce",
+    "taxonNuid": "00300d001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3020-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3020-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3020-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1056,
+    "vernacular": {
+        "en": "Vygies"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Vygies"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A diverse group of small succulent plants containing some 400 described species of which about 60 occur in the fynbos region. The large number of species makes species identification taxing, so only a genus level entry is provided here.</p><p>Species can be erect but are often creeping and have succulent leaves that are usually triangular in cross section and emerge opposite one another, often joined together at the base in a sheath. The flowers open in sunlight, vary in colour from white to pink or purple and petals are arranged in one to several cycles. The stamens are arranged to form a central cone.</p><p>The depicted species is common on coastal dunes in the South-Western Cape and forms small shrublets with radiating creeping stems and plump leaves. It has small pink flowers about 15 mm across and with a paler centre. We tentatively identify it as <i>R. macowanii.</i></p>",
+            "shortTextKey": "taxon_text_1_9943",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Depicted species about 20 cm tall with flowers about 15 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9944",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Most species endemic to South Africa.</p><p><u>Local/Regional:</u> Uncertain as species level identification tenuous, but <i>R. macowanii </i>is restricted to coastal sites in SW cape.</p>",
+            "shortTextKey": "taxon_text_3_9945",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Most local species form either small shrublets or creeping mats and many species tend to be coastal. They are often covered in a dense carpet of flowers in Spring, forming spectacular displays.</p>",
+            "shortTextKey": "taxon_text_4_9946",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9947",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flower mostly August to December.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9948",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a confusing group with very many species in both this diverse genus and in other related genera such as <i>Oscularia</i> and <i>Lampranthus</i>. Species level identification requires good close-up images and use of specialised guides or expert advice.</p>",
+            "shortTextKey": "taxon_text_7_9949",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3020-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3020-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3020-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2985-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2985-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2985-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3020-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3020-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3020-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Desis formidabilis",
+    "taxonAuthor": "(O. Pickard-Cambridge, 1891)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "02c28470-edbd-43e3-9eb9-70dc2d0ef15d",
+    "taxonNuid": "00100300100300t00i003",
+    "gbifNubkey": 2143010,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-521-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-521-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-521-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 41,
+    "vernacular": {
+        "en": "Formidable shore spider"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Formidable shore spider"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spiders as a group can be easily identified by the fact that the body is divided into just two sections – an anterior prosoma (equivalent to a fused head and thorax) and an opisthosoma or abdomen. The prosoma bears a pair of poison fangs, a pair of leg-like feelers called pedipalps and four pairs of jointed legs. Another characteristic feature is the presence of silk glands in the abdomen.</p><p>This species can be identified by its huge fangs, which make up about a third of the body length, by the shiny brown prosoma and furry grey abdomen and by it unusual intertidal habits.</p>",
+            "shortTextKey": "taxon_text_1_298",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 20 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_299",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Namibia.</p><p><u>Local/Regional:</u><i> </i>Approximately East London to Namibia.</p>",
+            "shortTextKey": "taxon_text_3_300",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in the mid to upper intertidal, especially on boulder shores, where they construct silken nests in crevices and particularly under the empty shells of mussels and limpets. Air is trapped in these nests and the spiders shelter there during high tide. When the tide is low and especially at night they emerge to hunt for prey, particularly small crustaceans.</p>",
+            "shortTextKey": "taxon_text_4_301",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on small crustaceans, particularly isopods and amphipods.</p>",
+            "shortTextKey": "taxon_text_5_302",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are laid in the nests, which are constructed by a single female. Each nest consists of a series of wedge-shaped egg sacs that fit together within a crevice or empty shell.&nbsp; Not all the egg sacs contain eggs and it is thought that the extras sacs act as ‘red-herrings’ to reduce the likely-hood of egg parasitism by the parasitic wasp<i> Echthrodesis lamorali, </i>which appears to be unique to this host and highly specialised habitat. &nbsp;The number of eggs per nest averages 41, but can be as high as 226. The pale eggs hatch directly into tiny white spiderlings and where eggs go brown this is indicative they have been parasitized.</p>",
+            "shortTextKey": "taxon_text_6_303",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Occurs together with and could be confused with the other common intertidal spider in the region,<i> Amourobiodes africana, </i>but that species is darker brown, has much smaller jaws and has chevron pattern on the abdomen.</p>",
+            "shortTextKey": "taxon_text_7_304",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Lamoral, BH (1968). On the ecology and habitat adaptations of two intertidal spiders, <i>Desis formidabilis</i> (OP Cambridge) and <i>Amaurobioides africanus</i> Hewitt, at\" The Island\"(Kommetjie, Cape Peninsula), with notes on the occurrence of two other spiders. <i>Annals of the Natal Museum</i>, 20(1), 151-193.<br><br>Owen, CA, van Noort, S, Compton, SG, & Coetzee, JA (2019). Nest site choice by the intertidal spider Desis formidabilis (Araneae: Desidae) and nest utilisation by its hymenopteran egg parasitoid. <i>Ecological Entomology</i>, 44(1), 62-70.",
+            "shortTextKey": "taxon_text_8_305",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-521-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-521-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-521-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-521-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-521-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-521-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1600-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1600-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1600-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Desis tubicola",
+            "taxonAuthor": "(Pocock, 1898)"
+        },
+        {
+            "taxonLatname": "Desis beckeri",
+            "taxonAuthor": "Hewitt, 1913"
+        },
+        {
+            "taxonLatname": "Desis pentheri",
+            "taxonAuthor": "Simon, 1910"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

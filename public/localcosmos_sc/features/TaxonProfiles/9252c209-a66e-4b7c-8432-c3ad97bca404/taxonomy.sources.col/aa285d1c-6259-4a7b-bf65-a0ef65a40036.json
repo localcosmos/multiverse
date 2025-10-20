@@ -1,0 +1,284 @@
+{
+    "taxonLatname": "Mola mola",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "aa285d1c-6259-4a7b-bf65-a0ef65a40036",
+    "taxonNuid": "001007003002002001019004002001",
+    "gbifNubkey": 5213725,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1568-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1568-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1568-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 430,
+    "vernacular": {
+        "en": "Ocean sunfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ocean sunfish",
+            "Giant sunfish",
+            "Headfish",
+            "Mola ocean sunfish",
+            "Moonfish",
+            "Ocean Sunfish",
+            "Sun-fish",
+            "Sunfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sunfish are unmistakable, both by virtue of their enormous size and unusual habits of basking near the ocean surface, and because of its bizarre appearance.</p><p>Body elongate-oval, strongly laterally compressed and truncated posteriorly, giving it a ‘chopped–off’ appearance. Dorsal and anal fins large, elongate, stiff and triangular; caudal fin very short and lobed. Gill opening reduced to a small hole beneath small, round pectoral fin. Eyes large; mouth small and forward-directed, the teeth fused to form a bird-like beak. Skin thick, tough, with small denticles. Colour normally blue-grey, paler ventrally.</p>",
+            "shortTextKey": "taxon_text_1_4086",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 300 cm total length and weighing up to 2 tons!</p>",
+            "shortTextKey": "taxon_text_2_4087",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan in warmer seas.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_4088",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of the largest and heaviest of all bony fish and attracts attention whenever seen. Live individuals usually seen on the surface, often lying on their sides and appearing to bask in the sun; dead individuals also occasionally washed ashore.</p><p>Although they might appear very slow-moving, sunfish do in fact swim quite rapidly, as any diver who has attempted to approach one will attest. Tagged individuals have been recorded swimming up to 26 km a day and undertaking feeding dives to up to 600 m depth many times per day.</p>",
+            "shortTextKey": "taxon_text_4_4089",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Previously thought to feed almost exclusively on jellyfish and salps, but more recent research has shown them to be generalist predators that consume mostly fish, squid and crustaceans.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_4090",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>One of the most fecund of all fish, females producing up to 300 million eggs at a time! The remarkable larvae resemble tiny pufferfish (to which they are related) and are covered in large spines.</p>",
+            "shortTextKey": "taxon_text_6_4091",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable to group, but there are in fact two other similar but rarer sunfish in the region. Sometimes also confused with the Trunk fish, <i>Ranzania laevis</i>, which has a similar laterally-flattened and truncated body, but is smaller (80 cm), silvery in colour and has pectoral and pelvic fins set far back between an almost vertically truncated caudal fin.</p>",
+            "shortTextKey": "taxon_text_7_4092",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 5 (p. 482).",
+            "shortTextKey": "taxon_text_8_4093",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1568-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1568-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1568-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1568-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1568-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1568-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-269-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-269-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-269-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Orthragoriscus alexandrini",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus retzii",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Mola aculeata",
+            "taxonAuthor": "Koelreuter, 1766"
+        },
+        {
+            "taxonLatname": "Mola hispida",
+            "taxonAuthor": "Nardo, 1827"
+        },
+        {
+            "taxonLatname": "Aledon storeri",
+            "taxonAuthor": "Castelnau, 1861"
+        },
+        {
+            "taxonLatname": "Orthragus luna",
+            "taxonAuthor": "Rafinesque, 1810"
+        },
+        {
+            "taxonLatname": "Cephalus pallasianus",
+            "taxonAuthor": "Shaw, 1804"
+        },
+        {
+            "taxonLatname": "Orthragoriscus lunaris",
+            "taxonAuthor": "Gronow, 1854"
+        },
+        {
+            "taxonLatname": "Trematopsis willugbei",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Tympanomium planci",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus hispidus",
+            "taxonAuthor": "Bloch & Schneider, 1801"
+        },
+        {
+            "taxonLatname": "Orthragoriscus redi",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus rondeletii",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Cephalus brevis",
+            "taxonAuthor": "Shaw, 1804"
+        },
+        {
+            "taxonLatname": "Diodon nummularis",
+            "taxonAuthor": "Walbaum, 1792"
+        },
+        {
+            "taxonLatname": "Molacanthus pallasii",
+            "taxonAuthor": "Swainson, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus mola",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Aledon capensis",
+            "taxonAuthor": "Castelnau, 1861"
+        },
+        {
+            "taxonLatname": "Orthragoriscus elegans",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus ghini",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Orthragoriscus fasciatus",
+            "taxonAuthor": "Bloch & Schneider, 1801"
+        },
+        {
+            "taxonLatname": "Diplanchias nasus",
+            "taxonAuthor": "Rafinesque, 1810"
+        },
+        {
+            "taxonLatname": "Diodon mola",
+            "taxonAuthor": "Pallas, 1770"
+        },
+        {
+            "taxonLatname": "Mola aspera",
+            "taxonAuthor": "Nardo, 1827"
+        },
+        {
+            "taxonLatname": "Orthagoriscus analis",
+            "taxonAuthor": "Ayres, 1859"
+        },
+        {
+            "taxonLatname": "Orthragoriscus analis",
+            "taxonAuthor": "Ayres, 1859"
+        },
+        {
+            "taxonLatname": "Mola rotunda",
+            "taxonAuthor": "Cuvier, 1797"
+        },
+        {
+            "taxonLatname": "Diodon carinatus",
+            "taxonAuthor": "Mitchill, 1828"
+        },
+        {
+            "taxonLatname": "Orthragoriscus blochii",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Pedalion gigas",
+            "taxonAuthor": "Guilding, 1838"
+        },
+        {
+            "taxonLatname": "Ozodura orsini",
+            "taxonAuthor": "Ranzani, 1839"
+        },
+        {
+            "taxonLatname": "Cephalus ortagoriscus",
+            "taxonAuthor": "Risso, 1827"
+        },
+        {
+            "taxonLatname": "Tetraodon mola",
+            "taxonAuthor": "Linnaeus, 1758"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

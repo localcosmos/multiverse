@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Cumopsis africanum africanum",
+    "taxonAuthor": "(Zimmer, 1920)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1947158d-3577-490d-a7dc-58c813c6bfd8",
+    "taxonNuid": "00100300a005001003002001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-504-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-504-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-504-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 44,
+    "vernacular": {
+        "en": "Sandbank cumacean"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sandbank cumacean"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Heterocuma africanum</i></p>",
+            "shortTextKey": "taxon_text_9_324",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cumaceans are a fairly common group of small crustaceans, but are seldom noticed because of their small size. As a group, they can be readily identified by their distinctive body shape, which consists&nbsp; of an enlarged, often markedly-swollen and ornamented carapace, followed by a long, slender body that ends in a single pair of elongate ‘tails’ or uropods. This species can be distinguished by its smooth carapace and body and by a distinct antennal notch in the front margin of the carapace.</p>",
+            "shortTextKey": "taxon_text_1_325",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 20 mm excluding uropods.</p>",
+            "shortTextKey": "taxon_text_2_326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Tropical west Africa to about False Bay.</p><p><u>Local/Regional:</u> False Bay westwards and northwards.</p>",
+            "shortTextKey": "taxon_text_3_327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Habits not well known, but assumed to burrow in sand and to either filter-feed or scrape organic matter from sand grains. Many cumaceans emerge from the sediments at night to swim in the water column, but it is not know if this species does so.</p>",
+            "shortTextKey": "taxon_text_4_328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on fine organic matter in the sediments.</p>",
+            "shortTextKey": "taxon_text_5_329",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>All cumaceans retain the eggs in a marsupial chamber between the legs of females until they are almost fully developed and are missing only their last pair of adult legs.</p>",
+            "shortTextKey": "taxon_text_6_330",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 80 described species of cumaceans in South Africa, 45 of which were presented as new in the only significant review of this group by J. Day in the 1978. This is indicative of how little is know about the regional fauna. As a result only this one image is available and only one entry is provided here.</p>",
+            "shortTextKey": "taxon_text_7_331",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Day, JA (1975). South African Cumacea 1. Family Bodotriidae, subfamily Vaunthompsoniinae. <i>Annals of the South African Museum</i>, 66 (9), 177–220.<br><br>Day, JA (1978). South African Cumacea. PhD thesis, Zoology Department, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_332",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-504-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-504-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-504-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-504-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-504-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-504-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Heterocuma africana africanum",
+            "taxonAuthor": "Zimmer, 1920"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

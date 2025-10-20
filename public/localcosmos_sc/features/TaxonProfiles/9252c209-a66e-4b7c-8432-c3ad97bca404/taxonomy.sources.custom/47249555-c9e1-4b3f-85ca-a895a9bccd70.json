@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Doris cf. immonda",
+    "taxonAuthor": "(Risbec, 1928)",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "47249555-c9e1-4b3f-85ca-a895a9bccd70",
+    "taxonNuid": "00100500200400a001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1765-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1765-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1765-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 865,
+    "vernacular": {
+        "en": "Hourglass true dorid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hourglass true dorid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Platydoris immonda, Siraius immonda, Siraius nucleola</i></p>",
+            "shortTextKey": "taxon_text_9_8356",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A small, rough-bodied pale pinkish dorid, with purple spots and scattered opaque white spots that may be in clusters. The head is covered with tubercles and the rhinophores are pinkish with opaque white flecks. The notum is covered with tubercles, and the tubercles are often covered with purple and opaque white spots. The notum has an indistinct hourglass-shaped reddish blotch. The gills are apricot-coloured. The posterior end of the foot is rounded.</p>",
+            "shortTextKey": "taxon_text_1_8357",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_8358",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> False Bay, 10–30 m in depth.</p>",
+            "shortTextKey": "taxon_text_3_8359",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on sand as well as vertical reef walls.</p>",
+            "shortTextKey": "taxon_text_4_8360",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on sponges.</p>",
+            "shortTextKey": "taxon_text_5_8361",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. Egg ribbon shape and colour not yet known.</p>",
+            "shortTextKey": "taxon_text_6_8362",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species can be confused with several undescribed species of <i>Doris,</i> but is distinguished by the hourglass-shaped blotch and scattered purple and opaque white spots. It is similar to <i>Doris immonda</i> from the western Pacific, but has a less extensive mid-dorsal white patch.</p>",
+            "shortTextKey": "taxon_text_7_8363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 86).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 102).",
+            "shortTextKey": "taxon_text_8_8364",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1765-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1765-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1765-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1765-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1765-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1765-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

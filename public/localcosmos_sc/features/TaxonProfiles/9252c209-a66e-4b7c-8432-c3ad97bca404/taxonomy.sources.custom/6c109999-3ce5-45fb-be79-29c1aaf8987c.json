@@ -1,0 +1,136 @@
+{
+    "taxonLatname": "Ostracoda",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "6c109999-3ce5-45fb-be79-29c1aaf8987c",
+    "taxonNuid": "001003004",
+    "gbifNubkey": 353,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-711-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-711-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-711-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 578,
+    "vernacular": {
+        "en": "Ostracods"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ostracods"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As a group, ostracods are easily recognized by the fact that the body is protected by a pair of dorsally-hinged valves of ‘shells’ that largely conceal the body and limbs. Although they are common in most marine habitats (indeed we have found up to five clearly-distinct species in single sediment samples), we have been unable to source a single paper that names or describes any marine species from South Africa. By contrast about 150 freshwater species are known from the region.</p>",
+            "shortTextKey": "taxon_text_1_5705",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Most ostracods are small (less than about 2 mm in length) although a few ‘giant’ species reach up to 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_5706",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan</p><p><u>Local/Regional:</u> Found in most marine habitats throughout the region, including on rocky shores, but especially in sediments from the intertidal to the deep sea.</p>",
+            "shortTextKey": "taxon_text_3_5707",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>No research has been done on the biology of marine ostracods in South Africa and no regional species have even been named. Their biology is thus unknown. They are common in sediment samples but also found under boulders, in kelp holdfasts, etc.</p>",
+            "shortTextKey": "taxon_text_4_5708",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>This is a large and diverse group that included scavengers, filter-feeders, herbivores and predatory species.</p>",
+            "shortTextKey": "taxon_text_5_5709",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Mating in ostracods from other regions usually occurs during swarming in the water column. Male copepods have two penises and the sperm cells are very unusual in that they are enormously large and are coiled up when in the testes – when uncoiled individual sperm may be up to five times the length of the adult ostracod! Eggs may be laid directly into the water or attached to the substratum, or to algae. A few species brood their eggs inside the shell and &nbsp;only the release them as larvae, which already have a hard shell.</p>",
+            "shortTextKey": "taxon_text_6_5710",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The number of regional marine species remains unknown and the group is in dire need of investigation. Morphology of observed species differs widely, some being smooth, other strongly patterned, ridged or ornamented. Shape may be bean-shaped, others round or oval. Most species have a smooth outline, but many have a distinctive anterior notch, though which the hairy antennae project.</p>",
+            "shortTextKey": "taxon_text_7_5711",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-711-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-711-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-711-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-711-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-711-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-711-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-710-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-710-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-710-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

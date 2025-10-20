@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Phyllymenia belangeri (Bory)",
+    "taxonAuthor": "Setchell & N.L. Gardner, 1936",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "043ebd2b-984c-4444-9f55-bb3ee80395a5",
+    "taxonNuid": "003002009003001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1395-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1395-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1395-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 805,
+    "vernacular": {
+        "en": "Corrugated red seaweed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Corrugated red seaweed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>The recommendation that this species be incorporated into the genus <i>Grateloupia, </i>made by De Clerck <i>et al.</i> (2005) has not been accepted.</p>",
+            "shortTextKey": "taxon_text_9_7816",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Attached by a disc-like holdfast leading to a short stipe, from which large, flat, irregular blades emerge. The blades are tough, dark purplish-red, have a strongly corrugated surface and are often perforated with irregular holes.</p>",
+            "shortTextKey": "taxon_text_1_7817",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades typically 200 mm tall, but can be larger.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7818",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Cape Point.</p>",
+            "shortTextKey": "taxon_text_3_7819",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Distinctive species usually found beneath kelps in the shallow subtotal region. No other details available regarding biology.</p>",
+            "shortTextKey": "taxon_text_4_7820",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7821",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia found on the thallus surface, but are concentrated in the grooves and absent from the ridges.</p>",
+            "shortTextKey": "taxon_text_6_7822",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The coarsely corrugated surface distinguished this species from most other similar red algae.</p>",
+            "shortTextKey": "taxon_text_7_7823",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 398). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33, 1-294.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 291).",
+            "shortTextKey": "taxon_text_8_7824",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1395-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1395-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1395-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1395-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1395-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1395-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

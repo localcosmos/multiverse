@@ -1,0 +1,192 @@
+{
+    "taxonLatname": "Clavelina lepadiformis",
+    "taxonAuthor": "(Müller, 1776)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "920c10c3-5f31-4faa-8be5-46649f0897f0",
+    "taxonNuid": "00100700200200100100100n",
+    "gbifNubkey": 2330198,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2466-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2466-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2466-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 152,
+    "vernacular": {
+        "en": "Light bulb sea squirt"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Light bulb sea squirt",
+            "light bulb sesquirt",
+            "light bulb tunicate",
+            "pin-head squirt"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Ascidia lepadiformis, Clavelina pumillo, Clavelina rissoana, Clavelina savigniana</i></p>",
+            "shortTextKey": "taxon_text_9_1345",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>An unmistakable species that forms dense clumps of small zooids that are joined at their bases. Each individual is about 3 cm long and the transparent test is marked by bright white lines around the visceral organs and up the test and circular white rings around the top of the pharynx and the siphons. The sieve-like pharynx and orange visceral organs are both clearly visible though the test.&nbsp; An introduced, fouling species largely confined to harbour areas.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_1346",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooids typically about 30 mm in height, colonies typically 50-100 mm across.</p>",
+            "shortTextKey": "taxon_text_2_1347",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Native to Europe, but introduced to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Durban, mostly in harbours.</p>",
+            "shortTextKey": "taxon_text_3_1348",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly recently introduced to South Africa, where it was first reported in 2001, but now common in and around harbours from Saldanha to Durban. Forms dense colonies on floating structures, boat’s hulls, floating jetties and on ropes hanging into the water. Due to its relatively small size probably not a significant pest.</p><p>The structure of the outer test of this and other ascidians is interesting as it is composed of cellulose, a material normally associated with plants and found only in this group of animals. Cellulose may be a good choice for a protective coasting, as few animals have enzymes capable of digesting this material!</p>",
+            "shortTextKey": "taxon_text_4_1349",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeder, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1350",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>A hermaphroditic broadcast spawner. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop. These have a duration of about 10 days before settling.</p>",
+            "shortTextKey": "taxon_text_6_1351",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The transparent test and striking white-striped colour pattern make it unlikely that this species would be confused with other regional ascidians.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1352",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 248).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group, Hout Bay (p. 198).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 38).<br><br>Picker, M & Griffiths, C (2011). Alien and invasive animals: a South African perspective. Struik Nature, Cape Town (p. 71).",
+            "shortTextKey": "taxon_text_8_1353",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2466-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2466-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2466-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2466-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2466-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2466-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2465-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2465-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2465-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2467-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2467-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2467-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-499-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-499-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-499-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clavelina rissoana",
+            "taxonAuthor": "Milne Edwards, 1841"
+        },
+        {
+            "taxonLatname": "Ascidia lepadiformis",
+            "taxonAuthor": "Mueller, 1776"
+        },
+        {
+            "taxonLatname": "Clavelina pumillo",
+            "taxonAuthor": "Milne Edwards, 1841"
+        },
+        {
+            "taxonLatname": "Clavelina savigniana",
+            "taxonAuthor": "Milne Edwards, 1841"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

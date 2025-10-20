@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Carpoblepharis flaccida (J.V.Lamouroux)",
+    "taxonAuthor": "Kützing, 1849",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "f9ed8cdd-9336-4a0b-94fa-9eb3ac3203d5",
+    "taxonNuid": "003002004005001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1353-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1353-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1353-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 771,
+    "vernacular": {
+        "en": "Flaccid kelp-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Flaccid kelp-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Found exclusively growing as an epiphyte on kelps of the genus <i>Ecklonia</i>. Several erect, flattened main axes emerge from a base which penetrates the tissues of the host.&nbsp; Main axes are long and flattened and bear irregular lateral branches of various lengths. These in turn are lined by a frill of tiny branchlets (which may even have even more smaller branchlets along their margins!). Colour reddish-brown.</p>",
+            "shortTextKey": "taxon_text_1_7511",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Main blades up to about 300 mm tall, and typically about 2-3 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7512",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Chile and Southern African.</p><p><u>Local/Regional</u><i><u>:</u> </i>Namibia to de Hoop, on <i>Ecklonia maxima,</i> but also extends to Eastern Cape on <i>E. radiata</i>.</p>",
+            "shortTextKey": "taxon_text_3_7513",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very common epiphyte of Sea bamboo <i>Ecklonia maxima,</i> often forming dense growths on older fronds.</p>",
+            "shortTextKey": "taxon_text_4_7514",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7515",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproductive structures found in marginal branches. There is a complex life cycle involving both a sporophyte (spore producing) generation and similar-looking separate male and female gametophyte (gamete producing) generations.</p>",
+            "shortTextKey": "taxon_text_6_7516",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Both growth form and habitat distinctive, but several other epiphytic frilly red algae also occur on kelps, including Red ribbons <i>Gelidium vittatum</i> and <i>Hypnea ecklonii</i>. The much smaller <i>C. minima</i> occurs on Split-fan kelp <i>Laminaria pallida.</i></p>",
+            "shortTextKey": "taxon_text_7_7517",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Rothman, MD, Share, A, et al. (2006). Harvesting of the Kelp <i>Ecklonia maxima</i> in South Africa affects Its three obligate, red algal epiphytes. <i>Journal of Applied  Phycology</i>, 18, 343–349.<br><br>Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 412). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 403).",
+            "shortTextKey": "taxon_text_8_7518",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1353-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1353-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1353-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1353-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1353-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1353-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

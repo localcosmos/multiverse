@@ -1,0 +1,162 @@
+{
+    "taxonLatname": "Kraussillichirus kraussi",
+    "taxonAuthor": "(Stebbing, 1900)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fc1282c8-b544-4f2f-b03f-4e79c2d6fc31",
+    "taxonNuid": "00100300a00600200400600b001",
+    "gbifNubkey": 10759852,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2742-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2742-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2742-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 973,
+    "vernacular": {
+        "en": "Common sandprawn"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Common sandprawn",
+            "pink ghost shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Callianassa kraussi</i> Stebbing, 1900; <i>Calichirus kraussi</i></p>",
+            "shortTextKey": "taxon_text_9_9227",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium sized prawn, body mostly pink to pale yellow and translucent, with internal organs visible, pleon (hind body) darker. Chelae (pincers) unequal in size (particularly so in males) a bright white colour.</p><p>Carapace (hard upper shell) slender, with frontal margin slightly concave on either side of the small rostral point. Pleon with specialized pleopods used for water filtration. Major chela can be either left or right side (more often on left), wrist (carpus) longer than broad.</p>",
+            "shortTextKey": "taxon_text_1_9228",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 60 mm.</p>",
+            "shortTextKey": "taxon_text_2_9229",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Temperate Southern Africa including Namibia, South Africa and Mozambique.</p><p><u>Local/Regional:</u> Entire coastline from Namibian border to Mozambican border, intertidal to 10 m.</p>",
+            "shortTextKey": "taxon_text_3_9230",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Sandprawns are common in estuaries, even ones that have been closed the sea for years! Known to be a prolific ecosystem engineer as it creates deep burrows (over a meter deep) manipulating sediments at high rates of up to 12.14 kg/m2/day. Water gets pulled into the burrow resulting in phytoplankton getting trapped on the sediment of the burrows walls. This is filtered by the sandprawn and food particles are subsequently eaten, and the cleaned sand is ejected from the burrow to create a small ‘volcano’ at the opening. The process of filtering sediment or ‘bioturbation’ positively affects the environment as it enhances bacteria, buries phytoplankton such as diatoms and inhibits larval settlement of many other species. In the process, sandprawns oxygenate the sediment and reduce eutrophication (build-up of nutrients causing algal blooms) by removing phytoplankton from the water column.&nbsp;</p><p>&nbsp;</p><p>Sandprawns are susceptible to human activities as they are a sought-after live bait for fishing, taken by recreational anglers through prawn pumps. They are also impacted by trampling as they share their habitat with beachgoers. Increased trampling, and more so too excessive ‘pumping’ compromises sandprawn habitat and its structural integrity, with knock-on implications on the surrounding ecosystem and diversity. Studies have shown that the % decline in harvested populations is far greater than just the number of prawns taken For example, Branch showed that in a population where only 6–13% of the population was harvested, they observed a 70% decline in the population.</p>",
+            "shortTextKey": "taxon_text_4_9231",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filters sediment from its burrow, eating phytoplankton accumulated within (mostly diatoms). &nbsp;</p>",
+            "shortTextKey": "taxon_text_5_9232",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Known to have unusually high recruitment rates due to an adapted, non-planktonic reproduction mode with few but large eggs that have low larval mortalities. As in other decapod crustaceans, females attach the spermatophore (passed from the male) to the ventral side of the pleon (hind body), where the eggs are fertilized as they get spawned and then attached to the pleopods underneath the tail. The large and relatively few eggs (up to 200 per female) are then carried by the female for about 30 days before they hatch into small juveniles that, instead of swimming in the plankton, dig small side-burrows out of the parental burrow.</p>",
+            "shortTextKey": "taxon_text_6_9233",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The habitat, unequal white chelae and overall pink-translucent colour makes this species unmistakable. Frequently found co-occurring with the Estuarine mudprawn, <i>Upogebia africana,</i> but that species same-sized pincers and is green-brown in colour.</p>",
+            "shortTextKey": "taxon_text_7_9234",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 112). <br><br>Forbes, AT (1977). Breeding and growth of the burrowing prawn <i>Calianassa kraussi</i> Stebbing (Crustacea: Decapoda: Thalassinidea). <i>African Zoology</i>, 12(1), 149-161.<br><br>Venter, O, Pillay, D & Prayag, K (2020). Water filtration by burrowing sandprawns provides novel insights on endobenthic engineering and solutions for eutrophication. <i>Scientific Reports</i>, 10(1), 1913.",
+            "shortTextKey": "taxon_text_8_9235",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2742-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2742-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2742-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2742-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2742-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2742-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2743-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2743-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2743-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Callichirus kraussi",
+            "taxonAuthor": "(Stebbing, 1900)"
+        },
+        {
+            "taxonLatname": "Callianassa kraussi",
+            "taxonAuthor": "Stebbing, 1900"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

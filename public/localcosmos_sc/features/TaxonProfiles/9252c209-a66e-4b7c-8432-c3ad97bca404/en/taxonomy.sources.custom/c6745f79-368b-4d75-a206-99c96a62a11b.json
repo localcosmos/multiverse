@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Lepas (Lepas) anserifera",
+    "taxonAuthor": "Linnaeus, 1767",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "c6745f79-368b-4d75-a206-99c96a62a11b",
+    "taxonNuid": "001003001005001002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-431-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-431-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-431-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 560,
+    "vernacular": {
+        "en": "Ridged goose barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ridged goose barnacle",
+            "Lepas (Lepas) anserifera"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Goose barnacles have a laterally flattened body, enclosed by five white plates and borne on a flexible, fleshy stalk. This species should not be confused with the very-similarly named <i>L. anatifera</i> (see that entry). <i>L. anserifera</i> is characterized by its relatively thick, large shell valves, the main plate being almost quadrangular. The plates are separated by very narrow gaps and marked with distinct radiating ridges. The stalk is very short and usually orange. The main plate only (unlike <i>L. anatifera</i>) sometimes has a bright orange or yellow margin.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_5391",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 20 mm total length, including stalk.</p>",
+            "shortTextKey": "taxon_text_2_5392",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Found in tropical and temperate seas worldwide.</p><p><u>Local/Regional:</u> Across entire region, but rarer on west coast.</p>",
+            "shortTextKey": "taxon_text_3_5393",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Goose barnacles are typically found on floating objects and were originally confined to natural substrata such as driftwood, floating kelps, cephalopod shells, turtles and marine mammals. The availability of suitable habitats has now been vastly increased by the far greater abundance of man-made floating objects. These include ships, buoys, ropes etc., as well as discarded items including floating plastics, shoes, bottles, polystyrene, timber, etc. As a result, goose barnacles are probably much more common now than in the past. This species occurs on various natural and man-made objects, often seeming to prefer small objects, such as feathers, <i>Spirula</i> shells and small plastic debris.</p><p>Growth rate is extremely rapid and objects known to have been in the water only a few weeks can be recovered already covered in adult barnacles.</p>",
+            "shortTextKey": "taxon_text_4_5394",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All barnacles are filter-feeders, extending their feathery feeding appendages though the aperture and combing these through the water to capture floating particles.</p>",
+            "shortTextKey": "taxon_text_5_5395",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Barnacles are hermaphroditic, but prefer to cross-fertilise. Larvae are released into the water and seek out other suitable floating object on which to settle.</p>",
+            "shortTextKey": "taxon_text_6_5396",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other similar goose barnacles in the region, but this one can be recognized from most by its unusually short stalk and the strong radiating ridges on the main shell plate.<i> L. pectinata</i> also has those features and is very similar externally, the two species being best distinguished only by internal anatomy (number of filamentary appendages - see Biccard reference below for details).</p>",
+            "shortTextKey": "taxon_text_7_5397",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 80).<br><br>Whitehead, O, Griffiths, CL & Biccard, A (2011). Habitat use and the importance of litter for goose barnacle populations in South Africa. <i>Crustaceana</i>, 84 (5-6), 635–649.",
+            "shortTextKey": "taxon_text_8_5398",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-431-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-431-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-431-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-431-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-431-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-431-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-432-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-432-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-432-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

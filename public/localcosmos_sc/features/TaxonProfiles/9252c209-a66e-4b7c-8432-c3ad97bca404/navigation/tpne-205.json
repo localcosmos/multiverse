@@ -1,0 +1,242 @@
+{
+    "name": "Monocots",
+    "description": null,
+    "verboseName": "Monocots",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3003-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3003-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3003-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3005-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3005-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3005-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3007-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3007-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3007-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-208",
+            "parentKey": "tpne-205",
+            "name": "Asparagoid lillies",
+            "verboseName": "Asparagoid lillies",
+            "taxa": [
+                {
+                    "taxonLatname": "Asparagales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "bdd9a0f3-ab49-45d6-b49e-7bff9560cfb8",
+                    "taxonNuid": "006006003004"
+                },
+                {
+                    "taxonLatname": "Lachenalia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "771ac7a0-49d6-4f74-b882-cd4a6cf63b17",
+                    "taxonNuid": "00300c001"
+                },
+                {
+                    "taxonLatname": "Massonia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "fc3cdf71-8330-48aa-94c8-912f16b3f3e9",
+                    "taxonNuid": "00300c002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3006-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3006-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3006-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3011-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3011-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3011-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3012-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3012-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3012-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3006-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3006-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3006-1000.webp"
+                }
+            },
+            "slug": "asparagoid-lillies"
+        },
+        {
+            "key": "tpne-207",
+            "parentKey": "tpne-205",
+            "name": "Alismatids",
+            "verboseName": "Alismatids",
+            "taxa": [
+                {
+                    "taxonLatname": "Alismatales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "514538ee-cf3f-417e-96af-e7781815a99d",
+                    "taxonNuid": "006006003002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3004-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3004-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3004-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3009-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3009-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3009-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3010-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3010-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3010-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3004-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3004-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3004-1000.webp"
+                }
+            },
+            "slug": "alismatids"
+        },
+        {
+            "key": "tpne-209",
+            "parentKey": "tpne-205",
+            "name": "Commelinids",
+            "verboseName": "Commelinids",
+            "taxa": [
+                {
+                    "taxonLatname": "Poales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "aa076096-19c4-46d1-a6e9-4e5e5438b7bb",
+                    "taxonNuid": "00600600300a"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3008-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3008-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3008-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3013-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3013-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3013-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3014-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3014-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3014-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3008-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3008-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3008-1000.webp"
+                }
+            },
+            "slug": "commelinids"
+        }
+    ],
+    "taxonProfiles": []
+}

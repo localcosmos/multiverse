@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Joeropsis stebbingi",
+    "taxonAuthor": "Kensley, 1975",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f05c9897-eaca-4a71-8535-a2e00e93545a",
+    "taxonNuid": "00100300a00800200300d00101x",
+    "gbifNubkey": 2212166,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-553-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-553-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-553-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 61,
+    "vernacular": {
+        "en": "Stebbing’s masked isopod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Stebbing’s masked isopod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Genus and family incorrectly spelt as <i>Jaeropsis </i>and <i>Jaeropsidae</i> by Kensley and other authors.</p>",
+            "shortTextKey": "taxon_text_9_477",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, elongate and parallel-sided, flattened, off-white isopod. Antennae very short and kinked to the sides. A distinctive dark band extends across top of the head between the eyes. Lateral margins of body segments separated. Pleotelson broadly rounded. Very short uropods do not extend beyond tip of pleotelson.</p>",
+            "shortTextKey": "taxon_text_1_478",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 5 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_479",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Southern Namibia to about False Bay.</p>",
+            "shortTextKey": "taxon_text_3_480",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Biology poorly known, but common under intertidal boulders.</p>",
+            "shortTextKey": "taxon_text_4_481",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but given the under boulder habitat may feed on sponges, bryozoans, hydroids or other encrusting species.</p>",
+            "shortTextKey": "taxon_text_5_482",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all isopods the eggs are released into a marsupium between the walking legs of the female, where they are fertilized by the male and develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_483",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 5 very similar regional species in this genus that can be distinguished by shape of the pleotelson, length of the uropods and other microscopic details. The brown ‘mask’ between the eyes is also a useful identification feature for this species and is shared only by <i>J. beuroisi</i>, but that species has a narrower, more pointed pleotelson and longer uropods that extend beyond its tip.</p>",
+            "shortTextKey": "taxon_text_7_484",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 88).<br><br>Kensley, B. (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 132).",
+            "shortTextKey": "taxon_text_8_485",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-553-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-553-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-553-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-553-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-553-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-553-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

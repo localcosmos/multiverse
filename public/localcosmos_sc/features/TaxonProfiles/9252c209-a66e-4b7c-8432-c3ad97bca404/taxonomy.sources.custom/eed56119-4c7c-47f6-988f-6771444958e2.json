@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Colomastix spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "eed56119-4c7c-47f6-988f-6771444958e2",
+    "taxonNuid": "001003003004001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-729-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-729-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-729-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 596,
+    "vernacular": {
+        "en": "Colomastid amphipods"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Colomastid amphipods",
+            "Colomastix spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tiny, cylindrical amphipods with unusually short, relatively-fat antennae of equal length and made up of only a few elongate segments and with vestigial flagellum. Head bearing a round eye made up of individually-visible ommatidea. First pair of limbs (gnathopod 1) very slender and lacking claws; second pair (gnathopod 2) with claws, which can be large in males. Last two abdominal segments (urosome segments 2-3) fused.</p><p>There are several regional species in this specialized family of very small commensal amphipods, which includes only the two genera <i>Colomastix</i> and <i>Yulumara</i>, both of which are represented in South Africa. Although there are four described species of <i>Colomastix</i> in the region, of these only <i>C. pusilla</i> is found in the South Western Cape. The setose species depicted below appears to be another as yet undescribed form.</p>",
+            "shortTextKey": "taxon_text_1_5895",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 3-4 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_5896",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Family widely distributed. The most common regional species is <i>Colomastix pusilla, </i>which is reputedly widespread across Europe, the Mediterranean and Black Sea, as well as the Caribbean and Southern Africa (although this may in reality represent a complex of similar species). The depicted species has only been recorded from the Cape Peninsula and is probably undescribed.</p><p><u>Local/Regional:</u> Cape Peninsula to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_5897",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Species in this group are commensal in the cavities within sponges or tunicates. They are probably far more species diverse and numerous than existing samples indicate, as they are easily missed when sorting samples and most pass though the 1 mm sieves used by most researchers to wash benthic samples prior to processing. The depicted species is common in the body cavities of ascidians. Few other details of biology known.</p>",
+            "shortTextKey": "taxon_text_4_5898",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to scavenger on food particles pumped though the internal cavities of sponges and tunicates, within which the amphipods dwell.</p>",
+            "shortTextKey": "taxon_text_5_5899",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, the eggs are retained within a marsupial chamber between the walking legs of the female, where they develop into fully-formed juveniles prior to release. Given the small size of the species, females carry only a few relatively very large eggs in their brood pouches.</p>",
+            "shortTextKey": "taxon_text_6_5900",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>In South Africa, <i>Colomastix</i> is represented by only four species, of which only <i>C. pusilla</i> is reported in the Western Cape. However, the group has been very poorly sampled and studied and, based on their diversity in other better researched regions, other species almost certainly remain undescribed. The only other genus in the family is <i>Yulumara</i>, which is represented by a single regional species, <i>Y. improvisa</i>, recovered from kelp holdfasts on the Cape Peninsula. That unusual species is easily distinguished by its knobbly body, greatly expanded and flattened basal segment of antenna 1 and toothed ramus of uropod 3.</p>",
+            "shortTextKey": "taxon_text_7_5901",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 31).<br><br>Lecroy, S (1995). Amphipod Crustacea III. Family Colomastigidae. <i>Memoirs of the Hourglass Cruises</i>, 9, 1-139.<br><br>Milne, R & Griffiths, CL (2013). Additions to and revisions of the amphipod (Crustacea: Amphipoda) fauna of South Africa, with a list of currently known species from the region. <i>African Natural History</i>, 9(1), 61-90.",
+            "shortTextKey": "taxon_text_8_5902",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-729-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-729-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-729-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-729-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-729-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-729-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

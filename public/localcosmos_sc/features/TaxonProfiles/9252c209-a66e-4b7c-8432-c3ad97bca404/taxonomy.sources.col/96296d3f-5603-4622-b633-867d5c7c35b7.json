@@ -1,0 +1,258 @@
+{
+    "taxonLatname": "Clinus arborescens",
+    "taxonAuthor": "Gilchrist & Thompson, 1908",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "96296d3f-5603-4622-b633-867d5c7c35b7",
+    "taxonNuid": "00100700300200200100w017008003",
+    "gbifNubkey": 5853597,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1692-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1692-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1692-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 357,
+    "vernacular": {
+        "en": "Seaforest klipfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Seaforest klipfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Although originally recognized as being a distinct variety within the <i>C. superciliosus </i>complex,<i> </i>this form was long subsumed under that name, and has only recently been recognized as an independent species. It is thus important to note that any biological information (on diet, reproduction, etc) published prior to 2012 refers to the whole group and not to any one of the six component species now recognized.</p>",
+            "shortTextKey": "taxon_text_9_3355",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Klipfishes of the family Clinidae are smallish, elongate, laterally-compressed, bottom-dwelling fishes with a single dorsal fin stretching head to tail. The pelvic fin is inserted in front of the pectoral fin and consists of just 2–3 elongate rays (and one concealed spine) and the tail is rounded. All species are viviparous and the males have a prominent intromittent organ just behind the anus. The group is particularly common and diverse in intertidal and shallow water systems along the southern and western coasts of South Africa and together these make up the continent’s largest group of endemic fish species.</p><p><i>Clinus arborescens </i>is fairly slender and reaches quite a large size. The dorsal fin has 36-41 spines and 4-7 rays with the first 3 spines raised into a tall crest, which is followed by a deep notch extending almost to the body. This notch is visually enhanced by the upper membrane after the third spine being predominantly see-through, and this is the most useful identification character in the field. The anterior spines are all tipped by obvious clusters of cirri. The orbital cirrus is a short, flat, branching tree-like stalk (hence presumably the scientific name).</p><p>Body colour extremely variable with shades of pink or red with about 8 dark vertical half-bars running up the dorsal half of the body and onto the dorsal fin. There are usually scatterings of numerous small white and/or blue dots and a strong oblique band running from the eye across the operculum. The iris of the eye has about 6 equally-spaced brown spokes.</p>",
+            "shortTextKey": "taxon_text_1_3356",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 25 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3357",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_3358",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>In rock pools and on shallow reefs. Appears to be associated with red understory algal growth and prefers to stay close to these hide-outs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_3359",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2931-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2931-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2931-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Diet (assessed before splitting species) consists mostly of crustaceans, polychaetes and mollusks. Smaller prey items, such a copepods, amphipods, isopods and polychaetes declined in importance in larger fish, whereas larger prey, such as decapods and mollusks, plus the occasional fish, became more important in large specimens.</p>",
+            "shortTextKey": "taxon_text_5_3360",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females reach sexual maturity between about 110–120 mm and males between 50–60 mm, although males eventually grow much larger than females and there appears to be a dominance hierarchy based on male size (so large males probably&nbsp; monopolise females). Between 20–144 live young are born per brood at an average length of 20 mm (as assessed before splitting species).</p>",
+            "shortTextKey": "taxon_text_6_3361",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are six species in the <i>supercilious</i>-Group. This one is reasonably easily recognised by the combination of largely colourful and often red colouration, strongly elevated crest on the dorsal fin, deep excavation following the third spine and bunches of cirri on the anterior dorsal spines. The “window” in the membrane behind the dorsal crest is diagnostic and separates this species from the similar Super klipfish <i>C. superciliosus</i>, Mosaic klipfish <i>C. musaicus</i> and Shy klipfish <i>C. exasperatus</i>. These are all common and occur next to each other in the same area although they segregate by microhabitat and show different behaviours, which gives useful identification clues in the field. This was observed by Tess Attwood during her UCT B.Sc. (Hons) project on different colour morphs in the clinids: <i>Clinus aborescens </i>prefers semi-open habitats that give “shrub”-like cover to hide at slightly deeper depth than the Super klipfish. Often hides in low algae such as upright wrack, red algae but also invertebrate overgrowths or feather stars. Can be approached at very close distance without swimming away.</p>",
+            "shortTextKey": "taxon_text_7_3362",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 391). <br><br>Holleman, W, Von Der Heyden, S & Zsilavecz, G (2012). Delineating the fishes of the <i>Clinus superciliosus</i> species complex in southern African waters (Blennioidei: Clinidae: Clinini), with the validation of <i>Clinus arborescens</i> Gilchrist & Thompson, 1908 and <i>Clinus ornatus</i> Gilchrist & Thompson, 1908, and with descriptions of two new species. <i>Zoological Journal of the Linnean Society</i>, 166(4), 827-853.",
+            "shortTextKey": "taxon_text_8_3363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1692-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1692-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1692-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1692-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1692-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1692-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1696-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1696-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1696-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1697-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1697-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1697-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1698-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1698-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1698-1000.webp"
+                }
+            },
+            {
+                "text": "<p>juvenile</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1693-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1693-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1693-1000.webp"
+                }
+            },
+            {
+                "text": "<p>juvenile</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1695-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1695-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1695-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1694-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1694-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1694-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-190-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-190-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-190-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-191-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-191-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-191-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1690-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1690-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1690-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1691-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1691-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1691-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clinus superciliosus arborescens",
+            "taxonAuthor": "Gilchrist & Thompson, 1908"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

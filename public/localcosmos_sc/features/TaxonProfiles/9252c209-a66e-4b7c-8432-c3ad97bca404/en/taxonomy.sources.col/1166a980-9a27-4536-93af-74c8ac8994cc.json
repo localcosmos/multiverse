@@ -1,0 +1,200 @@
+{
+    "taxonLatname": "Chaetopleura papilio",
+    "taxonAuthor": "(Spengler, 1797)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1166a980-9a27-4536-93af-74c8ac8994cc",
+    "taxonNuid": "00100k00g00300200200100200100k",
+    "gbifNubkey": 2306732,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2014-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2014-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2014-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 617,
+    "vernacular": {
+        "en": "Hairy chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hairy chiton",
+            "butterfly chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened, eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Girdle wide bearing characteristic large, thick and black spicules spaced out, bristles and small rectangular scales with a triangular protuberance. Articulamentum is thick with small brown spots on a white background with triangular/subrectangular anterior extensions. Shell plates near rectangular but rounded to the front with lifted sides. Texture of shell almost smooth, with microscopic pustules, middle area with backwards converging grooves. Growth lines are quite prominent. Brown or maroon shell with light brown or black stripes (sometimes with blue or white spots). Blue colour morphs rare.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_6105",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large, typically around 40-70 mm total body length, though some up to 90 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6106",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia, South Africa and Mozambique.</p><p><u>Local/Regional:</u> From Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_6107",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Often found in crevices and under rocks in low tide pools or on shallow reefs. Occasionally bears fouling organisms such as barnacles and crustose coralline algae.</p>",
+            "shortTextKey": "taxon_text_4_6108",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6109",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization in surrounding water. Eggs hatch into planktonic trochophore larvae which later settle and metamorphose into juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6110",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of five regional species in the genus. Easily identifiable by the almost smooth shell plates and the extremely hairy girdle with large, thick and dark spicules.</p>",
+            "shortTextKey": "taxon_text_7_6111",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kilburn, RN & Rippey, E (1982) Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg, xi + 249 pp. (p. 138).<br><br>Schwabe, E (2006). Taxonomic notes on chitons. On some species of <i>Chaetopleura</i> from South Africa (Mollusca: Polyplacophora: Ischnochitonidae). <i>African Invertebrates</i>, 47, 23–30. (p. 27, figs 3, 4).",
+            "shortTextKey": "taxon_text_8_6112",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2014-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2014-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2014-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2014-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2014-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2014-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2012-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2012-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2012-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2013-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2013-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2013-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-760-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-760-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-760-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-761-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-761-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-761-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chiton castaneus",
+            "taxonAuthor": "Quoy & Gaimard, 1835"
+        },
+        {
+            "taxonLatname": "Chiton watsoni",
+            "taxonAuthor": "G. B. Sowerby II, 1840"
+        },
+        {
+            "taxonLatname": "Chaetopleura (Chaetopleura) papilio",
+            "taxonAuthor": "(Spengler, 1797)"
+        },
+        {
+            "taxonLatname": "Chaetopleura destituta",
+            "taxonAuthor": "Sykes, 1902"
+        },
+        {
+            "taxonLatname": "Chiton (Callochiton) gaimardi",
+            "taxonAuthor": "Clessin, 1903"
+        },
+        {
+            "taxonLatname": "Chiton papilio",
+            "taxonAuthor": "Spengler, 1797"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

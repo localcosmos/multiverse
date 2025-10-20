@@ -1,0 +1,188 @@
+{
+    "taxonLatname": "Bullia digitalis",
+    "taxonAuthor": "(Dillwyn, 1817)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6e3704d6-2ced-46a6-8b2a-c9c481ba95eb",
+    "taxonNuid": "00100k00700300e00201a00300200a",
+    "gbifNubkey": 4368218,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-95-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-95-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-95-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 270,
+    "vernacular": {
+        "en": "Finger plough-shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Finger plough-shell",
+            "finger plough shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Plough shells of the genus <i>Bullia</i> are a characteristic feature of wave-exposed sandy beaches and shallow benthic sands and are fairly easy to identify to group. They have elongated, generally smooth, conical shells that are mostly plain peach-coloured. The foot is extremely large with two tiny ‘tails’ at the posterior end and the operculum is much smaller than the aperture. The siphonal canal is very short and there is often a large shiny area (callus) extending from the inner lip of the aperture.</p><p>Some regional species are hard to distinguish from one another and this species is easily confused with several others, so named images on websites etc. cannot be relied upon as being accurately identified. The key identification features are the long, pointed spire, lack of steps and of crimping between whorls and that the operculum has a strongly-serrated margin. Shell colour is also often characteristically tinged with purple, often with a purple line around the aperture. The surface of the shell is often coated in green algae.</p>",
+            "shortTextKey": "taxon_text_1_2516",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 60 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2517",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_2518",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common and well known species and the dominant plough shell on Atlantic shores, but also common along south coast. Lives shallowly buried in the sand low on the beach, or in the shallow subtidal, smelling the water using the siphon to detect carrion washed up on the beach. When prey is detected, numerous plough shells quickly emerge from the sand, roll over onto their backs and raise the enlarged foot like a sail in order to catch an incoming wave and surf up the shore towards the prey item. They then roll over and, using a rowing action of the sides of the enlarged foot, crawl up the odour trail towards the food item, leaving a characteristic track in the sand as they do.</p><p>Feeding is very rapid and involves plunging the proboscis into the prey, commonly a bluebottle or a jellyfish, rasping the food with the radula and sucking the pieces up the large tubular proboscis. As soon as the sand becomes too dry, the plough shells abandon the prey and re-bury themselves until another waves wets the sand.</p>",
+            "shortTextKey": "taxon_text_4_2519",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Scavengers, gathering rapidly around animal matter washed up on the beach. Feed mainly on jellyfish and colonial hydroids such as bluebottles, but will attack any smelly organ matter, such as redbait or dead fish – even paddling with smelly feet may cause them to emerge and gather!</p>",
+            "shortTextKey": "taxon_text_5_2520",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Lay eggs in large membranous capsules that are buried in the sand. Each capsule contains several hundred eggs, but most of these are nurse cells consumed by the developing embryos and in the end only a few crawling young emerge from each egg case.</p>",
+            "shortTextKey": "taxon_text_6_2521",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with at least two very similar species that occur on the same shores. The Smooth plough shell <i>Bullia rhodostoma</i> is slightly broader, the interior of the aperture is orange and the operculum is not toothed (it is also absent from the west coast). The similar Pure plough shell <i>B. pura</i> is smaller (only up to 34 mm), almost white and has a more distinct callus on the base of the body whorl and an un-toothed operculum. It is also absent from the west coast and is known to brood its young.</p>",
+            "shortTextKey": "taxon_text_7_2522",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 198).<br><br>Brown, AC (1961). Physiological-ecological studies on two sandy-beach Gastropoda from South Africa: <i>Bullia digitalis</i> Meuschen and <i>Bullia laevissima</i> (Gmelin). <i>Zeitschrift für Morphologie und Ökologie der Tiere</i>, 49, 629-657.<br><br>Brown, AC (1982). The biology of sandy-beach whelks of the genus <i>Bullia</i> (Nassariidae). <i>Oceanography and Marine Biology: an Annual Review</i>, 20, 833.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 96).",
+            "shortTextKey": "taxon_text_8_2523",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-95-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-95-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-95-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-95-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-95-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-95-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Buccinum achatinum",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Bullia capensis",
+            "taxonAuthor": "Euthyme, 1885"
+        },
+        {
+            "taxonLatname": "Bullia semiusta",
+            "taxonAuthor": "Reeve, 1846"
+        },
+        {
+            "taxonLatname": "Leiodomus quoyii",
+            "taxonAuthor": "Swainson, 1840"
+        },
+        {
+            "taxonLatname": "Bullia sulcata",
+            "taxonAuthor": "Reeve, 1846"
+        },
+        {
+            "taxonLatname": "Buccinum digitale",
+            "taxonAuthor": "Meuschen, 1787"
+        },
+        {
+            "taxonLatname": "Bullia almo",
+            "taxonAuthor": "Bartsch, 1915"
+        },
+        {
+            "taxonLatname": "Bullia achatina",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Bullia semiflammea",
+            "taxonAuthor": "Reeve, 1846"
+        },
+        {
+            "taxonLatname": "Bullia soluta",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Buccinum elongatulum",
+            "taxonAuthor": "Anton, 1838"
+        },
+        {
+            "taxonLatname": "Bullia dulcis",
+            "taxonAuthor": "G. B. Sowerby III, 1921"
+        },
+        {
+            "taxonLatname": "Bullia (Bullia) digitalis",
+            "taxonAuthor": "(Dillwyn, 1817)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

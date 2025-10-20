@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Ferraria crispa",
+    "taxonAuthor": "Burm.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "40fe43fe-2dde-4a33-aece-591f55878605",
+    "taxonNuid": "00600600300400900n003",
+    "gbifNubkey": 5297899,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2793-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2793-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2793-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1009,
+    "vernacular": {
+        "en": "Spider lily"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spider lily",
+            "Starfish lily"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Widespread, distinctive bulb found on rocky sites, mainly along the coast. Stem concealed by long, narrow upward-pointed, pale-green leaves that have a raised midrib. Striking flowers with six tapering, pointed petals arranged in a star-shape, dark brown to black with yellow ruffled edges. Stamens united into a cylindrical column. Flowers last just a single day and have an unpleasant smell.</p>",
+            "shortTextKey": "taxon_text_1_9520",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 100 cm tall, but more typically 50 cm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9521",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Along the coast from Lambert’s Bay to George, also inland in fynbos biome.</p>",
+            "shortTextKey": "taxon_text_3_9522",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very striking plant with distinctive dark flowers that bloom in spring between August and October. Common on rocky shores forming clumps extending almost down to high water mark. Pollinated by flies, which are attracted to the unpleasant scent.</p><p>Has been introduced to Australia, where it is known as Black flag and has become an invasive weed.</p>",
+            "shortTextKey": "taxon_text_4_9523",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9524",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Forms stacked disc-like corms and usually propagates by dispersal of these.</p>",
+            "shortTextKey": "taxon_text_6_9525",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several regional species in this genus of which <i>F. crispa</i> has cream to yellowish flowers and <i>F. uncinata</i> blue to purple flowers with yellow or brown margins.</p>",
+            "shortTextKey": "taxon_text_7_9526",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2793-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2793-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2793-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2793-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2793-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2793-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Moraea undulata",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Ferraria crispa subsp. nortieri",
+            "taxonAuthor": "M.P.de Vos"
+        },
+        {
+            "taxonLatname": "Ferraria punctata",
+            "taxonAuthor": "Pers."
+        },
+        {
+            "taxonLatname": "Ferraria ensiformis",
+            "taxonAuthor": "Mill."
+        },
+        {
+            "taxonLatname": "Ferraria undulata",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Gladiolus indicus",
+            "taxonAuthor": "Mill."
+        },
+        {
+            "taxonLatname": "Ferraria major",
+            "taxonAuthor": "Eckl."
+        },
+        {
+            "taxonLatname": "Ferraria obtusifolia",
+            "taxonAuthor": "Sweet"
+        },
+        {
+            "taxonLatname": "Ferraria vandermerwei",
+            "taxonAuthor": "L.Bolus"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

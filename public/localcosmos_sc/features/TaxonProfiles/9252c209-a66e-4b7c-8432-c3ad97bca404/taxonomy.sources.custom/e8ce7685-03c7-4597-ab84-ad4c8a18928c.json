@@ -1,0 +1,127 @@
+{
+    "taxonLatname": "Aspalathus spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "e8ce7685-03c7-4597-ab84-ad4c8a18928c",
+    "taxonNuid": "00300a001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2765-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2765-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2765-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 989,
+    "vernacular": {
+        "en": "Cape grose"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape grose",
+            "Aspalathus spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A very diverse genus including over 270 species, most of which occur in the fynbos region, many along the coast.&nbsp; Prostrate or erect shrubs with clusters of sessile leaves that can be needle-like or rounded and are often spine-tipped. Typical pea-like flowers are usually bright yellow (rarely lilac or white) and can be borne singly or in groups at the tips of the branches. Compressed pods may contain from one to several seeds.</p><p>Since species identification is complex only a genus level entry is provided here.</p>",
+            "shortTextKey": "taxon_text_1_9363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Growing to about 2 m height.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9364",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Most species restricted to Cape Floristic Region.</p>",
+            "shortTextKey": "taxon_text_3_9365",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A diverse group occupying a range of habitats including marine sands, but many species occur on mountains.</p><p>The best known and most economically valuable species is the Rooibos tea plant <i>A. linearis</i>, which forms the basis of a multimillion rand industry including not only herbal teas but also a variety of cosmetic products.</p>",
+            "shortTextKey": "taxon_text_4_9366",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9367",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most species flower in spring from September to December Seeds can survive in the ground for many years and plants often germinate profusely after fire.</p>",
+            "shortTextKey": "taxon_text_6_9368",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Numerous species in the genus with a variety of growth forms, leaf shapes and flower arrangements. Can also be confused with other yellow-flowered genera in the pea family including <i>Lebeckia</i>, <i>Rafnia and Cyclopia </i>(which includes the Honeybush tea plant <i>C. genistoides)</i>.</p>",
+            "shortTextKey": "taxon_text_7_9369",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2765-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2765-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2765-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2765-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2765-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2765-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,156 @@
+{
+    "taxonLatname": "Thinopyrum distichum",
+    "taxonAuthor": "(Thunb.) Á.Löve",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3c58259c-de46-4e1d-abbc-916288b17d26",
+    "taxonNuid": "00600600300a0090jr005",
+    "gbifNubkey": 4125813,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2969-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2969-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2969-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1046,
+    "vernacular": {
+        "en": "Sea wheat"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sea wheat",
+            "Coastal wheatgrass"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Agropyron distichum</i></p>",
+            "shortTextKey": "taxon_text_9_9851",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tall perennial grass species emerging from long thick creeping underground rhizomes. Leaves long, hard, narrow and sheath the main stem. The large straw-coloured, flattened flowerhead bears a row of alternating flowers/seeds on either side.</p>",
+            "shortTextKey": "taxon_text_1_9852",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 50 cm tall. Flower spikes up to 15 cm long.</p>",
+            "shortTextKey": "taxon_text_2_9853",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa. Introduced to Western Australia.</p><p><u>Local/Regional:</u> Coasts of Western and Eastern Cape Provinces.</p>",
+            "shortTextKey": "taxon_text_3_9854",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common coastal species that occurs in dunes and upper reaches of sandy beaches, extending down almost to high water mark, where plays an important role in dune stabilization.</p><p>The introduced European Marram grass <i>Calamagostis </i>(previously <i>Ammophila) arenaria</i> is often used as an alternative pioneer species during artificial dune stabilisation project.</p>",
+            "shortTextKey": "taxon_text_4_9855",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9856",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flower October to January.</p>",
+            "shortTextKey": "taxon_text_6_9857",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The introduced marram grass has similar habits and is often planted in areas where artificial dune stabilisation is being undertaken. It grows taller (up to 1m) though and has a cylindrical inflorescence up to 30 cm long rather then a flattened one.</p>",
+            "shortTextKey": "taxon_text_7_9858",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2969-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2969-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2969-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2969-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2969-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2969-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Agropyron distichum",
+            "taxonAuthor": "(Thunb.) P.Beauv."
+        },
+        {
+            "taxonLatname": "Triticum distichum",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Triticum junceum var. macrostachyum",
+            "taxonAuthor": "Nees"
+        },
+        {
+            "taxonLatname": "Elytrigia disticha",
+            "taxonAuthor": "(Thunb.) Prokudin ex Á.Löve"
+        },
+        {
+            "taxonLatname": "Elymus distichus",
+            "taxonAuthor": "(Thunb.) Melderis"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

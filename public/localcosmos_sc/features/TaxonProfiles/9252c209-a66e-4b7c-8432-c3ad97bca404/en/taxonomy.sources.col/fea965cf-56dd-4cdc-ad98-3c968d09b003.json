@@ -1,0 +1,496 @@
+{
+    "taxonLatname": "Octopus vulgaris",
+    "taxonAuthor": "Cuvier, 1797",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fea965cf-56dd-4cdc-ad98-3c968d09b003",
+    "taxonNuid": "00100k00400300400100200200700g01y",
+    "gbifNubkey": 2289671,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2643-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2643-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2643-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 948,
+    "vernacular": {
+        "en": "Octopus teacher"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Octopus teacher",
+            "common Atlantic octopus",
+            "common European octopus",
+            "common octopus",
+            "rock scuttle",
+            "scuttle"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Moderate to large muscular octopus with a broadly oval and saccular mantle. Arms long and robust, between 4–5.5 time length of the mantle. First and fourth arms shorter than arms 2 and 3. Each arm with about 220–320 suckers and both sexes with enlarged suckers on position 14 and 15 (counted from the mouth), larger in males. Shape, texture and colour extremely variable and can change entire appearance within seconds. Skin with a regular pattern of circular patches surrounded by groves. Entire body with erectile papillae of which the largest four papillae are arranged in a diamond shape on the mantle. One specifically long papillae above each eye.</p>",
+            "shortTextKey": "taxon_text_1_9104",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically, 15–20 cm mantle length, arms spanning to about 1 m, and up to 4 kg in weight.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9105",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global distribution:</u> Used to be considered a circumglobal, temperate to subtropical species. Now distribution of the true <i>O. vulgaris </i>restricted to European and north-west African waters including the Mediterranean. Southern African lineage probably only in Namibia and South Africa.</p><p><u>Local/Regional:</u> Lüderitz to Durban, from intertidal to 200m.</p>",
+            "shortTextKey": "taxon_text_3_9106",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Solitary, benthic species that prefers rocky reefs and adjacent soft substrates, especially around kelp forests. Excavates and occupies dens where octopuses spend most of their time and from where they go on hunting explorations. Reside in their dens for up to several weeks but eventually will move on to a new area, probably when resources around the den become depleted.</p><p>Octopuses are well-known for their intelligence, adaptability and complex behaviour. Because they have no internal skeleton but essentially consist only of flexible muscle, they can squeeze into the tightest spaces. Their skin contains specialised pigment cells called chromatophores, which enable rapid changes in colour and texture for camouflage, communication, or warning displays. Have a short life-span and are thought to live between 12-15 months.</p><p>Prey on a variety of food and play important roles as both predators as well as prey in South African coastal and kelp forest ecosystems. While a lot of research has been carried out on other species in the <i>Octopus vulgaris </i>species complex, little published information exists on the South African lineage and much of our knowledge comes from our own observations in the field.</p><p>Octopuses are present in the kelp forest all year round, but young (probably around 200-300g) animals appear in larger numbers in early summer (November/December). The observant diver can recognise little dens appearing especially in the coarse sand as young octopuses have less trouble excavating sandy dens than large adults. By this they also spatially segregate from larger individuals on the reefs that are potential threats, as octopuses can occasionally be cannibalistic. Young octopuses like to predate on bivalves, gastropods, polychaetes or crustaceans that are buried in the sediment around them. They do this by pushing and extending one or more of their arms deeply into the sand to excavate a shell.</p><p>Growing quickly, larger octopuses tend to move to dens in rocky substrate, which are often the same dens used by a new generation of octopuses every year. Octopuses are specialising generalists, and we have observed different animals predating completely different prey items, even if their dens are only a meter apart. Some individuals predominately eat Abalone <i>Haliotes midae</i>, whereas another hunts Rock crabs or Rock lobsters and another prefers a varied diet and takes any invertebrate. Smith (2003) identified 39 prey species taken by octopuses in False Bay, and prey size and prey diversity increased with increasing octopus’ size. We have since found numerous additional prey species taken by octopuses, such as the Giant chiton <i>Dinoplax gigas. </i>Octopuses in False Bay take more than 50 species of prey and play an important role in the prey species’ population ecology, which have ecological knock-on and control effects to the food web. &nbsp;</p><p>It is often described in the literature that octopuses are anti-social animals, but in our observations, individuals often occupy dens that are right next to each other, being aware and tolerating of their neighbours. Apart from high food availability in the Great African Seaforest, individuals having personal, preferred diets and developing their very own hunting strategies may allow for high octopus densities. We sometimes observe four or five animals in an area of only a few square meters, and it is possible to see 20–30 animals at a dive site. Individuals can have extremely different personalities also in the way of how they approach and interact with divers.</p><p>Having gained global fame and recognition through our <i>My Octopus Teacher </i>documentary, it may be surprising that the taxonomy of this species, like for so many South African marine invertebrates, has remained unresolved. The name <i>Octopus vulgaris</i> is problematic for the South African population and detailed studies must be carried out to separate it from the European counterpart. Unresolved and poor taxonomy is a major concern for the more than 300 species that occur globally, as cephalopods are under increased fishing pressure, but fisheries management stays in the unclear of which species are being caught. Right now, octopuses caught in False Bay are sold globally and marketed in Europe as <i>Octopus vulgaris</i>, which is not an unsatisfying situation. The current catches of octopus in False Bay vary around 70 metric tons per year (if each octopus is 1 kg on average, then 70t means 70.000 animals).&nbsp;</p><p>Preliminary research through the M.Sc. project by Gareth Fee provides both morphological as well as genetic support to give the South African species its own name.</p>",
+            "shortTextKey": "taxon_text_4_9107",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>As a species octopuses are generalist hunters that feed on almost anything they can catch. In False Bay octopuses prey on multiple invertebrates of over 50 different species, more rarely on fish or other vertebrates. The most common and preferred prey species are Rock crabs, Rock lobsters and Abalone but individuals can become highly specialised in food that is readily available in the direct environment of their den.</p><p>Fast moving prey such as Rock lobster are first ambushed and then caught by casting the arm web over the prey after which the victim is injected with a cocktail of a potent venom that both kills the Rock lobster and simultaneously digests and liquifies its muscular tissue. The octopus then cracks open the exoskeleton with its bird-like beak and essentially ‘drinks’ the content.</p><p>When catching shelled molluscs octopuses can use two strategies. Either they pull their victim directly off the substrate or open shells by force to access the meat directly, or, if this fails and the meat is still inaccessible, they have to drill through the shell using their salivary papilla to inject a venom. Depending on shell thickness this takes up to several hours. Shells are often taken back to the den and drilled in safety. The precision of drilling is of interest as a specific shell region is targeted under which certain muscles or organs lie. For his B.Sc. (Honours) thesis, Gareth Fee could show that octopuses drilled with great precision into the Helmet snail, but that in the Abalone with has a huge adductor muscle, octopuses drilled into any middle shell part. Once the octopus gets to the fleshy meat it is torn apart with the beak and broken down and scraped off with the radula, which is a muscular tongue with hundreds of tiny teeth.</p><p>Different to other habitats in which &nbsp;benthic octopuses stay on the seafloor, in the Great African Seaforest octopuses have a three-dimensional ecosystem to explore and exploit. A number of prey species live on the kelp such as mussels that settle on the kelp heads or the specialieed Kelp limpet <i>Cymbula compressa </i>on the kelp stipes. Octopuses are the main predator of Kelp limpets and spend large amounts of their time foraging in the canopy. We realised this during a research project collecting limpet shells from the beach. At some beaches with high octopus abundance in adjacent waters 50% of Kelp limpet shells have octopus drill holes.&nbsp;</p><p>Foraging activity is probably linked to predator density and can be adapted. Octopuses in the Great African Seaforest are a main prey of Pyjama catsharks, and to a lesser amount also to seals. Animals that have lost an arm to a shark predation are frequently observed, but this grows back within several months. Males are highly careful of how they use and project their third right hectocotylised arm as loosing or damaging it could mean a failure in reproduction. In addition to complex visual camouflage, octopuses have several strategies to avoid predation, which includes a chemical camouflage of the skin to not be smelled by sharks, jet-propulsion and swimming away, blasting of ink to confuse the predator and which also contains a substance to dull olfactory senses, leaving the water and escaping over a rock, attaching to the sharks back and riding the shark in a save place, sacrificing an arm in order to get out of the predators grasp.</p>",
+            "shortTextKey": "taxon_text_5_9108",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>Young octopus in the kelp canopy hunting for Kelp limpets.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2706-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2706-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2706-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Octopus on kelp stipe that ripped of the shell of a Kelp limpet and eating the flesh of the body that is still attached to the kelp - an unusual observation.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2707-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2707-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2707-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>The scrape marks of the octopus radula, a tongue with teeth, can be see on the Kelp limpets body that remained on the Kelp stipe, after the octopus pulled off the shell.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2708-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2708-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2708-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Shell of the kelp limpet ripped off from its body.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2709-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2709-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2709-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Most limpet shells are being drilled in order to overpower the victim by injecting a potent venom.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2710-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2710-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2710-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Octopus that caught a Kelp limpet and returned it to its den to eat it in safety.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2711-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2711-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2711-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Octopus possibly with a luring arm tip behaviour to attract and catch fish.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2712-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2712-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2712-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Octopus are a favourite food of Cape fur seals.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2713-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2713-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2713-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and other than by the hectocotylised third right arm males can be distinguished from females by enlarged suckers on the second and third arm pairs, although in the South African specimens the difference is not as profound as in the true European <i>O. vulgaris. </i>Enlarged suckers may be displayed to other males and signal dominance.</p><p>Mating occurs all year round and involves little physical contact. Male and female octopus are careful of each other, especially when animals are of different sizes. The male extends its third right hectocotylised arm towards the female. This is rarely seen as it is often done through gaps in rocks or through crevices to avoid physical proximity. Once contact is made the male ejects a spermatophore sperm package into the groove of its arm and uses its siphon to pump it through the groove towards the tip. The arm is extended directly into the female's mantle, and a specialised erectile structure, the ligula, places the spermatophore directly inside the female’s reproductive tract. Females can copulate multiple times with either the same or different males and store the spermatophore for several months until spawning.</p><p>It is thought that two spawning peaks occur, one at the end of winter (August/September) and one at the end of Summer (February/March). Females excavate dens in shallow waters that have overhanging rock ceilings, towards which they attach the clutches of eggs. Egg numbers are estimated to vary between 42 0000 to 790&nbsp;000. Dens are barricaded against the outside and hence difficult to find. Females stop feeding and don’t leave their den to constantly guard, protect and care for their eggs until they hatch, after which the female dies. Depending on water temperature it takes 1-2 months for the paralava hatch.</p><p>Octopus paralarva are a few millimetres in size, translucent and swim into the open ocean after hatching, where they develop for about 45 days before settling to a benthic lifestyle, undergoing ecological and morphological transformation. Details and mechanisms of paralarva migration and requirements in the complex oceanographic waters of the Cape are not studied.</p>",
+            "shortTextKey": "taxon_text_6_9109",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>Octopuses mating: Male reaches with its third right arm into the female's mantle cavity to deliver a sperm package into her reproductive tract.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2714-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2714-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2714-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Female octopus brooding her eggs in a barricaded den.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2715-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2715-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2715-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3033-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3033-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3033-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Small juvenile octopus already living a benthic lifestyle.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2716-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2716-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2716-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only common and medium-sized octopus in the Cape. The Brush-tip octopus <i>Eledone schultzei</i> occurs in the intertidal and shallow waters on the west coast, but is much smaller and also not as fast or muscular, has a more rounded body shape, and is predominantly uniformly brown. The larger Southern giant octopus <i>Enteroctopus magnificus</i> is much larger and more robust, occurs in deeper water and is rarely ever seen by divers.</p>",
+            "shortTextKey": "taxon_text_7_9110",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2643-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2643-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2643-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2662-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2662-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2662-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2641-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2641-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2641-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2643-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2643-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2643-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2646-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2646-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2646-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2639-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2639-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2639-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2644-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2644-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2644-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2651-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2651-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2651-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2642-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2642-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2642-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2649-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2649-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2649-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2648-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2648-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2648-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2640-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2640-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2640-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Octopus with a threat behaviour of enlarged and brightened eyes.&nbsp;</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2635-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2635-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2635-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2647-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2647-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2647-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2638-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2638-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2638-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2637-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2637-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2637-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Octopus tuberculatus",
+            "taxonAuthor": "Targioni-Tozzetti, 1869"
+        },
+        {
+            "taxonLatname": "Octopus moschatus",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus niger",
+            "taxonAuthor": "Risso, 1854"
+        },
+        {
+            "taxonLatname": "Octopus heteropus",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus coerulescentes",
+            "taxonAuthor": "Fra Piero, 1895"
+        },
+        {
+            "taxonLatname": "Octopus albus",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus brevitentaculatus",
+            "taxonAuthor": "Blainville, 1826"
+        },
+        {
+            "taxonLatname": "Octopus rugosus",
+            "taxonAuthor": "(Bosc, 1792)"
+        },
+        {
+            "taxonLatname": "Octopus tetradynamus",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus cassiopea",
+            "taxonAuthor": "Gray, 1849"
+        },
+        {
+            "taxonLatname": "Octopus troscheli",
+            "taxonAuthor": "Targioni-Tozzetti, 1869"
+        },
+        {
+            "taxonLatname": "Octopus cassiopeia",
+            "taxonAuthor": "Gray, 1849"
+        },
+        {
+            "taxonLatname": "Sepia rugosa",
+            "taxonAuthor": "Bosc, 1792"
+        },
+        {
+            "taxonLatname": "Octopus troschelii",
+            "taxonAuthor": "Targioni-Tozzetti, 1869"
+        },
+        {
+            "taxonLatname": "Octopus maculatus",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus pilosus",
+            "taxonAuthor": "Risso, 1826"
+        },
+        {
+            "taxonLatname": "Octopus tritentaculatus",
+            "taxonAuthor": "Risso, 1854"
+        },
+        {
+            "taxonLatname": "Octopus rabassin",
+            "taxonAuthor": "Risso, 1854"
+        },
+        {
+            "taxonLatname": "Octopus octopodia",
+            "taxonAuthor": "Tryon, 1879"
+        },
+        {
+            "taxonLatname": "Octopus ruber",
+            "taxonAuthor": "Rafinesque, 1814"
+        },
+        {
+            "taxonLatname": "Octopus bitentaculatus",
+            "taxonAuthor": "Risso, 1854"
+        },
+        {
+            "taxonLatname": "Sepia octopus",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Sepia polypus",
+            "taxonAuthor": "Oken, 1815"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [
+        {
+            "mediaType": "youtube",
+            "url": "https://www.youtube.com/watch?v=CdpDSzNVcKQ",
+            "title": "I am a seaforest species",
+            "author": "Craig Foster & Jannes Landschoff",
+            "licence": "",
+            "caption": "Watch how an octopus we followed for a long time turns our views on nature around.",
+            "altText": ""
+        }
+    ],
+    "isFeatured": false
+}

@@ -1,0 +1,156 @@
+{
+    "taxonLatname": "Alcyonidium nodosum",
+    "taxonAuthor": "O'Donoghue & de Watteville, 1944",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "daaee9bf-5c2c-49b3-8a82-9313d286bf14",
+    "taxonNuid": "001005001002001001001002011",
+    "gbifNubkey": 4985467,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2851-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2851-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2851-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 518,
+    "vernacular": {
+        "en": "Whelk bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Nodular mat bryozoan",
+            "Whelk bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a knobbly red sheet found only on the shells of the whelks <i>Burnupena papyracea</i> and <i>B. pubescens</i>, which are entirely enveloped by the bryozoan.</p><p>When viewed closely, each bump has larger male zooids with taller lophophores and elongate tentacles, while the areas between the bumps are colonized by smaller female zooids with shorter tentacles.</p>",
+            "shortTextKey": "taxon_text_1_4980",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooids about 1 mm long, colonies typically 5 cm across.</p>",
+            "shortTextKey": "taxon_text_2_4981",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa (report from Chile on WoRMS is unlikely to be same species).</p><p><u>Local/Regional:</u> Southern Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_4982",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found exclusively on the shells of whelks of the genus <i>Burnupena</i>, specifically<i> B. papyracea </i>on the west coast and <i>B. pubescens</i>, which extends to the Eastern Cape. It has been shown that the bryozoan provides the whelks with protection from predators, such as rock-lobsters, and hence allows them to survive in areas where lobster predation is intense. The bryozoan probably benefit from the association by being transported to good feeding areas and avoiding sedimentation.</p><p>The gaudily-coloured amphipods <i>Ochlesis lenticulosus</i> and <i>Iphimedia gibba</i> gather in large numbers to feed on this bryozoan and it appears highly likely they gain chemical protection by ingesting the toxins within it, advertising this acquired toxicity with their bright warning colouration.</p>",
+            "shortTextKey": "taxon_text_4_4983",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>Ridgeback amphipod <i>Ochlesis lenticulosus</i> feeding on <i>Alcyonidium nodosum </i>can completely cover the entire host shell.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2852-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2852-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2852-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2853-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2853-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2853-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_4984",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Hermaphrodite with separate male and female zooids. Colonies expand by budding new zooids around the margins. During sexual reproduction males release sperm into the water, which are taken in by females to fertilise the eggs, which are then released to disperse to find new hosts and establish new colonies.</p>",
+            "shortTextKey": "taxon_text_6_4985",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by the red colour and nodular structure, but also by its unique obligate association with whelks of the genus <i>Burnupena.</i></p>",
+            "shortTextKey": "taxon_text_7_4986",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 136).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 8).<br><br>Gray, CA, McQuaid, CD & Davies-Coleman, MT (2005). A symbiotic shell-encrusting bryozoan provides subtidal whelks with chemical defence against rock lobsters. <i>African Journal of Marine Science</i>, 27(3), 549-556.<br><br>Ryland, J (2001). Convergent colonial organization and reproductive function in two bryozoan species epizoic on gastropod shells. <i>Journal of Natural History</i>, 35, 1085-1101.",
+            "shortTextKey": "taxon_text_8_4987",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2851-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2851-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2851-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2851-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2851-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2851-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

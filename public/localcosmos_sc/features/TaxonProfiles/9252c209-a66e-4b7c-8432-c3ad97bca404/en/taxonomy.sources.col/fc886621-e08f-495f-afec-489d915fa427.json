@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Zantedeschia aethiopica",
+    "taxonAuthor": "(L.) Spreng.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fc886621-e08f-495f-afec-489d915fa427",
+    "taxonNuid": "00600600300200303t001",
+    "gbifNubkey": 2868827,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2975-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2975-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2975-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1052,
+    "vernacular": {
+        "en": "Arum lily"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Arum lily"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Well-known, rhizomatous perennial lily. The tall, stalked leaves have a spongy stem and very large, arrow-shaped blade. The single inflorescence is borne on a tall, soft, green stem or scape and surrounded by a large funnel-like white spathe, the edges of which overlap at the base. The actual flowers are minute, lack petals and are borne on a central spike within the spathe – the female flowers at the base and the male ones above. Fleshy green fruit are attached to the central spike and after the spathe had faded they become orange.</p>",
+            "shortTextKey": "taxon_text_1_9907",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Leaves about 45 cm long and flowerheads up to about 1m tall.</p>",
+            "shortTextKey": "taxon_text_2_9908",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Native to southern Africa, but has been widely translocated around the world and is an invasive weed in Australia and New Zealand.</p><p><u>Local/Regional:</u> Damp habitats across the region.</p>",
+            "shortTextKey": "taxon_text_3_9909",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very well-known and abundant species both along the coast and inland, where it is abundant along the banks of streams and ponds. Can be evergreen in suitable habitats, but in the Western Cape is dormant in summer.</p><p>Extensively used as an ornamental plant and cut flower. A number of ornamental cultivars have been developed with different colours and spathe shapes.</p><p>Can be used for the treatment of waste-water and the leaves have been used in traditional medicine as a poultice for the treatment of headaches. The rhizome is eaten by porcupines and wild pigs.</p><p>Raw plants contain calcium oxalate crystals and eating them can cause burning of the lips, tongue and throat, as well as stomach pains and diarrhoea.</p>",
+            "shortTextKey": "taxon_text_4_9910",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9911",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers June-December.<strong> </strong>Pollinated by a variety of insects which often accumulate around the flowers. Although each plant produces both male and female flowers cross pollination occurs, as the male flowers mature before the female ones.</p><p>Also attracts crab spiders which come to feed on the insects and the Arum lily frog which shelters within the spathe. Seeds dispersed by birds but can also be propagated using pieces of rhizome.</p>",
+            "shortTextKey": "taxon_text_6_9912",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily recognized and unlikely to be confused with any other species.</p>",
+            "shortTextKey": "taxon_text_7_9913",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2975-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2975-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2975-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2975-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2975-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2975-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Calla aethiopica",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Otosma aethiopica",
+            "taxonAuthor": "(L.) Raf."
+        },
+        {
+            "taxonLatname": "Pseudohomalomena pastoensis",
+            "taxonAuthor": "A.D.Hawkes"
+        },
+        {
+            "taxonLatname": "Calla ambigua",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Arodes aethiopicum",
+            "taxonAuthor": "(L.) Kuntze"
+        },
+        {
+            "taxonLatname": "Colocasia aethiopica",
+            "taxonAuthor": "(L.) Link"
+        },
+        {
+            "taxonLatname": "Calla aethiopica var. nana",
+            "taxonAuthor": "Hovey"
+        },
+        {
+            "taxonLatname": "Richardia africana",
+            "taxonAuthor": "Kunth"
+        },
+        {
+            "taxonLatname": "Calla moschata",
+            "taxonAuthor": "Moench"
+        },
+        {
+            "taxonLatname": "Richardia aethiopica",
+            "taxonAuthor": "(L.) Spreng."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Codium extricatum",
+    "taxonAuthor": "P.C Silva, 1959",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "1daf65eb-9c04-44cf-b451-f12cde5046d9",
+    "taxonNuid": "003007001003002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2110-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2110-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2110-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 755,
+    "vernacular": {
+        "en": "Hairy upright codium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hairy upright codium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms tall, dark-green, tree-like growths of soft, spongy branches emerging from a single holdfast. The repeatedly branching fronds are fairly thick and cylindrical and internally are made up of large interwoven tubes that are each single multinucleated cells. On the surface these emerge as distinct swellings (utricles) and the shapes of these need to be examined microscopically to distinguish between many of the species.</p><p>In this species the utricles each bear one to several elongate hairs which gives the branches a distinctly furry appearance.</p>",
+            "shortTextKey": "taxon_text_1_7367",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Cylindrical fronds 5-8 mm in diameter; whole tree-like structure up to 300-500 mm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7368",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa, Kenya, Australia.</p><p><u>Local/Regional:</u><i> </i>False Bay to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7369",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in rock pool and in low intertidal. Fed on by sap-sucking sea slugs of the genus <i>Elysia</i>, which penetrate the large calls and suck up the contents, including the chloroplasts, which continue to photosynthesize within the slug’s body, making it essentially ‘solar-powered’.</p>",
+            "shortTextKey": "taxon_text_4_7370",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7371",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Can reproduce asexually by fragmentation allowing it to rapidly colonise new areas. Sexual reproduction in this genus is variable and complex and can involve production of parthenogenetically developing ‘swarmer cells’, or separate males and females producing spores from reproductive structures on the surfaces of the utricles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7372",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several similar tree-like species in this genus and the utricles need to be examined under the microscope for accurate identification. This species is fairly easily identified in the field by the long hairs emerging from the utricles and surrounding the branches in a delicate pale halo.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7373",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 376). <br><br>Silva, PC (1959). The genus <i>Codium</i> (Chlorophyta) in South Africa. <i>Journal of South African Botany</i>, 25, 101-165.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 117).",
+            "shortTextKey": "taxon_text_8_7374",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2110-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2110-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2110-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2110-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2110-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2110-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2109-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2109-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2109-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1309-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1309-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1309-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2111-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2111-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2111-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

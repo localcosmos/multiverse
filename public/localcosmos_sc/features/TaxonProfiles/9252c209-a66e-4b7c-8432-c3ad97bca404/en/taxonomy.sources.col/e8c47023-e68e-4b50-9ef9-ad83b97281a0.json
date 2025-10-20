@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Vexillum patulum",
+    "taxonAuthor": "(Reeve, 1845)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e8c47023-e68e-4b50-9ef9-ad83b97281a0",
+    "taxonNuid": "00100k00700300e00k00200p08k",
+    "gbifNubkey": 6498404,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 452,
+    "vernacular": {
+        "en": "Wide-mouthed mitre"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Wide-mouthed mitre"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Pusia patula</i></p>",
+            "shortTextKey": "taxon_text_9_4305",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, conical shell with a sharp spire about equal to aperture length, relatively thin outer lip and 4 strong oblique white pleats on the columella (the best distinguishing feature).</p><p>Colour and surface texture extremely variable. External surface may be more or less smooth (as depicted here), or bear 15–20 low rounded pleats on each whorl. Colour may also vary from plain black or brown or bearing various black, brown or yellow to white spiral bands.</p>",
+            "shortTextKey": "taxon_text_1_4306",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 20 mm long, but most specimens do not exceed 10 mm.</p>",
+            "shortTextKey": "taxon_text_2_4307",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Northern Cape to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_4308",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common under rocks in intertidal, but often overlooked due to small size and very variable appearance. Little else is known about its biology, although members of this family are carnivorous.</p>",
+            "shortTextKey": "taxon_text_4_4309",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>No species-specific details available, but other species in the group feed by sucking up soft tissues and body fluids of their prey rather than by consuming then entirely.</p>",
+            "shortTextKey": "taxon_text_5_4310",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No species-specific information, but other members of the family lay blister-shaped egg capsules that each contain few eggs (1–5) and which hatch directly into crawling young.</p>",
+            "shortTextKey": "taxon_text_6_4311",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Very variable in colour and texture, but common once noticed and reasonably easy to identify by virtue of small size and strong diagonal pleats on the columella.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_4312",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Day, JH (1969). A Guide to marine Life on South African Shores. AA Balkema, Cape Town. (p. 163 as <i>Pusia patula</i>)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 108 as <i>Pusia patula</i>).",
+            "shortTextKey": "taxon_text_8_4313",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Mitra simplex",
+            "taxonAuthor": "Dunker, 1846"
+        },
+        {
+            "taxonLatname": "Mitra merula",
+            "taxonAuthor": "G. B. Sowerby III, 1889"
+        },
+        {
+            "taxonLatname": "Mitra patula",
+            "taxonAuthor": "Reeve, 1845"
+        },
+        {
+            "taxonLatname": "Mitra lurida",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Pusia patula",
+            "taxonAuthor": "(Reeve, 1845)"
+        },
+        {
+            "taxonLatname": "Mitra simplex var. alfredensis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Vexillum (Pusia) patulum",
+            "taxonAuthor": "(Reeve, 1845)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

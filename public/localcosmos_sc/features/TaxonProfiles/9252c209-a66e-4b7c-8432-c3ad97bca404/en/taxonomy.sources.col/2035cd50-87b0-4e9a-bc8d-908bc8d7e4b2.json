@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Haploblepharus pictus",
+    "taxonAuthor": "(Müller & Henle, 1838)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2035cd50-87b0-4e9a-bc8d-908bc8d7e4b2",
+    "taxonNuid": "00100700300200100100100600b004",
+    "gbifNubkey": 2418607,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-162-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-162-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-162-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 331,
+    "vernacular": {
+        "en": "Dark shyshark"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dark shyshark",
+            "Dark shy shark",
+            "Shyshark"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Formerly placed in family Scyliorhinidae.</p>",
+            "shortTextKey": "taxon_text_9_3115",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, elongate shark with two small, triangular and equal-sized dorsal fins that lack anterior spines and are set far back, both behind pelvic fin. Tail with indistinct lower lobe. Deep grooves connect nostrils to mouth, nasal barbels absent.</p><p>Colour pattern distinctive: ground colour dark brown to almost black with 6–8 faint dorsal saddles that may have their centres dark orange-brown to almost black. Whole dorsal surface marked with indistinct white spots. Underside abruptly white to cream.</p>",
+            "shortTextKey": "taxon_text_1_3116",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 60 cm length.</p>",
+            "shortTextKey": "taxon_text_2_3117",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_3118",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common benthic species found on shallow reefs to a depth of about 35 m, particularly in kelp beds and sometimes extending into intertidal pools. Curls into a tight ball when disturbed, wrapping the tail over the head – hence the common name shyshark.</p><p>&nbsp;</p><p>Males mature at about 40 cm length and females from 36 cm. Matures at an age of about 15 years and longevity estimated as at least 25 years.</p>",
+            "shortTextKey": "taxon_text_4_3119",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Has a broad diet, feeding on small bony fish, worms, crustaceans, molluscs, echinoderms and occasionally also algae, which may be accidentally ingested along with other prey.</p>",
+            "shortTextKey": "taxon_text_5_3120",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Oviparous, females laying pairs of rectangular dark brown egg cases with long tendrils at each corner. Egg cases about 5.5 cm long by 2.5 cm wide and laid at shallow depths averaging only 3 m and sometimes even in intertidal pools. Eggs most frequently attached to the Hanging wrack alga <i>Brassicophycus sisymbrioides</i> (previously <i>Bifurcaria brassicaeformis</i>). Incubation time dependent on temperature and in captivity varies from 8 months at 14 degrees Celsius to about 6 months at 17 degrees Celsius. Young hatch at a length of 10–12 cm.</p>",
+            "shortTextKey": "taxon_text_6_3121",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several easily confused species in this genus and many records and images incorrectly assigned. Detailed colour pattern are distinctive but general background colour should be treated carefully as individuals of all easily confused species can adapt this to match habitat.</p><p>The Puffadder shyshark <i>H. edwardsii</i> has a similar range and habits but a less depressed and more pointed head and is more brightly pigmented, with distinct light brown saddles with dark-edges. Both <i>H. fuscus</i>, which is plain brown, and <i>H. kirtnamsamyi</i>, which has dark saddles, but white spots only on the saddles, are only found further east, beyond the distribution range of sea forests. Can further be confused especially with juveniles of the otherwise larger Yellowspotted catshark <i>Scyliorhinus capensis</i> which can have a similar deep dark appearance but has larger and more pronounced white to yellow spots.</p>",
+            "shortTextKey": "taxon_text_7_3122",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 260).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 479). <br><br>Pretorius, C & Griffiths, CL (2013). Patterns of egg deposition and egg development in the catsharks <i>Poroderma pantherinum</i> and <i>Haploblepharus pictus</i>. <i>African Zoology</i>, 48(1), 115-124.<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 92).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 13).",
+            "shortTextKey": "taxon_text_8_3123",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-162-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-162-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-162-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-162-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-162-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-162-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-163-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-163-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-163-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Scyllium pictum",
+            "taxonAuthor": "Müller & Henle, 1838"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

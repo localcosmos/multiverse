@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Triviella ovulata",
+    "taxonAuthor": "(Lamarck, 1810)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f882a98a-9805-498e-b5cb-80049ccb7114",
+    "taxonNuid": "00100k00700300c00f00200j00p",
+    "gbifNubkey": 6492237,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-91-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-91-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-91-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 266,
+    "vernacular": {
+        "en": "Egg baby’s toes"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Egg baby’s toes"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Trivia ovulata</i></p>",
+            "shortTextKey": "taxon_text_9_2475",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell cowrie-like, pink and with a smooth glossy external texture and inflated oval shape. Spire very short and more or less parallel-sided; aperture running the length of the underside. Both inner and outer lips of aperture bearing a series of transverse teeth, which do not extend across ventral surface.</p><p>In life the shell is usually completely obscured by the mantle, which is very variable in colour pattern. The most common form is greyish-white covered in black dots that are each encircled by an opaque white ring. However, in some specimens the mantle is yellow or pink and the black markings are elongate and worm-like or stippled.</p>",
+            "shortTextKey": "taxon_text_1_2476",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell 13-20 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2477",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_2478",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on rocky reefs from about 3 m depth down to at least 50 m. Normally associated with compound ascidians, on which they feed.</p><p>Colour pattern thought to mimic toxic dorid nudibranchs.</p>",
+            "shortTextKey": "taxon_text_4_2479",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on compound ascidians, biting of the tough test with the jaws to get to the soft tissues inside<i>.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_5_2480",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically studied in this species, but other species in the genus embed vase-shaped egg capsules inside the host ascidian. Each capsule contains numerous eggs and in British species the larvae are planktonic. However, the large size of the embryos in this species suggest it might show direct development.</p>",
+            "shortTextKey": "taxon_text_6_2481",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species is largely defined by the pink, smooth shell and mantle colour. The closely related <i>T. millardi</i> normally has a white shell and pink to orange mantle. Many other species in the genus have transverse ridges that extend across the ventral surface or right&nbsp; around to the dorsal surface of the shell.</p><p>Species level identifications within this genus are complicated though, as there are some 30 similar endemic species in the region. Also, these species are largely defined by features of the shell, which is usually concealed by the mantle in live images. To complicate matters further, mantle colour can be highly variable within species! Readers are referred to the detailed accounts in Liltved (2000- see refs below) for more information and multiple images showing variations within these species.</p>",
+            "shortTextKey": "taxon_text_7_2482",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 186)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 59).<br><br>Liltved, WR (2000). Cowries and their Relatives of Southern Africa (second edition). Gordon Verhoef, Seacomber Publications (p. 162).",
+            "shortTextKey": "taxon_text_8_2483",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-91-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-91-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-91-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-91-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-91-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-91-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Galeatrivia ovulata",
+            "taxonAuthor": "(Lamarck, 1810)"
+        },
+        {
+            "taxonLatname": "Trivia ovulata var. alba",
+            "taxonAuthor": "Mörch, 1852"
+        },
+        {
+            "taxonLatname": "Cypraea ovulata",
+            "taxonAuthor": "Lamarck, 1810"
+        },
+        {
+            "taxonLatname": "Trivia ovulata",
+            "taxonAuthor": "(Lamarck, 1810)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

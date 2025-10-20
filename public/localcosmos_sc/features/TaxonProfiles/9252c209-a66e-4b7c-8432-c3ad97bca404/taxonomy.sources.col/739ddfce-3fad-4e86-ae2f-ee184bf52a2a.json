@@ -1,0 +1,190 @@
+{
+    "taxonLatname": "Clionella sinuata",
+    "taxonAuthor": "(Born, 1778)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "739ddfce-3fad-4e86-ae2f-ee184bf52a2a",
+    "taxonNuid": "00100k00700300e00300b00600c",
+    "gbifNubkey": 4369050,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 277,
+    "vernacular": {
+        "en": "Ribbed turrid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ribbed turrid",
+            "ribbed turrid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Clavatula sinuata</i></p>",
+            "shortTextKey": "taxon_text_9_2585",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell with fairly long spire and short anterior canal. Each whorl crossed by marked transverse ribs, these numbering 16-18 on last whorl. Colour dark brown to black, usually strongly eroded, especially at apex. Posterior margin of outer lip crimped inwards. Operculum horny.</p>",
+            "shortTextKey": "taxon_text_1_2586",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 65 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2587",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa<i>.</i></p><p><u>Local/Regional:</u> Namibia to about East London.</p>",
+            "shortTextKey": "taxon_text_3_2588",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common under loose rocks lying on sand, usually found half buried in sand and gravel.</p>",
+            "shortTextKey": "taxon_text_4_2589",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Poorly known, but from our own observations specimens aggregating on sandy substrates gang up to prey on small sand reef-forming polychaetes.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2590",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Lays very compressed, purse-shaped eggs capsules with a short stalk attaching them to rocks of shells; 5-6 crawling young emerge from each capsule.</p>",
+            "shortTextKey": "taxon_text_6_2591",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The numerous axial ribs on the shells whorls and black, heavily-eroded shell are fairly distinctive, although there are in fact several other rarer species in this genus in the region.</p>",
+            "shortTextKey": "taxon_text_7_2592",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 182)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 53).",
+            "shortTextKey": "taxon_text_8_2593",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clionella sinuatum",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Terebra phallus",
+            "taxonAuthor": "Bosc, 1801"
+        },
+        {
+            "taxonLatname": "Clionella sinuata sinuata",
+            "taxonAuthor": "(Born, 1778)"
+        },
+        {
+            "taxonLatname": "Strombus boletus",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Pleurotoma buccinoides",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Buccinum sinuatum",
+            "taxonAuthor": "Born, 1778"
+        },
+        {
+            "taxonLatname": "Clavatula (Melatoma) sinuata",
+            "taxonAuthor": "(Born, 1778)"
+        },
+        {
+            "taxonLatname": "Clavatula sinuata",
+            "taxonAuthor": "(Born, 1778)"
+        },
+        {
+            "taxonLatname": "Buccinum phallus",
+            "taxonAuthor": "Gmelin, 1791"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

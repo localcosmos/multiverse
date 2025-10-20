@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Capeorchestia capensis",
+    "taxonAuthor": "(Dana, 1853)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "009f0683-4345-4fc6-9a49-897cb4dcadb0",
+    "taxonNuid": "00100300a00100b00600100400200400500b001",
+    "gbifNubkey": 9131682,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-485-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-485-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-485-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 16,
+    "vernacular": {
+        "en": "Common beach-hopper"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Common beach-hopper"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Talorchestia capensis</i></p>",
+            "shortTextKey": "taxon_text_9_72",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Off-white, eyes dark, first antennae much shorter than second. First pair of nippers small, second pair greatly enlarged in males, palm of the hand cut into a deep, semicircular excision. Walking legs splayed to the side to support the animal upright in air, last two pairs of legs not markedly elongated and basal segment not greatly expanded. Dorsal surface of abdomen smooth, lacking dorsal projections. Also distinguished from most other amphipods by its terrestrial, air-breathing habits and ability to leap high into the air.</p>",
+            "shortTextKey": "taxon_text_1_73",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 20 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_74",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Port Nolloth to Port St Johns.</p>",
+            "shortTextKey": "taxon_text_3_75",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on sandy beaches, particularly those where large amounts of wrack or kelp are washed ashore, where they can become extremely abundant, numbering thousands per linear meter of beach. Normally remain buried in the sand by day to avoid heat and desiccation and emerge at night, or during cool-moist weather, to feed in the open on drift algae. When disturbed can lead high into the air, landing clumsily and staggering back into an upright position. At some sites populations may extend well above high watermark and into the dunes. There have been numerous reports of beach hoppers invading coastal properties in large numbers and dying in drifts inside homes. Some home-owners even erect barricades to keep them out!</p>",
+            "shortTextKey": "taxon_text_4_76",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on drift algae under which they shelter and can be remarkably effective in consuming drift kelp when present in large numbers.</p>",
+            "shortTextKey": "taxon_text_5_77",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like in all amphipods eggs are deposited into a brood pouch between the legs of the females, where they are fertilised by males and develop into fully formed juveniles before being released. Ovigerous females of this species are found throughout the year, although there are two peaks of abundance in summer and in winter.</p>",
+            "shortTextKey": "taxon_text_6_78",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Co-occurs with other beach-hopper of the genus<i> Africorchestia,</i> which are characterized by having pairs of dorsal projections on the abdominal segments and greatly expanded basal joint in the elongated 6th pair of legs in adult males<i>. </i>From the Cape Peninsula westwards the species present is<i> A. quadrispinosa, </i>which has one pair of dorsal projects on each of abdominal segments 1, 2 and sometimes 3. East of Cape Agulhas another similar species, <i>A. meridionalis</i> occurs, but this has two pairs of dorsal spines of the second abdominal segment and one pair each on segments 1 and 3.</p>",
+            "shortTextKey": "taxon_text_7_79",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town.<br><br>Lowry, JK & Baldanzi, S (2016). New talitrids form South Africa (Amphipoda, Senticaudata, Talitroidea, Talitridae) with notes on their ecology. <i>Zootaxa</i> 4144(2), 151-174.<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>.",
+            "shortTextKey": "taxon_text_8_80",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-485-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-485-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-485-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-485-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-485-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-485-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Orchestia capensis",
+            "taxonAuthor": "Dana, 1853"
+        },
+        {
+            "taxonLatname": "Talorchestia capensis",
+            "taxonAuthor": "(Dana, 1853)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

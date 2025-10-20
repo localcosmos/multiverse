@@ -1,0 +1,150 @@
+{
+    "taxonLatname": "Diplodus capensis",
+    "taxonAuthor": "(Smith, 1844)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "140764ce-580e-4da1-968a-30111ffecbe0",
+    "taxonNuid": "00100700300200200100w04000e007",
+    "gbifNubkey": 5210964,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1513-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1513-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1513-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 391,
+    "vernacular": {
+        "en": "Blacktail"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Blacktail",
+            "Cape white seabream",
+            "Dassie",
+            "White seabream"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Seabreams of the family Sparidae are particularly well represented in South Africa and include many important recreational and commercial fisheries species. They are laterally compressed, with a single continuous dorsal fin and forked tail. Most species are diurnal and form schools on shallow temperate reefs (although some are territorial and/or extend to 450 m depth). Many species change sex as they grow.</p><p>This silvery species is deep-bodied and easily recognized by the distinctive black blotch on the top and sides of the tail peduncle, after which the common name is derived. Juveniles also have 8–10 faint black bars dorsally, while adults may also show such bars during the night.</p>",
+            "shortTextKey": "taxon_text_1_3696",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 45 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3697",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southwest Atlantic and Indian Oceans.</p><p><u>Local/Regional:</u> Angola to Mozambique, Madagascar, Oman and Pakistan.</p>",
+            "shortTextKey": "taxon_text_3_3698",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species across the region. Juveniles often found in rockpools and also in estuaries and over shallow reefs. Adults on shallow reefs and in kelp beds from the intertidal to a depth of about 40 m.</p><p>Reaches maturity at a length of 22 cm, equivalent to age of about 3–4 years. Can attain an age of at least 21 years. Some but not all males later change sex to become females.</p>",
+            "shortTextKey": "taxon_text_4_3699",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Juveniles feed mainly on small crustaceans and worms (and in the case of estuarine populations on insects), whereas adults take a wide range of prey including algae, sea urchins, anemones, sponges, bivalves and tunicates.</p>",
+            "shortTextKey": "taxon_text_5_3700",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spawn July to September in KZN, and October to December in Eastern Cape. Eggs develop in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_3701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Colour pattern unmistakable.</p>",
+            "shortTextKey": "taxon_text_7_3702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 292).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 223).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 3 (p. 299). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 224).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 586).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 36).",
+            "shortTextKey": "taxon_text_8_3703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1513-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1513-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1513-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1513-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1513-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1513-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Diplodus rondeleti capensis",
+            "taxonAuthor": "(Smith, 1944)"
+        },
+        {
+            "taxonLatname": "Diplodus sargus capensis",
+            "taxonAuthor": "(Smith, 1844)"
+        },
+        {
+            "taxonLatname": "Sargus capensis",
+            "taxonAuthor": "Smith, 1844"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

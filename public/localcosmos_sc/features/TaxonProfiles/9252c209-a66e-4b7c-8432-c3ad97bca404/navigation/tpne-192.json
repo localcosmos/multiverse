@@ -1,0 +1,1381 @@
+{
+    "name": "Aeolids",
+    "description": null,
+    "verboseName": "Aeolids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1874-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1874-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1874-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1875-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1875-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1875-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1880-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1880-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1880-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 6,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Amanda armata",
+            "taxonAuthor": "Macnae, 1954",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "57018852-2bfa-44a6-8492-c130fe352c40",
+            "taxonNuid": "00100k00700d003002001001001001003004001",
+            "slug": "amanda-armata",
+            "localizedSlug": {
+                "en": "nightsky-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1923-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1923-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1923-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1923-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1923-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1923-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Anteaeolidiella saldanhensis",
+            "taxonAuthor": "(Barnard, 1927)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "89f6528e-90b5-4622-bd6c-598ea14dc96b",
+            "taxonNuid": "00100k00700d00300200100100100100100400b",
+            "slug": "anteaeolidiella-saldanhensis",
+            "localizedSlug": {
+                "en": "cape-anemone-eater"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1922-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1922-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1922-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1493-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1493-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1493-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1494-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1494-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1494-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1493-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1493-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1493-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caloria sp. 3",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "67fb53fb-3c2a-4844-ad6d-6127fa13446f",
+            "taxonNuid": "001005002004004001",
+            "slug": "caloria-sp-3",
+            "localizedSlug": {
+                "en": "yellow-tipped-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1928-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1928-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1928-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1937-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1937-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1937-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1937-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1937-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1937-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cratena capensis",
+            "taxonAuthor": "Barnard, 1927",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "52d0642f-6c0f-4f4f-ba45-3175e6639ae4",
+            "taxonNuid": "00100k00700d00300200100100100100300b002",
+            "slug": "cratena-capensis",
+            "localizedSlug": {
+                "en": "orange-eye-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1933-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1933-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1933-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2278-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2278-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2278-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2279-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2279-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2279-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1932-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1932-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1932-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1933-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1933-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1933-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caloria sp.5",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "1b196a25-95c5-4e9c-ac2a-d2e5740eb49e",
+            "taxonNuid": "001005002004004002",
+            "slug": "caloria-sp5",
+            "localizedSlug": {
+                "en": "black-dot-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1929-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1929-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1929-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1929-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1929-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1929-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cratena sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c1839d03-a53c-46de-8939-fa99f403a8e1",
+            "taxonNuid": "001005002004007001",
+            "slug": "cratena-sp-1",
+            "localizedSlug": {
+                "en": "elegant-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1930-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1930-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1930-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1931-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1931-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1931-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1930-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1930-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1930-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Godiva quadricolor",
+            "taxonAuthor": "(Barnard, 1927)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f51220f9-44e3-4d13-9ec2-78cd3dab343d",
+            "taxonNuid": "00100k00700d003002001001001001007002002",
+            "slug": "godiva-quadricolor",
+            "localizedSlug": {
+                "en": "four-coloured-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1936-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1936-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1936-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1826-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1826-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1826-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1827-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1827-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1827-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1829-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1829-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1829-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1828-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1828-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1828-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1826-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1826-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1826-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eubranchus sp. 15",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "bb2e7f75-61a9-4f9d-b155-1078ed6848d6",
+            "taxonNuid": "00100500200400c001",
+            "slug": "eubranchus-sp-15",
+            "localizedSlug": {
+                "en": "amber-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1775-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1775-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1775-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1776-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1776-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1776-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1775-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1775-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1775-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eubranchus sp. 14",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "df38504d-a26f-4402-942d-22cd17acaf95",
+            "taxonNuid": "00100500200400c002",
+            "slug": "eubranchus-sp-14",
+            "localizedSlug": {
+                "en": "candelabra-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1777-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1777-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1777-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1778-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1778-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1778-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1777-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1777-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1777-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eubranchus sp. 11",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "b5f6ae90-3c21-4cba-bfb1-3ea1e6f82498",
+            "taxonNuid": "00100500200400c003",
+            "slug": "eubranchus-sp-11",
+            "localizedSlug": {
+                "en": "nipple-tipped-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1779-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1779-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1779-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1780-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1780-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1780-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1779-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1779-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1779-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eubranchus sp. 10",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "f3a3e112-80fc-48fa-8eda-ca529839e949",
+            "taxonNuid": "00100500200400c004",
+            "slug": "eubranchus-sp-10",
+            "localizedSlug": {
+                "en": "polka-dot-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1781-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1781-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1781-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1781-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1781-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1781-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Facelina olivacea",
+            "taxonAuthor": "Macnae, 1954",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a88d0b2d-fc51-473a-bb0f-4cc1bb928cb9",
+            "taxonNuid": "00100k00700d00300200100100100100300g00g",
+            "slug": "facelina-olivacea",
+            "localizedSlug": {
+                "en": "olive-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1934-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1934-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1934-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1935-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1935-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1935-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1934-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1934-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1934-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Fiona pinnata",
+            "taxonAuthor": "(Eschscholtz, 1831)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5450545c-21dd-4ab9-a68c-62a0a8f1cdc1",
+            "taxonNuid": "00100k00700d003002001001001006009001001",
+            "slug": "fiona-pinnata",
+            "localizedSlug": {
+                "en": "goose-barnacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1782-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1782-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1782-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1784-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1784-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1784-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1785-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1785-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1785-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1783-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1783-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1783-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1782-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1782-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1782-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Flabellina sp. 5",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "17551d46-0dad-459c-9181-6fe1ab9d99c5",
+            "taxonNuid": "00100500200400d002",
+            "slug": "flabellina-sp-5",
+            "localizedSlug": {
+                "en": "golden-ringed-triple-tooth"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1814-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1814-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1814-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1814-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1814-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1814-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Flabellina sp. 4",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "f3c3f6cd-06ca-432e-9313-10a041ff82bb",
+            "taxonNuid": "00100500200400d001",
+            "slug": "flabellina-sp-4",
+            "localizedSlug": {
+                "en": "frosted-triple-tooth"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1811-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1811-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1811-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1812-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1812-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1812-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1813-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1813-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1813-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1811-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1811-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1811-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Glaucus atlanticus",
+            "taxonAuthor": "Forster, 1777",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9fc9d19d-9cb9-423a-9548-3770ea03f7da",
+            "taxonNuid": "00100k00700d003002001001001001006002001",
+            "slug": "glaucus-atlanticus",
+            "localizedSlug": {
+                "en": "atlantic-sea-swallow"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1823-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1823-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1823-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1824-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1824-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1824-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1825-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1825-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1825-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1823-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1823-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1823-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caloria sp. 4",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c30d1128-b7f0-47a9-9ec7-4e3bea9297af",
+            "taxonNuid": "001005002004004003",
+            "slug": "caloria-sp-4",
+            "localizedSlug": {
+                "en": "lions-mane-tentacle-aeolid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1938-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1938-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1938-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1938-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1938-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1938-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Flabellina capensis",
+            "taxonAuthor": "(Thiele, 1925)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "7c32b143-57b1-42ac-ab68-83893bbaeba8",
+            "taxonNuid": "00100500200400d003",
+            "slug": "flabellina-capensis",
+            "localizedSlug": {
+                "en": "white-edged-triple-tooth"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1860-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1860-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1860-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1867-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1867-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1867-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1857-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1857-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1857-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1858-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1858-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1858-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1860-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1860-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1860-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Flabellina funeka",
+            "taxonAuthor": "Gosliner & Griffiths, 1981",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "0bb18632-4902-45fe-97d8-dce7514b4de4",
+            "taxonNuid": "00100500200400d004",
+            "slug": "flabellina-funeka",
+            "localizedSlug": {
+                "en": "gorgeous-triple-tooth"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1862-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1862-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1862-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1861-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1861-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1861-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1863-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1863-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1863-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1862-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1862-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1862-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Phyllodesmium horridum",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6da492e4-a61d-4e30-8abf-6d7aeeabc93d",
+            "taxonNuid": "00100k00700d003002001001001001007006007",
+            "slug": "phyllodesmium-horridum",
+            "localizedSlug": {
+                "en": "temperate-soft-coral-eater"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1914-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1914-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1914-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1915-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1915-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1915-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2282-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2282-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2282-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2281-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2281-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2281-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1940-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1940-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1940-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1939-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1939-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1939-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1914-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1914-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1914-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia cf. speciosa 4",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c261c784-2a9e-4b5a-a832-afdf21a7d99b",
+            "taxonNuid": "00100500200400j006",
+            "slug": "tenellia-cf-speciosa-4",
+            "localizedSlug": {
+                "en": "yellow-candy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1999-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1999-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1999-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1999-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1999-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1999-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia sp. 23",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c6d59be1-53cb-4b33-adc3-7db1af1ca76a",
+            "taxonNuid": "00100500200400j001",
+            "slug": "tenellia-sp-23",
+            "localizedSlug": {
+                "en": "yellow-tipped-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1996-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1996-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1996-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1996-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1996-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1996-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia casha",
+            "taxonAuthor": "(Gosliner & R.J. Griffiths, 1981)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "19102342-867d-4ee1-b74c-82ae7d427c3e",
+            "taxonNuid": "00100500200400j002",
+            "slug": "tenellia-casha",
+            "localizedSlug": {
+                "en": "sea-daisy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1994-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1994-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1994-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1992-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1992-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1992-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1993-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1993-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1993-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1992-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1992-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1992-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia speciosa",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "28f7b9c9-5e12-48c6-8b7b-a16dbd31ee38",
+            "taxonNuid": "00100500200400j007",
+            "slug": "tenellia-speciosa",
+            "localizedSlug": {
+                "en": "green-candy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2001-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2001-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2001-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2000-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2000-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2000-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2001-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2001-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2001-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia cf. speciosa 1",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "985ab126-e43f-43aa-a443-b2c0c4cd104e",
+            "taxonNuid": "00100500200400j003",
+            "slug": "tenellia-cf-speciosa-1",
+            "localizedSlug": {
+                "en": "turquoise-candy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1995-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1995-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1995-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1995-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1995-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1995-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia cf. speciosa 2",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "976a7f15-ce9e-4d66-b61f-976be8e3592a",
+            "taxonNuid": "00100500200400j004",
+            "slug": "tenellia-cf-speciosa-2",
+            "localizedSlug": {
+                "en": "black-and-turquoise-candy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1997-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1997-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1997-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1997-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1997-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1997-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tenellia cf. speciosa 3",
+            "taxonAuthor": "(Macnae, 1954)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "8ff86187-aec0-405b-8be5-a118658fa476",
+            "taxonNuid": "00100500200400j005",
+            "slug": "tenellia-cf-speciosa-3",
+            "localizedSlug": {
+                "en": "white-tipped-candy-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1998-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1998-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1998-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1998-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1998-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1998-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tergipes sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "64fc10be-a6dd-45a3-9721-eea9c399a366",
+            "taxonNuid": "00100500200400k002",
+            "slug": "tergipes-sp-1",
+            "localizedSlug": {
+                "en": "white-taloned-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2024-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2024-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2024-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2025-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2025-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2025-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2026-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2026-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2026-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2025-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2025-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2025-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tergipes sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "d7561787-2ea7-4047-8fc1-c8154d68adee",
+            "taxonNuid": "00100500200400k001",
+            "slug": "tergipes-sp-2",
+            "localizedSlug": {
+                "en": "silver-taloned-roundhead"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2027-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2027-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2027-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2027-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2027-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2027-1000.webp"
+                }
+            }
+        }
+    ]
+}

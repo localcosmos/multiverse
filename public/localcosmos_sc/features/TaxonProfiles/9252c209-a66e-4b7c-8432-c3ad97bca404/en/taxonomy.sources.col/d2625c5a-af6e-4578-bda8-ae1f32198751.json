@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Amphictene capensis",
+    "taxonAuthor": "(Pallas, 1766)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d2625c5a-af6e-4578-bda8-ae1f32198751",
+    "taxonNuid": "001002002052001004002004001003",
+    "gbifNubkey": 11119039,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 234,
+    "vernacular": {
+        "en": "Ice-cream cone worm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ice-cream cone worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Pectinaria capensis</i></p>",
+            "shortTextKey": "taxon_text_9_2155",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Unmistakable species that builds a perfect, elongate cone-shaped tube composed of neatly-arranged brick-like sections of sponge spicule. The worm itself is soft, tapering and fairly transparent and its most distinctive feature is an arc of stiff golden bristles on the head that can be used to close-off the wide, open end of the tube.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_2156",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Tube length typically about 90 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_2157",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Southern Namibia to about False Bay.</p>",
+            "shortTextKey": "taxon_text_3_2158",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives buried in soft sediments, with the head and wider end of the tube pointing vertically downwards and the narrow posterior end sometimes projecting from the sediment surface. The stiff bristles on the head are used for burrowing. Sediment is gathered by tentacles on the head and sorted, material unsuitable for ingestion being passed between the body and the tube and out through the narrow upper opening in the form of pseudofaeces.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2159",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Deposit feeders. Ingesting fine organic materials from the sediments.</p>",
+            "shortTextKey": "taxon_text_5_2160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and eggs and sperm are released directly into the water column, where they develop into planktonic larvae. These develop a larval tube while still in the plankton.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2161",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The unusual tapering tube and golden bristles on the heads of members of this family are distinctive. A second related species, <i>Lagis neopolitana</i>, also occurs in the same region, but makes its tube out of larger irregular sand grains. Cape Reefworms <i>Gunnarea gaimardi</i> have similar bristles on their heads, but live colonially in large reef-like colonies of course sandy tubes.</p>",
+            "shortTextKey": "taxon_text_7_2162",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 72).<br><br>Day, JH (1967). A Monograph on the Polychaeta of Southern Africa. British Museum (Natural History), London, Part 2. (p. 663).<br><br>Hutchings, P & Peart, R (2002). A review of the genera of Pectinariidae (Polychaeta) together with a description of the Australian fauna. <i>Records-Australian Museum</i>, 54(1), 99-127.",
+            "shortTextKey": "taxon_text_8_2163",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pectinaria (Amphictene) capensis",
+            "taxonAuthor": "(Pallas, 1766)"
+        },
+        {
+            "taxonLatname": "Pectinaria capensis",
+            "taxonAuthor": "(Pallas, 1766)"
+        },
+        {
+            "taxonLatname": "Sabella indica",
+            "taxonAuthor": "Gmelin in Linnaeus, 1791"
+        },
+        {
+            "taxonLatname": "Nereis cylindraria capensis",
+            "taxonAuthor": "Pallas, 1766"
+        },
+        {
+            "taxonLatname": "Sabella chrysodon",
+            "taxonAuthor": "Linnaeus, 1767"
+        },
+        {
+            "taxonLatname": "Sabella capensis",
+            "taxonAuthor": "Gmelin in Linnaeus, 1791"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

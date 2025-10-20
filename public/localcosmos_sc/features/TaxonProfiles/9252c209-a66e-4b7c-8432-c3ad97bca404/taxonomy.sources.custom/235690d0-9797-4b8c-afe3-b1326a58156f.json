@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ahnfeltiopsis complicata (Kützing)",
+    "taxonAuthor": "P.C. Silva & DeCew, 1992",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "235690d0-9797-4b8c-afe3-b1326a58156f",
+    "taxonNuid": "003002005001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1347-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1347-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1347-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 766,
+    "vernacular": {
+        "en": "Complicated split-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Complicated split-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms small, stiff clumps of laterally spreading or upright fronds that arise from a central holdfast. Axes branch several times and somewhat flattened. Tips of fronds often curled and slightly expanded. Colour red-brown.</p>",
+            "shortTextKey": "taxon_text_1_7466",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Axes about 40 mm long and about 1-2 mm wide. Clumps up to about 60 mm across.</p>",
+            "shortTextKey": "taxon_text_2_7467",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional</u><i><u>:</u> </i>Namibia to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_7468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Attached in small clumps to rocks in low-shore pools and on shallow reefs, particularly in sand-inundated areas.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_7469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Immersed carposporophytes alternating with crustose tetrasporophytes may be visible on erect axes.</p>",
+            "shortTextKey": "taxon_text_6_7471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several similar regional species in this genus including <i>A. glomerata,</i> which has a similar distribution and habitat, but axes are much more strongly expanded, arched back and have flattened tips; also&nbsp;<i>A. polyclada</i> which is much taller (100 mm) with long, twiggy, cylindrical axes with divergent pointed tips.</p>",
+            "shortTextKey": "taxon_text_7_7472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 400). <br><br>Silva, PC & DeCew, TC (1992). <i>Ahnfeltiopsis</i>, a new genus in the Phyllophoraceae (Gigartinales, Rhodophyceae). <i>Phycologia</i>, 31, 576-580.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 341).",
+            "shortTextKey": "taxon_text_8_7473",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1347-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1347-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1347-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1347-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1347-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1347-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

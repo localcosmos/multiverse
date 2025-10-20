@@ -1,0 +1,153 @@
+{
+    "taxonLatname": "Podocerus inconspicuus",
+    "taxonAuthor": "(Stebbing, 1888)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "70c8add8-9c7e-403d-9699-d7482377800f",
+    "taxonNuid": "00100300a00100b00300100200500800r",
+    "gbifNubkey": 5717089,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-291-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-291-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-291-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 454,
+    "vernacular": {
+        "en": "Ridgeback podocerus"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ridgeback podocerus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Members of this family are dorso-ventrally flattened and have powerful legs held spread out laterally to grip the substratum. The second antennae are large, robust and sometimes brightly coloured. The second pair of claws (gnathopod 2) are very large and powerful. The abdomen is held curled under the body and urosome segment 1 is unusually elongated (more than twice as long as segment 2). The second pair of uropods may be reduced and the third pair either reduced or completely absent.</p><p>This species is fairly easily recognized by the strong dorsal processes running along the back from the head to the second abdominal segment.</p>",
+            "shortTextKey": "taxon_text_1_4326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About<strong> </strong>5<strong> </strong>mm excluding antennae<i>.</i></p>",
+            "shortTextKey": "taxon_text_2_4327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Indo-Pacific and around southern Africa to Namibia.</p><p><u>Local/Regional:</u> Mozambique to Namibia.</p>",
+            "shortTextKey": "taxon_text_3_4328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Little is known about the biology of this species, but podocerids generally crawl around on the surfaces of hydroids, soft corals, bryozoans and similar benthic invertebrates. They attach themselves in prominent positions with their powerful grasping legs and then extend the elongated and setose second antennae to capture food items floating by in the current. Some are exquisitely camouflaged against their hosts, but others have very brightly coloured bodies, sometimes with the second antennae in another contrasting colour. Some brightly coloured species are thought to be mimicking nudibranchs.</p>",
+            "shortTextKey": "taxon_text_4_4329",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to capture food items from the water stream using the setose second antennae.</p>",
+            "shortTextKey": "taxon_text_5_4330",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, sexes are separate. The eggs are extruded into a marsupial chamber beneath the legs of females, where they are fertilized by the male and develop into fully formed young before being released.</p>",
+            "shortTextKey": "taxon_text_6_4331",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are about 10 described regional species in this group and probably several other undescribed ones that have been photographed, but the dorsal projections on each body segment are characteristic of this species. The species was originally described from Australia and the African form may well prove to be distinct if examined in detail.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_4332",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 68).<br><br>Hughes, LE (2012). New and little-known Podoceridae (Peracarida: Amphipoda) of southern Australia. Records of the Australian Museum, 64(1), 71-120.(redescription of Australian form)",
+            "shortTextKey": "taxon_text_8_4333",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-291-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-291-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-291-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-291-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-291-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-291-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-936-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-936-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-936-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Podocerus palinuri",
+            "taxonAuthor": "K.H. Barnard, 1916"
+        },
+        {
+            "taxonLatname": "Platophium inconspicuum",
+            "taxonAuthor": "Stebbing, 1888"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

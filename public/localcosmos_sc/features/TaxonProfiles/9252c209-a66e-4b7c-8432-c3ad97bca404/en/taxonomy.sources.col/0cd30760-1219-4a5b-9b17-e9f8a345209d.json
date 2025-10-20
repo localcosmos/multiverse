@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Staurocladia vallentini",
+    "taxonAuthor": "(Browne, 1902)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0cd30760-1219-4a5b-9b17-e9f8a345209d",
+    "taxonNuid": "00100800300100100300300300b",
+    "gbifNubkey": 5185743,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1118-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1118-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1118-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 489,
+    "vernacular": {
+        "en": "Solitary creeping hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Solitary creeping hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As with most hydroids there is both a sedentary polyp phase and a medusa, or jellyfish-like, phase in the lifecycle. However, unlike most other species, in this case the medusa is the dominant and commonly-encountered phase and the polyp is rarely seen.</p><p>Polyp tiny and hardly ever seen, arising from a creeping stem and expanding from a narrow base. There are 4-6 slender tentacles part-way up the stem and 3-4 club-like tentacles at the tip. Medusae bud from the side of the stem.</p><p>Medusae much more commonly found, transparent mottled pink to red and attach to the fronds of brown algae. Each has a variable number of branched marginal tentacles that bear terminal suckers and conspicuous clusters of nematocysts.</p>",
+            "shortTextKey": "taxon_text_1_4700",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Polyps only 1.5 mm tall, medusae about 3-4 mm across.</p>",
+            "shortTextKey": "taxon_text_2_4701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Falkland Islands, Southern Africa, Australia, New Zealand.</p><p><u>Local/Regional:</u> Southern Namibia to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_4702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The attractive medusae are seasonally common on the surfaces of large algae, but are often mistaken for sea anemones. The lower branches of each tentacle has a terminal sucker at the tip and the medusa can creep around by releasing and reattaching these suckers. The number of tentacles increases as the medusa grows and once it reaches about 40, the medusa divides by fission.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not studied, but presumed to be carnivorous feeding on small prey such as the benthic copepods which are abundant on the algal fronds on which they are found.</p>",
+            "shortTextKey": "taxon_text_5_4704",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Medusae can undergo asexual reproduction by fission, but also undertake sexual reproduction, with sexes being separate. The polyp stage produces medusae by budding at the level of the lower cycle of tentacles and medusae are released when they have about 6 tentacles.</p>",
+            "shortTextKey": "taxon_text_6_4705",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The creeping, sedentary medusa stage is unique among local hydroids and are easily recognised, although sometimes mistaken for small anemones (form which they are distinguished by having branched tentacles).</p>",
+            "shortTextKey": "taxon_text_7_4706",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 57).",
+            "shortTextKey": "taxon_text_8_4707",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1118-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1118-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1118-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1118-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1118-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1118-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1119-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1119-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1119-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-333-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-333-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-333-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Staurocladia capensis",
+            "taxonAuthor": "(Gilchrist, 1918)"
+        },
+        {
+            "taxonLatname": "Cnidonema capensis",
+            "taxonAuthor": "Gilchrist, 1919"
+        },
+        {
+            "taxonLatname": "Eleutheria vallentini",
+            "taxonAuthor": "Browne, 1902"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

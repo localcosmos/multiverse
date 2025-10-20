@@ -1,0 +1,105 @@
+{
+    "taxonLatname": "Lysiosquilla capensis",
+    "taxonAuthor": "Hansen, 1895",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "3d575b3e-3fbb-4c6c-8e5d-63d06640bf10",
+    "taxonNuid": "001003003002001001",
+    "gbifNubkey": 4316649,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 580,
+    "vernacular": {
+        "en": "Banded mantis shrimp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Banded mantis shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Elongated, shrimp/lobster-like crustaceans, typically recognised by the large and powerful raptorial claws resembling those of a praying mantis. 15–17 teeth on the finger of the raptorial claw. Eyes stalked and T-shaped with large bilobed cornea. Rostral plate smooth, either semi-circular or elongated to form point. Smooth carapace, thorax and abdomen. Short carapace partly covers thorax which is comprised of four segments visible from above. Six segments make up the abdomen with paddle-like swimming pleopods and ending in a characteristic telson and pair of uropods. Telson with a central smooth boss and four small, fixed teeth; without any small teeth between primary teeth. Colour in life unknown. Description (Barnard, 1950) describes a pinkish overall colour.</p>",
+            "shortTextKey": "taxon_text_1_5725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length (TL) measured from rostrum to telson, excluding antennae. Males TL up to 112 mm, females around TL 45 mm.</p>",
+            "shortTextKey": "taxon_text_2_5726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global distribution:</u> South African endemic.</p><p><u>Local/Regional:</u> False Bay, Agulhas Bank, Knysna Estuary Gqeberha (formerly Port Elizabeth) and Coffee Bay.</p>",
+            "shortTextKey": "taxon_text_3_5727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Associated with level sand or mud substrates suitable for their burrowing lifestyle. Inhabits U-shaped burrows with two entrances. Relatively rare with no recent sightings and few preserved specimens. Known only from South African waters, shore to 88 m. Reported from False Bay at depths between 18–88 m. Like all mantis shrimps, the species possess highly specialized compound eyes with more photoreceptor types than any other animal. Each eye acts independently with a wide range of motion and has the ability to see ultra-violet and infrared light. Some species can even see polarized light with up to 16 visual pigments.</p>",
+            "shortTextKey": "taxon_text_4_5728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Highly specialized benthic predators, mantis shrimp either exhibit an extended raptorial claw for spearing or a folded dactylus in the form of a club for smashing. These two methods of striking prey define two broad functional groups within the Stomatopoda: the ‘spearers’ and the ‘smashers’. <i>Lysiosquilla capensis</i> is expected to be a nocturnal predator similar to other species of family Lysiosquillidae and will ambush prey from their burrows and attack by spearing prey with their toothed claws. With extremely high attack speeds, the mechanism involves a spring and latch structure located at the base of the raptorial claw which creates a spring-loaded strike. Spearers typically have slower attack speeds when compared to the smashers. It is thought that while smashers need to apply a greater force to stun their usually hard-shelled prey, spearers rely on a greater reach with their strategy of ambushing soft-bodied prey (Anderson <i>et al</i>. 2014). Expected to predate on soft-bodied prey such as shrimp and fish and be a prey species for predatory fish, seals, seabirds and dolphins.</p>",
+            "shortTextKey": "taxon_text_5_5729",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Mating strategy unobserved for <i>L. capensis</i> but species of <i>Lysiosquilla</i> are known to be monogamous. Females carry and care for the eggs, holding and using the maxillipeds to clean and circulate water around them. Once hatched larvae are predatory and use their raptorial appendages to hunt. It takes 1 to 3 months for the larvae to go through several developmental stages before becoming adults. Lifespan unknown for species but mantis shrimps typically live 3 to 6 years, but some species have been known to live for 20 odd years.</p>",
+            "shortTextKey": "taxon_text_6_5730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Other than <i>Lysiosquilla capensis</i>, only two species have been recorded for False Bay, Cape Town; <i>Natosquilla investigatoris</i> and the endemic Cape mantis shrimp <i>Pterygosquilla capensis.&nbsp;</i> Species distinguished by smooth carapace, thorax and abdomen as well as form of the telson. See Brokensha <i>et al.</i> (2022).</p>",
+            "shortTextKey": "taxon_text_7_5731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, PSL, Claverie, T & Patek, SN (2014). Levers and Linkages: Mechanical Trade-Offs in a Power-Amplified System. <i>Evolution</i>, 68(7), 1919-1933.<br><br>Barnard, KH (1950). Descriptive list of South African stomatopod Crustacea (Mantis Shrimps). <i>Annals of the South African Museum</i>, 38, 838– 933. <br><br>Brokensha, RM, Landschoff, J & Griffiths, CL (2022). Review of the South African and Mozambican stomatopod fauna. M.S. thesis, University of Cape Town, Cape Town, South Africa.<br><br>Manning, RB (1969). Notes on some stomatopod Crustacea from southern Africa. <i>Smithsonian Contributions to Zoology</i>, 1, 1–17.",
+            "shortTextKey": "taxon_text_8_5732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

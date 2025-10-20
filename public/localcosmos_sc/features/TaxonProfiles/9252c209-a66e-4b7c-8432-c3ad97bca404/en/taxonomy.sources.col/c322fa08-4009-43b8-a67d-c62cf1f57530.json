@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Nevianipora pulcherrima",
+    "taxonAuthor": "(Kirkpatrick, 1890)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c322fa08-4009-43b8-a67d-c62cf1f57530",
+    "taxonNuid": "00100500300200e005003009",
+    "gbifNubkey": 1004110,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-401-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-401-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-401-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 537,
+    "vernacular": {
+        "en": "Beauteous false-coral bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beauteous false-coral bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Tubulipora pulcherrima</i> (also previously in Family Filisparsidae).</p>",
+            "shortTextKey": "taxon_text_9_5159",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very distinctive coral-like colonies with a delicate, dichotomously-branching, calcareous, white skeleton with lobed tips.</p><p>When viewed closely the branches are formed of elongate tubular zooecia which curve away from the main branch at their tips to end in a round orifice from which the tentacles of the zooids emerge when extended.</p>",
+            "shortTextKey": "taxon_text_1_5160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less then 1 mm long, colonies typically 2 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_5161",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Indo-Pacific from South Africa to Australia.</p><p><u>Local/Regional:</u> Local records from False Bay to Mossel Bay, but as also occurs in East Africa, probably actually extends all along east coast.</p>",
+            "shortTextKey": "taxon_text_3_5162",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on the undersides of rocks on rocky shores in sheltered sites. Uncommon and no details about biology available.</p>",
+            "shortTextKey": "taxon_text_4_5163",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5164",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No species-specific details, but bryozoans are<strong> </strong>hermaphrodite with separate male and female zooids. Colonies expand by budding new zooids around the tips. During sexual reproduction males release sperm into the water which are taken in by females to fertilise the eggs, which are then released to disperse to find new hosts and establish new colonies.</p>",
+            "shortTextKey": "taxon_text_6_5165",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by exquisite, delicately-branched colony form. Colony form is quite variable and more than one species may be present under this one name.</p>",
+            "shortTextKey": "taxon_text_7_5166",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 140).<br><br>Day, JH (1969). A Guide to marine Life on South African Shores. AA Balkema, Cape Town. (p. 131 as <i>Tubulipora pulcherrima</i>).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 7).",
+            "shortTextKey": "taxon_text_8_5167",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-401-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-401-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-401-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-401-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-401-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-401-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,172 @@
+{
+    "taxonLatname": "Burnupena catarrhacta",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "338cdb75-ec70-4c82-89eb-dd83717c8438",
+    "taxonNuid": "00100k00700300e00200f001",
+    "gbifNubkey": 4368581,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-98-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-98-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-98-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 272,
+    "vernacular": {
+        "en": "Flame-patterned burnupena"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Flame-patterned burnupena",
+            "flame-patterned burnupena"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Whelks of the genus <i>Burnupena</i> can be difficult to identify, as several species may be common on the same shores, there is considerable variation in shell shape and colour within some species and external features may become concealed by encrusting algae or bryozoans.</p><p>This species is common in rock pools along the west coast and has a moderately elongate shell (length twice width) that is fairly smooth, but marked by numerous fine spiral ridges. The most obvious distinguishing feature is the characteristic colour-pattern consisting of alternating light and dark flames crossing each whorl. Internal colour dark purple.</p>",
+            "shortTextKey": "taxon_text_1_2536",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 50 mm long, typically 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_2537",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Hermanus.</p>",
+            "shortTextKey": "taxon_text_3_2538",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common, but relatively small <i>Burnupena</i> species that occurs relatively high on the shore. Mostly found concealed in crevices or under rocks and sometimes partially buried in sand. Becomes active and gathers quickly around dead or damaged animals or other food materials on which it scavenges.</p>",
+            "shortTextKey": "taxon_text_4_2539",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A scavenger, feeding on a wide range of dead or dying organisms, abandoned bait, fish guts and the like.</p>",
+            "shortTextKey": "taxon_text_5_2540",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are compressed, with a leaf-like flap at the apex and are laid in a hemispherical mass attached in the open directly on the rock or to the shells of other molluscs. The eggs hatch directly into crawling young.</p>",
+            "shortTextKey": "taxon_text_6_2541",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several related species of <i>Burnupena </i>occur on the same shores and can be difficult to separate. This species is best recognized by the fine spiral ridges on the otherwise fairly smooth shell, the flame-like colour markings and deep purple interior. Can be confused with the Variable burnupena <i>B. lagenaria,</i> but that species has a shorter, broader shell that lacks flame-like markings. The Ridged burnupena <i>B. cincta</i> is larger and heavier with pronounced ridges on the shell and has a paler purplish interior. Also co-occurs with the Papery burnupena <i>B. papyracea,</i> which<i> </i>is easily recognized as the shells are usually all coated by the purple to orange knobbly bryozoan <i>Alcyonidium nodosum</i>.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2542",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 194)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 94).",
+            "shortTextKey": "taxon_text_8_2543",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-98-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-98-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-98-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-98-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-98-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-98-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Buccinum delalandii",
+            "taxonAuthor": "Kiener, 1834"
+        },
+        {
+            "taxonLatname": "Burnupena delalandii",
+            "taxonAuthor": "(Kiener, 1834)"
+        },
+        {
+            "taxonLatname": "Buccinum dunkeri",
+            "taxonAuthor": "Küster, 1858"
+        },
+        {
+            "taxonLatname": "Buccinum catarrhacta",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Cominella (Cominella) delalandii",
+            "taxonAuthor": "(Kiener, 1834)"
+        },
+        {
+            "taxonLatname": "Burnupena dunkeri",
+            "taxonAuthor": "(Küster, 1858)"
+        },
+        {
+            "taxonLatname": "Fusinus lineolatus",
+            "taxonAuthor": "(Dunker, 1844)"
+        },
+        {
+            "taxonLatname": "Fusus lineolatus",
+            "taxonAuthor": "Dunker, 1844"
+        },
+        {
+            "taxonLatname": "Buccinum coarctata",
+            "taxonAuthor": "Krauss, 1848"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

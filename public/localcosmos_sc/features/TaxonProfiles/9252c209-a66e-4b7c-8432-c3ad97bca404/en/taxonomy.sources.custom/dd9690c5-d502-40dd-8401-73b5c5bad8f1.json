@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Sarcothalia scutellata (Hering)",
+    "taxonAuthor": "Leister, 1993",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "dd9690c5-d502-40dd-8401-73b5c5bad8f1",
+    "taxonNuid": "003002005007001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1434-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1434-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1434-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 817,
+    "vernacular": {
+        "en": "Beaded tongue-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beaded tongue-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Gigartina scutellata</i></p>",
+            "shortTextKey": "taxon_text_9_7924",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms&nbsp; short, fleshy clumps with twig-like branches that fork at regular intervals. Branches slightly flattened and forked at the tips, which are swollen. Distinctive ball-like reproductive structures are borne in groups near the tips of the branches. Colour purple-brown.</p>",
+            "shortTextKey": "taxon_text_1_7925",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 100 mm tall, with branches about 3 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7926",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_7927",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Attached to rocks in low to mid-shore rock pools and on shallow reefs.&nbsp;Can form dense stands in suitable shallow intertidal pools.</p>",
+            "shortTextKey": "taxon_text_4_7928",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7929",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproductive structures form prominent spherical balls attached on the upper parts of the branches.</p>",
+            "shortTextKey": "taxon_text_6_7930",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The unusual&nbsp;purplish-brown colour and large spherical reproductive structures make this species fairly easy to identify.</p>",
+            "shortTextKey": "taxon_text_7_7931",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 400). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 352, as <i>Gigartina  sculellata</i>).",
+            "shortTextKey": "taxon_text_8_7932",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1434-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1434-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1434-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1434-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1434-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1434-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

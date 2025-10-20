@@ -1,0 +1,631 @@
+{
+    "taxonLatname": "Prunus avium",
+    "taxonAuthor": "(L.) L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3869ccdb-d917-4f07-b506-90597fb057c9",
+    "taxonNuid": "00600800601b00702c00l",
+    "gbifNubkey": 3020791,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 21,
+    "vernacular": {
+        "de": "Wildkirsche"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Wildkirsche"
+        ]
+    },
+    "nodeNames": [
+        "Wildkirsche"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:35",
+                        "encodedSpace": "<p>Laubbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "8e667ba6-b3eb-4952-87cd-e286e83da08e",
+                "name": "Abhängiges Merkmal",
+                "type": "TextOnlyFilter",
+                "position": 1,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "8e667ba6-b3eb-4952-87cd-e286e83da08e:37",
+                        "encodedSpace": "<p>Abhängig 1</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:3.0",
+                        "encodedSpace": 3.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:4.0",
+                        "encodedSpace": 4.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            -4.0,
+                            0.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:Wy00LjAsMC4wXQ=="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215",
+                "name": "Blattanordnung",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215:5",
+                        "encodedSpace": "wechselständig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-46-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-46-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-46-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "81cafb57-e0cf-4a9f-b064-afb6925b1c23",
+                "name": "Form des Blattes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "81cafb57-e0cf-4a9f-b064-afb6925b1c23:18",
+                        "encodedSpace": "oval",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-57-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-57-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-57-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC BY-SA",
+                            "licenceVersion": "4.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e97b684f-68a5-4507-815c-3b44c72e9c28",
+                "name": "Form des Blattendes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 4,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e97b684f-68a5-4507-815c-3b44c72e9c28:15",
+                        "encodedSpace": "mit Spitze",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-54-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-54-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-54-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "b25adc97-f7c8-4843-bf1a-630acac2fad9",
+                "name": "Form des Blattanfangs",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 5,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "b25adc97-f7c8-4843-bf1a-630acac2fad9:9",
+                        "encodedSpace": "ungebuchtet",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-50-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-50-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-50-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e2528f1b-6bd4-47db-834f-d25a2bcb894a",
+                "name": "Form des Blattrandes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 6,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e2528f1b-6bd4-47db-834f-d25a2bcb894a:16",
+                        "encodedSpace": "gezackt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e44a42ba-f451-475b-8ac7-11b04eda2048",
+                "name": "Form der Rinde",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 7,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e44a42ba-f451-475b-8ac7-11b04eda2048:20",
+                        "encodedSpace": "glatt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-59-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-59-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-59-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "67c06088-bacd-41fb-aaef-9d6b114aaa30",
+                "name": "Farbe des Stammes",
+                "type": "ColorFilter",
+                "position": 8,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "67c06088-bacd-41fb-aaef-9d6b114aaa30:12",
+                        "encodedSpace": [
+                            104,
+                            71,
+                            3,
+                            1.0
+                        ],
+                        "html": "rgba(104,71,3,1.0)",
+                        "gradient": false,
+                        "colorType": "single",
+                        "description": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Baum als Lebensraum",
+            "shortText": "<p>Nach Literaturangaben verzehren 48 Vogelarten die bis einen Zentimeter dicken Steinfrüchte der Wildkirsche. Die wichtigsten Nutznießer sind Amsel, Singdrossel, Misteldrossel und Star. Insbesondere Ringeltaube, Eichelhäher und Pirol verbreiten die Wildkirsche über die mit dem Vogelkot wieder ausgeschiedenen Kirschkerne über Entfernungen von mehr als einem Kilometer. An der Vogelkirsche leben über 100 holzbesiedelnde Käfer, darunter außergewöhnlich farbenprächtige Arten, deren Heimat man eher in den Tropen vermuten würde.</p>",
+            "shortTextKey": "taxon_text_3_38",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Schutz",
+            "texts": [
+                {
+                    "taxonTextType": "Waldschutz",
+                    "shortText": "<p>Vogelkirschen sind in erheblichem Umfang von Bakterien- und Pilzkrankheiten betroffen. Bei Aufforstungen mit Wildkirsche stellt der Bakterienbrand (Pseudomonas syringae) eine der Hauptgefahren für den Bestand dar. Ebenso gefährdet der Feuerbrand (Erwinia amylovora) die Kirsche</p>",
+                    "shortTextKey": "taxon_text_2_37",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+            }
+        },
+        "taxonProfileImages": [],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Prunus nigra",
+            "taxonAuthor": "Mill."
+        },
+        {
+            "taxonLatname": "Prunus avium erythrocarpa",
+            "taxonAuthor": "Dierb."
+        },
+        {
+            "taxonLatname": "Prunus avicularis",
+            "taxonAuthor": "Dulac"
+        },
+        {
+            "taxonLatname": "Prunus avium",
+            "taxonAuthor": "(L.) Moench"
+        },
+        {
+            "taxonLatname": "Prunus avium duracina",
+            "taxonAuthor": "(L.) J. Holub"
+        },
+        {
+            "taxonLatname": "Prunus avium juliana",
+            "taxonAuthor": "(L.) J. Holub"
+        },
+        {
+            "taxonLatname": "Prunus avium albida",
+            "taxonAuthor": "(Ehrh.) Soo"
+        },
+        {
+            "taxonLatname": "Prunus avium amara",
+            "taxonAuthor": "Sosn."
+        },
+        {
+            "taxonLatname": "Prunus avium dulcis",
+            "taxonAuthor": "Sosn."
+        },
+        {
+            "taxonLatname": "Prunus avium melanocarpa",
+            "taxonAuthor": "Dierb."
+        },
+        {
+            "taxonLatname": "Prunus avium sativa",
+            "taxonAuthor": "Dierb."
+        },
+        {
+            "taxonLatname": "Prunus avium sylvestris",
+            "taxonAuthor": "Dierb."
+        },
+        {
+            "taxonLatname": "Prunus cerasus",
+            "taxonAuthor": "(L.) Eaton & Wright"
+        },
+        {
+            "taxonLatname": "Prunus dulcis",
+            "taxonAuthor": "(L.) Gaertn. Mey. & Scherb."
+        },
+        {
+            "taxonLatname": "Prunus duracina",
+            "taxonAuthor": "(L.) DC."
+        },
+        {
+            "taxonLatname": "Prunus hortensis",
+            "taxonAuthor": "Mill."
+        },
+        {
+            "taxonLatname": "Prunus juliana",
+            "taxonAuthor": "(L.) Delarbre"
+        },
+        {
+            "taxonLatname": "Prunus nigricans",
+            "taxonAuthor": "(Ehrh.) Borkh."
+        },
+        {
+            "taxonLatname": "Prunus silvestris",
+            "taxonAuthor": "Garsault"
+        },
+        {
+            "taxonLatname": "Prunus varia",
+            "taxonAuthor": "(Ehrh.) Borkh."
+        },
+        {
+            "taxonLatname": "Prunus avium nigricans",
+            "taxonAuthor": "(Ehrh.) P. D. Sell"
+        },
+        {
+            "taxonLatname": "Prunus avium silvestris",
+            "taxonAuthor": "(Kirschl.) P. D. Sell"
+        },
+        {
+            "taxonLatname": "Prunus avium microcarpa",
+            "taxonAuthor": "Mart."
+        },
+        {
+            "taxonLatname": "Prunus cerasus avium",
+            "taxonAuthor": "(L.) Hook. fil."
+        },
+        {
+            "taxonLatname": "Prunus cerasus duracina",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Prunus cerasus juliana",
+            "taxonAuthor": "L."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

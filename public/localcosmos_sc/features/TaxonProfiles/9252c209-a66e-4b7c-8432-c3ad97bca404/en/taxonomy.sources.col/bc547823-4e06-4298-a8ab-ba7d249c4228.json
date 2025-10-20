@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Cephalorhynchus heavisidii",
+    "taxonAuthor": "(Gray, 1828)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "bc547823-4e06-4298-a8ab-ba7d249c4228",
+    "taxonNuid": "001007003002002004004002001004002001001003",
+    "gbifNubkey": 5220041,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-273-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-273-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-273-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 435,
+    "vernacular": {
+        "en": "Heaviside’s dolphin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Heaviside’s dolphin",
+            "Haviside's Dolphin",
+            "Heaviside's Dolphin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, stocky dolphin. Head conical with a long, sloping forehead and no obvious beak. Each jaw has 20–30 small peg-like teeth. Pectoral fins rounded. Distinctive dorsal fin set fairly far back and broadly triangular. Colour pattern a diagnostic mix of black, white and grey areas. Back, dorsal fin and tail black. Underside white, extending backwards as three streaks, one along the midline of the belly and the other two curving up the flanks. Sides on front half of body grey.</p><p>Sexes difficult to distinguish in the field, but differ in shape of a small white patch covering the genital area, which comes to a point in males and widens out to cover mammary slits in females.</p>",
+            "shortTextKey": "taxon_text_1_4136",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Maximum length of only 1.7 m and mass of 75 kg. Sexes similar in size and appearance.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_4137",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to the west coast of southern Africa.</p><p><u>Local/Regional:</u> southern Angola to Cape Point, rarely in False Bay.</p>",
+            "shortTextKey": "taxon_text_3_4138",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Restricted to west coast and generally found close inshore and in small groups of 1–10, although groups of up to 100 have been observed. Longevity estimated at about 26 years. Energetic and social and may be attracted to boats and bow-ride. Also seen surfing in coastal waves and may leap well clear of the water, re-entering vertically and with almost no splash.</p><p>South African populations have been reported to undertake diurnal movement patterns, moving offshore late in the day to feed on prey that rise to the surface at night and returning inshore to rest and socialize in the mornings. Dives are usually short in duration, often less that one and seldom more than two minutes and mostly to depths of less than 50 m (max 147 m).</p><p>Echolocation clicks occur in a narrow high-frequency band of 125–130 kHz when foraging and travelling, but at lower frequency and broader bandwidth when socialising. Do not whistle like many other dolphins.</p><p>Total population has been estimated at 6300 individuals, but there is a large error margin around this estimate. Inshore habits tend to make this species vulnerable to entanglement in fishing nets.</p>",
+            "shortTextKey": "taxon_text_4_4139",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on fish and cephalopods, especially juvenile hake, kingklip and octopus, mostly foraging on the bottom in shallow waters, but also take pelagic goby, horse mackerel, squid and occasional crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_4140",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Limited information is available on the reproductive biology of this species.<strong> </strong>Both sexes are thought to mature at an age of about 5–9 years and individual females produce a calf only every 2–4 years. Size at birth averages 87 cm. Reproduction occurs year-round.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_4141",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other species due to the small size, restricted distribution and diagnostic colour pattern<i>.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_7_4142",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Best, PB (2007). Whales and Dolphins of the Southern African Subregion. Cambridge University Press (p. 148).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 368).<br><br>Cockcroft, V & Joyce, P (1998). Whale Watch: A Guide to Whales and other Marine Mammals of Southern Africa. Struik Publishers, Cape Town (p. 92).<br><br>Davis, RW, David, JHM, Meÿer, MA, Sekiguchi, K, Best, PB, Dassis, M & Rodriguez, DH (2014). Home range and diving behaviour of Heaviside's dolphins monitored by satellite off the west coast of South Africa. <i>African Journal of Marine Science</i>, 36(4), 455-466.<br><br>Elwen, SH, Thornton, M, Reeb, D & Best, PB (2010). Near-shore distribution of Heaviside’s (<i>Cephalorhynchus heavisidii</i>) and dusky dolphins (<i>Lagenorhynchus obscurus</i>) at the southern limit of their range in South Africa. <i>African Zoology</i>, 45(1), 78-91.",
+            "shortTextKey": "taxon_text_8_4143",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-273-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-273-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-273-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-273-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-273-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-273-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Delphinus hastatus",
+            "taxonAuthor": "F. Cuvier, 1836"
+        },
+        {
+            "taxonLatname": "Delphinus heavisidii",
+            "taxonAuthor": "Gray, 1828"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

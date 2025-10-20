@@ -1,0 +1,191 @@
+{
+    "name": "Toad-, Puffer- & Porcupinefishes",
+    "description": null,
+    "verboseName": "Toad-, Puffer- & Porcupinefishes",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1272-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1272-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1272-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1265-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1265-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1265-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1271-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1271-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1271-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-150",
+            "parentKey": "tpne-148",
+            "name": "Toadfishes",
+            "verboseName": "Toadfishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Batrichthys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "b2fd0552-8023-409e-8d37-44b17759059c",
+                    "taxonNuid": "001007003002002001008001008"
+                },
+                {
+                    "taxonLatname": "Chatrabus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c88d1c4d-12c7-40fa-b55e-d5208cacd613",
+                    "taxonNuid": "00100700300200200100800100a"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1269-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1269-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1269-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1270-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1270-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1270-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1788-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1788-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1788-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1269-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1269-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1269-1000.webp"
+                }
+            },
+            "slug": "toadfishes"
+        },
+        {
+            "key": "tpne-149",
+            "parentKey": "tpne-148",
+            "name": "Puffer- & Porcupinefishes",
+            "verboseName": "Puffer- & Porcupinefishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Tetraodontidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "4961ea13-4014-42c9-a1a9-78bb9cbbcabb",
+                    "taxonNuid": "001007003002002001019007"
+                },
+                {
+                    "taxonLatname": "Diodontidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "549fa48e-42c2-47cb-aab8-b05d995bdb55",
+                    "taxonNuid": "001007003002002001019003"
+                },
+                {
+                    "taxonLatname": "Stephanolepis",
+                    "taxonAuthor": "Gill, 1861",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "f9b58fd2-9953-45cb-aead-96b9dd9d7312",
+                    "taxonNuid": "00100b003002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1262-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1262-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1262-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1263-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1263-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1263-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1264-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1264-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1264-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1262-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1262-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1262-1000.webp"
+                }
+            },
+            "slug": "puffer-porcupinefishes"
+        }
+    ],
+    "taxonProfiles": []
+}

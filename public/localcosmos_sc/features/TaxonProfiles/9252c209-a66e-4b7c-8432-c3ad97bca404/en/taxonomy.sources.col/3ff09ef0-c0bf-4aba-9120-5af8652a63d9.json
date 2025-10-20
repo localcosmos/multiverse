@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Okenia amoenula",
+    "taxonAuthor": "(Bergh, 1907)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3ff09ef0-c0bf-4aba-9120-5af8652a63d9",
+    "taxonNuid": "00100k00700d003002001001002002004005002008003",
+    "gbifNubkey": 6788218,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1908-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1908-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1908-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 895,
+    "vernacular": {
+        "en": "Fiery pump dorid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fiery pump dorid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Idaliella amoenula</i> Bergh, 1907: unaccepted (original combination)</p>",
+            "shortTextKey": "taxon_text_9_8626",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A small white-bodied dorid with numerous orange-tipped lateral papillae and brown and opaque white flecks. The head is white with variable orange to yellow blotches and numerous orange-tipped velar papillae. The rhinophores are white with orange tips. The notum has a central orange stripe and variable stripes, spots and blotches of orange to yellow. The gills are white with orange to yellow edging and blotches. The posterior end of the foot is tapered with a central orange to yellow stripe.</p>",
+            "shortTextKey": "taxon_text_1_8627",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 20 mm.</p>",
+            "shortTextKey": "taxon_text_2_8628",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Atlantic and South Africa.</p><p><u>Local/Regional:</u> Atlantic side of the Cape Peninsula to southern KwaZulu-Natal, intertidal to 30 m in depth.</p>",
+            "shortTextKey": "taxon_text_3_8629",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On rocky reefs, usually close to its egg ribbon. Frequently observed in small groups. Often seen on bryozoans and coralline algae. Amphipods have been observed feeding on the papillae.</p>",
+            "shortTextKey": "taxon_text_4_8630",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>The species' food is not yet known<i>.</i></p>",
+            "shortTextKey": "taxon_text_5_8631",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. The egg ribbon is a sprawling white spiral.</p>",
+            "shortTextKey": "taxon_text_6_8632",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species can be confused with the Flame-tipped pump dorid, <i>Okenia aurorapapillata</i>, but is distinguished by its yellow- or orange-tipped papillae.</p>",
+            "shortTextKey": "taxon_text_7_8633",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 92).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 414, 804).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 140).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 53).",
+            "shortTextKey": "taxon_text_8_8634",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1908-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1908-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1908-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1908-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1908-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1908-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1909-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1909-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1909-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1907-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1907-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1907-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Idaliella amoenula",
+            "taxonAuthor": "Bergh, 1907"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

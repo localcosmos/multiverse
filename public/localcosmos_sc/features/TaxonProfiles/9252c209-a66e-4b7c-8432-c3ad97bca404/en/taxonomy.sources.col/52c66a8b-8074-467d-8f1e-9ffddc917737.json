@@ -1,0 +1,181 @@
+{
+    "taxonLatname": "Arctocephalus pusillus",
+    "taxonAuthor": "(Schreber, 1775)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "52c66a8b-8074-467d-8f1e-9ffddc917737",
+    "taxonNuid": "001007003002002004004002001003001006001006",
+    "gbifNubkey": 2433475,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2860-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2860-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2860-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 434,
+    "vernacular": {
+        "en": "Cape fur seal"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape fur seal",
+            "Brown Fur Seal",
+            "South African fur seal",
+            "Tasmanian fur seal",
+            "giant fur seal"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Two subspecies are recognized and together are referred to as the Brown fur seal. The southern African subspecies <i>A. pusillus pusillus</i> is called the Cape fur seal, African or South African fur seal, while the Australian subspecies <i>A. pusillus doriferus </i>is known<i> </i>as the Australian fur seal.</p>",
+            "shortTextKey": "taxon_text_9_4125",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>The largest of the fur seal family (Otariidae) and distinguished from ‘true’ seals (family Phocidae) by having external ears and by their ability to turn the hind flipper forward for more efficient locomotion on land.</p><p>Head broad with small external ear flaps, long whiskers and powerful jaws bearing formidable canine teeth, posterior teeth cusped. Front flippers large and provide main propulsion underwater, hind flippers shorter and used mainly for steering underwater and for locomotion on land. Colour chocolate brown, becoming darkened when wet. Pups black.</p>",
+            "shortTextKey": "taxon_text_1_4126",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Strongly sexually dimorphic. Males (bulls) much the larger, reaching 2.3 m in length and a mass of 200–300 kg, females (cows) much smaller at about 1.8 m and average of 120 kg (Australian subspecies slightly smaller).</p>",
+            "shortTextKey": "taxon_text_2_4127",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South African subspecies restricted to Namibia and South Africa. Australian subspecies only in southern Australia.</p><p><u>Local/Regional:</u> Northern Namibia to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_4128",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Occupy about 24 breeding colonies distributed between Cape Cross in Northern Namibia and Black Rocks in Algoa Bay. Historically almost all these were on islands, presumably to avoid predation and disturbance by humans. Most of the largest breeding colonies now occur on the mainland though, either in conservation areas or mining areas with restricted access.</p><p>Spend much of their time at sea, but large males haul out on the breeding colonies in October and establish small territories there, the most desirable territories being those closest to the water. Cows arrive in November and the males establish harems of 10–40 females. The black pups are born shortly thereafter and remain with their mothers until they are weaned at an age of 8–10 months.</p><p>Often comes into conflict with the fishing industry, not only because the population consumes about 2 million tons of fish each year, a significant proportion of which comprises species also sought after by fisheries, but also because they may interfere with fishing operations. For example seals may take fish captured on lines or in nets, or themselves get caught in trawl nets or other fishing gear.</p><p>Historically fur seals have been extensively exploited and by the end of the 19th century populations had been greatly reduced and many colonies exterminated. Exploitation was subsequently controlled by legislation and finally banned in South Africa from 1973 (although it continues in Namibia). This has resulted in a substantial recovery and the population now stands at about 2 million individuals. One implication of this is that seals have recolonised islands which had become significant breeding sites for seabirds, resulting in another conflict between endangered bird colonies and seals!</p><p>Seals are themselves predated by Great white sharks, which gather around breeding colonies, where they attract shark-spotting tourist operations. Pups in mainland colonies are also taken by Black-backed jackals and Brown hyenas.</p>",
+            "shortTextKey": "taxon_text_4_4129",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Generalist and opportunistic carnivores with a diet comprising mostly fish (at least 28 different species), but also significant amounts of cephalopods (both octopus and squid) and crustaceans (rock lobster, mantis shrimp, crabs and even mud prawns).</p>",
+            "shortTextKey": "taxon_text_5_4130",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Fur seals have an interesting breeding strategy in that copulation occurs just after the female has given birth, but implantation of the embryo is delayed by 4 months, so that the subsequent 8-month pregnancy results in the birth of the next pup exactly a year after the previous birth and coinciding once again with haul out time! Females become sexually mature at an age of about 3–4 and usually bear their first pups at 4–5.</p>",
+            "shortTextKey": "taxon_text_6_4131",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only resident seal in the region, although occasionally vagrant Leopard seals and Southern elephant seals may be found on the coastline.</p>",
+            "shortTextKey": "taxon_text_7_4132",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 362).<br><br>David, JHM (1987). Diet of the South African fur seal (1974–1985) and an assessment of competition with fisheries in southern Africa. <i>South African Journal of Marine Science</i>, 5(1), 693-713.<br><br>Wickens, PA, David, JHM, Shelton, PA & Field, JG (1991). Trends in harvests and pup numbers of the South African fur seal: implications for management. <i>South African Journal of Marine Science</i>, 11(1), 307-326.",
+            "shortTextKey": "taxon_text_8_4133",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2860-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2860-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2860-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2860-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2860-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2860-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2859-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2859-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2859-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2862-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2862-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2862-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2861-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2861-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2861-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Phoca pusilla",
+            "taxonAuthor": "Schreber, 1775"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

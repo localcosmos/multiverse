@@ -1,0 +1,122 @@
+{
+    "taxonLatname": "Griffithsius latipes",
+    "taxonAuthor": "(Griffiths, 1976)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "83ea1ca2-0dd3-4fff-bb56-f4193e7b3787",
+    "taxonNuid": "00100300a00100100200100100600200k001",
+    "gbifNubkey": 6462797,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 457,
+    "vernacular": {
+        "en": "Spade-foot amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spade-foot amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Mandibulophoxus latipes, Basuto latipes</i></p>",
+            "shortTextKey": "taxon_text_9_4357",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Stout, white amphipod with broad limbs adapted for burrowing in sand. The head bears an unusual and distinctive pointed ‘hood’ that projects forward over the eyes, much like the peak of a cap. The first two pair of limbs bear small claws and in the third pair the last joint is expanded into a distinctive spade-like lobe edged by large spines to aid in digging. The basal joints of the last pair of limbs are greatly expanded and lobed.</p>",
+            "shortTextKey": "taxon_text_1_4358",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 7 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_4359",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia and South Africa.</p><p><u>Local/Regional:</u> Namibia to Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_4360",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Burrows through sand on exposed sandy beaches, much like a mole.</p>",
+            "shortTextKey": "taxon_text_4_4361",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to scavenge on detritus and any other food particles found between the sand grains.</p>",
+            "shortTextKey": "taxon_text_5_4362",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, the eggs are retained within a marsupial chamber between the walking legs of the female, where they develop into fully-formed juveniles prior to release.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_4363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The tapering peak-like hood extending over the front of the head immediately identifies this species as a member of the family Phoxocephalidae (phoxo=tapering, cephala = head). This is the only species in the genus, which is named after the author of this entry, but it can be confused with <i>Basuto stimpsoni</i>, which has similar habits and overall appearance, but lacks the spade-like foot on the third pair of legs.</p>",
+            "shortTextKey": "taxon_text_7_4364",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 96).<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 27).<br><br>Jarrett, NE & Bousfield, EL (1994). The Amphipod superfamily Phoxocephaloidea on the Pacific coast of north America. Family Phoxocephalidae. Part II. Subfamilies Pontharpiniidae, Parharpiniinae, Brolginae, Phoxocephalinae, and Harpiniinae.  <i>Amphipacifica</i>, 1(2), 71-150.",
+            "shortTextKey": "taxon_text_8_4365",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Mandibulophoxus latipes",
+            "taxonAuthor": "Griffiths, 1976"
+        },
+        {
+            "taxonLatname": "Basuto latipes",
+            "taxonAuthor": "(Griffiths, 1976)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

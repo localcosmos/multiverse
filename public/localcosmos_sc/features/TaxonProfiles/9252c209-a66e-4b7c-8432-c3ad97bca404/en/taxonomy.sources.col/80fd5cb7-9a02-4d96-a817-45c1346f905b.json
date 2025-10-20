@@ -1,0 +1,208 @@
+{
+    "taxonLatname": "Dasispermum suffruticosum",
+    "taxonAuthor": "(Bergius) B. L. Burtt",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "80fd5cb7-9a02-4d96-a817-45c1346f905b",
+    "taxonNuid": "00600600500200100102q006",
+    "gbifNubkey": 3642907,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2784-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2784-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2784-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1003,
+    "vernacular": {
+        "en": "Dune celery"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dune celery",
+            "Sea parsley"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling perennial with a woody base and large, fleshy, parsley-like leaves that are twice-divided into numerous narrow-toothed leaflets that often curl inwards. Leaves usually green, but may be grey or tinged with purple. Compound clusters of small white flowers form on a flat head borne at the end of an erect fleshy stalk. Fruits broadly oval with five thick longitudinal ribs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9466",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 30 cm tall. Flower spikes up to 15 cm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9467",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Namaqualand to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_9468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common salt-tolerant coastal species found on coastal dunes, where it is among the most abundant plants near to high water mark.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_9469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to February.</p>",
+            "shortTextKey": "taxon_text_6_9471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily recognised by distinctive leaves and flowers and the only regional species in the genus.</p>",
+            "shortTextKey": "taxon_text_7_9472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2784-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2784-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2784-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2784-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2784-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2784-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Capnophyllum jacquinii",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Conium rigens",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Cicuta suffruticosa",
+            "taxonAuthor": "Poir."
+        },
+        {
+            "taxonLatname": "Bunium rigens",
+            "taxonAuthor": "(L.) Spreng."
+        },
+        {
+            "taxonLatname": "Heteroptilis suffruticosa",
+            "taxonAuthor": "(P. J. Bergius) Leute"
+        },
+        {
+            "taxonLatname": "Ligusticum capense",
+            "taxonAuthor": "(Burm. fil.) DC."
+        },
+        {
+            "taxonLatname": "Dasispermum maritimum",
+            "taxonAuthor": "(L.) Raf."
+        },
+        {
+            "taxonLatname": "Conium suffruticosum",
+            "taxonAuthor": "P. J. Bergius"
+        },
+        {
+            "taxonLatname": "Heteroptilis arenaria",
+            "taxonAuthor": "E. Mey. ex Meisn."
+        },
+        {
+            "taxonLatname": "Conium rigidum",
+            "taxonAuthor": "Christm."
+        },
+        {
+            "taxonLatname": "Trachyspermum rigens",
+            "taxonAuthor": "(L.) G. Don"
+        },
+        {
+            "taxonLatname": "Cnidium suffruticosum",
+            "taxonAuthor": "(P. J. Bergius) Cham. & Schltdl."
+        },
+        {
+            "taxonLatname": "Conium jacquinii",
+            "taxonAuthor": "(DC.) D. Dietr."
+        },
+        {
+            "taxonLatname": "Trachydium rigens",
+            "taxonAuthor": "(L.) M. Hiroe"
+        },
+        {
+            "taxonLatname": "Athamanta capensis",
+            "taxonAuthor": "Burm. fil."
+        },
+        {
+            "taxonLatname": "Sium patulum",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Selinum suffruticosum",
+            "taxonAuthor": "(P. J. Bergius) Benth. & Hook. fil."
+        },
+        {
+            "taxonLatname": "Cicuta rigens",
+            "taxonAuthor": "Lam."
+        },
+        {
+            "taxonLatname": "Ptychotis rigens",
+            "taxonAuthor": "(L.) Harv."
+        },
+        {
+            "taxonLatname": "Conium africanum",
+            "taxonAuthor": "Jacq."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

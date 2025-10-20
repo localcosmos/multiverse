@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Sunamphitoe africana",
+    "taxonAuthor": "(Milne & Griffiths, 2013)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "212cdb94-cb6f-46f9-8da8-aee63543a3a7",
+    "taxonNuid": "00100300a00100b00300200400100g001",
+    "gbifNubkey": 9236106,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-656-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-656-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-656-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 36,
+    "vernacular": {
+        "en": "African kelp-curler"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African kelp-curler"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>This species has a complicated history as far as names are concerned. It was first reported in South Africa by Griffiths (1979), who identified it as <i>Amphithoe humeralis, </i>a species previously known only from the Pacific coast of North America. However, Milne and Griffiths (2013) concluded that it merited separation from that northern hemisphere species, which had in the interim been moved to the genus <i>Peramphithoe</i>, and thus re-named the South African form as <i>P. africana</i>. To further complicate matters Peart (2017) amalgamated <i>Peramphithoe</i> into the genus <i>Sunamphitoe</i>, so the species now becomes <i>S. africana</i>!</p>",
+            "shortTextKey": "taxon_text_9_252",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Relatively large, laterally-flattened, smooth-bodied, pale amphipod. Claws moderate in size, first pair slightly smaller than the second. Tips of posterior pairs legs bearing strongly-curved claws (presumably to grip kelp fronds for nest-making). Last pair of abdominal appendages (uropod 3) with characteristic short, paddle-like branches, the outer branch armed with two large, terminal, hook-like spines.&nbsp;</p><p>Best recognized by its habit of constructing nests by folding over the tips of the secondary fronds of the kelp <i>Ecklonia maxima</i> and sealing these together with silk to form tubular nests.</p>",
+            "shortTextKey": "taxon_text_1_253",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large for an amphipod, body length up to&nbsp;15 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_254",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Currently known only from Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Originally discovered in 1978 and described in 1979 from samples collected at Oudekraal, on the Cape Peninsula, and fairly common at that time (136 specimens collected!). Surprisingly, the species has hardly ever been seen since, despite considerable research being undertaken on kelps and their associated fauna in the region.</p><p>&nbsp;The biology is very distinctive, adults folding over the tips of kelp fronds and gluing these together some 20 mm above the fold, thus make a tubular home, which they then consume from the inside, progressively moving the occupied chamber backwards along the frond as they consume its tip. Chambers contained up to 121 individuals, comprising usually 2-3 adults and their developing young.</p>",
+            "shortTextKey": "taxon_text_4_256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on fronds of kelp that form the walls of the chamber.</p>",
+            "shortTextKey": "taxon_text_5_257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Males copulate with females and inseminate the eggs when they are released into the marsupium, which is situated between the legs of the female. There they develop into fully-formed juveniles before being released. There seems to be an element of parental care in this species, as quite large juveniles are often found sharing nests with adults.</p>",
+            "shortTextKey": "taxon_text_6_258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1979). A redescription of the kelp curler <i>Ampithoe humeralis</i> (Crustacea, Amphipoda) from South Africa and its relationship to <i>Macropisthopous</i>. <i>Annals of the South African Museum</i>, 79, 131-138.<br><br>Milne, R & Griffiths, CL (2013). Additions to and revisions of the amphipod (Crustacea: Amphipoda) fauna of South Africa, with a list of currently known species from the region. <i>African Natural History</i>, 9, 61-90.<br><br>Peart, RA (2017). Analysis of the genus <i>Sunamphitoe</i> Spence Bate, 1857 (Amphipoda: Ampithoidae) with descriptions of eight new species. <i>Zootaxa</i>, 4269(3), 301.",
+            "shortTextKey": "taxon_text_8_260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-656-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-656-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-656-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-656-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-656-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-656-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Peramphithoe africana",
+            "taxonAuthor": "Milne & Griffiths, 2013"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

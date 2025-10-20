@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Ophiarachnella capensis",
+    "taxonAuthor": "(Bell, 1888)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7be41f94-9803-4393-b67f-5c6af0d96d8f",
+    "taxonNuid": "00100c00100200200100200200b005001004002",
+    "gbifNubkey": 2276447,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2427-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2427-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2427-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 201,
+    "vernacular": {
+        "en": "Banded brittle star"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Banded brittle star"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Pectinura capensis</i></p>",
+            "shortTextKey": "taxon_text_9_1835",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Disc round and covered with granules, the radial shields large and oval. Arms fairly smooth, with only very short lateral spines. Most easily identified by its striking and attractive colour patterns, which make it a favorite with photographers!</p><p>Colour fairly variable, but disc cream to purplish-pink with irregular white blotches which may be diffuse or formed into clear bands. Arms strongly banded in broad white to pale-purple and red sections, these often being separated by thinner white or dark-brown rings.</p>",
+            "shortTextKey": "taxon_text_1_1836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Arm length up to 45 mm.</p>",
+            "shortTextKey": "taxon_text_2_1837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Vema Seamount.</p><p><u>Local/Regional:</u> Saldanha Bay to Kosi Bay.</p>",
+            "shortTextKey": "taxon_text_3_1838",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found singly under boulders or on gravel or sand adjacent to rock.</p>",
+            "shortTextKey": "taxon_text_4_1839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on detrital particles on the sediment surface as arms are not held up into the water column. In most deposit feeding brittle stars the tube feet grasp prey items and compact them into balls, which are then transported along cilial tract on the underside of the arms to the central mouth.</p>",
+            "shortTextKey": "taxon_text_5_1840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically know for this species. Some other local members of this family, such as <i>Ophioderma wahlbergii</i>, are brooders, but brooding has not been reported in this species, which is thus probably a broadcast spawner.</p>",
+            "shortTextKey": "taxon_text_6_1841",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The distinctive colour pattern and relatively smooth arms easily distinguish this species from others in the region, although there are other species with similarly banded arms occur in the more tropical waters of KwaZulu-Natal, such as <i>O.&nbsp;gorgonia </i>and <i>Ophiodyscrita acosmeta</i>.</p>",
+            "shortTextKey": "taxon_text_7_1842",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 230).<br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 183).<br><br>Landschoff, J & Griffiths, CL (2015). Brooding behavior in the shallow‐water brittle star Ophioderma wahlbergii. <i>Invertebrate biology</i>, 134(2), 168-179.<br><br>Olbers, JM, Griffiths, CL, O'Hara, TD & Samyn, Y (2019). Field guide to the brittle and basket stars (Echinodermata: Ophiuroidea) of South Africa <i>ABC Taxa</i>, 19 1–346 (p. 145).",
+            "shortTextKey": "taxon_text_8_1843",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2427-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2427-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2427-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2427-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2427-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2427-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-13-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-13-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-13-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pectinura capensis",
+            "taxonAuthor": "Bell, 1888"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

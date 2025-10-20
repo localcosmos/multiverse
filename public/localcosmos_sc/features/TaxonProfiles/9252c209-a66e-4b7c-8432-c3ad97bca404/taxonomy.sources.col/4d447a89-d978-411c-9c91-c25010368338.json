@@ -1,0 +1,329 @@
+{
+    "taxonLatname": "Obelia dichotoma",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4d447a89-d978-411c-9c91-c25010368338",
+    "taxonNuid": "001008003001002005007003",
+    "gbifNubkey": 5185976,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-316-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-316-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-316-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 475,
+    "vernacular": {
+        "en": "Thin-walled obelia"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Thin-walled obelia",
+            "sea thread hydroid",
+            "thin-walled obelia"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, creeping hydroid with short upright, branched or unbranched stems emerging at intervals from root-like tubes cemented to the substratum. Stems tend to zig-zag slightly and bear a polyp at each bend, these emerging alternately on either side of main stem. Polyps each have a very short, ringed stalk and pale tentacles and lie within a rigid, cup-like hydrotheca, which has a smooth margin. Reproductive bodies seasonal and if present flask-like and born in the axes between the main stem and the lateral hydrothecae.</p>",
+            "shortTextKey": "taxon_text_1_4560",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Vertical stems typically about 10-30 mm tall, can reach 90 mm.</p>",
+            "shortTextKey": "taxon_text_2_4561",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan, with some populations, including those in South Africa, though to be introduced by shipping.</p><p><u>Local/Regional:</u> Whole coast, intertidal to up to 100 m depth.</p>",
+            "shortTextKey": "taxon_text_3_4562",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common fouling organism common on ships’ hulls, in harbours and on buoys, etc., as well as in natural habitats especially on surfaces of algae.</p>",
+            "shortTextKey": "taxon_text_4_4563",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on small particles and planktonic organisms in the water column.</p>",
+            "shortTextKey": "taxon_text_5_4564",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies grow by asexual reproduction, with new vertical branches arising from the expanding network of basal stems. Reproductive individuals give rise to fully-formed medusae, which are either male or female and in turn produce sperm of eggs which develop into planula larvae which settle and grow into new colonies to complete the lifecycle.</p>",
+            "shortTextKey": "taxon_text_6_4565",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several <i>Obelia</i> species in the region. The Zigzag hydroid <i>Obelia geniculata</i> has a markedly thickened stem below each polyp and is common on kelps. The stems are never branched.</p>",
+            "shortTextKey": "taxon_text_7_4566",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 52).<br><br>Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 28).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 227).",
+            "shortTextKey": "taxon_text_8_4567",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-316-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-316-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-316-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-316-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-316-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-316-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Laomedea gracilis",
+            "taxonAuthor": "Dana, 1846"
+        },
+        {
+            "taxonLatname": "Obelia nigrocaulus",
+            "taxonAuthor": "Hilgendorf, 1898"
+        },
+        {
+            "taxonLatname": "Campanularia caulini",
+            "taxonAuthor": "Delle Chiaje, 1841"
+        },
+        {
+            "taxonLatname": "Campanularia brasiliensis",
+            "taxonAuthor": "Meyen, 1834"
+        },
+        {
+            "taxonLatname": "Campanularia cavolinii",
+            "taxonAuthor": "Deshayes & Edwards, 1836"
+        },
+        {
+            "taxonLatname": "Obelia articulata",
+            "taxonAuthor": "(Agassiz, 1865)"
+        },
+        {
+            "taxonLatname": "Obelia everta",
+            "taxonAuthor": "Hargitt, 1927"
+        },
+        {
+            "taxonLatname": "Campanularia obtusidens",
+            "taxonAuthor": "Jäderholm, 1904"
+        },
+        {
+            "taxonLatname": "Obelia chinensis",
+            "taxonAuthor": "Marktanner-Turneretscher, 1890"
+        },
+        {
+            "taxonLatname": "Obelia borealis",
+            "taxonAuthor": "Nutting, 1901"
+        },
+        {
+            "taxonLatname": "Obelia angulosa",
+            "taxonAuthor": "Bale, 1888"
+        },
+        {
+            "taxonLatname": "Obelia coughtreyi",
+            "taxonAuthor": "Bale, 1924"
+        },
+        {
+            "taxonLatname": "Obelia griffini",
+            "taxonAuthor": "Calkins, 1899"
+        },
+        {
+            "taxonLatname": "Obelia sinuosa",
+            "taxonAuthor": "Leloup, 1935"
+        },
+        {
+            "taxonLatname": "Obelia equilateralis",
+            "taxonAuthor": "Fraser, 1938"
+        },
+        {
+            "taxonLatname": "Sertularia dichotoma",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Obelia solowetzkiana",
+            "taxonAuthor": "Schydlwsky, 1902"
+        },
+        {
+            "taxonLatname": "Eucope articulata",
+            "taxonAuthor": "A. Agassiz, 1865"
+        },
+        {
+            "taxonLatname": "Obelia helgolandica",
+            "taxonAuthor": "Hartlaub, 1884"
+        },
+        {
+            "taxonLatname": "Laomedea dichotoma",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Laomedea divaricata",
+            "taxonAuthor": "McCrady, 1859"
+        },
+        {
+            "taxonLatname": "Obelia alternata",
+            "taxonAuthor": "Fraser, 1938"
+        },
+        {
+            "taxonLatname": "Obelia adelungi",
+            "taxonAuthor": "Hartlaub, 1884"
+        },
+        {
+            "taxonLatname": "Laomedea sargassi",
+            "taxonAuthor": "Broch, 1913"
+        },
+        {
+            "taxonLatname": "Obelia obtusidens",
+            "taxonAuthor": "(Jäderholm, 1904)"
+        },
+        {
+            "taxonLatname": "Obelia dubia",
+            "taxonAuthor": "Nutting, 1901"
+        },
+        {
+            "taxonLatname": "Obelia braziliensis",
+            "taxonAuthor": "(Meyen, 1834)"
+        },
+        {
+            "taxonLatname": "Obelia fragilis",
+            "taxonAuthor": "Calkins, 1899"
+        },
+        {
+            "taxonLatname": "Obelia surcularis",
+            "taxonAuthor": "Calkins, 1899"
+        },
+        {
+            "taxonLatname": "Obelia commissuralis",
+            "taxonAuthor": "McCrady, 1859"
+        },
+        {
+            "taxonLatname": "Obelia arruensis",
+            "taxonAuthor": "Marktanner-Turneretscher, 1890"
+        },
+        {
+            "taxonLatname": "Obelia rhunicola",
+            "taxonAuthor": "Billard, 1901"
+        },
+        {
+            "taxonLatname": "Obelia cheloniae",
+            "taxonAuthor": "(Allman, 1888)"
+        },
+        {
+            "taxonLatname": "Obelia biserialis",
+            "taxonAuthor": "Fraser, 1948"
+        },
+        {
+            "taxonLatname": "Obelia pygmaea",
+            "taxonAuthor": "Coughtrey, 1876"
+        },
+        {
+            "taxonLatname": "Eucope parasitica",
+            "taxonAuthor": "A. Agassiz, 1865"
+        },
+        {
+            "taxonLatname": "Campanularia cheloniae",
+            "taxonAuthor": "Allman, 1888"
+        },
+        {
+            "taxonLatname": "Campanularia maior",
+            "taxonAuthor": "Meyen, 1834"
+        },
+        {
+            "taxonLatname": "Obelia nodosa",
+            "taxonAuthor": "Bale, 1924"
+        },
+        {
+            "taxonLatname": "Obelia racemosa",
+            "taxonAuthor": "Fraser, 1941"
+        },
+        {
+            "taxonLatname": "Campanularia dichotoma",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Obelia undotheca",
+            "taxonAuthor": "Stechow, 1923"
+        },
+        {
+            "taxonLatname": "Obelia plicata",
+            "taxonAuthor": "Hincks, 1868"
+        },
+        {
+            "taxonLatname": "Obelia gracilis",
+            "taxonAuthor": "Calkins, 1899"
+        },
+        {
+            "taxonLatname": "Obelia australis",
+            "taxonAuthor": "von Lendenfeld, 1885"
+        },
+        {
+            "taxonLatname": "Obelia congdoni",
+            "taxonAuthor": "Hargitt, 1909"
+        },
+        {
+            "taxonLatname": "Schizocladium ramosum",
+            "taxonAuthor": "Allman, 1871"
+        },
+        {
+            "taxonLatname": "Gonothyraea integra",
+            "taxonAuthor": "Fraser, 1942"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

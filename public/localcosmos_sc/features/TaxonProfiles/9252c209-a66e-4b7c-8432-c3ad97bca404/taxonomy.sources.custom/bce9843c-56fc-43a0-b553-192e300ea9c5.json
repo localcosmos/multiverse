@@ -1,0 +1,165 @@
+{
+    "taxonLatname": "Australophialus turbonis",
+    "taxonAuthor": "(Barnard, 1925)",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "bce9843c-56fc-43a0-b553-192e300ea9c5",
+    "taxonNuid": "001003001002001001",
+    "gbifNubkey": 4805479,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2127-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2127-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2127-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 550,
+    "vernacular": {
+        "en": "Long-necked burrowing barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Long-necked burrowing barnacle",
+            "Australophialus turbonis"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Members of this unusual group are small, soft-bodied barnacles that lack their own shells, but instead occupy burrows excavated into other calcareous substrata, particularly mollusk shells (but also sometimes corals, limestone and even coralline algae). Sexes are separate (unlike other barnacles, which are hermaphroditic), but males are minute, non-feeding and live attached to the much larger females.</p><p>This species can be distinguished by its bottle-shaped body, long ‘neck’ and small, circular aperture. The body and feeding appendages are white to light red.</p>",
+            "shortTextKey": "taxon_text_1_5291",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Female up to 3 mm, aperture less than 1mm, males 0.4 mm<strong>&nbsp;</strong></p>",
+            "shortTextKey": "taxon_text_2_5292",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic</p><p><u>Local/Regional:</u> Found only in SW Cape, from about Paternoster to Hermanus.</p>",
+            "shortTextKey": "taxon_text_3_5293",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Females excavate burrows in the shells of various larger gastropod molluscs, especially Turban shells (<i>Turbo sarmarticus,</i> and<i> T. cidaris</i>) &nbsp;which may host up to 100 females per individual host. Much smaller numbers also recovered from<i> Burnupena, Haliotis, Fucinus,</i> and<i> Crepidula </i>shells. The burrow openings are very small and hence easily missed, so the species is probably much more common than present records suggest. There may be up to 17 dwarf males attached to each female.</p>",
+            "shortTextKey": "taxon_text_4_5294",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Females feed by projecting their feather-like limbs through the burrow opening and combing them through the water.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_5295",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most barnacles are hermaphroditic, but burrowing barnacles are unusual in having separate sexes, the males being tiny, non-feeding and attached to the much larger females. In this group the early larvae are brooded inside the mantle cavity and later released to seek out new hosts.</p>",
+            "shortTextKey": "taxon_text_6_5296",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Replaced by the similar<i> Australophialus utinomii </i>in the Eastern Cape and KwaZulu-Natal. In the Western Cape may occur in the same shells as the larger and very common <i>Weltneria spinosa;</i> but that species is bright red, has a short neck and larger oval ‘boat-shaped’ aperture from which a pair of distinct hook-like processes project.</p>",
+            "shortTextKey": "taxon_text_7_5297",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Botha, TPA & Griffiths, CL (2021). South African Acrothoracia (Crustacea: Cirripedia). <i>Zootaxa</i>, 4949 (1), 048–078.",
+            "shortTextKey": "taxon_text_8_5298",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2127-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2127-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2127-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2127-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2127-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2127-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2128-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2128-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2128-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2129-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2129-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2129-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2130-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2130-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2130-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

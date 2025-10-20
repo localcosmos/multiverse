@@ -1,0 +1,2286 @@
+{
+    "name": "Dorids",
+    "description": null,
+    "verboseName": "Dorids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1894-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1894-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1894-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1893-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1893-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1893-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1892-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1892-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1892-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 7,
+            "minImages": 0,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Lecithophorus capensis",
+            "taxonAuthor": "Macnae, 1958",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "59777a4e-1b10-4024-9b0a-378cdaaa8dfb",
+            "taxonNuid": "00100k00700d003002001001002002006001005003001",
+            "slug": "lecithophorus-capensis",
+            "localizedSlug": {
+                "en": "ghost-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-977-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-977-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-977-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-978-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-978-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-978-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-979-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-979-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-979-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-980-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-980-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-980-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-977-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-977-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-977-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Acanthodoris planca",
+            "taxonAuthor": "Fahey & Á. Valdés, 2005",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "28317f62-cb06-4773-87d6-923168c7ea74",
+            "taxonNuid": "00100k00700d00300200100100200200400600100d",
+            "slug": "acanthodoris-planca",
+            "localizedSlug": {
+                "en": "fluffy-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1541-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1541-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1541-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1541-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1541-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1541-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aegires ninguis",
+            "taxonAuthor": "Fahey & Gosliner, 2004",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c3c127b9-224d-4eb3-ad25-afe717550971",
+            "taxonNuid": "00100k00700d00300200100100200200400100100j",
+            "slug": "aegires-ninguis",
+            "localizedSlug": {
+                "en": "cape-knobbed-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1469-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1469-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1469-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1469-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1469-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1469-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aldisa benguelae",
+            "taxonAuthor": "Gosliner, 1985",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ed519910-3fc4-42dd-a6de-f62f1ea7758c",
+            "taxonNuid": "00100k00700d003002001001002002001003001007",
+            "slug": "aldisa-benguelae",
+            "localizedSlug": {
+                "en": "cape-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1470-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1470-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1470-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1470-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1470-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1470-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aldisa sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "0384fb8f-dccf-4431-9e60-fd2137ddc829",
+            "taxonNuid": "001005002004001001",
+            "slug": "aldisa-sp-1",
+            "localizedSlug": {
+                "en": "clouded-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1471-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1471-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1471-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1471-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1471-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1471-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aldisa trimaculata",
+            "taxonAuthor": "Gosliner, 1985",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a88a9ca8-6e59-4521-879e-0c2bbaf1340d",
+            "taxonNuid": "00100k00700d00300200100100200200100300100k",
+            "slug": "aldisa-trimaculata",
+            "localizedSlug": {
+                "en": "three-spot-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1542-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1542-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1542-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1542-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1542-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1542-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ancula sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "2fcef6ed-8977-4f1a-bc86-b834d90c58e7",
+            "taxonNuid": "001005002004002001",
+            "slug": "ancula-sp",
+            "localizedSlug": {
+                "en": "giraffe-spot-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1507-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1507-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1507-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1505-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1505-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1505-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1506-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1506-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1506-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1508-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1508-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1508-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1507-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1507-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1507-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aphelodoris brunnea",
+            "taxonAuthor": "Bergh, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3d5faa85-7bce-41e7-b98c-33f649be9aa4",
+            "taxonNuid": "00100k00700d003002001001002002002002001003",
+            "slug": "aphelodoris-brunnea",
+            "localizedSlug": {
+                "en": "variable-true-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1498-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1498-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1498-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1500-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1500-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1500-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1498-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1498-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1498-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ceratosoma ingozi",
+            "taxonAuthor": "Gosliner, 1996",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "98db4005-c931-401a-bb5d-b33002ea70ce",
+            "taxonNuid": "00100k00700d003002001001002002001004002001005",
+            "slug": "ceratosoma-ingozi",
+            "localizedSlug": {
+                "en": "inkspot-pantechnicon-dorid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1547-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1547-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1547-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1546-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1546-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1546-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1547-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1547-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1547-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Corambe sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "bec842d4-9c6f-4923-b839-883c004e0d08",
+            "taxonNuid": "001005002004006001",
+            "slug": "corambe-sp",
+            "localizedSlug": {
+                "en": "cape-notch-gill-dorid"
+            },
+            "images": [],
+            "primaryImage": null
+        },
+        {
+            "taxonLatname": "Crimora sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c1bb30e8-acc9-4618-9553-1c3f0be883c1",
+            "taxonNuid": "001005002004008001",
+            "slug": "crimora-sp",
+            "localizedSlug": {
+                "en": "cape-peppercorn-forked-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1660-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1660-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1660-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1661-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1661-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1661-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1662-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1662-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1662-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1660-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1660-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1660-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dendrodoris caesia",
+            "taxonAuthor": "(Bergh, 1907)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "650d350f-5339-4c39-aede-e7fe9cac0271",
+            "taxonNuid": "00100k00700d003002001001002002005001002008",
+            "slug": "dendrodoris-caesia",
+            "localizedSlug": {
+                "en": "blue-speckled-sucking-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2940-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2940-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2940-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1669-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1669-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1669-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2944-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2944-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2944-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1665-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1665-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1665-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1667-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1667-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1667-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2939-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2939-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2939-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1671-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1671-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1671-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1669-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1669-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1669-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Doriopsilla sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "4ae45eca-a8bd-400a-9cd3-167c5c592851",
+            "taxonNuid": "001005002004009001",
+            "slug": "doriopsilla-sp-1",
+            "localizedSlug": {
+                "en": "scribbled-sucking-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2176-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2176-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2176-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1762-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1762-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1762-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1760-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1760-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1760-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1761-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1761-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1761-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2176-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2176-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2176-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Doriopsilla capensis",
+            "taxonAuthor": "Bergh, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "702c0ecd-c73f-431d-947c-386b97cb73f4",
+            "taxonNuid": "00100k00700d003002001001002002005001003005",
+            "slug": "doriopsilla-capensis",
+            "localizedSlug": {
+                "en": "cape-sucking-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1763-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1763-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1763-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1764-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1764-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1764-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1763-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1763-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1763-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Doris cf. immonda",
+            "taxonAuthor": "(Risbec, 1928)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "47249555-c9e1-4b3f-85ca-a895a9bccd70",
+            "taxonNuid": "00100500200400a001",
+            "slug": "doris-cf-immonda",
+            "localizedSlug": {
+                "en": "hourglass-true-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1765-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1765-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1765-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1765-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1765-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1765-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Goniobranchus heatherae",
+            "taxonAuthor": "(Gosliner, 1994)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9396cd48-7a97-4a40-ac60-d995b39cb7f5",
+            "taxonNuid": "00100k00700d00300200100100200200100400100900s",
+            "slug": "goniobranchus-heatherae",
+            "localizedSlug": {
+                "en": "red-spotted-rainbow-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1820-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1820-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1820-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1821-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1821-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1821-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1822-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1822-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1822-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1817-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1817-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1817-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1818-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1818-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1818-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1819-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1819-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1819-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1820-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1820-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1820-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hypselodoris capensis",
+            "taxonAuthor": "(Barnard, 1927)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f4a6b85e-13fd-45bc-ada4-92babaa3a98c",
+            "taxonNuid": "00100k00700d00300200100100200200100400200300a",
+            "slug": "hypselodoris-capensis",
+            "localizedSlug": {
+                "en": "cape-split-tooth-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1835-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1835-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1835-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1830-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1830-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1830-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1831-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1831-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1831-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1832-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1832-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1832-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1833-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1833-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1833-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1834-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1834-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1834-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1835-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1835-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1835-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Limacia jellyi",
+            "taxonAuthor": "Toms, Pola, Von der Heyden & Gosliner, 2021",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b41c95d5-8933-4a8f-8880-9aa02896c4c4",
+            "taxonNuid": "00100k00700d003002001001002002006001006006008",
+            "slug": "limacia-jellyi",
+            "localizedSlug": {
+                "en": "kelp-orange-clubbed-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1845-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1845-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1845-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1843-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1843-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1843-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1844-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1844-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1844-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1849-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1849-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1849-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1845-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1845-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1845-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Limacia lucida",
+            "taxonAuthor": "(W. Stimpson, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3d2f7b06-de0a-4039-a1e2-93cd5261975e",
+            "taxonNuid": "00100k00700d00300200100100200200600100600600a",
+            "slug": "limacia-lucida",
+            "localizedSlug": {
+                "en": "reef-orange-clubbed-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2186-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2186-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2186-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1856-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1856-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1856-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1850-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1850-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1850-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2187-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2187-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2187-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2188-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2188-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2188-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2185-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2185-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2185-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2186-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2186-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2186-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Atalodoris sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3e7a2770-7142-43b2-aa10-d4c022674f11",
+            "taxonNuid": "00100500200400f001",
+            "slug": "atalodoris-sp",
+            "localizedSlug": {
+                "en": "naartjie-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1900-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1900-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1900-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1899-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1899-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1899-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1901-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1901-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1901-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1900-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1900-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1900-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Okenia amoenula",
+            "taxonAuthor": "(Bergh, 1907)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3ff09ef0-c0bf-4aba-9120-5af8652a63d9",
+            "taxonNuid": "00100k00700d003002001001002002004005002008003",
+            "slug": "okenia-amoenula",
+            "localizedSlug": {
+                "en": "fiery-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1908-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1908-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1908-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1909-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1909-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1909-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1907-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1907-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1907-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1908-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1908-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1908-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Okenia sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "472b756d-595f-4acb-9b32-112e0ccb4199",
+            "taxonNuid": "00100500200400g001",
+            "slug": "okenia-sp-2",
+            "localizedSlug": {
+                "en": "cappuccino-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1910-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1910-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1910-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1910-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1910-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1910-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Mandelia mirocornata",
+            "taxonAuthor": "Á. Valdés & Gosliner, 1999",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4ab9f25d-3dda-4e45-b93a-56d35eee49a3",
+            "taxonNuid": "00100k00700d003002001001002002005003001001",
+            "slug": "mandelia-mirocornata",
+            "localizedSlug": {
+                "en": "mandelas-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1864-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1864-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1864-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1868-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1868-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1868-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1869-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1869-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1869-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1865-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1865-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1865-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1866-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1866-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1866-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1864-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1864-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1864-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polycera sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "eb327488-ee91-45ad-8a9a-c1e9dc79e293",
+            "taxonNuid": "00100500200400i002",
+            "slug": "polycera-sp-2",
+            "localizedSlug": {
+                "en": "beaded-crowned-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1961-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1961-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1961-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1962-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1962-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1962-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1961-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1961-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1961-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polycera sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "32c8600e-3b8e-4ea6-996d-e332a4189626",
+            "taxonNuid": "00100500200400i001",
+            "slug": "polycera-sp-1",
+            "localizedSlug": {
+                "en": "twin-crowned-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1947-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1947-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1947-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1948-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1948-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1948-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1951-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1951-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1951-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1953-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1953-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1953-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1947-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1947-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1947-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polycera sp. 3",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "774aa41f-fcd4-4cd9-b465-b2c8a41236fb",
+            "taxonNuid": "00100500200400i003",
+            "slug": "polycera-sp-3",
+            "localizedSlug": {
+                "en": "orange-striped-crowned-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1966-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1966-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1966-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1967-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1967-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1967-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1968-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1968-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1968-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1969-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1969-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1969-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1966-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1966-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1966-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polycera capensis",
+            "taxonAuthor": "Quoy & Gaimard, 1824",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0e21d16a-f4ff-459a-888e-ba8252a70226",
+            "taxonNuid": "00100k00700d003002001001002002006001005007007",
+            "slug": "polycera-capensis",
+            "localizedSlug": {
+                "en": "crowned-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1970-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1970-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1970-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1971-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1971-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1971-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1972-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1972-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1972-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1973-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1973-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1973-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1974-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1974-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1974-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1970-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1970-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1970-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polycera hedgpethi",
+            "taxonAuthor": "Er. Marcus, 1964",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "62e92f5b-fd31-4c8e-ace0-1ab6a847981a",
+            "taxonNuid": "00100k00700d00300200100100200200600100500700c",
+            "slug": "polycera-hedgpethi",
+            "localizedSlug": {
+                "en": "dark-crowned-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1975-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1975-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1975-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1975-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1975-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1975-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Rostanga elandsia",
+            "taxonAuthor": "Garovoy, Á. Valdés & Gosliner, 2001",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "935b5cf9-a1ca-4133-a806-77fdfe025360",
+            "taxonNuid": "00100k00700d00300200100100200200200100q00e",
+            "slug": "rostanga-elandsia",
+            "localizedSlug": {
+                "en": "red-sponge-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1978-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1978-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1978-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1986-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1986-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1986-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1977-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1977-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1977-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1976-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1976-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1976-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1978-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1978-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1978-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pelagella castanea",
+            "taxonAuthor": "(Alder & Hancock, 1845)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f6982dd7-d44d-4d9a-9b66-6d6c1d3221c3",
+            "taxonNuid": "00100k00700d003002001001002002004005002009005",
+            "slug": "pelagella-castanea",
+            "localizedSlug": {
+                "en": "chestnut-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1979-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1979-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1979-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1980-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1980-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1980-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1981-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1981-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1981-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1982-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1982-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1982-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1979-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1979-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1979-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Rostanga phepha",
+            "taxonAuthor": "Garovoy, Á. Valdés & Gosliner, 2001",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "db5b426d-1b41-43e4-b98b-5e7af11f80f8",
+            "taxonNuid": "00100k00700d00300200100100200200200100q00j",
+            "slug": "rostanga-phepha",
+            "localizedSlug": {
+                "en": "dalmatian-sponge-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1985-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1985-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1985-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1983-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1983-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1983-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1984-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1984-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1984-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1985-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1985-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1985-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thecacera sp.1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "4d7a0d59-32d0-48af-ad8b-61ac2408c2d5",
+            "taxonNuid": "00100500200400l001",
+            "slug": "thecacera-sp1",
+            "localizedSlug": {
+                "en": "black-spotted-longhorn-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2028-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2028-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2028-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2029-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2029-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2029-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2028-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2028-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2028-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Verconia protea",
+            "taxonAuthor": "(Gosliner, 1994)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "173e7592-215c-473e-8ce7-cb602c1f2380",
+            "taxonNuid": "00100k00700d00300200100100200200100400100b00c",
+            "slug": "verconia-protea",
+            "localizedSlug": {
+                "en": "protea-rainbow-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2031-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2031-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2031-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2030-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2030-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2030-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2031-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2031-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2031-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Trapania cirrita",
+            "taxonAuthor": "Gosliner & Fahey, 2008",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3c19c8df-de30-45a1-bace-1975d71d8bb9",
+            "taxonNuid": "00100k00700d00300200100100200200400500100200c",
+            "slug": "trapania-cirrita",
+            "localizedSlug": {
+                "en": "white-lined-pump-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2032-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2032-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2032-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2033-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2033-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2033-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2033-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2033-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2033-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cadlina sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "2b9e27d3-965f-43a4-9523-d2a9a8a93f77",
+            "taxonNuid": "00100500200400n001",
+            "slug": "cadlina-sp-1",
+            "localizedSlug": {
+                "en": "saddled-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2039-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2039-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2039-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2040-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2040-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2040-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2041-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2041-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2041-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2038-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2038-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2038-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2039-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2039-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2039-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cadlina sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "2e5c40fd-0c5f-47ab-a2c9-76ad7a8e6529",
+            "taxonNuid": "00100500200400n002",
+            "slug": "cadlina-sp-2",
+            "localizedSlug": {
+                "en": "brown-dotted-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2042-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2042-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2042-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2042-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2042-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2042-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Kaloplocamus sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "dcfb75cd-c804-4285-be48-ac1d1b95de68",
+            "taxonNuid": "00100500200400o001",
+            "slug": "kaloplocamus-sp-2",
+            "localizedSlug": {
+                "en": "tasselled-crowned-dorid"
+            },
+            "images": [],
+            "primaryImage": null
+        },
+        {
+            "taxonLatname": "Geitodoris capensis",
+            "taxonAuthor": "Bergh, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "bac9aa2f-5d59-491e-9cc4-87619ff59879",
+            "taxonNuid": "00100k00700d00300200100100200200200100d003",
+            "slug": "geitodoris-capensis",
+            "localizedSlug": {
+                "en": "blotchy-tentacled-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2047-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2047-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2047-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2048-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2048-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2048-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2047-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2047-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2047-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tambja capensis",
+            "taxonAuthor": "(Bergh, 1907)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c273f020-ba96-4c37-ac4d-48c86fd5d551",
+            "taxonNuid": "00100k00700d003002001001002002006001004004007",
+            "slug": "tambja-capensis",
+            "localizedSlug": {
+                "en": "black-wrinkle-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1990-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1990-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1990-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1991-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1991-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1991-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1987-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1987-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1987-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1988-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1988-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1988-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2051-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2051-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2051-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1990-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1990-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1990-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gargamella gravastella",
+            "taxonAuthor": "Garovoy, Á. Valdés & Gosliner, 1999",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cea6a648-2a1a-4b2b-8c3b-d38a20378457",
+            "taxonNuid": "00100k00700d00300200100100200200200100c003",
+            "slug": "gargamella-gravastella",
+            "localizedSlug": {
+                "en": "ocellate-granulated-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2054-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2054-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2054-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2055-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2055-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2055-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2056-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2056-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2056-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2057-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2057-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2057-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2054-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2054-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2054-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cadlina sp. 3",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c2a0e00f-1f83-44a8-813f-019d4857b8d1",
+            "taxonNuid": "00100500200400n003",
+            "slug": "cadlina-sp-3",
+            "localizedSlug": {
+                "en": "galaxy-toothy-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2058-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2058-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2058-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2059-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2059-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2059-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2060-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2060-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2060-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2058-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2058-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2058-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gargamella bovina",
+            "taxonAuthor": "Garovoy, Á. Valdés & Gosliner, 1999",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cbc41611-9787-4194-b29e-10a42088bfd2",
+            "taxonNuid": "00100k00700d00300200100100200200200100c002",
+            "slug": "gargamella-bovina",
+            "localizedSlug": {
+                "en": "cow-granulated-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2061-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2061-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2061-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2062-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2062-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2062-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2061-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2061-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2061-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Jorunna tomentosa",
+            "taxonAuthor": "(Cuvier, 1804)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "fadc8c3e-53db-485b-b837-5a162193d7f5",
+            "taxonNuid": "00100k00700d00300200100100200200200100h00p",
+            "slug": "jorunna-tomentosa",
+            "localizedSlug": {
+                "en": "velvet-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2063-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2063-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2063-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2063-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2063-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2063-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Paradoris sp. 2",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "8f220c4b-f6c4-45a9-a990-97bcb70bd0ea",
+            "taxonNuid": "00100500200400p001",
+            "slug": "paradoris-sp-2",
+            "localizedSlug": {
+                "en": "small-spot-pit-dorid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2066-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2066-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2066-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2066-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2066-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2066-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Listriolobus capensis",
+    "taxonAuthor": "(Jones & Stephen, 1954)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a147b892-e5c6-4d38-886d-95eb4e03d185",
+    "taxonNuid": "001002002012001002002005003",
+    "gbifNubkey": 5712740,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-565-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-565-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-565-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 136,
+    "vernacular": {
+        "en": "Opaque tongue worm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Opaque tongue worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Ochetosoma capense </i>(also previously classified as Phylum Echiura)</p>",
+            "shortTextKey": "taxon_text_9_1185",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Body soft, sausage-shaped and unsegmented. Body wall brown and partially transparent, such that internal organs and muscle bands are visible beneath. A large cupped and tongue-shaped non –retractable proboscis extends from anterior end.</p>",
+            "shortTextKey": "taxon_text_1_1186",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 40 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_1187",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional: </u>About Saldanha Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_1188",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Echiurans were until recently classified as belonging to their own Phylum, the Echiura, but are now recognized to be annelids that have secondarily lost their segmentation. They burrow in soft sediments and are deposit feeders. They have a long, coiled intestine and no specific respiratory organs, gaining oxygen by diffusion though the body wall.</p>",
+            "shortTextKey": "taxon_text_4_1189",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Echiurans are deposit feeders, extending the proboscis to gather light organic food particles from the sediment surface that are then transported to the mouth by cilia.</p>",
+            "shortTextKey": "taxon_text_5_1190",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The sexes are separate and they are broadcast spawners, the fertilized eggs developing into trochophore larvae, some of which go through a segmented stage, supporting the theory that echiurans are descended from more typical segmented annelids.</p>",
+            "shortTextKey": "taxon_text_6_1191",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The unsegmented body and permanently extended scoop-like proboscis fairy easily identify the group. This is the most common genus but includes several other regional species that can be quite difficult to differentiate.</p>",
+            "shortTextKey": "taxon_text_7_1192",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biseswar, R (2019). The echiuran fauna of southern Africa (Class: Echiura, Phylum: Annelida). <i>African Zoology</i>, 54(2), 73–90.<br><br>Biseswar, R & Moodley, LG (1989). The proposed transfer of the echiuran <i>Ochetostoma capense</i> to the genus <i>Listriolobus</i>. <i>South African Journal of Zoology</i>, 24(4), 337–339.<br><br>Jones, CM & Stephen, AC (1954). A new species of echiuroid worm (<i>Ochetostoma capensis</i>) from the Cape Province, South Africa. <i>Transactions of the Royal Society of South Africa</i>, 34(2), 273–278.",
+            "shortTextKey": "taxon_text_8_1193",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-565-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-565-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-565-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-565-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-565-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-565-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ochetostoma capense",
+            "taxonAuthor": "Jones & Stephen, 1954"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

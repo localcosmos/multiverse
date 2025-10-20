@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Alcira elegans",
+    "taxonAuthor": "H. Adams, 1861",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b8b2c0b5-181f-45e3-90c9-064e76529084",
+    "taxonNuid": "00100k00700300e00200l003001",
+    "gbifNubkey": 4600664,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-93-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-93-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-93-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 268,
+    "vernacular": {
+        "en": "Elegant dove shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Elegant dove shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly small whelk-like shell with a smooth conical spire, without steps between whorls. Aperture wide and flared with thin outer lip and short, wide siphonal canal. Outer surface of last whorl with numerous shallow spiral grooves. Colour light brown with wavy dark longitudinal bands. Colour pattern fades in beach-cast or museum specimens, which are then depicted in some guides as plain brown or reddish. Interior reddish-brown.</p>",
+            "shortTextKey": "taxon_text_1_2496",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 15 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2497",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to KwaZulu-Natal south coast<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2498",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little is known about this small species, which is fairly commonly cast ashore, but uncommonly found alive. Usually found in small groups on the undersides of boulders in low-shore pools and gullies. More common towards eastern parts of range.</p>",
+            "shortTextKey": "taxon_text_4_2499",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but other members of this family are unusual in that they appear to be omnivorous, feeding both on dead animal matter and on algae, hydroids and other sessile animals.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2500",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied. Other species in the family, however, lay horny egg capsules singly or in group and attach these to the substratum. In some species eggs hatch into planktonic larvae, but in others the young emerge at the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_2501",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 50 small species from this relatively obscure family found in the region, but most of these have much heavier shells and more marked external sculpturing that this delicate species.</p>",
+            "shortTextKey": "taxon_text_7_2502",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 95).",
+            "shortTextKey": "taxon_text_8_2503",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-93-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-93-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-93-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-93-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-93-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-93-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Mitrella elegans",
+            "taxonAuthor": "(H. Adams, 1861)"
+        },
+        {
+            "taxonLatname": "Alcira elegans var. guttata",
+            "taxonAuthor": "W. H. Turton, 1932"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

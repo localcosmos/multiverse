@@ -1,0 +1,457 @@
+{
+    "name": "Flat-, Round- & Ribbonworms",
+    "description": null,
+    "verboseName": "Flat-, Round- & Ribbonworms",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-686-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-686-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-686-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-803-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-803-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-803-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-811-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-811-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-811-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Anisakis pegreffii",
+            "taxonAuthor": "Campana-Rouget & Biocca, 1955",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "187b2f4f-8bd2-48cf-aee9-f87269ce7c58",
+            "taxonNuid": "00100l002001007006001001002001001004",
+            "slug": "anisakis-pegreffii",
+            "localizedSlug": {
+                "en": "snoek-roundworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-447-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-447-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-447-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-447-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-447-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-447-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cerebratulus fuscus",
+            "taxonAuthor": "(McIntosh, 1874)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c34ce2b7-d58f-47f1-9383-6c7c63ff17b7",
+            "taxonNuid": "00100n00e00100600c014",
+            "slug": "cerebratulus-fuscus",
+            "localizedSlug": {
+                "en": "beach-ribbon-worm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-491-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-491-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-491-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-491-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-491-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-491-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lineus lacticapitatus",
+            "taxonAuthor": "Wheeler, 1940",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4f9f9225-f744-4232-9031-c6cf784110bc",
+            "taxonNuid": "00100n00e00100601101l",
+            "slug": "lineus-lacticapitatus",
+            "localizedSlug": {
+                "en": "white-headed-ribbon-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1748-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1748-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1748-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1748-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1748-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1748-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lineus ornatus",
+            "taxonAuthor": "Wheeler, 1940",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ae89244f-f5e9-4536-b8b1-45fe63768939",
+            "taxonNuid": "00100n00e001006011020",
+            "slug": "lineus-ornatus",
+            "localizedSlug": {
+                "en": "white-collared-ribbon-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-564-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-564-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-564-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-564-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-564-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-564-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Notocomplana erythrotaenia",
+            "taxonAuthor": "(Schmarda, 1859)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "df8fea33-1e2e-4d39-a7a2-36a48d2c9b96",
+            "taxonNuid": "00100s012009001008006001004",
+            "slug": "notocomplana-erythrotaenia",
+            "localizedSlug": {
+                "en": "limpet-flatworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1752-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1752-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1752-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1752-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1752-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1752-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Planocera gilchristi",
+            "taxonAuthor": "Jacubowa, 1906",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cafa1430-c11f-444b-812b-173af00d453e",
+            "taxonNuid": "00100s01200900100b006006009",
+            "slug": "planocera-gilchristi",
+            "localizedSlug": {
+                "en": "gilchrists-flatworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1753-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1753-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1753-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1753-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1753-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1753-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thysanozoon brocchii",
+            "taxonAuthor": "(Risso, 1818)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c979a0bb-c100-4458-b345-880eb82ce6e8",
+            "taxonNuid": "00100s01200900200b009005",
+            "slug": "thysanozoon-brocchii",
+            "localizedSlug": {
+                "en": "carpet-flatworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1749-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1749-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1749-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1751-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1751-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1751-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-667-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-667-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-667-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1750-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1750-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1750-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1749-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1749-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1749-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Nematoda",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "25ef4da2-f872-4d2b-b658-6ee4847bb047",
+            "taxonNuid": "001008",
+            "slug": "nematoda",
+            "localizedSlug": {
+                "en": "free-living-nematodes"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-707-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-707-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-707-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-707-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-707-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-707-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Diclidophoridae",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "06c35737-d4e1-4c0d-a2c5-e2dcee061747",
+            "taxonNuid": "001009001",
+            "slug": "diclidophoridae",
+            "localizedSlug": {
+                "en": "gill-flatworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-708-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-708-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-708-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-708-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-708-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-708-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Echinoplana celerrima",
+            "taxonAuthor": "Haswell, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f02daf7f-fb9e-461f-b2e9-6bd145f2e9cd",
+            "taxonNuid": "00100s012009001008003001001",
+            "slug": "echinoplana-celerrima",
+            "localizedSlug": {
+                "en": "ghost-flatworm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1158-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1158-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1158-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1158-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1158-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1158-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Oregoniplana pantherina",
+            "taxonAuthor": "Sluys, 1989",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ba058281-718b-4631-99fb-67d0cbfefbc6",
+            "taxonNuid": "00100s01200f003002002002002",
+            "slug": "oregoniplana-pantherina",
+            "localizedSlug": {
+                "en": "panther-skittleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1744-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1744-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1744-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1743-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1743-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1743-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1744-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1744-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1744-1000.webp"
+                }
+            }
+        }
+    ]
+}

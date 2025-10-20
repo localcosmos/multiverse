@@ -1,0 +1,200 @@
+{
+    "taxonLatname": "Argonauta argo",
+    "taxonAuthor": "Linnaeus, 1758",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d5785de5-e366-4821-966f-83b8ebb2dcd7",
+    "taxonNuid": "00100k004003004001002001002001001",
+    "gbifNubkey": 5189614,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 949,
+    "vernacular": {
+        "en": "Greater Argonaut"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Greater Argonaut",
+            "common paper nautilus",
+            "paper nautilus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Muscular, smooth-skinned pelagic octopus with extreme sexual dimorphism. Dwarf males never to rarely seen but females occasionally washed ashore, occupying a large brood casing shell, with their head forward, the lateral and ventral arms bent backwards adhering to the inside of the shell, and the dorsal arms either covering the outside shell faces or retracted within. First arm pair of the female has wide distal webs that secrete the paper-thin calcium carbonate shell for brooding the eggs. Identification is easily done based on shell morphology. In this species the bright white brood case is characterised by the lateral rib endings being smooth and not having any tubercles, and the keel being narrow with a paired row of spikes or tubercles that do not grow larger with shell age. The shell aperture is narrow.</p><p>Arm lengths and sucker counts on the arms can be consulted to identify female specimens. In this species the fourth (or ventral) arms of female are the longest and have 180–240 suckers, which is characteristic. Sucker counts on the hectocotylised arm separate males of different species (about 95 suckers in this species). The hectocotylus is the specialised arm of male octopuses (in argonauts the third left) that is structurally different from the others and is used to transfer sperm from to the female during mating.</p>",
+            "shortTextKey": "taxon_text_1_9131",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Female mantle length up to 10 cm. Total length up to about 45 cm. Shell length at least to 30 cm.</p><p>Male total length to 1.5 cm (excluding hectocotylus).</p>",
+            "shortTextKey": "taxon_text_2_9132",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global distribution:</u> Widespread tropical and subtropical cosmopolitan species with circumglobal distribution (between about 40°N and 40°S).</p><p><u>Local/Regional:</u> Entire region.</p>",
+            "shortTextKey": "taxon_text_3_9133",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An oceanic epipelagic species typically found at the ocean surface but can also occur at depths of up to 200 metres. Females build large shells as brood chambers – structures that have fascinated biologists for centuries. In the 1800s, it was believed that the animals found inside the shells were parasites that had killed the rightful shell owners. The minute male was an even greater mystery. Since the male’s specialised third left arm detaches and crawls autonomously into the female’s mantle cavity to deliver a sperm package, female argonauts often contain multiple detached arms. These were also once mistakenly identified as parasites, until the species’ extraordinary reproductive biology was understood (see Reproduction section).</p><p>Females ‘gulp’ air into their shell cavity to maintain neutral buoyancy and stay afloat, swimming slowly using jet propulsion. They are usually solitary but have been observed forming schools, especially during the mating season. Due to their slow swimming, fragile shells, and lack of defensive arms, argonauts are highly vulnerable to predators. In response, they have developed several defensive strategies: females can retract fully into their shells and use modified arms to cover and camouflage the shell using chromatophores, applying countershading to disorient predators. Inking is another defensive tactic. A thick, dark ink is released in bursts to create a pseudomorph – an ink cloud that resembles the shape of the animal.</p><p>Like other paper nautiluses, it is vulnerable to global climate change. Ocean acidification could either dissolve the calcium carbonate egg case or interfere with its formation altogether.</p>",
+            "shortTextKey": "taxon_text_4_9134",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Species-specific dietary information is lacking, but argonauts likely feed on pelagic molluscs, shrimp, plankton, and small fishes. Female argonauts have also been observed attaching to jellyfish, using their lateral and ventral arms to cling to the aboral surface. It is speculated that they might also feed on the jellyfish, as bite marks have been found on the jellyfish’s surface and pieces of tissue have been observed missing or damaged. These bite marks often lead directly to the gastral cavity, suggesting that the argonaut may use the openings to extract food particles from inside the jellyfish. This association may serve a dual purpose – providing both a food source and physical protection.</p>",
+            "shortTextKey": "taxon_text_5_9135",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Argonauts have a highly evolved and fascinating reproductive biology. The sexes are strongly dimorphic: females are large and have webbed arms that form a brood chamber where they lay their eggs. Males, in contrast, are dwarfs and do not build such structures, living freely in the open ocean. Males possess a highly specialised third left arm, called the hectocotylus, which makes up a large portion of their body.</p><p>Although mating behaviour remains unknown, it is thought that when a male encounters a female, he transfers spermatophores into his specialised arm. This arm then detaches from his body, crawls autonomously into the female’s brood chamber or even the mantle cavity, and finds her reproductive tract, where it deposits a sperm packet. The detached arm may remain inside the female for weeks, with spermatophores stored until she is ready to spawn.&nbsp;</p><p>Like all octopuses, females spawn their eggs in festoons (long strands of eggs), which pass through the oviduct and are fertilised by stored sperm cells. The female then attaches the eggs inside the coiled brood chamber, which provides structure and protection. Eggs are laid repeatedly, develop for several days and hatch continuously, increasing the chances that some offspring encounter suitable ocean conditions for survival.</p><p>Females are believed to be capable of reproducing multiple times during their lifespan, while males are thought to die after mating, having sacrificed their hectocotylised arm.</p>",
+            "shortTextKey": "taxon_text_6_9136",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Although each argonaut’s shell is individually variable, the three species found locally can be easily distinguished by their shell features and size. The Greater Argonaut (<i>Argonauta argo</i>) and the Knobby Argonaut (<i>A. nodosus</i>) are similar in size, while the Winged Argonaut (<i>A. hians</i>) is significantly smaller.</p><p>Only <i>A. nodosus</i> has round tubercles on the lateral ridges, although these may be less developed in smaller specimens. After this feature, the keel is particularly useful for identification.</p><p>In <i>A. nodosus</i>, the keel ridge is broad, with unpaired, alternating tubercles that increase in size as the shell grows. The shell aperture is moderately wide.</p><p>In <i>A. argo</i>, the keel ridge is narrow, with paired, perfectly parallel tubercles or spikes that remain the same size throughout growth. The shell aperture is narrow.</p><p>The shell of <i>A. hians</i> is quite different: it is sculptured and brown in colour (unlike the white shells of the other two species). The lateral ribs are prominent and widely spaced, and they do not align with the large, alternating tubercles on the very widely spaced keel. The aperture is much broader and often features prominent wing-like extensions, although these traits can vary considerably between individuals.</p>",
+            "shortTextKey": "taxon_text_7_9137",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Argonauta papyrius",
+            "taxonAuthor": "Conrad, 1854"
+        },
+        {
+            "taxonLatname": "Argonauta argo f. mediterranea",
+            "taxonAuthor": "Monterosato, 1914"
+        },
+        {
+            "taxonLatname": "Argonauta papyraceus",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Ocythoe argonautae",
+            "taxonAuthor": "(Cuvier, 1829)"
+        },
+        {
+            "taxonLatname": "Argonauta argo var. americana",
+            "taxonAuthor": "Dall, 1889"
+        },
+        {
+            "taxonLatname": "Argonauta compressus",
+            "taxonAuthor": "Blainville, 1826"
+        },
+        {
+            "taxonLatname": "Argonauta minor",
+            "taxonAuthor": "Risso, 1854"
+        },
+        {
+            "taxonLatname": "Argonauta argo f. obtusangula",
+            "taxonAuthor": "E. von Martens, 1867"
+        },
+        {
+            "taxonLatname": "Argonauta naviformis",
+            "taxonAuthor": "Conrad, 1854"
+        },
+        {
+            "taxonLatname": "Argonauta sulcatus",
+            "taxonAuthor": "Lamarck, 1801"
+        },
+        {
+            "taxonLatname": "Argonauta corrugata",
+            "taxonAuthor": "Humphrey, 1797"
+        },
+        {
+            "taxonLatname": "Argonauta bulleri",
+            "taxonAuthor": "T. W. Kirk, 1886"
+        },
+        {
+            "taxonLatname": "Argonauta ferussaci",
+            "taxonAuthor": "Monterosato, 1914"
+        },
+        {
+            "taxonLatname": "Argonauta argo f. aurita",
+            "taxonAuthor": "E. von Martens, 1867"
+        },
+        {
+            "taxonLatname": "Argonauta cygnus",
+            "taxonAuthor": "Monterosato, 1889"
+        },
+        {
+            "taxonLatname": "Argonauta monterosatoi",
+            "taxonAuthor": "Monterosato, 1914"
+        },
+        {
+            "taxonLatname": "Argonauta pacificus",
+            "taxonAuthor": "Dall, 1871"
+        },
+        {
+            "taxonLatname": "Ocythoe antiquorum",
+            "taxonAuthor": "Leach, 1817"
+        },
+        {
+            "taxonLatname": "Argonauta haustrum",
+            "taxonAuthor": "Dillwyn, 1817"
+        },
+        {
+            "taxonLatname": "Argonauta papyria",
+            "taxonAuthor": "Conrad, 1854"
+        },
+        {
+            "taxonLatname": "Argonauta dispar",
+            "taxonAuthor": "Conrad, 1854"
+        },
+        {
+            "taxonLatname": "Argonauta corrugatus",
+            "taxonAuthor": "Humphrey, 1797"
+        },
+        {
+            "taxonLatname": "Argonauta sebae",
+            "taxonAuthor": "Monterosato, 1914"
+        },
+        {
+            "taxonLatname": "Argonauta argo f. agglutinans",
+            "taxonAuthor": "E. von Martens, 1867"
+        },
+        {
+            "taxonLatname": "Argonauta grandiformis",
+            "taxonAuthor": "Perry, 1811"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

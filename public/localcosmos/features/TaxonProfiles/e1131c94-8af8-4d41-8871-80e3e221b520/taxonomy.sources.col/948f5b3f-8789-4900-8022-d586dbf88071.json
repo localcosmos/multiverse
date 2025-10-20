@@ -1,0 +1,598 @@
+{
+    "taxonLatname": "Picea abies",
+    "taxonAuthor": "(L.) H. Karst.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "948f5b3f-8789-4900-8022-d586dbf88071",
+    "taxonNuid": "006008007001005007001",
+    "gbifNubkey": 5284884,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-62-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-62-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-62-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 11,
+    "vernacular": {
+        "de": "Fichte"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Fichte",
+            "Test active picea abies",
+            "Rotfichte",
+            "Gemeine Fichte"
+        ]
+    },
+    "nodeNames": [
+        "Fichte",
+        "Test active picea abies"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:36",
+                        "encodedSpace": "<p>Nadelbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:1.0",
+                        "encodedSpace": 1.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:2.0",
+                        "encodedSpace": 2.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            0.0,
+                            5.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:WzAuMCw1LjBd"
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "37998205-e040-4946-af94-264cb56cad5e",
+                "name": "Anordnung der Nadeln",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "37998205-e040-4946-af94-264cb56cad5e:24",
+                        "encodedSpace": "rings um den Zweig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-67-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-67-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-67-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "6968c1d2-bd2a-4f34-9112-2c13e289a318",
+                "name": "Form der Nadeln",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "6968c1d2-bd2a-4f34-9112-2c13e289a318:25",
+                        "encodedSpace": "spitz, stechend",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-68-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-68-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-68-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "6424346e-aad0-4420-b358-6cffbd81f1a2",
+                "name": "Länge der Nadeln",
+                "type": "RangeFilter",
+                "position": 4,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            1.0,
+                            2.0
+                        ],
+                        "spaceIdentifier": "6424346e-aad0-4420-b358-6cffbd81f1a2:WzEuMCwyLjBd"
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 0.5,
+                    "tolerance": 0,
+                    "unit": "cm",
+                    "unitVerbose": null
+                },
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "5791a96f-ab82-41d4-a4de-92bc7f07f0ca",
+                "name": "Wuchsrichtung der Zapfen",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 5,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "5791a96f-ab82-41d4-a4de-92bc7f07f0ca:27",
+                        "encodedSpace": "hängend",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-69-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-69-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-69-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "7f9c182c-d7f0-4fb1-b9a4-9c4174331d58",
+                "name": "Länge der Zapfen",
+                "type": "RangeFilter",
+                "position": 6,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            10.0,
+                            18.0
+                        ],
+                        "spaceIdentifier": "7f9c182c-d7f0-4fb1-b9a4-9c4174331d58:WzEwLjAsMTguMF0="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": 0,
+                    "unit": "cm",
+                    "unitVerbose": null
+                },
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "56b7b4d6-ed3a-449c-9856-7c59beaf9033",
+                "name": "Form der Rinde",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 7,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "56b7b4d6-ed3a-449c-9856-7c59beaf9033:29",
+                        "encodedSpace": "glatt, im Alter schuppig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-70-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-70-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-70-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001002"
+                },
+                "metaNode": {
+                    "name": "Nadelbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:35",
+                        "encodedSpace": "<p>Laubbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "8e667ba6-b3eb-4952-87cd-e286e83da08e",
+                "name": "Abhängiges Merkmal",
+                "type": "TextOnlyFilter",
+                "position": 1,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "8e667ba6-b3eb-4952-87cd-e286e83da08e:37",
+                        "encodedSpace": "<p>Abhängig 1</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:3.0",
+                        "encodedSpace": 3.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:4.0",
+                        "encodedSpace": 4.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            -4.0,
+                            0.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:Wy00LjAsMC4wXQ=="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "Im Jahre 2008 haben Wissenschaftler in Schweden in der Provinz Dalarna eine Fichte entdeckt, die sie auf ein Alter von 9.550 Jahren datiert haben. Sie ist damit der älteste lebende Baum der Welt. Sie hat selbst widrige klimatische Umstände überlebt, weil sie aus einem Wurzelstock immer neue Stämme austreiben konnte.",
+            "shortTextKey": "taxon_text_1_18",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Baum als Lebensraum",
+            "shortText": "Fichtenwälder bieten gut gedeckte und geschützte Strukturen, die viele verschiedene Vogelarten zum Brüten und zur Nahrungssuche benötigen. Dazu zählen beispielsweise der Fichtenkreuzschnabel (Loxia curvirostra) oder der Waldbaumläufer (Certhia familiaris).\n\nIn natürlichen Fichtenwäldern dringt wenig Licht auf den Waldboden. Daher bietet er vor allem Pflanzen, deren Versorgung von der Photosynthese weitgehend unabhängig ist, ein geeignetes Biotop. An diese Verhältnisse besonders angepasst ist der Fichtenspargel (Monotropa hypopitys), der eine Symbiose mit der Fichte eingeht.",
+            "shortTextKey": "taxon_text_3_20",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Schutz",
+            "texts": [
+                {
+                    "taxonTextType": "Waldschutz",
+                    "shortText": "Die Fichte ist als boreale Nadelbaumart anfällig gegenüber Wärme und Trockenheit. Windwurfgefahr droht in Reinbeständen, vor allem auf staunassen und grundfeuchten Standorten oder, wenn sie undifferenziert und ungepflegt dicht aufwachsen. In der Jugend ist sie auf ungeschützten Freiflächen empfindlich gegenüber Spätfrösten. Außerhalb ihres Optimumgebietes sind Fichtenbestände stärker durch Insekten und Pilze bedroht.",
+                    "shortTextKey": "taxon_text_2_19",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-62-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-62-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-62-1000.webp"
+            }
+        },
+        "taxonProfileImages": [],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-62-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-62-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-62-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

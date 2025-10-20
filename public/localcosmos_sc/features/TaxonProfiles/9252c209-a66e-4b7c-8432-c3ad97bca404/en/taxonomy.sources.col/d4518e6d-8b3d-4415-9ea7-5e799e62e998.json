@@ -1,0 +1,249 @@
+{
+    "taxonLatname": "Callopatiria granifera",
+    "taxonAuthor": "(Gray, 1847)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d4518e6d-8b3d-4415-9ea7-5e799e62e998",
+    "taxonNuid": "00100c001001001004003003003009003",
+    "gbifNubkey": 2272004,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2349-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2349-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2349-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 184,
+    "vernacular": {
+        "en": "Red-tiled starfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red-tiled starfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Patiria granifera, Asterina granifera</i></p>",
+            "shortTextKey": "taxon_text_9_1665",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Uniformly bright orange-red above and paler orange below. Arms tapering from a fairly-broad base, each semicircular in cross-section, the upper surface convex and the lower surface flat. Surface texture resembles small overlapping tiles.</p>",
+            "shortTextKey": "taxon_text_1_1666",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Diameter typically about 80 mm.</p>",
+            "shortTextKey": "taxon_text_2_1667",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Southern Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_1668",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common intertidal species extending to depths of about 80 m. Despite being commonly observed, little else is known about biology.</p>",
+            "shortTextKey": "taxon_text_4_1669",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds both on detritus and on a variety of benthic invertebrates including sea-fans, bryozoans and corals. Frequently observed feeding on colonial sea squirts.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1670",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2719-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2719-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2719-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2720-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2720-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2720-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2721-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2721-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2721-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2722-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2722-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2722-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Competing for food with Mantled keyhole-limpet <i>Pupillaea aperta.</i></p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2723-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2723-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2723-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and (being echinoderms) there are five gonads in each individual! Sperm and eggs are released into the water column and develop into planktonic larvae. Spawning is temperature induced, and we have repeatedly observed males starting to spawn when water temperatures reach &gt;20°C. This probably induces spawning in females.</p>",
+            "shortTextKey": "taxon_text_6_1671",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>male spawning</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2724-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2724-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2724-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related Beautiful starfish <i>C. formosa </i>is similar in size and shape and found in much the same habitat, but differs in colour, the base colour varying from yellow to purple or grey and this is ornamented with orange or yellow spots, which tend to increase in size towards the tips of the arms. Sometimes also confused with the Reticulated starfish <i>Henricia ornata</i>, which is the same colour and occupies the same habitats, but has much more slender, cylindrical arms that barely taper and also has a characteristic&nbsp; irregular honeycombed texture.</p>",
+            "shortTextKey": "taxon_text_7_1672",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 226).<br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 79).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group Press, Cape Town. (p. 176)",
+            "shortTextKey": "taxon_text_8_1673",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2349-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2349-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2349-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2349-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2349-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2349-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2308-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2308-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2308-1000.webp"
+                }
+            },
+            {
+                "text": "<p>rare six-armed specimen</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2484-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2484-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2484-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Asterina granifera var. sporacantha",
+            "taxonAuthor": "H.L. Clark, 1923"
+        },
+        {
+            "taxonLatname": "Patiria granifera",
+            "taxonAuthor": "Gray, 1847"
+        },
+        {
+            "taxonLatname": "Paranepanthia bellula",
+            "taxonAuthor": "(Sladen, 1889)"
+        },
+        {
+            "taxonLatname": "Asterina granifera",
+            "taxonAuthor": "(Gray, 1847)"
+        },
+        {
+            "taxonLatname": "Patiria bellula",
+            "taxonAuthor": "Sladen, 1889"
+        },
+        {
+            "taxonLatname": "Callopatiria bellula",
+            "taxonAuthor": "(Sladen, 1889)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

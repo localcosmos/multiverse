@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Cirolana rugicauda",
+    "taxonAuthor": "Heller, 1861",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6bd83940-a405-4227-8b0b-95a6a73a50aa",
+    "taxonNuid": "00100300a00800400200400i03h",
+    "gbifNubkey": 2213543,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-496-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-496-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-496-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 49,
+    "vernacular": {
+        "en": "Pitted cirolanid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pitted cirolanid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very diverse genus of relatively large, off-white isopods characterized by having five free abdominal segments and a distinct ‘tail-fan’ formed of a rounded to triangular pleotelson (ornamented in the various species with a variety of knobs, pustules, ridges or setae) and a sturdy pair of uropods with more-or-less equal branches. This species can be identified by its coarsely pitted body and triangular pleotelson with its single, small, central tubercle.</p>",
+            "shortTextKey": "taxon_text_1_370",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 15 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_371",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and St Paul and Amsterdam Islands.</p><p><u>Local/Regional:</u> Port Nolloth to Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_372",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Poorly known, but one of several species of this genus common on rocky shores and on shallow subtidal reefs, all of which are thought to be scavengers.</p>",
+            "shortTextKey": "taxon_text_4_373",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to be either a predator and/or to scavenge on dead animal matter.</p>",
+            "shortTextKey": "taxon_text_5_374",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all isopods the eggs are released into a marsupium between the walking legs of the female, where they are fertilized by the male and develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_375",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A very diverse genus including many common and easily confused species, including over 20 reported from South Africa. The single central tubercle on the pleotelson is unique to this species though.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_376",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 70).",
+            "shortTextKey": "taxon_text_8_377",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-496-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-496-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-496-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-496-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-496-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-496-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

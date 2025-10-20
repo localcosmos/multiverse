@@ -1,0 +1,179 @@
+{
+    "taxonLatname": "Striostrea margaritacea",
+    "taxonAuthor": "(Lamarck, 1819)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f14ef2e4-22ef-4d7c-91c1-cacadb711b76",
+    "taxonNuid": "00100k00200100200a001006009001004",
+    "gbifNubkey": 4373375,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-654-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-654-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-654-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 118,
+    "vernacular": {
+        "en": "Cape rock oyster"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape rock oyster"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Crassostrea margaritacea, Ostrea margaritacea</i></p>",
+            "shortTextKey": "taxon_text_9_1015",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Typical of this family, the shell is irregularly-shaped and flattened, with the deeper left valve cemented to the substratum and the smaller, flatter right valve lying above it. In this species the lower valve is deep, heavy and thick and made up of multiple layers of shell. There is a distinct cup-like recess beneath the hinge, such that older shells may be quite elongate and extended into a ‘beak’ beneath and behind the hinge. The lower valve is white internally, sometimes with pink or purplish markings, and the upper valve flat and often externally marked by radiating lines.</p>",
+            "shortTextKey": "taxon_text_1_1016",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 180 mm shell height.</p>",
+            "shortTextKey": "taxon_text_2_1017",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa eastwards to Madagascar and Tanzania</p><p><u>Local/Regional:</u> False Bay eastwards to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_1018",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Uncommon west of Cape Agulhas, where it is usually found individually in low intertidal pools, but a common and well-known species on the south and east coast of South Africa, where it&nbsp; forms scattered beds at extreme low tide and on shallow reefs.</p><p>Regularly exploited for human consumption and the most economically important indigenous oyster in the region. Marketable size is reached after about 33 months and oysters are harvested both commercially and recreationally. In KwaZulu-Natal the coastline is divided into 10 management zones with commercial fishing allowed in two years out of five in each zones. Recreational collection is allowed in the years preceding commercial harvesting in each zone. Annual commercial catches in the early 2000s were about 200 000 oysters per year. On the Cape coast effort is controlled by licencing pickers and by a short closed season over the peak holiday season. Annual commercial catch in this region over the early 2000s was around 400 000 oysters per year, but this is based on catch returns and excludes the take by subsistence and recreational fishers, which may be considerable.</p>",
+            "shortTextKey": "taxon_text_4_1019",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves feeds by pumping water in via an inhalant siphon, filtering our fine particles though the enlarged gills and then ejecting the filtered water though an exhalent siphon.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1020",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like almost all bivalves is a broadcast spawner. Spawning takes place in summer and the larvae have a planktonic life of about three weeks before settling.</p>",
+            "shortTextKey": "taxon_text_6_1021",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>May be confused with the brooding oyster <i>Ostrea atherstonei</i>, which has an overlapping distribution and similar habitat preferences. However, that species has the lower valve much flatter and not hollowed-out beneath the hinge. Most commercially marketed oysters are introduced Pacific oysters (<i>Crassostea gigas</i>), which are farm-cultured. Some wild populations of that species have escaped and established in Southern Cape estuaries, but they are not found on the open coast.</p>",
+            "shortTextKey": "taxon_text_7_1022",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "De Bruyn, PA, Moloney, CL, & Schleyer, MH (2009). Application of age-structured production models to assess oyster <i>Striostrea margaritacea</i> populations managed by rotational harvesting in KwaZulu-Natal, South Africa. <i>ICES Journal of Marine Science</i>, 66(2), 408-419.<br><br>Haupt, TM, Griffiths, CL, Robinson, TB, Tonin, AF & De Bruyn, PA (2010). The history and status of oyster exploitation and culture in South Africa. <i>Journal of Shellfish Research</i>, 29(1), 151-159.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 169).",
+            "shortTextKey": "taxon_text_8_1023",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-654-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-654-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-654-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-654-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-654-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-654-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ostrea elliptica",
+            "taxonAuthor": "Dufo, 1840"
+        },
+        {
+            "taxonLatname": "Ostrea multistriata",
+            "taxonAuthor": "Hanley, 1846"
+        },
+        {
+            "taxonLatname": "Ostrea procellosa",
+            "taxonAuthor": "E. Lamy, 1929"
+        },
+        {
+            "taxonLatname": "Ostrea concentrica",
+            "taxonAuthor": "Bory de Saint-Vincent, 1827"
+        },
+        {
+            "taxonLatname": "Crassostrea margaritacea",
+            "taxonAuthor": "(Lamarck, 1819)"
+        },
+        {
+            "taxonLatname": "Ostrea dentifera",
+            "taxonAuthor": "Dufo, 1840"
+        },
+        {
+            "taxonLatname": "Ostrea margaritacea",
+            "taxonAuthor": "Lamarck, 1819"
+        },
+        {
+            "taxonLatname": "Ostrea dendata",
+            "taxonAuthor": "Küster, 1868"
+        },
+        {
+            "taxonLatname": "Saccostrea margaritacea",
+            "taxonAuthor": "(Lamarck, 1819)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

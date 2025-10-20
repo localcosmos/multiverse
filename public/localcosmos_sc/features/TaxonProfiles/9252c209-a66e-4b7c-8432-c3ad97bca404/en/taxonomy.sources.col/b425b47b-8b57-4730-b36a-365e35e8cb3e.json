@@ -1,0 +1,150 @@
+{
+    "taxonLatname": "Donax serra",
+    "taxonAuthor": "Röding, 1798",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b425b47b-8b57-4730-b36a-365e35e8cb3e",
+    "taxonNuid": "00100k00200100100200300200300100202b",
+    "gbifNubkey": 5729018,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-524-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-524-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-524-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 102,
+    "vernacular": {
+        "en": "Wedge clam"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Wedge clam",
+            "giant South African wedge clam",
+            "wedge shell",
+            "white mussel"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell large and fairly heavy with posterior end broader and squared-off, resulting in characteristic wedge-shaped appearance, after which common name is derived. External surface white to yellowish-brown, sometimes purple-tinged; mostly smooth except for faint concentric growth lines, but posterior end ornamented with course wavy concentric ridges. Internal colour white, suffused with violet which can be bright when alive but fades over time, margins of shells with faint crenulations. When alive, the elongate siphons extend into water column, inhalant siphon shorter and fatter with branched tentacles surrounding aperture, exhalent siphon long and slender, with smooth opening.</p><p>Commonly referred to as ‘white mussel’ but we prefer the term wedge clam as this is not technically a mussel (these being non-burrowing bivalves that attach themselves to solid substrata by secreting byssal threads) but a clam (infaunal bivalves that use their enlarged foot to burrow into soft sediments).</p>",
+            "shortTextKey": "taxon_text_1_856",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 88 mm shell length.</p>",
+            "shortTextKey": "taxon_text_2_857",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_858",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of the most abundant and iconic intertidal species on sandy beaches in the region, occurring in high densities at suitable sites, which tend to be those with clean, medium to course sand and moderate to high wave exposure. Interestingly the vertical distribution differs on west and south coasts. On the west coast, adults occur at extreme low water and below, while juveniles are found higher in the intertidal. On the south coast, this is reversed and adults are intertidal, with juveniles at lower levels. The reasons for this are not well understood.</p><p>Wedge clams do not migrate up and down the shore with the daily tides (as some other <i>Donax </i>species do), but can burrow rapidly back into the sand if displaced. They normally remain shallowly submerged beneath the sand surface and, when underwater, extend their elongate siphons up into the water overhead in order to filter-feed on fine food particles in the water. The siphons are often nipped of by predatory fish, but can be quicky regrown. Students studying diets of fish are often perplexed when trying to identify the siphons in the fish stomachs, as they resemble strange white tubular organisms!</p><p>Most of the considerable research that has been undertaken on this species has been done in the Eastern Cape, where populations are particularly dense. Here young spat settle subtidally and move up the shore as they grow. Growth is quite rapid, reaching 32 mm in the first year and 48 mm after two years, after which it slows.</p><p>Wedge clams are sought after for both bait and human consumption. A permit is required for recreational exploitation and a daily bag limit is used to manage the fishery. The stock could sustain a small commercial fishery, but there is considerable resistance from recreational users against this.</p>",
+            "shortTextKey": "taxon_text_4_859",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves feed by pumping water in via an inhalant siphon, filtering our fine particles though the enlarged gills and then ejecting the filtered water though an exhalent siphon.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_860",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like almost all bivalves is a broadcast spawner. There is a small summer spawning and larger winter spawning each year.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_861",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with the butterfly wedge-shell <i>D. sordidus, </i>which occurs in the same beaches. However, that species grows to a much smaller size, lacks the course wavy ridges running across the truncated posterior end of the shell, and lacks the purple interior.</p>",
+            "shortTextKey": "taxon_text_7_862",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Brown, AC, Stenton-Dozey, JME & Trueman, ER (1989). Sandy-beach bivalves and gastropods: a comparison between <i>Donax serra</i> and <i>Bullia digitalis</i>. <i>Advances in Marine Biology</i>, 25, 179-247.<br><br>Laudien, J, Brey, T & Arntz, WE (2003). Population structure, growth and production of the surf clam <i>Donax serra</i> (Bivalvia, Donacidae) on two Namibian sandy beaches. <i>Estuarine, Coastal and Shelf Science</i>, 58, 105-115.<br><br>McLachlan, A & Hanekom, N (1979). Aspects of the biology, ecology and seasonal fluctuations in biochemical composition of <i>Donax serra</i> in the East Cape. <i>African Zoology</i>, 14(4), 183-193.",
+            "shortTextKey": "taxon_text_8_863",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-524-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-524-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-524-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-524-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-524-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-524-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Donax mesodesmoides",
+            "taxonAuthor": "Hanley, 1882"
+        },
+        {
+            "taxonLatname": "Donax serra var. aurantiaca",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Donax (Donax) serra",
+            "taxonAuthor": "Röding, 1798"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

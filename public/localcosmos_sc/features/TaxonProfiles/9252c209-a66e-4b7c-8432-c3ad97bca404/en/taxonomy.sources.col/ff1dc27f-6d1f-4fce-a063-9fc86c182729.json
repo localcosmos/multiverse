@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Cyclograpsus punctatus",
+    "taxonAuthor": "H. Milne Edwards, 1837",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ff1dc27f-6d1f-4fce-a063-9fc86c182729",
+    "taxonNuid": "00100300a00600200500600200300a00200300k",
+    "gbifNubkey": 4382796,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2735-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2735-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2735-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 970,
+    "vernacular": {
+        "en": "Shore crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Shore crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium-sized crab, carapace (hard upper shell) variably colour ranging from tan to yellow-brown or salmon-red, while some found in muddy areas are more greenish-brown, brown or violet. Middle of carapace with diagnostic whitish spots.</p><p>Carapace mostly smooth, with some granules on the sternum (‘chest’ area). Carapace wider than long, widest in the middle portion, with a single tooth on side of carapace next to the eye. Chelae (pincers) unequal, smooth. Walking legs stout and strong, surface mostly smooth.</p>",
+            "shortTextKey": "taxon_text_1_9201",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 30 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9202",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: </u>Endemic to the region.</p><p><u>Local/Regional:</u> From the Lüderitz in Namibia to Kosi Bay, KwaZulu-Natal, high shore and intertidally.</p>",
+            "shortTextKey": "taxon_text_3_9203",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of the most common shore crabs along the South African coast, frequently encountered aggregating under rocks or in between matted weeds on the upper shore. These crabs are also occasionally seen on mudflats in the lower reaches of estuaries. Interestingly, Shore crabs have also been observed constructing burrows. They are adapted being on land for extended periods as they have a specialised mechanism for keeping their gills wet.</p><p>Can tolerate high salinity around 40% (normal ocean concentrations vary around 35%) for extended periods in order to withstand high shore pools that dry out in the sun. However, cannot tolerate low salinity of 20% for extended periods.</p><p>&nbsp;Populations are strongly male dominated. Males aggressively compete for shelter and mates, and show defensive behaviour of raising the pincers when threatened. Shore crabs are mostly nocturnal, rarely emerging during the day.</p>",
+            "shortTextKey": "taxon_text_4_9204",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Mostly scavenges at night during low tide, eating a variety of items, including mostly kelp wrack and high-shore invertebrates including the Broad sea slater (<i>Ligia dilatata</i>), Topshells (<i>Oxystele</i> spp.) and Southern periwinkles (<i>Afrolittorina knysnaensis</i>).</p>",
+            "shortTextKey": "taxon_text_5_9205",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Males and females hold each other with their bellies facing each other until the female moults and after which the male transfers a sperm package to the female and both go their own way. When the female is ready to spawn her eggs, they are fertilised by the stored sperm package on their way out, consecutively attached and held under the females tail where they develop into the first larval stage and are then released into the open ocean. The pelagic larva swims and develops in the plankton before settling back to the ground as a small juvenile crab. Ovigerous females are observed during Winter and Spring months (July – October).</p>",
+            "shortTextKey": "taxon_text_6_9206",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Their habitat, smooth carapace smooth chelae make this species unmistakable.</p>",
+            "shortTextKey": "taxon_text_7_9207",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 120). <br><br>Emmerson, WD (2016). A Guide to, and Checklist for, the Decapoda of Namibia, South Africa and Mozambique. Newcastle upon Tyne: Cambridge Scholars Publishing. Volumes 1 – 3, 526, 645, 711 pp.<br><br>Le Roux, PJ (1991). The population ecology and feeding biology of rocky shore crabs on the Cape Peninsula. M. Sc. thesis, University of Cape Town: 167 pp.",
+            "shortTextKey": "taxon_text_8_9208",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2735-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2735-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2735-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2735-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2735-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2735-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2736-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2736-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2736-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2737-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2737-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2737-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cyclograpsus reynaudi",
+            "taxonAuthor": "H. Milne Edwards, 1853"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

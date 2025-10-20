@@ -1,0 +1,293 @@
+{
+    "taxonLatname": "Parechinus angulosus",
+    "taxonAuthor": "(Leske, 1778)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "69950865-c69c-43cd-98a2-2d7e43b73f13",
+    "taxonNuid": "00100c00300100a002003002003003004001",
+    "gbifNubkey": 4341608,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2376-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2376-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2376-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 198,
+    "vernacular": {
+        "en": "Cape urchin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape urchin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cidaris angulosus</i></p>",
+            "shortTextKey": "taxon_text_9_1805",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>By far the most common urchin in shallow waters all along the Northern, Western and Eastern Cape coastline, where it is a dominant and iconic species. Dead test hemispherical, slightly pentagonal when viewed from above and usually a characteristic light-green in colour, sometimes with radial bands of darker grey-green or brown. Marked with regular rows of closely spaced tubercles.</p><p>Live animal very variable in colour, most commonly purple, red or orange, but sometimes green or pale grey. Spines short, dense fairly slender and pointed, mixed in length, but none of spines exceeding about 20% of disc diameter. When alive the five double bands of thick, elongate red tube feet are prominent and project beyond tips of spines.</p>",
+            "shortTextKey": "taxon_text_1_1806",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Test diameter up to about 60 mm.</p>",
+            "shortTextKey": "taxon_text_2_1807",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Namibia to southern KZN.</p>",
+            "shortTextKey": "taxon_text_3_1808",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common from the intertidal to depths of about 100 m and often occurs in dense beds in intertidal pools and on shallow reefs. Known for their habit of covering themselves with dead shells or other pieces of debris as sunshades, probably to protect themselves from ultraviolet radiation.</p><p>Play various important role in the structure of the entire community. Firstly, they are important grazers, controlling the survival and hence density of kelps and other algae. &nbsp;Secondly, juvenile abalone often shelter under to spines of these urchins, where they gain protection from predators. Thus, removal of urchins greatly increases the mortality rate of young abalone and has a negative effect on recruitment and ultimately on the fishery. Thirdly, urchins form an important component of the diets of rock-lobsters, reef fish and various invertebrate predators, such as helmet shells.</p><p>In other parts of the world urchins are commonly harvested as food, the roe or eggs being the only part consumed. Perhaps fortunately for this species, females do not grow &nbsp;large enough to produce gonads of marketable size and a fishery based on this species has been deemed not economically viable!</p>",
+            "shortTextKey": "taxon_text_4_1809",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds largely on algal debris which they grip with the tubefeet, but also on live seaweeds, including kelp sporelings. Thus play an important role in controlling the distribution and abundance of kelps and other algae.</p>",
+            "shortTextKey": "taxon_text_5_1810",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and (being echinoderms) there are five gonads in each individual! Spawning takes place in spring and autumn with sperm and eggs being released into the water column, where fertilized eggs develop to planktonic larvae. When raised under laboratory conditions at 15 degrees Celsius these had a mean larval development time of 56 days, before settling onto suitable substrata.</p>",
+            "shortTextKey": "taxon_text_6_1811",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Over much of the western part of its range this is the only common coastal urchin, so there are no other species for it to be confused with! The bright and variable colours and green test are also unusual features. In deeper waters largely replaced by Gilchrist’s urchin <i>Echinus gilchristi</i>, which has a taller, more conical test and two distinct spine types - sparse pale primary spines, between which are beds of much shorter secondary spines.</p>",
+            "shortTextKey": "taxon_text_7_1812",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 234).<br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 237).<br><br>Filander, Z & Griffiths, C (2017). Illustrated guide to the echinoid (Echinodermata: Echinoidea) fauna of South Africa. <i>Zootaxa</i>, 4296(1), 1-72. (p. 42)<br><br>Schultz, H (2010). Sea Urchins 1: A guide to worldwide shallow water species. Heinke and Peter Schultz Partner Scientific Publications. Hemdingen, Germany (p. 196).",
+            "shortTextKey": "taxon_text_8_1813",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2376-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2376-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2376-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2376-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2376-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2376-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2385-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2385-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2385-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2369-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2369-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2369-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2372-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2372-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2372-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2371-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2371-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2371-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2377-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2377-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2377-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2386-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2386-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2386-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2370-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2370-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2370-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2374-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2374-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2374-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2379-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2379-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2379-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2375-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2375-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2375-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-15-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-15-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-15-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Psammechinus subangulosus",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Cidaris angulosus",
+            "taxonAuthor": "Leske, 1778"
+        },
+        {
+            "taxonLatname": "Parechinus annulatus",
+            "taxonAuthor": "(Mortensen, 1909)"
+        },
+        {
+            "taxonLatname": "Protocentrotus angulosus",
+            "taxonAuthor": "(Leske, 1778)"
+        },
+        {
+            "taxonLatname": "Protocentrotus annulatus",
+            "taxonAuthor": "Mortensen, 1909"
+        },
+        {
+            "taxonLatname": "Parechinus angulosus pallidus",
+            "taxonAuthor": "H.L. Clark, 1923"
+        },
+        {
+            "taxonLatname": "Echinus angulosus minor",
+            "taxonAuthor": "(Leske, 1778)"
+        },
+        {
+            "taxonLatname": "Echinus minimus",
+            "taxonAuthor": "Blainville, 1825"
+        },
+        {
+            "taxonLatname": "Echinus subangulosus",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Cidaris angulosus minor",
+            "taxonAuthor": "Leske, 1778"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

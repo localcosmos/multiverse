@@ -1,0 +1,179 @@
+{
+    "taxonLatname": "Tonna dunkeri",
+    "taxonAuthor": "(Hanley, 1860)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "dc4fa288-833d-43dd-a7e0-91789be14729",
+    "taxonNuid": "00100k00700300c00c00900300c",
+    "gbifNubkey": 6488269,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2161-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2161-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2161-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 265,
+    "vernacular": {
+        "en": "Dunker’s tun shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dunker’s tun shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Given as a variety of<strong> </strong><i>Tonna variegata </i>in Kilburn and Rippey, 1982</p>",
+            "shortTextKey": "taxon_text_9_2465",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tun shells have a large, thin, globular shell with a very short spire and greatly enlarged last whorl. The outer lip is slightly thickened, the siphonal canal very short and the operculum absent. The foot is very large and often cannot be fully retracted into the shell.</p><p>This species is ornamented with 16-19 flat spiral ridges separated by deep grooves and is light brown with regular darker flecks. Foot large and thick, mottled with light and dark brown streaks.</p>",
+            "shortTextKey": "taxon_text_1_2466",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell length 40-90 mm.</p>",
+            "shortTextKey": "taxon_text_2_2467",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_2468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A large and easily recognised species found on inshore reefs and sometimes extending into intertidal gullies. Uncommon in the Western Cape becoming more common eastwards. Typically buries in sand and emerges to hunt for sea cucumbers, which are paralysed using a salivary secretion containing sulphuric acid. This may also be squirted though the proboscis as a defense measure.</p>",
+            "shortTextKey": "taxon_text_4_2469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Specialist predator of sea cucumbers.</p>",
+            "shortTextKey": "taxon_text_5_2470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes separate and fertilization internal. Tun shells lay their eggs in a long, wide gelatinous ribbon containing large numbers of egg-capsules arranged in transverse rows. Each capsule contains 20-100 eggs.&nbsp; A single ribbon of spawn may thus contain up to 660 000 eggs! The eggs hatch into large veliger larvae, which can have a very long development time of up to several month in same species. This probably allowing for very wide dispersal.</p>",
+            "shortTextKey": "taxon_text_6_2471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with any other regional species and the only ton shells with a distribution extending to the cooler waters of the Western Cape.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 188)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 71 as a variety of <i>T. variegata</i>).",
+            "shortTextKey": "taxon_text_8_2473",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2161-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2161-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2161-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2161-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2161-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2161-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2163-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2163-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2163-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2162-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2162-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2162-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tonna (Tonna) dunkeri",
+            "taxonAuthor": "(Hanley, 1860)"
+        },
+        {
+            "taxonLatname": "Tonna variegata f. dunkeri",
+            "taxonAuthor": "(Hanley, 1860)"
+        },
+        {
+            "taxonLatname": "Dolium (Dolium) dunkeri",
+            "taxonAuthor": "(Hanley, 1860)"
+        },
+        {
+            "taxonLatname": "Dolium dunkeri",
+            "taxonAuthor": "Hanley, 1860"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

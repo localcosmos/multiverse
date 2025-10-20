@@ -1,0 +1,171 @@
+{
+    "taxonLatname": "Dromidia hirsutissima",
+    "taxonAuthor": "(Lamarck, 1818)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b24f0c13-6aff-443b-baf9-f83cc31f5755",
+    "taxonNuid": "00100300a00600200500400200200200e005",
+    "gbifNubkey": 4377907,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2756-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2756-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2756-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 983,
+    "vernacular": {
+        "en": "Shaggy sponge crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Shaggy sponge crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Dromia hirsutissima</i> Lamarck, 1818</p>",
+            "shortTextKey": "taxon_text_9_9317",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium-sized crab with a carapace (hard upper shell) covered in shaggy coat of short, stiff hair and long dense fibrous brown, grey or yellow hairs giving a shaggy appearance. Base colouration of carapace maroon or brick-red. Carapace broader than long, frontal margin with two or three teeth. Anterolateral margin (front corner of carapace) with one sharp tooth. Fourth and fifth walking legs equal in length, the latter twisted up over the carapace.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9318",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 55 mm in width.</p>",
+            "shortTextKey": "taxon_text_2_9319",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Regional endemic.</p><p><u>Local/Regional:</u> From Namibian border to Plettenberg Bay.</p>",
+            "shortTextKey": "taxon_text_3_9320",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly found intertidally as well as deeper waters, observed carrying a cloak of sponge, ascidian or seaweed. These objects are often carefully trimmed to fit the crab and are occasionally larger than the crab, offering protection (often through chemical defense) and camouflage. These animals often exhibit nocturnal habits, though they are also frequently encountered during the day.</p>",
+            "shortTextKey": "taxon_text_4_9321",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not much known about this species, but thought to be scavengers and opportunistic feeders, eating dead animals they come across and occasionally observed to take slow moving invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_9322",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate,<strong> </strong>with females storing sperm in chitin-lined spermathecae, though this is not retained after moulting. Very little is known regarding reproduction of the group, though sperm and eggs meet externally in an abdominal chamber. Ovigerous females carry eggs below the abdomen until the larvae hatch.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9323",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is one of six species of this endemic genus, five of which are found in False Bay. Superficially similar to the scrubbing brush crab <i>D. aegibotus</i>, though it only has short, stiff bristles and has four spines laterally, while <i>D. hirsutissima</i> has. Also, somewhat similar to <i>Lewindromia unidentata</i> (Mozambique), though it has short brown/reddish fur and a single tooth at the carapace mid-margin.</p>",
+            "shortTextKey": "taxon_text_7_9324",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 132). <br><br>McLay, CL (2019). Podotreme reproduction: occurrence of sperm plaque in sponge crabs (Decapoda: Brachyura: Dromiidae). <i>Journal of Crustacean Biology</i>, 39(1), 82-87.",
+            "shortTextKey": "taxon_text_8_9325",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2756-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2756-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2756-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2754-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2754-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2754-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2755-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2755-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2755-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2756-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2756-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2756-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Dromia hirsutissima",
+            "taxonAuthor": "Lamarck, 1818"
+        },
+        {
+            "taxonLatname": "Dromia hirtissima",
+            "taxonAuthor": "Lamarck, 1818"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

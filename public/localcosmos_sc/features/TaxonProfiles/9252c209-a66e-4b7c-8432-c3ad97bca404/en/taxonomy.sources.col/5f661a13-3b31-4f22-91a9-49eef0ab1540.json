@@ -1,0 +1,202 @@
+{
+    "taxonLatname": "Chelidonichthys kumu",
+    "taxonAuthor": "(Cuvier, 1829)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5f661a13-3b31-4f22-91a9-49eef0ab1540",
+    "taxonNuid": "001007003002002001013010003005",
+    "gbifNubkey": 2336668,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1562-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1562-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1562-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 420,
+    "vernacular": {
+        "en": "Bluefin gurnard"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bluefin gurnard",
+            "Flying fish",
+            "Flying gurnard",
+            "Gurnard",
+            "Kumu gurnard",
+            "Kumukumu",
+            "Latchet",
+            "Red gurnard",
+            "Searobin",
+            "Spiny red gurnard"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Gurnards are bottom-dwelling fish characterised by having a large bony head and tapering body. The first few rays of the pectoral fins are separated into ‘feelers’ that are used to ‘walk’ along the bottom and feel for food, and the rest of the pectoral fin can be spread out laterally into a large, often strikingly-coloured ‘wing’.</p><p>This species is silvery with broken red horizontal stripes and fins and has a striking brown, but blue-edged, pectoral fin with a black-and-white speckled patch near its base.</p>",
+            "shortTextKey": "taxon_text_1_3986",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 60 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3987",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across western Indian and Pacific Oceans and common around Australia and New Zealand (although recent genetic research suggests this might turn out to be a different species).</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_3988",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in sandy habitats from shallow water to a depth of about 150 m. Usually found on the seafloor, walking slowly along the bottom and feeling for prey using the three free pectoral rays under the head.</p><p>Most active at night and often found buried in the sand with only the top of the head emerging from the sediment. The large brightly-coloured pectoral fins may be used to startle predators.</p>",
+            "shortTextKey": "taxon_text_4_3989",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A predator feeding mostly on crustaceans, but also on small fish and polychaete worms and other small invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_3990",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexual maturity is reached at an age of 2–3 years and eggs and sperm are released into the water column, larval development taking place in surface waters. Smaller individuals usually found in coastal waters, adults moving deeper as they grow. Longevity estimated to be about 12 years.</p>",
+            "shortTextKey": "taxon_text_6_3991",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The Cape Gurnard <i>C. capensis</i> is common in deeper waters up to 390 m depth and is often caught in the trawl fishery and commercially traded. It is more uniform red in colour and the lacks the blue edge to the pectoral fin.</p>",
+            "shortTextKey": "taxon_text_7_3992",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 274).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 151).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 2 (p. 604). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 222).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 487).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 33).",
+            "shortTextKey": "taxon_text_8_3993",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1562-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1562-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1562-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1562-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1562-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1562-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1587-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1587-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1587-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1588-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1588-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1588-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1586-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1586-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1586-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-259-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-259-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-259-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1563-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1563-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1563-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Trigla kumu",
+            "taxonAuthor": "Cuvier, 1829"
+        },
+        {
+            "taxonLatname": "Trigla peronii",
+            "taxonAuthor": "Cuvier, 1829"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,206 @@
+{
+    "taxonLatname": "Astropecten irregularis",
+    "taxonAuthor": "(Pennant, 1777)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a6b07508-d55b-4adc-9723-4ecd30f324b1",
+    "taxonNuid": "00100c00100100100400300200100601q",
+    "gbifNubkey": 8236696,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2292-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2292-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2292-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 181,
+    "vernacular": {
+        "en": "Pink sand-star"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pink sand-star",
+            "sand star"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Asterias irregularis</i></p>",
+            "shortTextKey": "taxon_text_9_1635",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>One of only a few local starfish that lives on soft substrata, not on rocky reefs, and mostly buried in sand by day, emerging to feed at night. Body flattened, off-white to apricot, with purple strip along top of arms, becoming brighter towards tip. Arms fairly long and triangular, evenly tapering and each bordered with a double row of small, tile-like plates, those in upper row each with a single spine and those on lower row each bearing 3-4 longer spines. Unlike most other starfish, members of this family have pointed tubefeet that lack suckers and are used to burrow, rather than to adhere to hard surfaces.</p>",
+            "shortTextKey": "taxon_text_1_1636",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Diameter typically about 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_1637",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Species widespread in Europe and Mediterranean, but the local subspecies<i> pontoporaeus</i> found only in Angola, Namibia and South Africa.</p><p><u>Local/Regional:</u> Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_1638",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives buried in soft sediments, which it shuffles aside with the tube feed in order to bury itself. When buried a conical structure in the centre of the&nbsp; upper surface, through which water is sucked in for operation of hydraulic system (the aboral cone) may still be visible. Emerges to feed at night.</p>",
+            "shortTextKey": "taxon_text_4_1639",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Carnivorous, feeding on small molluscs and crustaceans buried in the sediment.</p>",
+            "shortTextKey": "taxon_text_5_1640",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and (being echinoderms) there are five gonads in each individual! Eggs and sperm are released directly into the water column, where they develop into planktonic larvae.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1641",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Members of this group are easily distinguished from most other starfish by the tile-like plates along the margins of the arms, the pointed tubefeet and habit of living buried in sediments. This species is replaced by&nbsp;<i>A. granulatus</i> in KwaZulu-Natal, that species being recognised by its grey colour and strong&nbsp; white spines that project from the lower row of arm–plates. Several other species also occur in deeper waters.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1642",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 222).<br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 81).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group Press, Cape Town. (p. 176)",
+            "shortTextKey": "taxon_text_8_1643",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2292-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2292-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2292-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2292-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2292-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2292-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2293-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2293-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2293-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2291-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2291-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2291-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-462-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-462-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-462-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2294-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2294-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2294-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2290-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2290-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2290-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Astropecten mülleri",
+            "taxonAuthor": "Müller & Troschel, 1844"
+        },
+        {
+            "taxonLatname": "Astropecten acicularis",
+            "taxonAuthor": "Norman, 1865"
+        },
+        {
+            "taxonLatname": "Astropecten hispidus",
+            "taxonAuthor": "Müller & Troschel, 1842"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

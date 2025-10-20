@@ -1,0 +1,244 @@
+{
+    "taxonLatname": "Oxalis pes-caprae",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "50a85152-3f3c-4a53-9997-8585a4cf248e",
+    "taxonNuid": "0060060050140070040an",
+    "gbifNubkey": 2891661,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2849-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2849-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2849-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1026,
+    "vernacular": {
+        "en": "African wood-sorrel"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African wood-sorrel",
+            "Cape sorrel",
+            "Sourgrass",
+            "Bermuda buttercup"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Well-known and common herb. Leaves on long stalks, each with three heart-shaped, notched leaflets that are smooth above but sometimes hairy below. The funnel-shaped flowers are borne in groups on tall stems that extend well above the leaves, have five fused petals and are bright canary yellow. They furl at night. Underground the plants produce numerous small bulbs.</p>",
+            "shortTextKey": "taxon_text_1_9676",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Flower stems up to about 30 cm tall. Flowers up to 40 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_9677",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa, but has been widely translocated and now found in many parts of the world, including USA, South America, Europe, North Africa, Middle East, India, Tasmania and New Zealand.</p><p><u>Local/Regional:</u> Namaqualand to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9678",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Well-known and abundant species both along the coast and inland, sometimes forming dense beds of bright flowers. Is considered a weed in many areas to which it has been introduced and is difficult to control since it produces copious small bulbs which remain in the soil even if the plants are uprooted.</p><p>The plants contain high concentrations of oxalic acid, giving them a bitter taste, but are nevertheless used in foods and in traditional medicine. The raw bulbs have been used to treat tapeworms and the plant as a diuretic. If sheep are allowed to gorge on the plant this may have fatal results.</p>",
+            "shortTextKey": "taxon_text_4_9679",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9680",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July-October.<strong> </strong>Propagation is mostly by dispersal of the small bulbs.</p>",
+            "shortTextKey": "taxon_text_6_9681",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 100 <i>Oxalis</i> species in the region, many of which have pink, white or purple, rather than yellow flowers. Among the yellow flowered species <i>Oxalis flava</i> has a similar distribution, but the leaves have up to 12 folded finger-like leaflets and the flowers are borne singly not in groups.</p>",
+            "shortTextKey": "taxon_text_7_9682",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2849-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2849-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2849-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2848-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2848-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2848-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2849-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2849-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2849-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Oxalis macrophylla",
+            "taxonAuthor": "Hornem."
+        },
+        {
+            "taxonLatname": "Acetosella abyssinica",
+            "taxonAuthor": "(Walp.) Kuntze"
+        },
+        {
+            "taxonLatname": "Oxalis abyssinica",
+            "taxonAuthor": "Walp."
+        },
+        {
+            "taxonLatname": "Oxalis grandiflora",
+            "taxonAuthor": "Arechav."
+        },
+        {
+            "taxonLatname": "Oxalis erecta",
+            "taxonAuthor": "Savigny"
+        },
+        {
+            "taxonLatname": "Acetosella cernua",
+            "taxonAuthor": "(Thunb.) Kuntze"
+        },
+        {
+            "taxonLatname": "Oxalis burmanni",
+            "taxonAuthor": "Jacq."
+        },
+        {
+            "taxonLatname": "Oxalis rippae",
+            "taxonAuthor": "Mattei"
+        },
+        {
+            "taxonLatname": "Oxalis cernua microphylla",
+            "taxonAuthor": "Batt."
+        },
+        {
+            "taxonLatname": "Jonoxalis pes-caprae",
+            "taxonAuthor": "(L.) Small"
+        },
+        {
+            "taxonLatname": "Oxalis cernua var. pleniflora",
+            "taxonAuthor": "Lowe"
+        },
+        {
+            "taxonLatname": "Oxalis ehrenbergii",
+            "taxonAuthor": "Schltdl."
+        },
+        {
+            "taxonLatname": "Oxalis pes-caprae f. pleniflora",
+            "taxonAuthor": "(Lowe) Sunding"
+        },
+        {
+            "taxonLatname": "Oxalis kuibisensis",
+            "taxonAuthor": "R. Knuth"
+        },
+        {
+            "taxonLatname": "Oxalis pleniflora",
+            "taxonAuthor": "Lanfr."
+        },
+        {
+            "taxonLatname": "Oxalis caprina",
+            "taxonAuthor": "E. Mey. ex Sond."
+        },
+        {
+            "taxonLatname": "Oxalis pes-caprae var. pleniflora",
+            "taxonAuthor": "(Lowe) Blanco-Dios"
+        },
+        {
+            "taxonLatname": "Bulboxalis cernua",
+            "taxonAuthor": "(Thunb.) Small"
+        },
+        {
+            "taxonLatname": "Oxalis concinna",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Oxalis cernua",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Oxalis mairei",
+            "taxonAuthor": "R. Knuth ex Engl."
+        },
+        {
+            "taxonLatname": "Oxalis lybica",
+            "taxonAuthor": "Willk. & Lange"
+        },
+        {
+            "taxonLatname": "Oxalis libyca",
+            "taxonAuthor": "Viv."
+        },
+        {
+            "taxonLatname": "Oxalis biflora",
+            "taxonAuthor": "Burm. fil."
+        },
+        {
+            "taxonLatname": "Oxalis nutans",
+            "taxonAuthor": "Hill"
+        },
+        {
+            "taxonLatname": "Acetosella ehrenbergii",
+            "taxonAuthor": "(Schltdl.) Kuntze"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

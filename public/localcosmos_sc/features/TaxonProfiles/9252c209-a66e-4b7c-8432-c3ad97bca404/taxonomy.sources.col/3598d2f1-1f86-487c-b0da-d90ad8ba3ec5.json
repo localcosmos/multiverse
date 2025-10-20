@@ -1,0 +1,190 @@
+{
+    "taxonLatname": "Amblyrhynchotes honckenii",
+    "taxonAuthor": "(Bloch, 1785)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3598d2f1-1f86-487c-b0da-d90ad8ba3ec5",
+    "taxonNuid": "001007003002002001019007001001",
+    "gbifNubkey": 2407890,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1259-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1259-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1259-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 429,
+    "vernacular": {
+        "en": "Evileye puffer"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Evileye puffer",
+            "Evileye blaasop"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium, slow-moving fish; the large, blunt head with prominent chin, conspicuous, bulging, luminescent green eyes with yellow or orange ring, and small upwardly-directed mouth, the teeth fused to form a parrot-like ‘beak’. Body soft and swollen with reduced scales, tapering to a narrow tail. Colouration distinctive - the upper surface brown to black with numerous white blotches or spots, fading to yellow and then white on underside.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_4076",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 30 cm.</p>",
+            "shortTextKey": "taxon_text_2_4077",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Indo-West Pacific.</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4078",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in lower reaches of estuaries and along the open coast from intertidal zone to depth of up to 400 m. Slow-swimming and often lies buried in sand with only the eyes showing, but more active at night. Like all pufferfish (which are so named for this reason) can inflate itself with water when disturbed, slowly returning to normal size when danger has passed.</p><p>As with many other members of this family, the flesh contains the potent toxin tetrodotoxin, so fish should be handled with care and not eaten, or allowed to interact with pets.</p><p>Specimens of this species frequently wash out and die on beaches along the South Coast, with several mass mortality events reported from False Bay. The reasons for this are speculative but include mass courtship and spawning events during which males might inflate themselves, get rolled around by waves and swell and loose manoeuvrability.</p>",
+            "shortTextKey": "taxon_text_4_4079",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Ambush predator that feeds on a wide range of prey, including crustaceans, bivalves and other small fish.</p>",
+            "shortTextKey": "taxon_text_5_4080",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Matures at 10 cm length. Little is known about reproduction in this species, but eggs are thought to develop in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_4081",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Colour pattern fairly unmistakable and the only pufferfish whose range extends into the colder waters of the South-Western Cape (several other species found in warmer waters of east coast).</p>",
+            "shortTextKey": "taxon_text_7_4082",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 338).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 450).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 236).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 895).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 74).",
+            "shortTextKey": "taxon_text_8_4083",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1259-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1259-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1259-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-268-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-268-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-268-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1259-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1259-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1259-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1260-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1260-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1260-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1261-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1261-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1261-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tetrodon honckenii",
+            "taxonAuthor": "Bloch, 1785"
+        },
+        {
+            "taxonLatname": "Lagocephalus blochi",
+            "taxonAuthor": "Bonaparte, 1841"
+        },
+        {
+            "taxonLatname": "Amblyrhinchotus honckenii",
+            "taxonAuthor": "(Bloch, 1785)"
+        },
+        {
+            "taxonLatname": "Tetraodon honckenii",
+            "taxonAuthor": "Bloch, 1785"
+        },
+        {
+            "taxonLatname": "Amblyrhynchotes honckemi",
+            "taxonAuthor": "(Bloch, 1785)"
+        },
+        {
+            "taxonLatname": "Sphoeroides honckeni",
+            "taxonAuthor": "(Bloch, 1785)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

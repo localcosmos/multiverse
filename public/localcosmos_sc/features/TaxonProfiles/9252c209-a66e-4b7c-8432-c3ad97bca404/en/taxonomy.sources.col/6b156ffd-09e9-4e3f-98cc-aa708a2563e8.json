@@ -1,0 +1,204 @@
+{
+    "taxonLatname": "Sarpa salpa",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6b156ffd-09e9-4e3f-98cc-aa708a2563e8",
+    "taxonNuid": "00100700300200200100w04000u001",
+    "gbifNubkey": 2392628,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-242-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-242-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-242-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 405,
+    "vernacular": {
+        "en": "Strepie"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Strepie",
+            "Gold line",
+            "Goldline",
+            "Salema",
+            "Salpa",
+            "Saupe"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Seabreams of the family Sparidae are particularly well represented in South Africa and include many important recreational and commercial fisheries species. They are laterally compressed, with a single continuous dorsal fin and forked tail. Most species are diurnal and form shoals on shallow temperate reefs (although some are territorial and/or extend to 450 m depth). Many species change sex as they grow.</p><p>This relatively elongate but plump, smaller species is often seen forming dense shoals on shallow reefs and is fairly easily recognized by the silvery ground colour and 8–10 prominent yellow horizontal stripes running the length of the body. The fins are also tinged with yellow and there is a small black spot at the base of the pectoral fin.</p>",
+            "shortTextKey": "taxon_text_1_3836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 45 cm total length, but mostly much smaller.</p>",
+            "shortTextKey": "taxon_text_2_3837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread from western Europe and Mediterranean, down the west coast of Africa and around Southern Africa to Mozambique.</p><p><u>Local/Regional:</u> Namibia to southern Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_3838",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species across the region and found in tightly-shoaling groups of similar-sized individuals across a variety of habitats, including in estuaries, the surf zones of sandy beaches and on shallow reefs and into gullies and rock pools.&nbsp;</p><p>Most, but not all, individuals change sex, first maturing as males at a length of about 14–15 cm (2 years) and then after one year as a male changing to become female at a length of 18–22 cm. A few individuals, however, do not follow this pattern and either remain male for one or two extra years, or skip the male phase entirely and mature directly into females.</p>",
+            "shortTextKey": "taxon_text_4_3839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small juveniles feed mainly on small crustaceans, particularly copepods. Adults are herbivorous, mainly on red algae and seagrasses.</p>",
+            "shortTextKey": "taxon_text_5_3840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spawns April to September in large groups. Larvae develop in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_3841",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Colour pattern fairly unmistakable. Some stumpnose species also have horizontal yellow stripes, but these are fewer and less distinct and stumpnose are much deeper in body shape than strepies.</p>",
+            "shortTextKey": "taxon_text_7_3842",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 296).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 239).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 3 (p. 313). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 226).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 593).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 39).",
+            "shortTextKey": "taxon_text_8_3843",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-242-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-242-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-242-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-242-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-242-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-242-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1523-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1523-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1523-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1524-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1524-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1524-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1521-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1521-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1521-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1522-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1522-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1522-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Boops salpa",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Box salpa",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Eusalpa salpa",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Sparus salpa",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Box goreensis",
+            "taxonAuthor": "Valenciennes, 1830"
+        },
+        {
+            "taxonLatname": "Boops goreensis",
+            "taxonAuthor": "(Valenciennes, 1830)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

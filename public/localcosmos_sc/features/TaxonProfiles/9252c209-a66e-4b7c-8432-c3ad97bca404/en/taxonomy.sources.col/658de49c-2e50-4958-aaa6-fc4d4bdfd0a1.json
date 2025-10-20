@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Zostera capensis",
+    "taxonAuthor": "Setch.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "658de49c-2e50-4958-aaa6-fc4d4bdfd0a1",
+    "taxonNuid": "00600600300200e002004",
+    "gbifNubkey": 2863920,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2976-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2976-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2976-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1053,
+    "vernacular": {
+        "en": "Cape eelgrass"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape eelgrass"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A short aquatic eelgrass that can form dense beds on intertidal and subtidal sand flats in both sheltered lagoons and estuaries. Creeping rhizomes below the sediment surface give rise to narrow, elongate flat leaves with rounded tips. Leaves have about eight parallel veins with periodic crossbars.</p>",
+            "shortTextKey": "taxon_text_1_9916",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades 10-30 cm long and about 2 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_9917",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Angola to Kenya.</p><p><u>Local/Regional:</u> Entire coast, but scarce in Northern Cape due to lack of suitable habitat.</p>",
+            "shortTextKey": "taxon_text_3_9918",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Well-known species forming extensive intertidal beds at some sites, especially Langebaan Lagoon and Berg River Estuary within the area covered by this study. An important ecosystem engineer having profound effects on the composition and abundance of associated invertebrate and fish assemblages.</p><p>Classified as endangered, as populations is several bays and estuaries along the east coast, notably Durban Bay and St Lucia, have been lost as a result of development and those in several other estuaries appear to be in decline.</p><p>The only habitat of the endangered Eelgrass False limpet <i>Siphonaria compressa </i>which occurs in just two sites, Langebaan and Knysna.</p>",
+            "shortTextKey": "taxon_text_4_9919",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9920",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Relies primarily on vegetative reproduction via the spreading rhizomes.<strong> </strong>The tiny green flowers are inconspicuous and housed within specialized structures called spathes, which resemble leaf sheaths. Flowering occurs throughout the year.</p>",
+            "shortTextKey": "taxon_text_6_9921",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only eelgrass species in the study area, although other more tropical species species occur along the east coast. Sometimes mistaken as being an alga due to its aquatic habits and could be confused with the green alga <i>Caulerpa filiformis,</i> but that species has much wider (5 mm) blades that lack longitudinal veins.</p>",
+            "shortTextKey": "taxon_text_7_9922",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2976-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2976-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2976-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2976-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2976-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2976-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Nanozostera capensis",
+            "taxonAuthor": "(Setch.) Toml. & Posl."
+        },
+        {
+            "taxonLatname": "Zostera capensis f. elatior",
+            "taxonAuthor": "Setch."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

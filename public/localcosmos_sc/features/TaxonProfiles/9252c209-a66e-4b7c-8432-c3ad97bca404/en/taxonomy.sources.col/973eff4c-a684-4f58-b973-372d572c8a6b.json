@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Chaetopleura debruini",
+    "taxonAuthor": "(Strack, 1996)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "973eff4c-a684-4f58-b973-372d572c8a6b",
+    "taxonNuid": "00100k00g00300200200100200100b",
+    "gbifNubkey": 2306738,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-759-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-759-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-759-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 616,
+    "vernacular": {
+        "en": "Red ribbed chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red ribbed chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened mollusk with eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Girdle wide with small, ribbed scales and along the margin of to the shell as well as prominent bunches of small spicules with hyaline hairs.&nbsp;Articulamentum thin with subrectangular anterior extensions. Shell plates short, almost rectangular and raised lateral areas. Texture of shell with radiating riblets on outer areas and longitudinal riblets on the central areas quite coarse. Growth-lines also visible. Red-brown animal with cream shell plates covered with brown or red streaks and spots.</p>",
+            "shortTextKey": "taxon_text_1_6095",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium, typically around 10-30 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6096",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay, Hermanus and East London.</p>",
+            "shortTextKey": "taxon_text_3_6097",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Under rocks imbedded in sand in the subtidal zone only.</p>",
+            "shortTextKey": "taxon_text_4_6098",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6099",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization in surrounding water. Eggs hatch into planktonic trochophore larvae that is free-swimming, which later settle to the bottom and metamorphose&nbsp;to juvenile chitons.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_6100",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of five regional species in the genus. Differs from the other species by the bunches of small spicules with hyaline hairs on its soft flesh and very fine shell texture centrally and lifted beads on ribs laterally. The other species have much more prominent sculpture or, as in <i>C. papilio, </i>a much more prominent girdle armour.</p>",
+            "shortTextKey": "taxon_text_7_6101",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Strack, H (1996).  Report on a collection of South African chitons, including the description of a new <i>Lepidozona</i> species.  <i>Basteria</i>, 59, 127-133.",
+            "shortTextKey": "taxon_text_8_6102",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-759-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-759-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-759-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-759-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-759-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-759-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chaetopleura (Chaetopleura) debruini",
+            "taxonAuthor": "(Strack, 1996)"
+        },
+        {
+            "taxonLatname": "Lepidozona debruini",
+            "taxonAuthor": "Strack, 1996"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Escharoides contorta",
+    "taxonAuthor": "(Busk, 1854)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8253cba8-d570-491e-8208-5f9fa98a05ac",
+    "taxonNuid": "00100500100100b00m006001009",
+    "gbifNubkey": 1005698,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-386-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-386-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-386-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 530,
+    "vernacular": {
+        "en": "Contorted mat bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Contorted mat bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Previously placed in family Romancheinidae.</p>",
+            "shortTextKey": "taxon_text_9_5089",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a thin, flat, pale white-to-grey, more-or-less circular encrustation composed of radiating rows of zooecia.</p><p>When examined closely the individual zooecia have flat, irregularly-arranged, oval cases. The distal openings to these are wide and oval with a raised edge and the convex surface is punctured by large, conspicuous pores.</p>",
+            "shortTextKey": "taxon_text_1_5090",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically 2-5 cm across.</p>",
+            "shortTextKey": "taxon_text_2_5091",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Probably endemic to South Africa (reports from Australia on WoRMS probably another species).</p><p><u>Local/Regional:</u> Cape Town to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_5092",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common on the undersides of boulders in the intertidal and shallow subtidal and on mussel shells to a depth of 20 m.</p>",
+            "shortTextKey": "taxon_text_4_5093",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5094",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Existing colonies expand by budding new zooecia around the margins. New colonies are established by sexual reproduction. Fertilized eggs are released into the water column, where they undertake a short larval life before finding a suitable habitat and metamorphosing into the adult form.</p>",
+            "shortTextKey": "taxon_text_6_5095",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several pale, encrusting species found on the undersides of boulders, such as <i>Steginoporella buskii</i>, but has much more distinctive, larger pores on zooids. Definitive identification requires microscopic examination of zooecia ornamentation.</p>",
+            "shortTextKey": "taxon_text_7_5096",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 136).<br><br>Florence, WK (2016). Some deep-water cheilostome Bryozoa from the south coast of South Africa. <i>African Natural History</i>, 12, 5-11.<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 35).",
+            "shortTextKey": "taxon_text_8_5097",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-386-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-386-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-386-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-386-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-386-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-386-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-387-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-387-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-387-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

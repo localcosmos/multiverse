@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Callithamnion collabens (Rudolphi)",
+    "taxonAuthor": "L.M. McIvor & Maggs, 2002",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "3e90bb74-4c34-4378-ae90-4913692858c4",
+    "taxonNuid": "003002004004001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1352-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1352-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1352-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 770,
+    "vernacular": {
+        "en": "Aristocratic plume-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Aristocratic plume-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Aristothamnion collabens</i></p>",
+            "shortTextKey": "taxon_text_9_7501",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Delicate bushy and flexible with a small holdfast attached to other algae and a prominent, segmented main stem. Laterals emerge from the main stem, one per segment, in a spiral arrangement and become progressively shorter from base to tip, so the whole structure resembles as tapered bottle-brush.&nbsp; Each side branch is similarly tapered. Colour purple-red.</p><p>The common name is a reflection of the earlier generic name.</p>",
+            "shortTextKey": "taxon_text_1_7502",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 300 mm tall, but typically less than 100 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7503",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Mainly Southern African, but also reported from Sri Lanka.</p><p><u>Local/Regional: </u>Namibia to Port Alfred.</p>",
+            "shortTextKey": "taxon_text_3_7504",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Distinctive and attractive species which is fairly common, especially on west coast. Forms soft, epiphytic growth on other larger algae from the mid-intertidal downwards.</p>",
+            "shortTextKey": "taxon_text_4_7505",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7506",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 12 regional species in this genus, which has been the subject of much revision and still require further taxonomic clarification. The regional species are discussed and listed by Reddy et al. (2020) – see references.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7508",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 414). <br><br>McIvor, L, Maggs, CA & Stanhope, MJ (2002). RbcL sequences indicate a single evolutionary origin of multinucleate cells in the red algal tribe Callithamnieae. <i>Molecular Phylogenetics and Evolution</i>, 23, 433-446.<br><br>Reddy, MM, Stegenga, H, Anderson, RJ & Bolton, JJ (2020). An updated species inventory of <i>Callithamnion</i> sensu lato Rhodophyta, Callithamniaceae in South Africa with the description of <i>Callithamnion africanum</i> sp. nov. <i>Phytotaxa</i>, 461(3), 139-154.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 390 as <i>Aristothamnion collabens).",
+            "shortTextKey": "taxon_text_8_7509",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1352-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1352-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1352-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1352-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1352-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1352-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

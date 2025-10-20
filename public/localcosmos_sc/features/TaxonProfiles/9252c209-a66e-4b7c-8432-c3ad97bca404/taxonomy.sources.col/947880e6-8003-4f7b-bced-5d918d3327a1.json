@@ -1,0 +1,195 @@
+{
+    "taxonLatname": "Verrucaria nigrescens",
+    "taxonAuthor": "Pers.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "947880e6-8003-4f7b-bced-5d918d3327a1",
+    "taxonNuid": "0050030ip00o00501k02w",
+    "gbifNubkey": 10955518,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-416-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-416-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-416-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 548,
+    "vernacular": {
+        "en": "Sea-tar lichen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sea-tar lichen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Encrusting very dark brown to black lichen, sometimes mistaken for oil pollution on the shore. One of few truly marine lichens in the region, occurring in the upper Balanoid (barnacle) and <i>Littorina</i> (periwinkle) zones on rocky intertidal shores.</p><p>When examined closely the thallus is about 0.1-0.3 mm thick and has a slightly uneven, dull surface that is fairly regularly cracked into blocks about 0.2-0.8 mm across and separated by narrow fissures (like crazy paving). The reproductive organs are about 0.3 mm in diameter and are sunken into the thallus with a flat to slightly convex upper surface.</p>",
+            "shortTextKey": "taxon_text_1_5270",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies can cover large areas of rock and be 1 m or more across.</p>",
+            "shortTextKey": "taxon_text_2_5271",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Europe, Asia, Africa, North America and Australia.</p><p><u>Local/Regional:</u> Poorly documented, but there are records along west coast of South Africa to at least Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_5272",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species, but remains very poorly studied. May form extensive patches on intertidal rocks and thus probably a significant component of the diets of upper intertidal grazers, such as periwinkles and high-shore limpets.</p><p>The presence of this black lichen has been shown to raise the temperature of the rock relative to adjacent rock surfaces.</p>",
+            "shortTextKey": "taxon_text_4_5273",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_5274",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spores are produced by small fruiting bodies buried in the thallus.</p>",
+            "shortTextKey": "taxon_text_6_5275",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>We are not aware of any published research on intertidal lichens in South Africa, so it is very difficult to say whether there are other similar species in the region.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_5276",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Carter, NEA & Viles, HA (2004). Lichen hotspots: raised rock temperatures beneath <i>Verrucaria nigrescens</i> on limestone. <i>Geomorphology</i>, 62(1-2), 1-16.<br>(not covered in any of local marine guidebooks!).",
+            "shortTextKey": "taxon_text_8_5277",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-416-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-416-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-416-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-416-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-416-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-416-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Verrucaria umbrina",
+            "taxonAuthor": "(Ach.) Ach."
+        },
+        {
+            "taxonLatname": "Verrucaria fuscoatra var. munda",
+            "taxonAuthor": "Körb."
+        },
+        {
+            "taxonLatname": "Verrucaria rupestris var. nigrescens",
+            "taxonAuthor": "(Pers.) Branth & Rostr."
+        },
+        {
+            "taxonLatname": "Verrucaria tectorum",
+            "taxonAuthor": "(A. Massal.) Körb."
+        },
+        {
+            "taxonLatname": "Tichothecium nigrescens",
+            "taxonAuthor": "(Pers.) Flot."
+        },
+        {
+            "taxonLatname": "Lithoicea nigrescens",
+            "taxonAuthor": "(Pers.) A. Massal."
+        },
+        {
+            "taxonLatname": "Verrucaria nigrescens f. tectorum",
+            "taxonAuthor": "(A. Massal.) Coppins & Aptroot"
+        },
+        {
+            "taxonLatname": "Zschackea nigrescens",
+            "taxonAuthor": "(Pers.) M. Choisy & Werner"
+        },
+        {
+            "taxonLatname": "Verrucaria viridula f. tectorum",
+            "taxonAuthor": "(A. Massal.) J.R. Laundon"
+        },
+        {
+            "taxonLatname": "Verrucaria fuscoatra var. nigrescens",
+            "taxonAuthor": "(Pers.) Wallr."
+        },
+        {
+            "taxonLatname": "Pyrenula nigrescens",
+            "taxonAuthor": "(Pers.) Ach."
+        },
+        {
+            "taxonLatname": "Verrucaria controversa var. nigrescens",
+            "taxonAuthor": "(Pers.) Kremp."
+        },
+        {
+            "taxonLatname": "Lichen umbrinus",
+            "taxonAuthor": "Ach."
+        },
+        {
+            "taxonLatname": "Lithoicea tectorum",
+            "taxonAuthor": "A. Massal."
+        },
+        {
+            "taxonLatname": "Verrucaria umbrina var. nigrescens",
+            "taxonAuthor": "(Pers.) Ach."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

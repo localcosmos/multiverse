@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Dimorphotheca fruticosa",
+    "taxonAuthor": "(L.) DC",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "52bf1485-41f8-41e1-a9de-f943b649f287",
+    "taxonNuid": "003009001001",
+    "gbifNubkey": 5402325,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2788-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2788-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2788-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1005,
+    "vernacular": {
+        "en": "Trailing daisy"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Trailing daisy"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Osteospermum fruiticosum</i></p>",
+            "shortTextKey": "taxon_text_9_9483",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Attractive, sprawling, ground-hugging, perennial coastal daisy. Leaves fleshy and broadly rounded, edges minutely toothed, borne on distinct petioles (‘stems’). Compound flowers solitary and borne on naked stalks, the rays (‘petals’) white above and pale lilac below, minutely toothed at tip. Disc flowers reddish-purple. Fruit triangular in cross-section.</p>",
+            "shortTextKey": "taxon_text_1_9484",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of only about 30 cm, but forms dense patches many meters across.</p>",
+            "shortTextKey": "taxon_text_2_9485",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa. Has been introduced to New Zealand where it is classified as a weed.</p><p><u>Local/Regional:</u> West coast to KwaZulu-Natal, only near the coast.</p>",
+            "shortTextKey": "taxon_text_3_9486",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common along the coast, where it can form spectacular displays in winter and spring. Extremely hardy and grows right down to high water mark in stony beach sand. The succulent leaves can withstand salt spray and strong winds. Popular as a groundcover in coastal gardens.</p>",
+            "shortTextKey": "taxon_text_4_9487",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9488",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to October. &nbsp;Seeds dispersed by wind.</p>",
+            "shortTextKey": "taxon_text_6_9489",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related <i>D. pluvialis </i>has a similar range and sprawling habit and white flowers, but the base of each ray (petal) is purple. It also extends much further inland.</p>",
+            "shortTextKey": "taxon_text_7_9490",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2788-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2788-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2788-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2788-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2788-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2788-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Latigammaropsis atlantica",
+    "taxonAuthor": "(Stebbing, 1888)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e0e8035c-abaf-42ad-bacb-58d04a4583c0",
+    "taxonNuid": "00100300a00100b003001006003009005",
+    "gbifNubkey": 6460509,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-292-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-292-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-292-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 455,
+    "vernacular": {
+        "en": "Stalk-eyed amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Stalk-eyed amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Gammaropsis atlantica, </i>also previously placed in family Corophiidae.</p>",
+            "shortTextKey": "taxon_text_9_4335",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Smallish, laterally compressed species best identified by the very unusual, elongated eyes, which are extended onto a head-lobe projecting forwards between the antennae, are medially constricted, and pigmented red. &nbsp;Antennae setose, the first pair somewhat the longer. Second pair of limbs (gnathopod 2) with fairly large claws, much larger than those of first pair. Last pair of abdominal appendages (uropod 3) with two short equal branches. Colour pale with black and red speckling. Commonly coxa of second walking leg with characteristic black spot.</p>",
+            "shortTextKey": "taxon_text_1_4336",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 8 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_4337",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Caribbean and Gulf of Mexico and Southern Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4338",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Details unknown, but members of this family have silk glands in the walking legs for spinning tubes so are probably tube-dwelling filter-feeders.</p>",
+            "shortTextKey": "taxon_text_4_4339",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown but may be filter-feeders.</p>",
+            "shortTextKey": "taxon_text_5_4340",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all amphipods the sexes are separate and males copulate with females while they are laying their eggs. The eggs are then held in a ventral marsupium between the walking legs, where they develop into fully formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_4341",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The unusual elongated and centrally narrowed eyes are characteristic. A second very similar species<i> L. afra </i>is also has eye lobes extending between the antennae, but the eyes are oblong and the same width throughout. The relationships between the several species in this <i>L. afra/atlantica</i> complex remain confused (see Azman reference below).</p>",
+            "shortTextKey": "taxon_text_7_4342",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Azman, BAR & Othman, BHR (2013). Shallow water marine gammaridean amphipods of Pulau Tioman, Malaysia, with the description of a new species. <i>ZooKeys</i>, (335), 1. (contains drawings of this species)<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 68).",
+            "shortTextKey": "taxon_text_8_4343",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-292-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-292-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-292-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-292-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-292-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-292-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gammaropsis gardineri",
+            "taxonAuthor": "Walker, 1905"
+        },
+        {
+            "taxonLatname": "Eurystheus imminens",
+            "taxonAuthor": "K.H. Barnard, 1916"
+        },
+        {
+            "taxonLatname": "Gammaropsis imminens",
+            "taxonAuthor": "(K.H. Barnard, 1916)"
+        },
+        {
+            "taxonLatname": "Gammaropsis atlantica",
+            "taxonAuthor": "Stebbing, 1888"
+        },
+        {
+            "taxonLatname": "Gammaropsis zeylanicus",
+            "taxonAuthor": "Walker, 1904"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

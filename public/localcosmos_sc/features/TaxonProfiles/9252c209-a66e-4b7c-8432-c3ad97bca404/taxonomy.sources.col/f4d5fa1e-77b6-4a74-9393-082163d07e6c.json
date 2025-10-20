@@ -1,0 +1,199 @@
+{
+    "taxonLatname": "Sabella pavonina",
+    "taxonAuthor": "Savigny, 1822",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f4d5fa1e-77b6-4a74-9393-082163d07e6c",
+    "taxonNuid": "00100200205200100200200300v01a",
+    "gbifNubkey": 2328559,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2431-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2431-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2431-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 230,
+    "vernacular": {
+        "en": "Peacock worm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Peacock worm",
+            "peacock feather-duster worm",
+            "peacock worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Long, slender worm that lives within a smooth, stiff tube that projects vertically upwards out of the sand. When feeding, the head is extended from the tube and opens to reveal a single circular, daisy-like crown of long, feathery tentacles. Body usually dull orange or purple with inconspicuous parapodia. Tentacles pale and attractively banded in concentric rings of reds, brown, or purple spots.</p>",
+            "shortTextKey": "taxon_text_1_2116",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Tubes projects up to about 100 mm from sand, worm up to 200 mm long, crown up to 30 mm across.</p>",
+            "shortTextKey": "taxon_text_2_2117",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Europe including Mediterranean, as well as in temperate South Africa (this population may eventually turn out to be a genetically distinct species though).</p><p><u>Local/Regional:</u> About Saldanha Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_2118",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A large and conspicuous worm found singly or in small groups in sandy areas, often close to or among rocks. The conspicuous tubes project vertically from the sand and the worms retract rapidly into their tubes at the slightest disturbance.</p>",
+            "shortTextKey": "taxon_text_4_2119",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter feeder, removing particulate material from the water passing thought the crown of tentacles. The particles are sorted by the mouthparts and fine ones are eaten, medium ones used for constructing the tube and larger ones are rejected. Filtration rate in this species has been measured at 73 ml per hour.</p>",
+            "shortTextKey": "taxon_text_5_2120",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>A variety of modes of reproduction occur in this group and most species can reproduce both asexually by ‘budding’ off smaller individuals, and sexually. Sexes are usually separate and eggs and sperm are released directly into the water column, where they develop into planktonic larvae. &nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2121",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Members of this family characteristically have soft parchment tubes and circular crowns of tentacles and several species are common in the region. This species is fairly easily recognised by its long size, thin, vertical tubes and single, flat circle of tentacles. The Feather-duster worm <i>Pseudobranchiomma longa</i> is also common in the region, but is a much fatter worm usually found projecting from crevices in rock and not sand and has two uniformly-coloured spiral crowns of tentacles.</p>",
+            "shortTextKey": "taxon_text_7_2122",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 74).<br><br>Day, JH (1967). A Monograph on the Polychaeta of Southern Africa. British Museum (Natural History), London, Part 2. (p. 763).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group Press, Cape Town. (p. 78).<br><br>Murray, JM, Watson, GJ, Giangrande, A, Bentley, MG & Farrell, P (2011). Reproductive biology and population ecology of the marine fan worm <i>Sabella pavonina</i> (Savigny)(Polychaeta: Sabellidae). <i>Invertebrate Reproduction and Development</i>, 55(3), 183-196.",
+            "shortTextKey": "taxon_text_8_2123",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2431-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2431-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2431-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2431-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2431-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2431-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2432-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2432-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2432-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-48-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-48-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-48-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-49-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-49-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-49-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sabella pavonia bicoronata",
+            "taxonAuthor": "Hornell, 1891"
+        },
+        {
+            "taxonLatname": "Sabella sarsii",
+            "taxonAuthor": "Krøyer, 1856"
+        },
+        {
+            "taxonLatname": "Sabella longibranchiata",
+            "taxonAuthor": "Quatrefages, 1866"
+        },
+        {
+            "taxonLatname": "Spirographis spallanzanii brevispira",
+            "taxonAuthor": "Quatrefages, 1866"
+        },
+        {
+            "taxonLatname": "Spirographis brevispira",
+            "taxonAuthor": "Quatrefages, 1866"
+        },
+        {
+            "taxonLatname": "Sabella pavonia",
+            "taxonAuthor": "[auct. lapsus]"
+        },
+        {
+            "taxonLatname": "Sabella sarsi",
+            "taxonAuthor": "[auct. misspelling]"
+        },
+        {
+            "taxonLatname": "Tubularia penicillus",
+            "taxonAuthor": "[sensu] Müller, 1776"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

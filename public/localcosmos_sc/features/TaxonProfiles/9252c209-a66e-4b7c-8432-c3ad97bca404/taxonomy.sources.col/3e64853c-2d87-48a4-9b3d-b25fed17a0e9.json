@@ -1,0 +1,173 @@
+{
+    "taxonLatname": "Ischnochiton oniscus",
+    "taxonAuthor": "(Krauss, 1848)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3e64853c-2d87-48a4-9b3d-b25fed17a0e9",
+    "taxonNuid": "00100k00g003002002001004003025",
+    "gbifNubkey": 2306610,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-768-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-768-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-768-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 624,
+    "vernacular": {
+        "en": "Dwarf chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dwarf chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened with eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Shell plates are short and almost rectangular but produced backwards in the middle. Texture of shell with irregular bumps, almost radial on head plate while more longitudinal or wavey on other plates, with many growth-lines. Girdle thin with spicules on the edge, while the top carries short opaque, brown and white, striated and thin scales. Shell plates with notched, rounded anterior extensions. Variable colour but mostly cream with brown and green patterns and blotches.</p>",
+            "shortTextKey": "taxon_text_1_6175",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small, typically around 5-15 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6176",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Mozambique.</p><p><u>Local/Regional:</u> Hout Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_6177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Grouped under smooth rocks in sandy pools in the intertidal-subtidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6178",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6179",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6180",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several species from the genus occurs in the region. Differs from <i>I. textilis </i>by smoother sculpture. Differs from <i>I. elizabethensis </i>by having striated scales and longitudinal sculpture on lateral areas, where more wavey in the case of <i>I. elizabethensis</i>. Differs from <i>I. bergoti</i> by more subtle scale sculpture and colour.</p>",
+            "shortTextKey": "taxon_text_7_6181",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashby, E (1928). South African chitons, being a description of the Polyplacophora represented in the Turton Collection. <i>Proceedings of the Malacological Society of London</i>, 18 (2), 76-92. (p. 85, pl. 6, figs 9-11).<br><br>Sirenko, B & Schwabe, E (2002). Taxonomic notes on chitons. 2. Taxonomic status of chitons of the <i>Ischnochiton oniscus</i> group. <i>Spixiana</i>, 25(3), 193–198.",
+            "shortTextKey": "taxon_text_8_6182",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-768-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-768-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-768-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-768-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-768-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-768-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2016-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2016-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2016-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ischnochiton (Ischnochiton) oniscus",
+            "taxonAuthor": "(Krauss, 1848)"
+        },
+        {
+            "taxonLatname": "Ischnochiton oniscus var. pyramidalis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Chiton oniscus",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Ischnochiton oniscus var. aurantius",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Ischnochiton eucosmia",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Ischnochiton oniscus alfredensis",
+            "taxonAuthor": "Ashby, 1931"
+        },
+        {
+            "taxonLatname": "Ischnochiton oniscus var. albocarinatus",
+            "taxonAuthor": "W. H. Turton, 1932"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

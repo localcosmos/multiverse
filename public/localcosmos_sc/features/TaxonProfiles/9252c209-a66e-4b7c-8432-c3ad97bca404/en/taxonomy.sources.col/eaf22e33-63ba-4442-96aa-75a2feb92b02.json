@@ -1,0 +1,207 @@
+{
+    "taxonLatname": "Amphiura (Amphiura) capensis",
+    "taxonAuthor": "Ljungman, 1867",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "eaf22e33-63ba-4442-96aa-75a2feb92b02",
+    "taxonNuid": "00100c00100200200100200100200100200b00100h",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1088-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1088-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1088-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 712,
+    "vernacular": {
+        "en": "Equitailed brittle star"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Equitailed brittle star"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Smallish species with more of less pentagonal disc, indented between each pair of arms, upper surface covered with small plates. Radial shields distinctive, large and oval, adjacent at their outermost tips, but diverging markedly towards centre of the disc, hence leaving a V-shaped gap between each pair. Arms moderately spinose and with just single dorsal scale on each segment. Colour very variable, most commonly uniform yellow, orange, red or purple, but can also have a dark grey disc and yellow and black banded arms.</p>",
+            "shortTextKey": "taxon_text_1_6980",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Arm length up to 25 mm. Up to 11 mm disc diameter.</p>",
+            "shortTextKey": "taxon_text_2_6981",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Gambia, Senegal, Angola and Namibia, though to east coast of South Africa.</p><p><u>Local/Regional:</u> Namibia to Sodwana Bay, intertidal to 180 m.</p>",
+            "shortTextKey": "taxon_text_3_6982",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species that can be very abundant under stones and in gravel in the intertidal, but also reported down to 179 m depth. Within a particular group mostly uniform in colour, but adjacent groups can be very different in colour. Tends to aggregate in dense colonies. Parasitised by copepod <i>Cancerilla oblonga</i>, thought to be found on 10% of <i>A. capensis</i>.</p>",
+            "shortTextKey": "taxon_text_4_6983",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on detrital particles on the sediment surface, as arms are not held up into the water column. In most deposit feeding brittle stars the tube feet grasp prey items and compact them into balls, which are then transported along cilial tract along the undersides of the arms to the central mouth.</p>",
+            "shortTextKey": "taxon_text_5_6984",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>A hermaphroditic brooding species that becomes sexually mature at 5 mm disc diameter. Eggs and young are retained and nurtured within the disc in respiratory sacs called bursae where the young develop directly into juveniles, possibly without a larval stage. Duration of brooding estimated at 6 months and one individual can brood over 10 young at a time. Reproduces all-year-round, but brooding peaks in austral winter – coinciding with warmer water temperatures in the region.</p>",
+            "shortTextKey": "taxon_text_6_6985",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common of several regional species in this diverse genus and can be distinguished from most of these by the strongly diverging radial shields. Other common regional species, such as <i>A. incana</i>, share that character though, and detailed microscopic examination of the arm spines etc is needed to definitely separate these species (see Olbers ref. below for details and key to regional species). <i>Amphioplus integer</i> (Port Nolloth to Maputo) shares most of the features described for <i>Amphuira capensis</i>, but its radial shields are in contact with one another for their full length instead of diverging<i>.</i></p>",
+            "shortTextKey": "taxon_text_7_6986",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 232). <br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 155).<br><br>Olbers, JM, Griffiths, CL, O'Hara, TD & Samyn, Y (2019). Field guide to the brittle and basket stars (Echinodermata: Ophiuroidea) of South Africa. <i>ABC Taxa</i>, 19, 1–346 (p. 227).",
+            "shortTextKey": "taxon_text_8_9176",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1088-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1088-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1088-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1088-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1088-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1088-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1087-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1087-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1087-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1089-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1089-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1089-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1090-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1090-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1090-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1091-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1091-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1091-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1092-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1092-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1092-1000.webp"
+                }
+            },
+            {
+                "text": "<p>microCT scan – brooded young inside the disc in bright colours</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1093-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1093-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1093-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Amphiura capensis",
+            "taxonAuthor": "Ljungman, 1867"
+        },
+        {
+            "taxonLatname": "Amphiura adjecta",
+            "taxonAuthor": "Mortensen, 1933"
+        },
+        {
+            "taxonLatname": "Amphiura compressa",
+            "taxonAuthor": "Mortensen, 1933"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

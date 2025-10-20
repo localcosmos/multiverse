@@ -1,0 +1,189 @@
+{
+    "taxonLatname": "Sycozoa arborescens",
+    "taxonAuthor": "Hartmeyer, 1912",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "cb533921-09ab-4f33-947c-73cc2903834b",
+    "taxonNuid": "00100700200200100500a002",
+    "gbifNubkey": 4356059,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2497-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2497-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2497-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 157,
+    "vernacular": {
+        "en": "Fan ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fan ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very distinctive colonial species, the heads being laterally-flattened plates attached by a stalk to a common base, resulting in a branched colony. The elongated zooids are arranged in double rows vertically down both sides of each head and the common exhalent apertures form a line along the upper surface of each lobe. Colour variable, may be red, white or brown; commonly the upper edges of the lobes white and the sides grey or brown.</p>",
+            "shortTextKey": "taxon_text_1_1396",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids about 5 mm long, colonies up to 100 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_1397",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> False Bay to about Knysna.</p>",
+            "shortTextKey": "taxon_text_3_1398",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found attached to shallow reefs in areas of rapid water flow. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_1399",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1400",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand and grow via asexual reproduction (budding of existing zooids), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1401",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The fan-shaped heads and stalked structure of the colonies of this species is very distinctive. Although only this one species is currently described from the region, the large diversity of shapes and colours seen among photographed specimens suggest that other, currently un-described species are also present.</p>",
+            "shortTextKey": "taxon_text_7_1402",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 248).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group, Hout Bay (p. 196).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 36).",
+            "shortTextKey": "taxon_text_8_1403",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2497-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2497-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2497-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2497-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2497-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2497-1000.webp"
+                }
+            },
+            {
+                "text": "<p>False Bay</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2424-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2424-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2424-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2425-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2425-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2425-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2426-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2426-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2426-1000.webp"
+                }
+            },
+            {
+                "text": "<p>False Bay</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2409-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2409-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2409-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Oudekraal</p><p>&nbsp;</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-659-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-659-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-659-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sycozoa arborenscens",
+            "taxonAuthor": "Hartmeyer, 1912"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

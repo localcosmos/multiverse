@@ -1,0 +1,189 @@
+{
+    "taxonLatname": "Cymadusa filosa",
+    "taxonAuthor": "Savigny, 1816",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "903fa7bc-39bf-4c20-b9ae-5f93c08ad791",
+    "taxonNuid": "00100300a00100b00300200400100600e",
+    "gbifNubkey": 2216329,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-518-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-518-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-518-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 25,
+    "vernacular": {
+        "en": "Hairy nestbuilding amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hairy nestbuilding amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Relatively large, laterally-flattened, smooth-bodied, shrimp-like amphipod. Colour palepinkish, densely speckled with brown spots. Eyes white with red centres. Antennae similar in length, but second pair densely hairy in males, which also have dense fringes of hairs along ventral margins of side plates. Claws moderate in size, first pair slightly smaller than the second. First two pairs of legs contain cloud-like silk glands. Last pair of abdominal appendages (uropod 3) with characteristic short, paddle-like branches, the outer branch armed with two large, terminal, hook-like spines.&nbsp;</p><p>Best recognized by its habit of constructing cylindrical nests woven from algal debris and incorporated into seagrass or algal beds in estuaries and on sheltered sandbanks.</p>",
+            "shortTextKey": "taxon_text_1_154",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large for an amphipod, body length up to about 20 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_155",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Supposedly widespread across north Atlantic, Mediterranean, Red Sea, Gulf of Mexico, South Atlantic and round southern Africa, but in reality this is a European name and specimens from other regions probably belong to undescribed regional species.</p><p><u>Local/Regional:</u> Northern Cape to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_156",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p><u>Global:</u> &nbsp;Supposedly widespread across north Atlantic, Mediterranean, Red Sea, Gulf of Mexico, South Atlantic and round southern Africa, but in reality this is a European name and specimens from other regions probably belong to undescribed regional species.</p><p><u>Local/Regional:</u> Northern Cape to Mozambique.</p>",
+            "shortTextKey": "taxon_text_4_157",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not known, but assumed to feed on algae.</p>",
+            "shortTextKey": "taxon_text_5_158",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Males copulate with females and inseminate the eggs when they are released into the marsupium, which is situated between the legs of the female. There they develop into fully-formed juveniles before being released. There seems to be an element of parental care in this species, as quite large juveniles are often found sharing nests with adults.</p>",
+            "shortTextKey": "taxon_text_6_159",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Only one named species of <i>Cymadusa</i> is found in the region and this is currently known as <i>C. filosa</i>. Recent research has, however, suggested that the true <i>C. filosa</i> is a European species and that specimens reported from various locations in the southern hemisphere, including Australia, Madagascar and South Africa, in fact each belong to a variety of other regional species. Two such as yet un-named species are thought to occur in South Africa, the one described here and another larger darker brown species found under boulders only on the west coast of the Cape Peninsula. &nbsp;Work is currently under way to describe and name these species.</p>",
+            "shortTextKey": "taxon_text_7_160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 25).<br><br>Peart, RA (2004). A revision of the Cymadusa filosa complex (Crustacea: Amphipoda: Corophioidea: Ampithoidae). <i>Journal of Natural History</i>, 38(3), 301-336.",
+            "shortTextKey": "taxon_text_8_161",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-518-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-518-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-518-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-518-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-518-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-518-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-519-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-519-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-519-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Grubia sardenta",
+            "taxonAuthor": "Oliveira, 1953"
+        },
+        {
+            "taxonLatname": "Amphitoe filosa",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Ampithoe filosa",
+            "taxonAuthor": "(Savigny, 1816)"
+        },
+        {
+            "taxonLatname": "Grubia filosa",
+            "taxonAuthor": "(Savigny, 1816)"
+        },
+        {
+            "taxonLatname": "Grubia hirsuta",
+            "taxonAuthor": "Chevreux, 1900"
+        },
+        {
+            "taxonLatname": "Cymadusa sardenta",
+            "taxonAuthor": "(Oliveira, 1953)"
+        },
+        {
+            "taxonLatname": "Cymadusa australis",
+            "taxonAuthor": "(K.H. Barnard, 1916)"
+        },
+        {
+            "taxonLatname": "Cymadusa coei",
+            "taxonAuthor": "(Kunkel, 1910)"
+        },
+        {
+            "taxonLatname": "Grubia coei",
+            "taxonAuthor": "Kunkel, 1910"
+        },
+        {
+            "taxonLatname": "Grubia australis",
+            "taxonAuthor": "K.H. Barnard, 1916"
+        },
+        {
+            "taxonLatname": "Cymadusa hirsuta",
+            "taxonAuthor": "(Chevreux, 1900)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

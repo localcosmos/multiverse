@@ -1,0 +1,211 @@
+{
+    "taxonLatname": "Pyrenocollema halodytes",
+    "taxonAuthor": "(Nyl.) R.C. Harris",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a9612645-6ea5-492c-9d9f-db084249f102",
+    "taxonNuid": "00500315u002",
+    "gbifNubkey": 3467054,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-415-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-415-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-415-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 547,
+    "vernacular": {
+        "en": "Black-spot shell lichen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Black-spot shell lichen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Collemopsidium halodytes</i></p>",
+            "shortTextKey": "taxon_text_9_5259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A very unusual lichen both in in terms of its habitat of living within the shells of barnacles, limpets and sometimes other gastropods, and in that it is truly intertidal and submerged for part of the tidal cycle.</p><p>The thallus is hardly visible and is buried in the shell substratum. The only visible parts are the small black fruiting bodies, which appear as round dots on the surface of the host shell, each about 0.2 mm across.</p>",
+            "shortTextKey": "taxon_text_1_5260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies immersed in shells, black dots that link to reproductive structures about 0.2-0.3 mm across.</p>",
+            "shortTextKey": "taxon_text_2_5261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Northern Hemisphere, especially Europe, but also both coasts of North America. Also reported from Australia, New Zealand and South Africa.</p><p><u>Local/Regional:</u> Poorly known, but reported mostly on west coast.</p>",
+            "shortTextKey": "taxon_text_3_5262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Probably common, but very poorly known, as seldom noticed or recognized. Has been noted on the shells of barnacles and especially limpets such as Granular limpet and Pear limpet. Also noted on Mediterranean mussel.</p><p>The photobiont is a cyanobacterium, rather than an alga.</p>",
+            "shortTextKey": "taxon_text_4_5263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_5264",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies can divide and spread asexually by division. Spores are also produced and can spread to infect distant hosts.</p>",
+            "shortTextKey": "taxon_text_6_5265",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The classification of this species, its correct taxonomic name and its true distribution are all uncertain. Some sources give the current name as <i>Collemopsidium,</i> but we follow WoRMS (World Register of Marine Species) by placing it in the genus<i> Pryenocollema</i>.</p><p>The species within this group are also poorly defined and it appears likely that a complex of species in involved and confused under this one name.</p><p>Can also be confused with the crustose coralline alga <i>Spongites yendoi</i>, which also makes pitted growth on the shells of the same suite of molluscs but which tend to form rounded humps decorated with radiating ridges and patterns of regular holes (see that entry).</p>",
+            "shortTextKey": "taxon_text_7_5266",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Fiorentino, J (2008). First record of <i>Pyrenocollema halodytes</i> (Nyl.) R. Harris (Pyrenulales: Pyrenulaceae). <i>The Central Mediterranean Naturalist</i>, 4, 213-219.<br><br>Harada, H (2000). Taxonomic notes on pyrenocarpous lichens in Japan 2. <i>Pyrenocollema halodytes</i> Nyl. RC Harris in Egan, a marine lichen., 13(2), 133-139.<br><br>Sagin, WRTB (1995). <i>Pyrenocollema halodytes</i>, a new lichen species. <i>Acta Mycologica</i>, 3(1), 117-150.",
+            "shortTextKey": "taxon_text_8_5267",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-415-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-415-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-415-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-415-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-415-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-415-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Verrucaria consequens",
+            "taxonAuthor": "Nyl."
+        },
+        {
+            "taxonLatname": "Verrucaria litoralis var. consequens",
+            "taxonAuthor": "(Nyl.) Wedd."
+        },
+        {
+            "taxonLatname": "Pseudarthopyrenia gyalectoides",
+            "taxonAuthor": "(M. Knowles ex A.L. Sm.) Keissl."
+        },
+        {
+            "taxonLatname": "Thelidium halodytes",
+            "taxonAuthor": "(Nyl.) Erichsen"
+        },
+        {
+            "taxonLatname": "Arthopyrenia halodytes var. hollii",
+            "taxonAuthor": "A.L. Sm."
+        },
+        {
+            "taxonLatname": "Verrucaria fluctigena",
+            "taxonAuthor": "Nyl."
+        },
+        {
+            "taxonLatname": "Verrucaria halodytes",
+            "taxonAuthor": "Nyl."
+        },
+        {
+            "taxonLatname": "Arthopyrenia gyalectoides",
+            "taxonAuthor": "M. Knowles ex A.L. Sm."
+        },
+        {
+            "taxonLatname": "Collemopsidium halodytes",
+            "taxonAuthor": "(Nyl.) Grube & B.D. Ryan"
+        },
+        {
+            "taxonLatname": "Arthopyrenia consequens var. halodytes",
+            "taxonAuthor": "(Nyl.) H. Olivier"
+        },
+        {
+            "taxonLatname": "Verrucaria litoralis var. halodytes",
+            "taxonAuthor": "(Nyl.) Wedd."
+        },
+        {
+            "taxonLatname": "Arthopyrenia halodytes",
+            "taxonAuthor": "(Nyl.) Arnold"
+        },
+        {
+            "taxonLatname": "Leiophloea halodytes",
+            "taxonAuthor": "(Nyl.) Trevis."
+        },
+        {
+            "taxonLatname": "Arthopyrenia kelpii",
+            "taxonAuthor": "Körb."
+        },
+        {
+            "taxonLatname": "Paraphysothele halodytes",
+            "taxonAuthor": "(Nyl.) Keissl."
+        },
+        {
+            "taxonLatname": "Arthopyrenia consequens",
+            "taxonAuthor": "(Nyl.) Arnold"
+        },
+        {
+            "taxonLatname": "Verrucaria kelpii",
+            "taxonAuthor": "(Körb.) Sandst."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

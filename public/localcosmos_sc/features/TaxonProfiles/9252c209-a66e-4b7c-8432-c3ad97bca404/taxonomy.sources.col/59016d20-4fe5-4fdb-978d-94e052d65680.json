@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Pelargonium fulgidum",
+    "taxonAuthor": "(L.) L'Hér.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "59016d20-4fe5-4fdb-978d-94e052d65680",
+    "taxonNuid": "00600600500s00200602t",
+    "gbifNubkey": 7727656,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2947-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2947-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2947-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1030,
+    "vernacular": {
+        "en": "Celandine-leaved pelargonium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Celandine-leaved pelargonium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spectacular, succulent-stemmed coastal shrublet with scrambling habits – often growing among and supported by other plants. Leaves oblong and deeply incised with serrated margins and are covered with silvery hairs. Flowers scarlet and in groups of 4-9 on long hairy stems that extend well above the foliage.</p>",
+            "shortTextKey": "taxon_text_1_9708",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants typically about 50 cm tall but can reach over 1 m if supported by other plants. Leaves up to 10 cm long, flowers about 20 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_9709",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Orange River to about Yzerfontein.</p>",
+            "shortTextKey": "taxon_text_3_9710",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Coastal species confined to west coast. One of the most colourful pelargonium species and is the parent of many commercially marketed hybrids. The young leaves and be used as a wild food.</p>",
+            "shortTextKey": "taxon_text_4_9711",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9712",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers June to November. Pollinated by sunbirds. Popular in coastal gardens and easily propagated from cuttings.</p>",
+            "shortTextKey": "taxon_text_6_9713",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This large genus contains about 270 species, of which some 150 occur in the fynbos region, but this species is easily recognised by ists very bright scarlet flowers.</p>",
+            "shortTextKey": "taxon_text_7_9714",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2947-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2947-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2947-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2947-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2947-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2947-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pelargonium bentinkianum",
+            "taxonAuthor": "Willd."
+        },
+        {
+            "taxonLatname": "Geranium fulgidum",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Geraniospermum fulgidum",
+            "taxonAuthor": "(L.) Kuntze"
+        },
+        {
+            "taxonLatname": "Ciconium fulgens",
+            "taxonAuthor": "Sweet"
+        },
+        {
+            "taxonLatname": "Pelargonium scintillare",
+            "taxonAuthor": "Steud."
+        },
+        {
+            "taxonLatname": "Pelargonium bentinckianum",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Polyactium fulgidum",
+            "taxonAuthor": "(L.) Eckl. & Zeyh."
+        },
+        {
+            "taxonLatname": "Ciconium bentinckianum",
+            "taxonAuthor": "(Willd.) Sweet"
+        },
+        {
+            "taxonLatname": "Geranium tectum",
+            "taxonAuthor": "Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

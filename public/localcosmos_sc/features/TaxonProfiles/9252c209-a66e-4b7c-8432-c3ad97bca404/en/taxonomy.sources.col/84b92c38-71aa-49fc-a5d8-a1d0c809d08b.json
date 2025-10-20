@@ -1,0 +1,198 @@
+{
+    "taxonLatname": "Nucella squamosa",
+    "taxonAuthor": "(Lamarck, 1816)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "84b92c38-71aa-49fc-a5d8-a1d0c809d08b",
+    "taxonNuid": "00100k00700300e00900100f01200e",
+    "gbifNubkey": 5726300,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-118-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-118-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-118-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 289,
+    "vernacular": {
+        "en": "Scaly dogwhelk"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Scaly dogwhelk",
+            "scaly dogwhelk"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell moderately large, fairly plump and whelk-shaped, outer surface ornamented with intersecting transverse and spiral ridges that form a rectangular network with scale–like granules where the ridges intersect (hence common name). External colour light brown, internal colour off-white. Live animals are almost always completely covered by the prickly orange hydroid <i>Hydractinia altispira,</i> which is unknown other than on the shells of this whelk and thus appears to be an obligate commensal.</p>",
+            "shortTextKey": "taxon_text_1_2706",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 53 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2707",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to&nbsp;southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_2708",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common and usually found in low shore pools and gullies and in kelp holdfasts. Occurs to a depth of about 50 m. Easily recognised by the intersecting grid of ridges and external coating or orange hydroids, the stinging cells of which are thought to repel a variety of predators.</p><p>Mussels are known to entangle and trap these whelks using their byssal threads and this is thought to be a defense mechanism against these predators although it is hard to argue that this is intentional. Little else is known about the biology of this species, although it is assumed to be a drilling predator, like other members of the genus.</p>",
+            "shortTextKey": "taxon_text_4_2709",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A predator, feeding on mussels and other sedentary invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_2710",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are about 10 mm tall, elongate and upright with a flattered concave tip. It is thought that crawling young emerge, as in other related species.</p>",
+            "shortTextKey": "taxon_text_6_2711",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several related species that occur on the same shores. The Common dogwhelk <i>Nucella dubia</i> is smaller, has weak rounded ridges and is usually plain brown or grey, or has flames of rows of darker brown colour, and occurs high in the intertidal. The Girdled dogwhelk <i>Trochia cingulata</i> is bluish-grey to white, often has a series of pronounced spiral ridges on each whorl and is found lower on the shore and only on the west coast. The banded dogwhelk <i>N. wahlbergi</i> is larger (34 mm) with a longer spire and is white with fine spiral grooves and usually a marked brown band around the last whorl.</p>",
+            "shortTextKey": "taxon_text_7_2712",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 192).<br><br>Day, RW, Barkai, A & Wickens, PA (1991). Trapping of three drilling whelks by two species of mussel. <i>Journal of Experimental Marine Biology and Ecology</i>, 149(1), 109-122.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 91).",
+            "shortTextKey": "taxon_text_8_2713",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-118-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-118-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-118-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-118-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-118-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-118-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1194-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1194-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1194-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1198-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1198-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1198-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1199-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1199-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1199-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Thais squamosa",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Purpura squamosa",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Thais sculpturata",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Thais subglobosa",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Purpura clathrata",
+            "taxonAuthor": "Blainville, 1832"
+        },
+        {
+            "taxonLatname": "Purpura squamulosa",
+            "taxonAuthor": "J. E. Gray, 1839"
+        },
+        {
+            "taxonLatname": "Nucella ovalis",
+            "taxonAuthor": "(Blainville, 1832)"
+        },
+        {
+            "taxonLatname": "Purpura ovalis",
+            "taxonAuthor": "Blainville, 1832"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

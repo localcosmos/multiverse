@@ -1,0 +1,168 @@
+{
+    "taxonLatname": "Burnupena papyracea",
+    "taxonAuthor": "(Bruguière, 1789)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "52978022-5c6a-4401-82f7-6c56dfd4cb79",
+    "taxonNuid": "00100k00700300e00200f005",
+    "gbifNubkey": 4368579,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-101-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-101-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-101-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 275,
+    "vernacular": {
+        "en": "Papery burnupena"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Papery burnupena",
+            "papery burnupena"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Whelks of the genus <i>Burnupena</i> can be difficult to identify, as several species may be common on the same shores, there is considerable variation in shell shape and colour within some species and external features may be concealed by encrusting algae or bryozoans.</p><p>This is one of the easiest species to identify though, since when alive the shell is nearly always completely covered with the purple to orange nodular bryozoan <i>Alcyonidium nodosum. </i>The dead and without the bryozoan cover the shell is also distinctive and is yellowish–brown with a fairly long spire and is ornamented with fine spiral ridges. The interior of the shell is white.</p>",
+            "shortTextKey": "taxon_text_1_2566",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 50 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2567",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> A west coast species found from Namibia to about Hermanus.</p>",
+            "shortTextKey": "taxon_text_3_2568",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common and easily recognised by the external coating of orange nodular bryozoan, which is known to protect the species against predators such as rock-lobsters. Indeed these whelks have been observed ganging up against rock lobsters and attacking them - an unusual case of reversed predation!</p><p>The brightly coloured ridgeback amphipod <i>Ochlesis lenticulosus</i> and Hunchback amphipod <i>Iphimedia gibba</i> are often seen congregating on the backs of the whelks and feeding on the bryozoan, thus ingesting the toxins it contains, and thus also presumably gaining protection against predators (a fascinating subject for future research!).</p>",
+            "shortTextKey": "taxon_text_4_2569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A scavenger, feeding on a wide range of dead or dying organisms, abandoned bait and fish guts and the like. Can also overcome and eat rock-lobsters when abundant.</p>",
+            "shortTextKey": "taxon_text_5_2570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases resemble those of other <i>Burnupena</i> species and are compressed, with a leaf-like flap at the apex and are laid in a hemispherical mass attached directly to the rock or to the shells of other molluscs. The eggs hatch directly into crawling young.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2571",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several related species of <i>Burnupena </i>occur on the same shores and can be difficult to separate. When alive this species can be distinguished from most others by its coating of orange bryozoan, and when dead by the fine spiral ridges and white internal colour of the shell. There is, however, a second very similar species, the Pubescent burnupena <i>B. pubescens,</i> which is also covered by the same bryozoan. However, that species is smaller (30 mm) and the shell has longitudinal ridges crossing the spiral ridges, giving it a chequered texture.</p>",
+            "shortTextKey": "taxon_text_7_2572",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barkai, A & McQuaid, C (1988). Predator-prey role reversal in a marine benthic ecosystem.<i>Science</i>, 242(4875), 62-64.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 194)<br><br>Gray, CA, McQuaid, CD & Davies-Coleman, MT (2005). A symbiotic shell-encrusting bryozoan provides subtidal whelks with chemical defence against rock lobsters. <i>African Journal of Marine Science</i>, 27(3), 549-556.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 95).",
+            "shortTextKey": "taxon_text_8_2573",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-101-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-101-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-101-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-101-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-101-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-101-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Buccinum anglicum",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Buccinum britanicum",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Burnupena papyracea papyracea",
+            "taxonAuthor": "(Bruguière, 1789)"
+        },
+        {
+            "taxonLatname": "Buccinum norvegicum",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Buccinum papyraceum",
+            "taxonAuthor": "Bruguière, 1789"
+        },
+        {
+            "taxonLatname": "Burnupena papyracea f. anglicanum",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Buccinum anglicanum",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Buccinum intinctum",
+            "taxonAuthor": "Reeve, 1846"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

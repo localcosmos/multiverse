@@ -1,0 +1,36 @@
+{
+    "name": "Lippenblütlerartige",
+    "description": null,
+    "verboseName": "Lippenblütlerartige",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Diadema setosum",
+            "taxonAuthor": "(Leske, 1778)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "1da14d63-950e-4d2a-ae0e-2cd2c5766a52",
+            "taxonNuid": "001001001001001001001",
+            "slug": "diadema-setosum",
+            "localizedSlug": {
+                "de": "diadem-seeigel"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Centroceras spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "20c1f99f-b8a0-4378-a7b0-9643c1a35898",
+    "taxonNuid": "003002004007001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1360-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1360-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1360-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 776,
+    "vernacular": {
+        "en": "Curl claws"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Curl claws"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, delicate species forming tufts of long, thin, branching filaments, each branching dichotomously or alternately (depending on species) and ending in a pair of strongly-incurved, claw-like tips. The filaments appear segmented, but each segment is composed of many rows of small cells. Small bud-like growths may be present in the forks of the main filaments. Colour dark reddish-brown.</p><p>The taxonomy of this group in South Africa remains confused, so we do not venture to give a species name to the images provided. Species with dichotomous branching (as illustrated) were previously referred to <i>C. clavulatum,</i> but recent work by Won <i>et al.</i> (2009, 2010) failed to reveal that species, which was described from Peru, in South Africa, but instead reported several others, including some described as new, despite the study being based on examination of relatively few specimens. The true numbers of species in the region and their distributions thus remain poorly known, although a key to the known species is given by Won <i>et al.</i> (2010).</p>",
+            "shortTextKey": "taxon_text_1_7556",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 100 mm tall, typically smaller, with filaments only about 0.2 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7557",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Genus found in tropical and temperate waters around the world.</p><p><u>Local/Regional:</u><i> </i>Genus found all along southern African coast.</p>",
+            "shortTextKey": "taxon_text_3_7558",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Several species common in low intertidal and shallow sublittoral reefs around different parts of the coast.</p>",
+            "shortTextKey": "taxon_text_4_7559",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7560",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetraspores in whorls borne in the apical segments.</p>",
+            "shortTextKey": "taxon_text_6_7561",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are many similar regional species in this and closely-related genera and these can be easily confused – see Stegenga reference for identification key to west coast genera in the family and Won <i>et al.</i> (2010) for key to regional species in the genus.</p>",
+            "shortTextKey": "taxon_text_7_7562",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 412). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 405).<br><br>Won, BY, Cho, TO & Fredericq, S (2009). Morphological and molecular characterization of species of the genus <i>Centroceras</i> (Ceramiaceae, Ceramiales), including two new species. <i>Journal of Phycology</i>, 45, 227–250.<br><br>Won, BY, Fredericq, S & Cho, TO (2010). Two new species of Centroceras (Ceramiaceae, Rhodophyta) from KwaZulu-Natal, South Africa. European <i>Journal of Phycology</i> 45(3): 240-246.",
+            "shortTextKey": "taxon_text_8_7563",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1360-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1360-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1360-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1360-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1360-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1360-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1361-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1361-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1361-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

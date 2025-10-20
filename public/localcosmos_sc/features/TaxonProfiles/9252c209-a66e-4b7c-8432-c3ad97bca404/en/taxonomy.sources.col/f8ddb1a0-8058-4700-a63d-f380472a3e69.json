@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Parelasmopus suluensis",
+    "taxonAuthor": "(Dana, 1852)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f8ddb1a0-8058-4700-a63d-f380472a3e69",
+    "taxonNuid": "00100300a00100b00500100200501300c",
+    "gbifNubkey": 2219892,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-298-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-298-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-298-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 461,
+    "vernacular": {
+        "en": "Spike-backed amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spike-backed amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Laterally flattened and shrimp-like with distinctive patchy pale orange to dark red colouration. Eyes pale with red spots. Antenna 1 considerably longer than antenna 2. First two pairs of legs (gnathopods) with distinct nippers, those of second pair much the larger. Posterior margins of first 3 abdominal segments cut into characteristic single pair of sharp, flat-lying dorsal teeth. Last pair of abdominal appendages (uropod 3) with two fairly short equal-sized branches.</p>",
+            "shortTextKey": "taxon_text_1_4398",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 12 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_4399",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Red Sea (good chance these are not in reality the same species).</p><p><u>Local/Regional:</u> False Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_4400",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found among benthic algae and sedentary invertebrates intertidally and on shallow reefs. Habits unknown.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4401",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, probably herbivorous and/or detritivore.</p>",
+            "shortTextKey": "taxon_text_5_4402",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>In all amphipods sexes are separate and males copulate with females and inseminate the eggs as they are released into the marsupium, which is situated between the legs of the female. There they develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_4403",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is the only local representative of the genus, but can be confused with Red-striped amphipod <i>Ceradocus rubromaculatus</i>, which is similar in body form and is also red, but that species is much lighter in colour and is patterned with regular orange and white transverse stipes. It also has a row of several smaller teeth across the back margins of the first three abdominal segments.</p>",
+            "shortTextKey": "taxon_text_7_4404",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 41).",
+            "shortTextKey": "taxon_text_8_4405",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-298-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-298-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-298-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-298-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-298-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-298-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gammarus suluensis",
+            "taxonAuthor": "Dana, 1852"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

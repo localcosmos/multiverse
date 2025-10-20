@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Philhedonus sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "f58ca71d-2d61-4716-a4c2-752b4513414b",
+    "taxonNuid": "001003002001003001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-730-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-730-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-730-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 597,
+    "vernacular": {
+        "en": "Red-shouldered soft-winged beetle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red-shouldered soft-winged beetle",
+            "Philhedonus sp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, fairly plump, shiny-blue beetle. Head blue, first thoracic segment (pronotum) with laterally extended orange lobes. Elytra shiny metallic blue with fine stipples. Abdomen fat and extending well beyond tips of elytra, orange, but with last two segments metallic blue.</p>",
+            "shortTextKey": "taxon_text_1_5905",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 5 mm excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_5906",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Unknown.</p><p><u>Local/Regional:</u> Common amongst dry drift kelp and other driftline debris in western Cape.</p>",
+            "shortTextKey": "taxon_text_3_5907",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>There are more than 15 similar species of this very diverse and little known genus recorded from South Africa so it is not possible to identify this beetle to species level. It is, however, common amongst wrack along the driftline of sandy beaches. Most species in this group are predatory so this species may well feed on fly larvae of other typical decomposers common in wrack. Very active and runs rapidly as soon as exposed but reluctant to fly.</p>",
+            "shortTextKey": "taxon_text_4_5908",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Probably feed on small invertebrates associated with kelp wrack.</p>",
+            "shortTextKey": "taxon_text_5_5909",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown, but the larvae of most species in the is family are predatory.</p>",
+            "shortTextKey": "taxon_text_6_5910",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Many similar species in the region, but the red shoulders on the pronotum and littoral habits fairly characteristic.</p>",
+            "shortTextKey": "taxon_text_7_5911",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Wittmer, W (1988). Neue Gattungen und neue Arten der Familie Malachiidae (Coleoptera) hauptsächlich aus dem südlichen Afrika. <i>Annals of the Transvaal Museum</i>, 34(25), 557-619.",
+            "shortTextKey": "taxon_text_8_5912",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-730-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-730-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-730-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-730-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-730-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-730-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Amblychilepas platyactis",
+    "taxonAuthor": "J. H. McLean & Kilburn, 1986",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "92ad56c9-8eff-48fb-b245-c2e395dc9c04",
+    "taxonNuid": "00100k00700v002001001004001008",
+    "gbifNubkey": 6515493,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-63-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-63-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-63-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 243,
+    "vernacular": {
+        "en": "Frilly keyhole-limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Frilly keyhole-limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell much smaller than body, robust and limpet-like and with an oval hole at its apex, through which the exhalant siphon projects. Shell saddle-shaped when viewed from the side (such that it rocks from end to end when placed on a flat surface) and with fine radiating riblets and concentric growth lines. Colour usually red.</p><p>Animal much larger than shell, which simply perches on its back. Head is not projected into an elongate narrow snout (as in the similar <i>Dentrofissurella</i>), but is rounded. Numerous large frilly branching projections around margin of shell. A pair of long red tentacles extend forward. Body colour generally yellow to orange or red.</p>",
+            "shortTextKey": "taxon_text_1_2246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 30 mm in length, expanded animal up to 60 mm.</p>",
+            "shortTextKey": "taxon_text_2_2247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Table Bay to East London<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2248",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Uncommon species, usually seen singly under boulders, particularly in sandy areas. Little is known about its biology, as previously confused with <i>Dendrofissurella scutellum</i>.</p>",
+            "shortTextKey": "taxon_text_4_2249",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on algae.</p>",
+            "shortTextKey": "taxon_text_5_2250",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied, but members of this family normally have separate sexes (some change sex from male to female with age). Eggs may be laid within thin gelatinous masses or in spherical gelatinous capsules. The young then hatch as late-stage planktonic larvae, or in some species at the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_2251",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Long confused with the Saddled keyhole limpet <i>Dentrofissurella scutellum</i> and has a similar laterally curved shell, but the soft parts are quite different and lack the elongated trunk-like head of that species. Also has far more, and larger, frilly papillae around the margins of the shell and foot.</p><p>Since the species was described in a somewhat obscure American museum journal and the live animal was not depicted in that paper, the correct identification of this species has eluded regional researchers for decades and, although quite often seen, it is has not been featured in any of the regional field guides. Indeed we believe this to be the first identified image of a live specimen to be published. Hopefully now that the live animal is known and can be recognized, more information about the distribution and biology of this species can be gathered.</p><p>Could also be confused with the smaller keyhole limpet <i>Fissurella mutabilis</i>, but in that species the shell is flat and not saddle-shaped and almost completely covers the animal.</p>",
+            "shortTextKey": "taxon_text_7_2252",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "McLean, JH & Kilburn, RN (1986). Propodial elaboration in Southern African and Indian Ocean Fissurellidae (Mollusca: Prosobranchia) with descriptions of two new genera and one new species. <i>Contributions in Science, Natural History Museum of Los Angeles County</i>, 379: 1-12.",
+            "shortTextKey": "taxon_text_8_2253",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-63-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-63-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-63-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-63-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-63-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-63-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

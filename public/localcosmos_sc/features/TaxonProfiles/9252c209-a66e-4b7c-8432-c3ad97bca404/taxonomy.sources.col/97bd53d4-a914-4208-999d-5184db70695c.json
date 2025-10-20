@@ -1,0 +1,182 @@
+{
+    "taxonLatname": "Margaretta levinseni",
+    "taxonAuthor": "(Canu & Bassler, 1930)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "97bd53d4-a914-4208-999d-5184db70695c",
+    "taxonNuid": "00100500100100b00t00k00100f",
+    "gbifNubkey": 4984762,
+    "image": {
+        "text": "<p>Rockpool, De Hoop</p>",
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1056-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1056-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1056-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 533,
+    "vernacular": {
+        "en": "Cactus-bush bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cactus-bush bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Previously mis-identified as <i>M. triplex</i>, which is a valid species, but occurs in Australia and not in Africa.</p>",
+            "shortTextKey": "taxon_text_9_5119",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a short, branched bush with fairly thick, tapering, bright orange to pinkish stems, resembling a jointed cactus.</p><p>When examined closely, the zooecia are urn-shaped and arranged in alternating rows of 4 around the stem. The surface of each is ornamented with a network of fine ridges and the apertures are extended and spout-like.</p>",
+            "shortTextKey": "taxon_text_1_5120",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia about 1 mm long, colonies typically 3 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_5121",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> According to WoRMS widespread across the Indo-Pacific, but given as endemic by Florence et al.</p><p><u>Local/Regional:</u> False Bay to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_5122",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on shallow reefs in protected waters from the low intertidal to about 20 m depth. Often growing among other fouling species such as algae, soft corals and hydroids. Few other details available.</p>",
+            "shortTextKey": "taxon_text_4_5123",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5124",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Hermaphrodite. Sperm are liberated into the water by male zooids and drawn into other female zooids, where they fertilise the eggs. The larvae are then liberated for a short larval life before settling to establish new colonies. Existing colonies expand by budding new zooecia at their ends.</p>",
+            "shortTextKey": "taxon_text_6_5125",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The colony form is very distinctive so unlikely to be confused with other bryozoan species. In the field can be confused as being a seafan.</p>",
+            "shortTextKey": "taxon_text_7_5126",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 138).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 41).",
+            "shortTextKey": "taxon_text_8_5127",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Rockpool, De Hoop</p>",
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1056-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1056-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1056-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Rockpool, De Hoop</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1056-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1056-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1056-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Rockpool, De Hoop</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1049-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1049-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1049-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Rockpool, De Hoop</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1055-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1055-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1055-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Rockpool, De Hoop</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1051-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1051-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1051-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-393-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-393-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-393-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

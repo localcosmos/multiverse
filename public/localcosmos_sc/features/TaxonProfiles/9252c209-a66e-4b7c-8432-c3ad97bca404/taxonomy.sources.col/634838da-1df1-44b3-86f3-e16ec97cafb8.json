@@ -1,0 +1,202 @@
+{
+    "taxonLatname": "Sepia vermiculata",
+    "taxonAuthor": "Quoy & Gaimard, 1832",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "634838da-1df1-44b3-86f3-e16ec97cafb8",
+    "taxonNuid": "00100k00400300300800100100200d01j",
+    "gbifNubkey": 2290834,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2629-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2629-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2629-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 944,
+    "vernacular": {
+        "en": "Patchwork cuttlefish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Patchwork cuttlefish",
+            "common cuttlefish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large cuttlefish with a broad, smooth-skinned mantle, its frontal margin produced into a bulge mid-dorsally. Wide fins run along entire lateral margins except for small gap at tail. Arms joined at base by a shallow web, the ventral arms longer than dorsal ones, arms III and IV keeled. Arm suckers in four rows, all suckers with finely toothed rings. Tentacle clubs with about four rows of suckers, median suckers much larger than marginal ones, rims of suckers smooth. Cuttlebone broadly oval with a pointed spine at posterior end.</p><p>Colour extremely variable and may be difficult to identify from photographs, where definitive characters (such as suckers) seldom visible. Individuals that show characteristic zebra-like transverse stripes, white spots on the base of the lateral fins and a narrow white line on the fin margin, are easily identified, but may not always display those characters.</p>",
+            "shortTextKey": "taxon_text_1_9068",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Mantle length up to about 280 mm.</p>",
+            "shortTextKey": "taxon_text_2_9069",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> West coast of Southern Africa and South West Indian Ocean.</p><p><u>Local/Regional:</u> Orange River to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_9070",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Reported across region, but most common on south coast. Occurs from shallow water to depth of at least 290 m and is the only large <i>Sepia</i> to enter estuaries and river mouths such as Langebaan and Knysna lagoon. Very little is known about the species' biology.</p>",
+            "shortTextKey": "taxon_text_4_9071",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Details unknown, but all cuttlefish are predatory, shooting out the elongate tentacles to grasp prey and then tearing this apart with the beak.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_9072",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown, but cuttlefish lay large round eggs which are attached to objects such as rocks, seafans and the like. There is no parental care in this group.</p>",
+            "shortTextKey": "taxon_text_6_9073",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Since cuttlefish can actively change colouration, shape and posture within seconds the variation individual specimens can display can make species identification from images difficult. As a result, there has been considerable confusion in field identifications of local species. In the Western Cape, three to four common, large and medium-sized cuttlefish can be confused with this species; however it appears that the patchwork pattern/zebra-like transverse stripes displayed by <i>S. vermiculata</i> are characteristic. Neither the similar <i>S. simoniana</i> (also see similar species discussion under this species entry) nor the smaller and more elongated <i>Decorisepia australis</i>, have any similar zebra pattern in their colour repertoire. To our current knowledge, a fourth large species present in the Western Cape, <i>Spathidosepion papillatum, </i>has never been photographed or identified in its natural environment.</p><p>The cuttlebone of <i>S. simoniana </i>has a blunt knob on the posterior end rather than a sharp spine in <i>S. vermiculata</i>, although this character appears slightly variable.</p>",
+            "shortTextKey": "taxon_text_7_9074",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2629-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2629-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2629-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2629-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2629-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2629-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2630-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2630-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2630-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2633-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2633-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2633-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Knysna Lagoon</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2590-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2590-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2590-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Knysna Lagoon</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2588-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2588-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2588-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Knysna Lagoon</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2589-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2589-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2589-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Knysna Lagoon</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2587-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2587-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2587-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2699-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2699-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2699-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sepia officinalis vermiculata",
+            "taxonAuthor": "Quoy & Gaimard, 1832"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

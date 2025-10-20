@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Leucothoe spinicarpa",
+    "taxonAuthor": "(Abildgaard, 1789)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2bd33375-8111-418a-87ef-9434146b4e7c",
+    "taxonNuid": "00100300a00100100100100300100203l",
+    "gbifNubkey": 5178003,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-559-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-559-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-559-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 28,
+    "vernacular": {
+        "en": "Sponge amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sponge amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Gammarus spinicarpa</i></p>",
+            "shortTextKey": "taxon_text_9_180",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly-large and robust pink amphipod with rather short, equal antennae. Best identified by the unusual form of the nippers (gnathopods). The first pair of nippers has a unique form in which the ‘finger’ is formed by both of the last two segments, which close against a ‘palm’ formed by an extension of the third-last segment. Second pair of nippers are unusually powerful, but conventional in form (subchelate), palm without teeth. Third abdominal side-plate with square corner.</p>",
+            "shortTextKey": "taxon_text_1_181",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 10 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_182",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Atlantic, Southern and Indian Oceans.</p><p><u>Local/Regional:</u> Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_183",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commensal in the cavities within sponges and tunicates.</p>",
+            "shortTextKey": "taxon_text_4_184",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to scavenger on food particles pumped thought he internal cavities of sponges and tunicates, within which the amphipods dwell.</p>",
+            "shortTextKey": "taxon_text_5_185",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, the eggs are retained within a marsupial chamber between the walking legs of the female, where they develop into fully-formed juveniles prior to release.</p>",
+            "shortTextKey": "taxon_text_6_186",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>In South Africa this family is represented by only the one genus <i>Leucothoe</i>, with five fairly-similar species that are distinguished by the length of the antennae, shape and numbers of teeth on the palm of the second pair of nippers and shape of third abdominal side plate. This species is identified by its relatively short antennae, lack of teeth on the second nipper and square corner to third side plate.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_187",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town (p. 96).<br><br>Griffiths, C. L. (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i> (p. 52).",
+            "shortTextKey": "taxon_text_8_188",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-559-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-559-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-559-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-559-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-559-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-559-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gammarus spinicarpa",
+            "taxonAuthor": "Abildgaard, 1789"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

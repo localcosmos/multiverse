@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Pelargonium capitatum",
+    "taxonAuthor": "(L.) L'Hér.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "03abfbbd-98a2-423c-9461-36bbb2d9fdf0",
+    "taxonNuid": "00600600500s00200601c",
+    "gbifNubkey": 8112856,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2945-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2945-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2945-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1029,
+    "vernacular": {
+        "en": "Coastal pelargonium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coastal pelargonium",
+            "Rose scented geranium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Smallish perennial shrublet with fleshy stems coated in glandular hairs and soft velvety oval and crinkled lobed aromatic leaves. Flowers pink and borne in groups on upright stems usually about 10 cm long. Each flower has two larger upper petals decorated with dark, branched stripes and three smaller lower petals with less prominent or no markings. There are seven strong pink stamens in the centre of the flower.</p>",
+            "shortTextKey": "taxon_text_1_9699",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 50 cm tall. Leaves about 5 cm diameter, Flowers 2.5 cm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9700",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Namaqualand to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_9701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common, salt-tolerant species found on coastal dunes. Brushing against the hairs on the stems releases a sweet to rosy scent. Has been introduced to Western Australia, where it has become an invasive species. Cultivated for its aromatic leaves, which are used in potpourris, perfumes, and herbal teas, as well as for its essential oils, which are also a component of geranium oil, utilized in cosmetics and aromatherapy.&nbsp;The leaves have also been used in traditional medicine to treat skin conditions like rashes and cracked heels, digestive issues and kidney/bladder ailments.</p>",
+            "shortTextKey": "taxon_text_4_9702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to October. Easily propagated from cuttings.</p>",
+            "shortTextKey": "taxon_text_6_9704",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This large genus contains about 270 species, of which some 150 occur in the fynbos region, but this is usually the most abundant species on coastal dunes. Also common along the coast is the Dune pelargonium <i>P. suburnanum,</i> but in that species the leaves are narrower and flowers are usually paler with the lower petals much narrower than the upper pair.</p>",
+            "shortTextKey": "taxon_text_7_9705",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2945-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2945-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2945-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2945-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2945-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2945-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2946-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2946-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2946-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Geranium capitatum",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Hoarea capitata",
+            "taxonAuthor": "(L.) Sweet"
+        },
+        {
+            "taxonLatname": "Geraniospermum capitatum",
+            "taxonAuthor": "(L.) Kuntze"
+        },
+        {
+            "taxonLatname": "Geranium rosa",
+            "taxonAuthor": "DC."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

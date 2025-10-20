@@ -1,0 +1,174 @@
+{
+    "taxonLatname": "Ascidia caudata",
+    "taxonAuthor": "Heller, 1878",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "24969786-7254-4bd4-9c30-e088c5a74a2a",
+    "taxonNuid": "00100700200200200200100l",
+    "gbifNubkey": 2330498,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3018-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3018-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3018-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 149,
+    "vernacular": {
+        "en": "Crevice ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Crevice ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Test flattened, somewhat irregular in texture and shape and adhering to the rock surface by its entire left side (including the siphons). Colour semi-transparent yellowish to brown, with test incorporating large pieces of gravel of shell on exposed surface. Siphons unusually elongate and widely divergent, so that their openings can be 15 cm or more apart. Tips of siphons not lobed, but inhalant siphon bears pronounced circle of oral tentacles, aperture yellow or orange.</p>",
+            "shortTextKey": "taxon_text_1_1316",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to &gt;50cm long, including siphons.</p>",
+            "shortTextKey": "taxon_text_2_1317",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Known only from the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_1318",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An unusual species that lives in narrow crevices or attached to the underside of rocks in shallow water and is completely attached to the rock surface by its one side, one siphon usually extending from underneath the rock. Although quite common in its restricted habitat it has a very limited recorded range and was only re-discovered by Monniot et al. (2001) more than a century after its original description.</p><p>The structure of the outer test of solitary ascidians such as this is interesting as it is composed of cellulose, a material normally associated with plants and found only in this group of animals. Cellulose may be a good choice for a protective coasting, as few animals have enzymes capable of digesting this material! In this species further protection is afforded by incorporation large pieces of shell or rock into the test matrix and concealing the body within narrow crevices.</p>",
+            "shortTextKey": "taxon_text_4_1319",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1320",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most ascidians are hermaphroditic and although colonial species expand their colonies via asexual reproduction (budding), solitary ones like this reproduce only by broadcast spawning. Eggs and sperm are released into the water, where fertilisation takes place and the unusual tadpole larvae develop.</p><p>Ascidian larvae are famous for revealing the chordate affinities of the group, which are hard to appreciate by examining the rather degenerate-looking sedentary adults!</p><p>Ascidian larvae have a distinct tail and notocord (primitive ‘backbone’) and swim actively. When they are ready to settle they attach themselves to the substratum with adhesive papillae on the head and resorb the tail and notochord, effectively rotating the body 180 degrees so that the ‘mouth’ or inhalant siphon, now points upwards.</p>",
+            "shortTextKey": "taxon_text_6_1321",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several <i>Ascidia </i>species in the region and these can be difficult to distinguish, but <i>A. caudata</i> is best separated from related species by the fact that the siphons are glued to the rock and their tips are not lobed (as in both <i>A. canaliculata</i> and <i>A. incrassata</i>), nor have red spots between the lobes (as in <i>A. incrassata</i>). Instead the oral siphon has&nbsp;a ring of oral tentacles.</p>",
+            "shortTextKey": "taxon_text_7_1322",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Branch, G, Griffiths, CL, Branch, M &amp; Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 246 - note photo 110.7 is of incorrect species).<br><br>Monniot, C, Monniot, F, Griffiths, CL &amp; Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 65).</p>",
+            "shortTextKey": "taxon_text_8_1323",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3018-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3018-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3018-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3018-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3018-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3018-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2439-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2439-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2439-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2438-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2438-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2438-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2440-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2440-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2440-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2441-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2441-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2441-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

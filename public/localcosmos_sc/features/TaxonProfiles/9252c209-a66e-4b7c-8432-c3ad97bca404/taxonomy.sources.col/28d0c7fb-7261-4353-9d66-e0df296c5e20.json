@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Cyproidea ornata",
+    "taxonAuthor": "Haswell, 1879",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "28d0c7fb-7261-4353-9d66-e0df296c5e20",
+    "taxonNuid": "00100300a001001001001001004002006",
+    "gbifNubkey": 4315387,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-295-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-295-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-295-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 26,
+    "vernacular": {
+        "en": "Ornate amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ornate amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, but very conspicuous and much photographed species with characteristic rounded, almost bean–like body shape, red eyes, short antennae and greatly enlarged side plates 3-4, which together form a shield covering sides of the body. Colour pattern unmistakable, banded in brilliant yellow and black. Abdomen tucked under the body when alive, enhancing the spherical shape.</p>",
+            "shortTextKey": "taxon_text_1_163",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Adults 3-4 mm, excluding antennae</p>",
+            "shortTextKey": "taxon_text_2_164",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread&nbsp; across Indo-Pacific extending to Namibia.</p><p><u>Local/Regional:</u> KwaZulu-Natal to Namibia.</p>",
+            "shortTextKey": "taxon_text_3_165",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species on shallow reefs, where it moves around brazenly in the open, clearly defended by its bright warning colouration, which presumably warns predators that it is distasteful.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_166",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Appear to feed on the nodular bryozoan<i> Alcyonidium nodosum, </i>which occurs only on the shells of the whelk<i> Burnupena papyracea. </i>Often seen gathered in large numbers on these whelks. Exactly what chemical are sequestered from the bryozoan and how these are involved in protecting the amphipod are unknown, but would make for a fascinating study.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_167",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods the eggs are released into a brood pouch between the legs of the female, where they are fertilized by males and develop into fully-formed young before being released.</p>",
+            "shortTextKey": "taxon_text_6_168",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only local species in the genus and unmistakable. Many of the images of this species from the Pacific show very different colouration, suggesting that more than one species may be subsumed under this one name.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_169",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town.<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>.",
+            "shortTextKey": "taxon_text_8_170",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-295-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-295-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-295-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-295-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-295-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-295-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gallea tecticauda",
+            "taxonAuthor": "Walker, 1904"
+        },
+        {
+            "taxonLatname": "Gallea crinita",
+            "taxonAuthor": "Spandl, 1924"
+        },
+        {
+            "taxonLatname": "Cyproidea crinita",
+            "taxonAuthor": "(Spandl, 1924)"
+        },
+        {
+            "taxonLatname": "Cyproidia ornata",
+            "taxonAuthor": "Haswell, 1879"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

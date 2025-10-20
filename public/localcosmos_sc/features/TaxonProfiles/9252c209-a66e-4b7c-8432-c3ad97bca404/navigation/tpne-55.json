@@ -1,0 +1,492 @@
+{
+    "name": "Brittle stars",
+    "description": null,
+    "verboseName": "Brittle stars",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2511-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2511-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2511-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2509-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2509-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2509-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2510-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2510-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2510-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2297-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2297-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2297-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 7,
+            "minImages": 2,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Astrocladus euryale",
+            "taxonAuthor": "(Retzius, 1783)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f3cf2637-76bf-4cbd-b947-2c310f989e77",
+            "taxonNuid": "00100c001002002001001001004004007005",
+            "slug": "astrocladus-euryale",
+            "localizedSlug": {
+                "en": "spotted-basket-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2360-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2360-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2360-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2361-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2361-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2361-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2362-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2362-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2362-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2785-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2785-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2785-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2360-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2360-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2360-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ophiarachnella capensis",
+            "taxonAuthor": "(Bell, 1888)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7be41f94-9803-4393-b67f-5c6af0d96d8f",
+            "taxonNuid": "00100c00100200200100200200b005001004002",
+            "slug": "ophiarachnella-capensis",
+            "localizedSlug": {
+                "en": "banded-brittle-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2427-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2427-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2427-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-13-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-13-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-13-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2427-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2427-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2427-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ophioderma wahlbergii",
+            "taxonAuthor": "Müller & Troschel, 1842",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3c78baba-fd92-427b-862e-bad2e33c531e",
+            "taxonNuid": "00100c00100200200100200200b005001009015",
+            "slug": "ophioderma-wahlbergii",
+            "localizedSlug": {
+                "en": "serpent-skinned-brittle-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-16-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-16-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-16-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2356-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2356-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2356-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2357-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2357-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2357-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2355-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2355-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2355-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2490-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2490-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2490-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT image of adult female brooding 13 young in its brood pouches</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2358-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2358-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2358-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>SEM image of brooded embryo extracted from the broodpouch, total size 3-4 mm</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2359-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2359-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2359-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-16-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-16-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-16-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ophiothrix fragilis",
+            "taxonAuthor": "(Abildgaard in O.F. Müller, 1789)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5f77475d-039a-4454-b61a-778ca59770ab",
+            "taxonNuid": "00100c00100200200100200100200200400c00j",
+            "slug": "ophiothrix-fragilis",
+            "localizedSlug": {
+                "en": "hairy-brittle-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2487-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2487-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2487-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-17-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-17-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-17-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-18-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-18-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-18-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2487-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2487-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2487-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amphipholis squamata",
+            "taxonAuthor": "(Delle Chiaje, 1828)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c967c3e1-637a-41b0-af72-d152fcb95f7d",
+            "taxonNuid": "00100c00100200200100200100200100200800l",
+            "slug": "amphipholis-squamata",
+            "localizedSlug": {
+                "en": "scaly-armed-brittlestar"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2520-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2520-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2520-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-445-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-445-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-445-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT scan - brooding adult virtually opened from the oral side, brooded juveniles in brood pouches</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2354-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2354-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2354-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT scan - brooding adult surface rendering</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2352-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2352-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2352-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT scan - brooding adult with surface set to transparent, brooded juveniles visualized in colour</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2353-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2353-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2353-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT scan - brooded juveniles inside the adult</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2351-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2351-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2351-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2520-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2520-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2520-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amphiura (Amphiura) capensis",
+            "taxonAuthor": "Ljungman, 1867",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "eaf22e33-63ba-4442-96aa-75a2feb92b02",
+            "taxonNuid": "00100c00100200200100200100200100200b00100h",
+            "slug": "amphiura-amphiura-capensis",
+            "localizedSlug": {
+                "en": "equitailed-brittle-star"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1088-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1088-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1088-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1087-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1087-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1087-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1089-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1089-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1089-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1090-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1090-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1090-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1091-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1091-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1091-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1092-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1092-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1092-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microCT scan – brooded young inside the disc in bright colours</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1093-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1093-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1093-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1088-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1088-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1088-1000.webp"
+                }
+            }
+        }
+    ]
+}

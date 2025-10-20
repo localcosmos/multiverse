@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Chalaroderma ocellata",
+    "taxonAuthor": "(Gilchrist & Thompson, 1908)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "367782ee-dab8-4cc2-b603-4e51da1d2b94",
+    "taxonNuid": "00100700300200200100w00i00c002",
+    "gbifNubkey": 2395150,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1488-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1488-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1488-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 836,
+    "vernacular": {
+        "en": "Two-eyed blenny"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Two-eyed blenny"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Blennies are a diverse group of small, elongate, benthic fish that lack scales and usually have a blunt face with eyes placed close together high on the head and a prominent cirrus above each. The dorsal fin runs almost the full body length and is separated into an anterior spined section and a posterior rayed section. The pelvic fins are placed far forward, anterior to the bases of pectoral fins, and are reduced to one spine and a few rays.</p><p>Blennies are usually found sitting propped up on their pelvic fins in tide pools or on shallow reefs and sand and are very diverse and abundant on more tropical shores, with only a few species extending in the Western Cape.</p><p>This species has a prominent cirrus above the eye consisting of a broad base branching into several erect filaments with white tips. Head and body mottles brown and covered in numerous orange and dark spots, typically arranged into about 5 dark bars. There is a dark spot with a white upper margin (hence ‘two-eyed’ blenny) just behind each eye and typically a dark spot at the base of spines 3-5 of the dorsal fin.</p>",
+            "shortTextKey": "taxon_text_1_8096",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 70 mm total length.</p>",
+            "shortTextKey": "taxon_text_2_8097",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_8098",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Cryptic and seldom seen species usually found singly on reefs to a depth of at least 30 m. Often hide inside shells, including those of the Giant barnacle (<i>Austromegabalanus cylindricus</i>), with just the head protruding.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_8099",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown but likely feeds on small invertebrates, possibly also algae.</p>",
+            "shortTextKey": "taxon_text_5_8100",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sticky, translucent eggs are laid in empty shells and are guarded by the males as they develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_8101",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Few other blennies occur in the region and the spot behind the eye is distinctive. The maned blenny <i>Scarletta emarginata</i> also has a distinctive mane-like row of cirri on the top of the head, while the Horned blenny <i>Parablennius cornutus</i> has an orange-red cirrus with a long central stalk and long side branches that emerge near its base.</p><p>Blennies can also be confused with klipfishes and triplefins, which have similar habits and reduced pelvic fins, but these families have more elongate faces.</p>",
+            "shortTextKey": "taxon_text_7_8102",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 326). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 230).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 744).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 53).",
+            "shortTextKey": "taxon_text_8_8103",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1488-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1488-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1488-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1487-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1487-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1487-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1488-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1488-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1488-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2604-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2604-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2604-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Blennius ocellatus",
+            "taxonAuthor": "Gilchrist & Thompson, 1908"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

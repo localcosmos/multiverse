@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Gnathia africana",
+    "taxonAuthor": "Barnard, 1914",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3a159fef-9374-45df-8a1c-cdb589bc7e28",
+    "taxonNuid": "00100300a008004002008008002",
+    "gbifNubkey": 2204499,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-533-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-533-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-533-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 57,
+    "vernacular": {
+        "en": "Jawed klipfish-louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Jawed klipfish-louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very unusual and strongly sexually dimorphic small isopods with only five pairs of legs. Males have large heads with huge forward-directed mandibles. Females have small heads and mid-section of body (formed of fused segments 2–5) is greatly inflated. Abdomen narrow with distinct segments. Larvae are parasitic on fishes, but adults are free living.</p>",
+            "shortTextKey": "taxon_text_1_442",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 5<strong> </strong>mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_443",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Approximately Lambert’s Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_444",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Larvae are temporary parasites of klipfish species, feeding on their blood. They go through several larval stages and need to take a blood meal to complete each stage, detaching from the fish after each meal and having to find a new host to complete the next larval stage. Adults are found in sponges in the intertidal as well as on tunicates and the tubes of serpulid worms. Larvae may also act as vectors for blood parasites that infect the fish.</p>",
+            "shortTextKey": "taxon_text_4_445",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Larvae are blood-feeders. Adults do not feed, despite their formidable looking jaws.</p>",
+            "shortTextKey": "taxon_text_5_446",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are retained within the swollen bodies of females rather than in a marsupium, as in most isopods. There are six larval stages and the entire lifecycle takes about 62 days at a temperature of 20–25°C.</p>",
+            "shortTextKey": "taxon_text_6_447",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common of several regional <i>Gnathia </i>species. Unlikely to be confused with any other isopods due to unusual, but different, body shapes of both sexes.</p>",
+            "shortTextKey": "taxon_text_7_448",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1914). Contributions to the crustacean fauna of South Africa. 1. Additions to the marine Isopoda. <i>Annals of the South African Museum</i>. 10 (7): 197–230.<br><br>Smit, NJ, Van As, JG, & Basson, L (1999). A redescription of the adult male and praniza of <i>Gnathia africana</i> Barnard, 1914 (Crustacea, Isopoda, Gnathiidae) from southern Africa. <i>Folia parasitologica</i>, 46(3), 229-240.<br><br>Smit, NJ, Basson, L, & Van As, JG (2003). Life cycle of the temporary fish parasite, <i>Gnathia africana</i> (Crustacea: Isopoda: Gnathiidae). <i>Folia parasitologica</i>, 50(2), 135¬–142.",
+            "shortTextKey": "taxon_text_8_449",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-533-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-533-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-533-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-533-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-533-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-533-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

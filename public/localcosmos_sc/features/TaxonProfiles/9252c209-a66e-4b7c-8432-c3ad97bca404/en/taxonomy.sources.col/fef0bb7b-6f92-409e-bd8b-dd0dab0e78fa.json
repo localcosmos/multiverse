@@ -1,0 +1,231 @@
+{
+    "taxonLatname": "Venerupis corrugata",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fef0bb7b-6f92-409e-bd8b-dd0dab0e78fa",
+    "taxonNuid": "00100k00200100100200300e00a00300s00r004",
+    "gbifNubkey": 4372735,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-674-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-674-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-674-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 127,
+    "vernacular": {
+        "en": "Corrugated venus"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Corrugated venus",
+            "corrugated venus",
+            "pullet carpet shell",
+            "pullet carpetclam",
+            "pullet venus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Venus corrugata</i><strong>&nbsp;</strong></p>",
+            "shortTextKey": "taxon_text_9_1105",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shells elongate-oval with the hinge displaced towards anterior end. Surface with many wrinkled concentric ridges (hence name). Colour very variable – juveniles often attractively marked with brown blotches or zig-zag patterns, but adults plain dirty-cream. Interior white with purple patches at anterior end. Siphons short, separate, mottled with brown and with rows of tentacles around openings.</p>",
+            "shortTextKey": "taxon_text_1_1106",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 77 mm shell length.</p>",
+            "shortTextKey": "taxon_text_2_1107",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Europe down west coast of Africa to South Africa.</p><p><u>Local/Regional:</u> Namibia to Durban.</p>",
+            "shortTextKey": "taxon_text_3_1108",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Burrows in sand and gravel sediments from low water to about 27 m depth, often found nestling among mussels, especially <i>Choromytilus meridionalis</i>, in sandy areas; also burrows in shallow sandbanks. Common in Holocene middens along the west coast and still intensively harvested for human consumption in European countries. Also cultivated as a seafood in Spain, Portugal, France and Italy.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_1109",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves feed by pumping water in via an inhalant siphon, filtering our fine particles though the enlarged gills and then ejecting the filtered water though an exhalent siphon. In this species a clam of 1g dry weight filtered about 1-3 litres of water per hour.</p>",
+            "shortTextKey": "taxon_text_5_1110",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like almost all bivalves is a broadcast spawner. Details of reproductive cycle in this species in South Africa have not been investigated.</p>",
+            "shortTextKey": "taxon_text_6_1111",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Adults unlikely to be confused with other species found in Western Cape due to the distinctive wrinkled concentric ridges on the shells.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1112",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 158).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 200).<br><br>Stenton-Dozey, JME, & Brown, AC (1992). Clearance and retention efficiency of natural suspended particles by the rock-pool bivalve Venerupis corrugatus in relation to tidal availability. <i>Marine Ecology Progress Series</i>, 82(2), 175-186.",
+            "shortTextKey": "taxon_text_8_1113",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-674-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-674-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-674-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-674-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-674-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-674-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Petricola rugosa",
+            "taxonAuthor": "Menke, 1829"
+        },
+        {
+            "taxonLatname": "Venus lithophaga",
+            "taxonAuthor": "Danilo & Sandri, 1856"
+        },
+        {
+            "taxonLatname": "Venerupis nucleus",
+            "taxonAuthor": "Lamarck, 1819"
+        },
+        {
+            "taxonLatname": "Venerupis saxatilis",
+            "taxonAuthor": "(Fleuriau de Bellevue, 1802)"
+        },
+        {
+            "taxonLatname": "Venus corrugata",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Tapes dactyloides",
+            "taxonAuthor": "G. B. Sowerby II, 1852"
+        },
+        {
+            "taxonLatname": "Venerupis corrugata",
+            "taxonAuthor": "Deshayes, 1853"
+        },
+        {
+            "taxonLatname": "Venus pullastra",
+            "taxonAuthor": "Montagu, 1803"
+        },
+        {
+            "taxonLatname": "Tapes disrupta",
+            "taxonAuthor": "G. B. Sowerby II, 1852"
+        },
+        {
+            "taxonLatname": "Pullastra vulgaris",
+            "taxonAuthor": "G. B. Sowerby I, 1826"
+        },
+        {
+            "taxonLatname": "Venus perforans",
+            "taxonAuthor": "Montagu, 1803"
+        },
+        {
+            "taxonLatname": "Venus punctulata",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Tapes pullastra",
+            "taxonAuthor": "(Montagu, 1803)"
+        },
+        {
+            "taxonLatname": "Venerupis senegalensis",
+            "taxonAuthor": "(Gmelin, 1791)"
+        },
+        {
+            "taxonLatname": "Venus saxicola",
+            "taxonAuthor": "Danilo & Sandri, 1856"
+        },
+        {
+            "taxonLatname": "Venus plagia",
+            "taxonAuthor": "Jeffreys, 1847"
+        },
+        {
+            "taxonLatname": "Venus saxatilis",
+            "taxonAuthor": "Fleuriau de Bellevue, 1802"
+        },
+        {
+            "taxonLatname": "Venus obsoleta",
+            "taxonAuthor": "Dillwyn, 1817"
+        },
+        {
+            "taxonLatname": "Petricola calderensis",
+            "taxonAuthor": "Conrad, 1855"
+        },
+        {
+            "taxonLatname": "Venus senegalensis",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Venerupis pullastra",
+            "taxonAuthor": "(Montagu, 1803)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

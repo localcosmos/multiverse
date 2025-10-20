@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Lepidochitona africana",
+    "taxonAuthor": "Sirenko, 2023",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fe3e7692-1a6b-40a3-a128-2f260adcd00c",
+    "taxonNuid": "00100k00g003002001002003004003002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-770-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-770-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-770-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 626,
+    "vernacular": {
+        "en": "African chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Chitons have eight dorsal shell plates surrounded by a soft fleshy girdle. Animal oval shaped. Shell plates are thicker than most others in the genus, rectangular with thin, rounded anterior shell extensions and clear lateral areas. Elevation of this species is quite high compared to others. Texture of shell smooth to the naked eye with aesthete canals visible on some areas and some growth-lines. Last shell-plate with a steep slope. Girdle with spicules and many tufts of long, curved needles between the plates. Another row of tufts near the edge, which is also surrounded with smooth, ribbed needles. Some scales on the bottom. Underside with gills extending only from half down the animal to the anus. Colour very variable, but can include shades of brown, white, blotches of blue or dark brown spots, with a thick, white ventral layer of the shell.</p>",
+            "shortTextKey": "taxon_text_1_6195",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small, typically around 5-15 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6196",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Glencairn (False Bay) to Mpenjati (KwaZulu-Natal).</p>",
+            "shortTextKey": "taxon_text_3_6197",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Intertidal on or under rocks or boulders to 1.5 m depth, might occur deeper but this is unconfirmed.</p>",
+            "shortTextKey": "taxon_text_4_6198",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6199",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6200",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Genus identified by a single slit on all intermediate valves and the absence of corneous branching on girdle. The only local species in the genus that has tufts of spicules/needles. Apophyses also more triangular shaped than in <i>L. turtoni.</i></p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6201",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Sirenko, B (2023). Chitons of the genus <i>Lepidochitona</i> (Mollusca: Polyplacophora) in the Indian Ocean and ordering of species compositions of some genera of the subfamily Tonicellinae.  <i>Zootaxa</i>, 5228 (3), 292–316.",
+            "shortTextKey": "taxon_text_8_6202",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-770-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-770-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-770-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-770-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-770-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-770-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

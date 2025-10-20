@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Alcyonium fauri",
+    "taxonAuthor": "J.S. Thomson, 1910",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f0440368-f14d-4756-b454-caa1b4bb210d",
+    "taxonNuid": "00100800100400500100j",
+    "gbifNubkey": 5185126,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-848-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-848-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-848-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 504,
+    "vernacular": {
+        "en": "Purple soft coral"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Purple soft coral"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Parerethropodium purpureum</i></p>",
+            "shortTextKey": "taxon_text_9_4839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Usually a distinctive bright purple in colour, although rarely paler pink, red or orange. Small colonies encrust rocks or other sedentary invertebrates, such as Redbait (<i>Pyura spolonifera</i>) in low shore pools or on shallow reefs. Colonies bear a cluster of fairly elongate and transparent polyps, each with 8 tentacles that have a line of small side branches along their margins.</p>",
+            "shortTextKey": "taxon_text_1_4840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically 30-50 mm across, polyps about 5 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_4841",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Richards Bay.</p>",
+            "shortTextKey": "taxon_text_3_4842",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in low shore rock pools and on shallow reefs, where the conspicuous colonies are easily spotted. Fed on by various nudibranchs, including the Purple softcoral lacedragon <i>Marionia</i> sp. which perfectly matches it in colour and the Frilled Nudibranch <i>Leminda millecra, </i>which is also purple in colour. The nudibranchs appear to acquire bioactive compounds from the octocoral, which probably protect them from predation.</p>",
+            "shortTextKey": "taxon_text_4_4843",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Uses the tentacles to capture small planktonic organisms from the water column.</p>",
+            "shortTextKey": "taxon_text_5_4844",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies spread by budding new polyps from the margins. Details of sexual reproduction unknown for this species, but related European species have separate male and female colonies and spawn one a year, the larvae taking 8-22 days to develop and settle to form new colonies.</p>",
+            "shortTextKey": "taxon_text_6_4845",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The typical purple colour is distinctive, but often found adjacent to the Variable soft-coral <i>A. variabile</i>, which can adopt a range of colours, including purple. However, <i>A. variabile</i> has a different colony form, resembling a mushroom with a short stalk and round head covered in polyps.</p>",
+            "shortTextKey": "taxon_text_7_4846",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 38).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 44).<br><br>McPhail, KL, Davies-Coleman, MT & Starmer, J (2001). Sequestered Chemistry of the Arminacean Nudibranch <i>Leminda millecra</i> in Algoa Bay, South Africa. <i>Journal of Natural Products</i>, 64(9), 1183-1190.",
+            "shortTextKey": "taxon_text_8_4847",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-848-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-848-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-848-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-351-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-351-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-351-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-848-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-848-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-848-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Alcyonium faura",
+            "taxonAuthor": "J.S. Thomson, 1910"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

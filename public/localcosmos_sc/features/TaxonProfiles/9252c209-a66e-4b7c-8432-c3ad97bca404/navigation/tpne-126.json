@@ -1,0 +1,349 @@
+{
+    "name": "Marginellas",
+    "description": null,
+    "verboseName": "Marginellas",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2257-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2257-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2257-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2258-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2258-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2258-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2146-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2146-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2146-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 7,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Marginella nebulosa",
+            "taxonAuthor": "(Röding, 1798)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0c2d379c-19dd-4722-bcae-8f744195e6a5",
+            "taxonNuid": "00100k00700300e00l00400400704x",
+            "slug": "marginella-nebulosa",
+            "localizedSlug": {
+                "en": "cloudy-marginella"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2221-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2221-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2221-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-111-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-111-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-111-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2221-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2221-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2221-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Marginella rosea",
+            "taxonAuthor": "Lamarck, 1822",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "18137706-dd4d-45cf-a69b-bfccc8bc856b",
+            "taxonNuid": "00100k00700300e00l004004007065",
+            "slug": "marginella-rosea",
+            "localizedSlug": {
+                "en": "pinch-lipped-marginella"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2216-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2216-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2216-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2249-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2249-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2249-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2252-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2252-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2252-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2220-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2220-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2220-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2217-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2217-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2217-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2219-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2219-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2219-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-113-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-113-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-113-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2216-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2216-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2216-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Prunum capense",
+            "taxonAuthor": "(Krauss, 1848)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "63b3d8cc-43c7-49e5-93b6-7d44ec781d28",
+            "taxonNuid": "00100k00700300e00l00400500700t",
+            "slug": "prunum-capense",
+            "localizedSlug": {
+                "en": "cape-marginella"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-114-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-114-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-114-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2254-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2254-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2254-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2366-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2366-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2366-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2253-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2253-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2253-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2256-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2256-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2256-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2255-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2255-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2255-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-114-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-114-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-114-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Volvarina zonata",
+            "taxonAuthor": "(Kiener, 1841)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0a390887-9cb1-4cf9-9685-ef7dafbbee5b",
+            "taxonNuid": "00100k00700300e00l00400400c0ay",
+            "slug": "volvarina-zonata",
+            "localizedSlug": {
+                "en": "zoned-marginella"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-125-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-125-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-125-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Kommetjie</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-124-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-124-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-124-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-125-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-125-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-125-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cystiscus pseustes",
+            "taxonAuthor": "(E. A. Smith, 1904)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6738e53f-882e-4a73-aa45-7e69c1125679",
+            "taxonNuid": "00100k00700300e00l00200200201x",
+            "slug": "cystiscus-pseustes",
+            "localizedSlug": {
+                "en": "sweet-cystiscus"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-435-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-435-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-435-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-435-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-435-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-435-1000.webp"
+                }
+            }
+        }
+    ]
+}

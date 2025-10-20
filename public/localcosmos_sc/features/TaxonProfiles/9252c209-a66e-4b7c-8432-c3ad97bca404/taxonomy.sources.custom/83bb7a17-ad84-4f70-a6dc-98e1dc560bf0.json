@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Chordariopsis capensis (C. Agardh)",
+    "taxonAuthor": "Kylin, 194O",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "83bb7a17-ad84-4f70-a6dc-98e1dc560bf0",
+    "taxonNuid": "003001005001",
+    "gbifNubkey": 3198170,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1003-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1003-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1003-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 690,
+    "vernacular": {
+        "en": "Cape cord-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape cord-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Elongate, stringy, yellow-brown, but darkening with age. Several thin thali arise from a crustose base and give off numerous side branches. Secondary branches may lack further branching, but sometimes have a profusion of short lateral branches.</p>",
+            "shortTextKey": "taxon_text_1_6782",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length can reach 40 cm.&nbsp;Strings only about 1 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_6783",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> New Zealand, South Africa, Antarctica and Southern Ocean islands.</p><p><u>Local/Regional</u><i><u>:</u> </i>Namibia to about Tsitsikamma.</p>",
+            "shortTextKey": "taxon_text_3_6784",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Can be one of dominant species in mid to lowshore pools. Often lying flaccidly on bottom of sandy pools.</p>",
+            "shortTextKey": "taxon_text_4_6785",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6786",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tiny cylindrical sporangia embedded in the branches.</p>",
+            "shortTextKey": "taxon_text_6_6787",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Elongate, stringy form fairly distinctive among brown algae.</p>",
+            "shortTextKey": "taxon_text_7_6788",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 386). <br><br>Nelson, WA & Adams, NM (1983). A taxonomic revision of the families Chordariaceae and Chordariopsidaceae (Phaeophyta) in New Zealand. <i>New Zealand Journal of Botany</i>, 21(1), 77-92. <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 198).",
+            "shortTextKey": "taxon_text_8_6789",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1003-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1003-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1003-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1003-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1003-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1003-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

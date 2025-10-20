@@ -1,0 +1,797 @@
+{
+    "name": "Free-living bristleworms",
+    "description": null,
+    "verboseName": "Free-living bristleworms",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-680-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-680-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-680-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-690-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-690-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-690-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-691-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-691-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-691-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Euphrosine capensis",
+            "taxonAuthor": "Kinberg, 1857",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d8985a93-89fc-42c0-8ec9-0c3fea519bb7",
+            "taxonNuid": "00100200201500100200100b",
+            "slug": "euphrosine-capensis",
+            "localizedSlug": {
+                "en": "plump-bristleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-19-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-19-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-19-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-19-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-19-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-19-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hipponoe gaudichaudi",
+            "taxonAuthor": "Audouin & Milne Edwards, 1830",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2e2260a7-d288-4499-a81b-e9c602fab0e6",
+            "taxonNuid": "001002002015001001002007001",
+            "slug": "hipponoe-gaudichaudi",
+            "localizedSlug": {
+                "en": "goose-barnacle-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-20-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-20-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-20-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-20-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-20-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-20-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eunice aphroditois",
+            "taxonAuthor": "(Pallas, 1788)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "babfe766-a092-48f6-a3a6-b81761c659c3",
+            "taxonNuid": "001002002015002005003008",
+            "slug": "eunice-aphroditois",
+            "localizedSlug": {
+                "en": "giant-wonderworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-25-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-25-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-25-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-24-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-24-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-24-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-25-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-25-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-25-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lumbrineris coccinea",
+            "taxonAuthor": "(Renier, 1804)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c177ba16-bebe-4201-b2c8-2b1959a1a47c",
+            "taxonNuid": "00100200201500200700h00u",
+            "slug": "lumbrineris-coccinea",
+            "localizedSlug": {
+                "en": "round-headed-pudding-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-26-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-26-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-26-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-26-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-26-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-26-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lysidice natalensis",
+            "taxonAuthor": "Kinberg, 1865",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9243b874-271e-4e62-aa31-9951e1d2e21b",
+            "taxonNuid": "00100200201500200500700e",
+            "slug": "lysidice-natalensis",
+            "localizedSlug": {
+                "en": "three-feelered-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-568-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-568-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-568-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-568-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-568-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-568-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amblyosyllis spectabilis",
+            "taxonAuthor": "(Johnston in Baird, 1861)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3efc22fb-11c2-4390-a79d-34f5325bf667",
+            "taxonNuid": "00100200201500300600700b00100j",
+            "slug": "amblyosyllis-spectabilis",
+            "localizedSlug": {
+                "en": "hair-curler-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-31-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-31-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-31-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-31-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-31-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-31-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Antinoe lactea",
+            "taxonAuthor": "Day, 1953",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "db38051e-f223-4928-98b6-163e5ad237b8",
+            "taxonNuid": "00100200201500300100500l004002",
+            "slug": "antinoe-lactea",
+            "localizedSlug": {
+                "en": "milky-scaleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-32-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-32-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-32-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-32-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-32-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-32-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Marphysa haemasona",
+            "taxonAuthor": "Quatrefages, 1866",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "64d80566-ade3-433d-8778-dde303f24d3b",
+            "taxonNuid": "001002002015002005008012",
+            "slug": "marphysa-haemasona",
+            "localizedSlug": {
+                "en": "blood-wonderworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-27-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-27-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-27-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-28-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-28-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-28-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-29-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-29-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-29-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-27-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-27-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-27-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Arabella iricolor",
+            "taxonAuthor": "(Montagu, 1804)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "88c4685e-98f7-4a88-828a-4e66c2843b20",
+            "taxonNuid": "00100200201500200800200b",
+            "slug": "arabella-iricolor",
+            "localizedSlug": {
+                "en": "iridescent-pudding-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-33-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-33-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-33-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-33-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-33-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-33-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eulalia capensis",
+            "taxonAuthor": "Schmarda, 1861",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "046fa02d-3ce6-457f-986f-9b33532d83cb",
+            "taxonNuid": "00100200201500300700200300300g",
+            "slug": "eulalia-capensis",
+            "localizedSlug": {
+                "en": "green-paddleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-35-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-35-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-35-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-35-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-35-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-35-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Glycera tridactyla",
+            "taxonAuthor": "Schmarda, 1861",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "33496b50-1eb5-4e66-aae7-ab052739ba9b",
+            "taxonNuid": "001002002015003002001001026",
+            "slug": "glycera-tridactyla",
+            "localizedSlug": {
+                "en": "three-tooth-glycerine-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-36-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-36-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-36-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-36-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-36-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-36-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lepidonotus semitectus",
+            "taxonAuthor": "(Stimpson, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6eaac800-f52e-40f4-a380-6986f45d5f03",
+            "taxonNuid": "00100200201500300100500b00k01u",
+            "slug": "lepidonotus-semitectus",
+            "localizedSlug": {
+                "en": "common-scaleworm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Platynereis entshonae",
+            "taxonAuthor": "Kara, Santos, Macdonald & Simon, 2020",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "df9aa18c-e489-44f9-a025-538ac2d46af7",
+            "taxonNuid": "00100200201500300600500700m00d",
+            "slug": "platynereis-entshonae",
+            "localizedSlug": {
+                "en": "comb-toothed-rockworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polynoe erythrotaenia",
+            "taxonAuthor": "(Schmarda, 1861)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "395845e0-96bb-4b4f-bdab-b06dee0feec1",
+            "taxonNuid": "00100200201500300100500l01d00b",
+            "slug": "polynoe-erythrotaenia",
+            "localizedSlug": {
+                "en": "two-tone-scaleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polynoe scolopendrina",
+            "taxonAuthor": "Savigny, 1822",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3828fac4-045b-4733-bbf7-33e569b5ee4f",
+            "taxonNuid": "00100200201500300100500l01d00s",
+            "slug": "polynoe-scolopendrina",
+            "localizedSlug": {
+                "en": "grey-half-scaleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-40-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-40-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-40-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-40-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-40-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-40-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudonereis podocirra",
+            "taxonAuthor": "(Schmarda, 1861)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d2873bf8-3618-420e-a6de-b21dccb55a73",
+            "taxonNuid": "00100200201500300600500700o00h",
+            "slug": "pseudonereis-podocirra",
+            "localizedSlug": {
+                "en": "mussel-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-41-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-41-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-41-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-42-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-42-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-42-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-41-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-41-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-41-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Syllis variegata",
+            "taxonAuthor": "Grube, 1860",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5506323e-3816-4247-bdee-a955f72d418e",
+            "taxonNuid": "00100200201500300600700y00h04m",
+            "slug": "syllis-variegata",
+            "localizedSlug": {
+                "en": "barred-bead-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-43-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-43-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-43-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-43-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-43-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-43-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Myrianida phyllocera",
+            "taxonAuthor": "Augener, 1918",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "18c32f74-6f1e-489d-bfda-770ef7772f8d",
+            "taxonNuid": "00100200201500300600700500100300n",
+            "slug": "myrianida-phyllocera",
+            "localizedSlug": {
+                "en": "orange-spotted-bead-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-289-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-289-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-289-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-289-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-289-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-289-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sthenelais boa",
+            "taxonAuthor": "(Johnston, 1833)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "40add63f-0a0c-47ec-b513-37f543ead73a",
+            "taxonNuid": "00100200201500300100600e005",
+            "slug": "sthenelais-boa",
+            "localizedSlug": {
+                "en": "many-scaled-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-302-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-302-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-302-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-302-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-302-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-302-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Malmgreniella n. sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "01e1056c-f0b0-4806-9b77-92c60ae78db1",
+            "taxonNuid": "00100c002002001001",
+            "slug": "malmgreniella-n-sp",
+            "localizedSlug": {
+                "en": "heart-urchin-scaleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-716-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-716-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-716-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-716-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-716-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-716-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Nephthys spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3502a79d-9ac8-4176-860c-37101fe14bf0",
+            "taxonNuid": "00100c002002002001",
+            "slug": "nephthys-spp",
+            "localizedSlug": {
+                "en": "catworms"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-717-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-717-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-717-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-718-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-718-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-718-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-717-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-717-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-717-1000.webp"
+                }
+            }
+        }
+    ]
+}

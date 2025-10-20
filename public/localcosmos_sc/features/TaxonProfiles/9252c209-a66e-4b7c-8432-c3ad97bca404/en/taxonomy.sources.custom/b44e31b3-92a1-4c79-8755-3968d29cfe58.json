@@ -1,0 +1,113 @@
+{
+    "taxonLatname": "Sonderophycus capensis (Montagne)",
+    "taxonAuthor": "M.J. Wynne, 2011",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "b44e31b3-92a1-4c79-8755-3968d29cfe58",
+    "taxonNuid": "00300200d001001",
+    "gbifNubkey": null,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 820,
+    "vernacular": {
+        "en": "Red fan-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red fan-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Peyssonnelia capensis</i></p>",
+            "shortTextKey": "taxon_text_9_7951",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Due to its morphological similarity to brown algae it is placed within that group, even though it is a red algae. Forms flat, leathery, fan-like lobes resembling a bracket fungus. Lobes attached by a holdfast, but edges free of the substratum. Upper surface dark purplish-red, sometimes tinged with green, but lower surface off-white. Margins of lobes variously incised and surface smooth, but marked with concentric growth rings.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_7952",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies up to about 120 mm across with individual lobes typically about 80 mm long and 30 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_7953",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in tropical and temperate waters of Indo-Pacific. Also reported from Angola.</p><p><u>Local/Regional:</u><i> </i>Cape Peninsula eastwards to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_7954",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common on rocks in deep pools and gullies and to a depth of about 30 m. Especially under overhangs and in caves.</p>",
+            "shortTextKey": "taxon_text_4_7955",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7956",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tertasporangia in groups on raised bumps on dorsal surface.</p>",
+            "shortTextKey": "taxon_text_6_7957",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly unmistakable. Some other species, such as <i>Lobophora variegata</i> and <i>Exallosaurus harveyanus</i> form similar but thinner flat fan-like lobes, but these are brown algae, not red algae.</p>",
+            "shortTextKey": "taxon_text_7_7958",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024. (As Peyssonniella capensis).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 418). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 283 as <i>Peyssonniella capensis</i>).",
+            "shortTextKey": "taxon_text_8_7959",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Africorchestia quadrispinosa",
+    "taxonAuthor": "(K.H. Barnard, 1916)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f3618080-54bb-4d0b-9269-c04b683240fc",
+    "taxonNuid": "00100300a00100b006001004002004005001003",
+    "gbifNubkey": 7546054,
+    "image": {
+        "text": "<p>Kommetjie, Cape Peninsula</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 8,
+    "vernacular": {
+        "en": "Four-spine beach-hopper"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Four-spine beach-hopper"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Talorchestia quadrispinosa</i></p>",
+            "shortTextKey": "taxon_text_9_9",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Overall colour off-white with brown dorsal marking on each segment, eyes white with dark centre, first antennae much shorter than second. First pair of nippers small, second pair small in females but greatly enlarged in males, palm of the hand with a small, semi-circular excision near attachment of finger. Walking legs splayed to the side to support the animal upright in air, in males last two pairs of legs greatly elongated and basal segments greatly expanded into large posterior lobes. First two abdominal segments in males each with a single pair of triangular dorsal projections.</p><p>Also distinguished from most other amphipods by its terrestrial, air-breathing habits and ability to leap high into the air when disturbed.</p>",
+            "shortTextKey": "taxon_text_1_10",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 20 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_11",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Namibia to about Knysna.</p>",
+            "shortTextKey": "taxon_text_3_12",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on sandy beaches, particularly those where large amounts of wrack are washed ashore. Normally remains buried in the sand by day to avoid heat and desiccation and emerges at night, or during cool-moist weather, to feed in the open on drift algae. When disturbed can leap high into the air, landing clumsily and staggering back into an upright position. At some sites populations may extend well above high watermark and into the dunes. There have been numerous reports of beach hoppers invading coastal properties in large numbers and dying in drifts inside homes. Some home-owners even erect barricades to keep them out!</p>",
+            "shortTextKey": "taxon_text_4_13",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on drift algae under which they shelter and can be remarkably effective in consuming drift kelp when present in large numbers.</p>",
+            "shortTextKey": "taxon_text_5_14",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like in all amphipods eggs are deposited into a brood pouch between the legs of the females, where they are fertilised by males and develop into fully-formed juveniles before being released.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_15",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Co-occurs with another much more common beach-hopper <i>Capeorchestia capensis,</i> which has entirely black eyes. Males of that species&nbsp; also lack the greatly elongated last two pairs of legs, these lacking expanded basal joints and they have smooth first two abdominal segments. It is not known how these two species interact and share the same habitat and food resources.</p><p>Replaced east of Cape Agulhas by another similar species, <i>A. meridionalis</i>, but this has two pairs of dorsal spines of the second abdominal segment and one pair each on segments 1 and 3. Also replaced in Northern Namibia by the similar <i>T. skoogi, </i>which is distinguished by the shape of the second pair of nippers and also has dorsal spines on all three abdominal segments.</p>",
+            "shortTextKey": "taxon_text_7_16",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Lowry, JK & Baldanzi. S (2016). New talitrids from South Africa (Amphipoda, Senticaudata, Talitroidea, Talitridae) with notes on their ecology. <i>Zootaxa</i> 4144(2), 151-174.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 98).<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i><i>Trustees of the South African Museum</i></i>, Cape Town (p. 81).",
+            "shortTextKey": "taxon_text_8_17",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Kommetjie, Cape Peninsula</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Kommetjie, Cape Peninsula</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Miller's Point, Cape Peninsula</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Talorchestia quadrispinosa",
+            "taxonAuthor": "K.H. Barnard, 1916"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

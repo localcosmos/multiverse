@@ -1,0 +1,183 @@
+{
+    "name": "Worms & kin",
+    "description": null,
+    "verboseName": "Worms & kin",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-677-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-677-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-677-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-681-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-681-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-681-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-685-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-685-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-685-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-9",
+            "parentKey": "tpne-8",
+            "name": "Annelids (segmented worms)",
+            "verboseName": "Annelids (segmented worms)",
+            "taxa": [],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-678-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-678-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-678-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-682-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-682-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-682-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-687-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-687-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-687-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-678-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-678-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-678-1000.webp"
+                }
+            },
+            "slug": "annelids-segmented-worms"
+        },
+        {
+            "key": "tpne-10",
+            "parentKey": "tpne-8",
+            "name": "Flat-, Round- & Ribbonworms",
+            "verboseName": "Flat-, Round- & Ribbonworms",
+            "taxa": [
+                {
+                    "taxonLatname": "Platyhelminthes",
+                    "taxonAuthor": "Minot, 1876",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "28291d96-9446-4414-a64b-ca424a4984c9",
+                    "taxonNuid": "00100s"
+                },
+                {
+                    "taxonLatname": "Nemertea",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "03f57f31-7cf4-41eb-8c89-f70afc210559",
+                    "taxonNuid": "00100n"
+                },
+                {
+                    "taxonLatname": "Nematoda",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9e798209-8379-4bc4-8a46-2ab411d19236",
+                    "taxonNuid": "00100l"
+                },
+                {
+                    "taxonLatname": "Diclidophoridae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "06c35737-d4e1-4c0d-a2c5-e2dcee061747",
+                    "taxonNuid": "001009001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-686-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-686-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-686-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-803-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-803-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-803-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-811-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-811-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-811-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-686-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-686-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-686-1000.webp"
+                }
+            },
+            "slug": "flat-round-ribbonworms"
+        }
+    ],
+    "taxonProfiles": []
+}

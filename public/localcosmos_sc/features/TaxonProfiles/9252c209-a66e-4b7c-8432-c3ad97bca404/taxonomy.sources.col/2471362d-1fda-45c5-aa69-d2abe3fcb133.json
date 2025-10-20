@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Upogebia africana",
+    "taxonAuthor": "(Ortmann, 1894)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2471362d-1fda-45c5-aa69-d2abe3fcb133",
+    "taxonNuid": "00100300a00600200700300b006",
+    "gbifNubkey": 4309540,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2749-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2749-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2749-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 979,
+    "vernacular": {
+        "en": "Estuarine mudprawn"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Estuarine mudprawn"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Gebia africana </i>Ortmann, 1894</p>",
+            "shortTextKey": "taxon_text_9_9281",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium sized prawn with robust body usually a green/brown colour. Walking legs and underside of body paler.</p><p>Front of carapace (hard upper shell) ‘tridentate’, meaning the longer rostrum in the middle has two side teeth, and these are less than half the length of the rostrum. Chelae (pincers) equal in size and not conventionally chelate, but rather the thumb is almost absent, with finger bending back to meet it. First two pairs of walking legs with no spine at their bases.</p>",
+            "shortTextKey": "taxon_text_1_9282",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 65 mm.</p>",
+            "shortTextKey": "taxon_text_2_9283",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Mozambique.</p><p><u>Local/Regional:</u> From the border of the Western- and Northern Cape to Mozambican border, intertidal to 10 m.</p>",
+            "shortTextKey": "taxon_text_3_9284",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Creates unique U-shaped burrows intertidally in estuarine muddy sands. The prawn pumps water through its burrow, where it filters out food particles using its hairy mouthparts. Susceptible to human activities and are frequently taken as bait for recreational fishing. Mudprawns are also at risk to trampling from beachgoers as their burrows collapses and sediment becomes compacted, making burrowing increasingly more difficult. Research has shown that bait-harvesting of these animals have far greater effects on the population than just the number of animals removed. Mudprawns are not as tolerant as sandprawns to diverse conditions and unlike them are completely absent from closed estuaries in which salinity levels are low.</p>",
+            "shortTextKey": "taxon_text_4_9285",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter-feeder that sits in the burrow filtering water that is pumped in through the U-shaped burrow. Their guts are laden with symbiotic bacteria that are thought to supplement its diet.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_9286",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Seems to be inactive in winter months (May, June), but have a Spring (July-October) cycle and Summer (December-March) cycle, with females producing 2–4 broods per year. As in other decapod crustaceans, females attach the spermatophore (passed from the male) to the ventral side of the pleon (hind body), where the eggs are fertilized as they get spawned and then attached to the pleopods underneath the tail. Known to produce small, but numerous eggs (often several 1000 per brood per female). Larvae are released into the water column where they have a planktonic larval phase before they settle in the sediment, creating their burrows.</p>",
+            "shortTextKey": "taxon_text_6_9287",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Similar to the larger Coastal mudprawn, <i>Upogebia capensis</i>, however the first two pairs of walking legs have a spine at the base in <i>U. capensis</i>, while it is absent in the <i>U. africana</i>. Frequently found co-occurring with the Common sandprawn <i>Kraussilichirus kraussi</i>, however the habitat, subequal chelae and green-brown colour distinguishes the Estuarine mudprawn from <i>K. kraussi</i>.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9288",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 112). <br><br>Forbes, AT (1977). Breeding and growth of the burrowing prawn <i>Calianassa kraussi</i> stebbing (Crustacea: Decapoda: Thalassinidea). <i>African Zoology</i>, 12(1), 149-161.<br><br>Wooldridge, TH & Loubser, H (1996). Larval release rhythms and tidal exchange in the estuarine mudprawn, <i>Upogebia africana</i>. <i>Hydrobiologia</i>, 337, 113-121.<br><br>Wynberg, RP & Branch, GM (1994). Disturbance associated with bait-collecting for sandprawns (<i>Callianassa kraussi</i>) and mudprawns (<i>Upogebia africana</i>): long term effects on the biota of intertidal sandflats. <i>Journal of Marine Research</i>, 52, 523–528.",
+            "shortTextKey": "taxon_text_8_9289",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2749-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2749-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2749-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2749-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2749-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2749-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gebi africana",
+            "taxonAuthor": "Ortmann, 1894"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

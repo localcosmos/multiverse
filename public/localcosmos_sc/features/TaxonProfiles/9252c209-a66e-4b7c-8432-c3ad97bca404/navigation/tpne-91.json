@@ -1,0 +1,305 @@
+{
+    "name": "Ctenophores",
+    "description": null,
+    "verboseName": "Ctenophores",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-604-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-604-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-604-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-605-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-605-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-605-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-606-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-606-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-606-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Beroe cucumis",
+            "taxonAuthor": "Fabricius, 1780",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "541e4b27-6a0d-4ea0-b9d6-eaa09942a6ac",
+            "taxonNuid": "00100900300100100100a",
+            "slug": "beroe-cucumis",
+            "localizedSlug": {
+                "en": "cigar-comb-jelly"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-343-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-343-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-343-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-343-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-343-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-343-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pleurobrachia pileus",
+            "taxonAuthor": "(O. F. Müller, 1776)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "786bffa9-e7b5-4e17-ac43-02effe144330",
+            "taxonNuid": "001009006004008004006",
+            "slug": "pleurobrachia-pileus",
+            "localizedSlug": {
+                "en": "sea-gooseberry"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-344-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-344-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-344-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-344-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-344-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-344-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Bolinopsis vitrea",
+            "taxonAuthor": "(L. Agassiz, 1860)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ac6cb8a8-dbdd-4fbd-a592-e7e075d37084",
+            "taxonNuid": "00100900600600300100a",
+            "slug": "bolinopsis-vitrea",
+            "localizedSlug": {
+                "en": "lobate-comb-jelly"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-345-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-345-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-345-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-346-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-346-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-346-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-345-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-345-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-345-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cestum veneris",
+            "taxonAuthor": "Lesueur, 1813",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8ae69fa5-b61b-4673-a442-ecf03b1b8881",
+            "taxonNuid": "001009006002001001003",
+            "slug": "cestum-veneris",
+            "localizedSlug": {
+                "en": "venus-girdle"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-347-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-347-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-347-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-347-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-347-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-347-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hormiphora sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "382de0cd-58a5-4f8d-aded-8fd0d92f87b2",
+            "taxonNuid": "00100d001001",
+            "slug": "hormiphora-sp",
+            "localizedSlug": {
+                "en": "pear-shaped-sea-gooseberry"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-739-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-739-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-739-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-739-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-739-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-739-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Leucothea sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "de4d3525-15e4-44b7-8aad-dd03c33aaf58",
+            "taxonNuid": "00100d002001",
+            "slug": "leucothea-sp",
+            "localizedSlug": {
+                "en": "papillose-sea-goddess"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-740-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-740-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-740-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-740-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-740-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-740-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Coeloplana sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "8c2477e5-4896-407f-abfc-810ee1a5421d",
+            "taxonNuid": "00100d003001",
+            "slug": "coeloplana-sp",
+            "localizedSlug": {
+                "en": "red-creeping-comb-jelly"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-741-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-741-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-741-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-742-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-742-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-742-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-741-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-741-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-741-1000.webp"
+                }
+            }
+        }
+    ]
+}

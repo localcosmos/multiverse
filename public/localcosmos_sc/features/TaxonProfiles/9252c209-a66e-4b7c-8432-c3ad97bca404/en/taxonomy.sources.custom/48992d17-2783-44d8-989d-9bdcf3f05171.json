@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Chaetomorpha robusta (Areschoug)",
+    "taxonAuthor": "Papenfuss, 1940",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "48992d17-2783-44d8-989d-9bdcf3f05171",
+    "taxonNuid": "003007002001003",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1304-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1304-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1304-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 750,
+    "vernacular": {
+        "en": "Robust hair-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Robust hair-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Distinctive species forming a dark green brush of thick, unbranched filaments, each composed of a row of large barrel-shaped cells placed end to end and firmly attached basally by a holdfast. Cells near the ends of each filament may be empty and white, indicating that the spores have been released.</p>",
+            "shortTextKey": "taxon_text_1_7322",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Filaments up to 2 mm wide, clump typically about 100 mm or more tall.</p>",
+            "shortTextKey": "taxon_text_2_7323",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u><i> </i>Namibia to<i> </i>Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_7324",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in dense clumps in lowshore pools and shallow subtidal.</p>",
+            "shortTextKey": "taxon_text_4_7325",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating generation of similar looking sporophytes and gametophytes. Sporophytes produce spores that bear 4 flagella and develop into gametophytes that in turn produce male and female gametes that merge and develop into sporophytes.</p>",
+            "shortTextKey": "taxon_text_6_7327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable due to very large cells making up the filaments.</p>",
+            "shortTextKey": "taxon_text_7_7328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 374). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 101).",
+            "shortTextKey": "taxon_text_8_7329",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1304-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1304-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1304-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1304-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1304-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1304-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2267-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2267-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2267-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2266-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2266-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2266-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

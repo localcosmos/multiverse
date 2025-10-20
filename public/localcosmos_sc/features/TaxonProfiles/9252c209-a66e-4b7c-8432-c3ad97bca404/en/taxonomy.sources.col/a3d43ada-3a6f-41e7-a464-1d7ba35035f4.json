@@ -1,0 +1,136 @@
+{
+    "taxonLatname": "Grielum humifusum",
+    "taxonAuthor": "Thunb.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a3d43ada-3a6f-41e7-a464-1d7ba35035f4",
+    "taxonNuid": "006006005010008001003",
+    "gbifNubkey": 3701810,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2822-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2822-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2822-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1014,
+    "vernacular": {
+        "en": "Desert primrose"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Maritzwater",
+            "Desert primrose"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Creeping, prostrate annual. Stems elongate, reddish and spreading out to form mats in sandy areas. Leaves soft, with deep rounded lobes, slightly hairy. Flowers with five bright yellow petals, cup-shaped, becoming paler towards the centre, which bears 10 prominent yellow stamens. Fruit depressed, pentagonal, with a peripheral wing and central knobs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9567",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Stems about 60 cm long. Flowers about 25 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9568",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Botswana, Namibia and South Africa.</p><p><u>Local/Regional:</u> Namibia to Cape Peninsula, also inland.</p>",
+            "shortTextKey": "taxon_text_3_9569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Occurs in sandy areas both inland and along the coast, where it can extend almost down to high water mark. Flowers only open in bright sunshine.</p>",
+            "shortTextKey": "taxon_text_4_9570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9571",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July-October.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9572",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A second, similar species, the Green-eyed desert primrose <i>G. grandiflorum</i>, is also found along the West Coast, but has more finely branched and wooly leaves and the flowers have a green centre.</p>",
+            "shortTextKey": "taxon_text_7_9573",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2822-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2822-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2822-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2822-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2822-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2822-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Grielum laciniatum",
+            "taxonAuthor": "Gaertn."
+        },
+        {
+            "taxonLatname": "Grielum flagelliforme",
+            "taxonAuthor": "E. Mey."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

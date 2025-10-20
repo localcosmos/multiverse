@@ -1,0 +1,160 @@
+{
+    "taxonLatname": "Delphinus delphis",
+    "taxonAuthor": "Linnaeus, 1758",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8ee76ea4-d06b-4ae2-8d6c-ca1caf0ffa5f",
+    "taxonNuid": "001007003002002004004002001004002001002001",
+    "gbifNubkey": 8324617,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-274-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-274-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-274-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 436,
+    "vernacular": {
+        "en": "Common dolphin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Common dolphin",
+            "Short-beaked Common Dolphin",
+            "Short-beaked Saddleback Dolphin",
+            "common dolphin",
+            "saddle-backed dolphin",
+            "short-beaked saddle-backed dolphin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Some previous accounts recognise two separate species, a more offshore ‘Short-beaked’ common dolphin <i>D. delphis</i> and a more inshore ‘Long-beaked’ species <i>D. capensis</i>, but these are no longer accepted being separate species.&nbsp;</p>",
+            "shortTextKey": "taxon_text_9_4145",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Relatively slender, medium-sized dolphin with a gently sloping forehead, long two-toned beak and triangular, slightly-hooked dorsal fin. There are 46–58 small, sharp teeth in each jaw.</p><p>The unusual colour pattern is diagnostic. The back is black, the underside white and along the sides between these there is a large, elongated ‘figure of eight’-shaped patch that is buff in the front half and dark grey in its back half. There is also a dark stripe from the corner of the jaw to the flipper.</p>",
+            "shortTextKey": "taxon_text_1_4146",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium-sized with a maximum length of 2.5 m and mass of 175 kg. Males tend to be slightly larger and heavier than females.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_4147",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed in tropical and temperate waters around the world.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_4148",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The most abundant cetacean in the world, with a global population estimated at about 6 million. Found mostly in shallow coastal waters and can occur in large schools numbering thousands of individual and which are a thrilling sight to encounter and a popular tourist attraction. The schools are of mixed gender and generally travel at about 7 km/h, although the dolphins can swim much faster, at up to 35 km/h.</p><p>Well-known for their habit of following the sardine run up the east coast in winter and most of the regional research done on this species has been on south and east coast populations, rather than in the Western Cape population.</p><p>East coast populations are vulnerable to capture in bather protection nets and west coast ones are sometimes captured in purse-seine fisheries and although unfortunate, these modest losses are unlikely to impact the overall population of this abundant species.</p><p>Very vocal and produce a wide variety of different whistles.</p>",
+            "shortTextKey": "taxon_text_4_4149",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on a wide variety of both fish and cephalopods, but with a preference for pelagic schooling fish, particularly sardine.</p>",
+            "shortTextKey": "taxon_text_5_4150",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females reach sexual maturity at an age of about nine and males somewhat earlier, at about seven years, but age at maturity differs greatly between populations. Gestation period is 10–11 months and calving takes place over a protracted season, but mostly in summer. Calves are born at a length of 70–100 cm and mass of about 10 kg.</p>",
+            "shortTextKey": "taxon_text_6_4151",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other species due the diagnostic colour pattern<i>.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_7_4152",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Best, PB (2007). Whales and Dolphins of the Southern African Subregion. Cambridge University Press (p. 213, 218 with both long and short beaked species being recognized).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 366).<br><br>Cockcroft, V & Joyce, P (1998). Whale Watch: A Guide to Whales and other Marine Mammals of Southern Africa. Struik Publishers, Cape Town (p. 88).<br><br>Cockcroft, VG & Peddemors, VM (1990). Seasonal distribution and density of common dolphins <i>Delphinus delphis</i> off the south-east coast of southern Africa. <i>South African Journal of Marine Science</i>, 9(1), 371-377.<br><br>Davis, RW, David, JHM, Meÿer, MA, Sekiguchi, K, Best, PB, Dassis, M & Rodriguez, DH (2014). Home range and diving behaviour of Heaviside's dolphins monitored by satellite off the west coast of South Africa. <i>African Journal of Marine Science</i>, 36(4), 455-466.<br><br>Young, DD & Cockcroft, VG (1994). Diet of common dolphins (<i>Delphinus delphis<i>) off the south‐east coast of southern Africa: opportunism or specialization?. <i>Journal of Zoology</i>, 234(1), 41-53.",
+            "shortTextKey": "taxon_text_8_4153",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-274-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-274-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-274-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-274-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-274-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-274-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Delphinus capensis",
+            "taxonAuthor": "Gray, 1828"
+        },
+        {
+            "taxonLatname": "Delphinus capensis capensis",
+            "taxonAuthor": "Gray, 1828"
+        },
+        {
+            "taxonLatname": "Delphinus major",
+            "taxonAuthor": "Gray, 1866"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

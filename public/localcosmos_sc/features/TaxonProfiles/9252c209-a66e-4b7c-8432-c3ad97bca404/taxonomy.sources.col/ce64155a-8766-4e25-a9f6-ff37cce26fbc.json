@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Isozoanthus capensis",
+    "taxonAuthor": "Carlgren, 1938",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ce64155a-8766-4e25-a9f6-ff37cce26fbc",
+    "taxonNuid": "001008001003005003005007006",
+    "gbifNubkey": 6473003,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-552-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-552-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-552-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 94,
+    "vernacular": {
+        "en": "Cape zoanthid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape zoanthid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Zoanthids resemble small anemones and similarly have a columnar body topped by a ring of tentacles surrounding a central mouth. Unlike anemones though, they are colonial and colony members are united by a basal sheet of tissue. Most species carpet tropical shores, this one is thus unusual both in its temperate distribution and because it occurs in overhangs and under boulders, rather than in the open.</p><p>Colonies are generally small and formed of a few dozen individuals, each of which is orange to pink, has a column covered on course sand and is topped by about 30 relatively long (for a zoanthid) tentacles.</p>",
+            "shortTextKey": "taxon_text_1_776",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Polyps about 12 mm tall, colonies up to 10 cm across.</p>",
+            "shortTextKey": "taxon_text_2_777",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Cape Peninsula to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_778",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found rather in caves and overhangs and beneath boulders. Unlike many other regional zoanthids lack symbiotic algae (zooxanthellae) so relies entirely on capturing food with the tentacles.</p>",
+            "shortTextKey": "taxon_text_4_779",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small planktonic prey are captured with the tentacles, which are armed with stinging calls, and are transferred to the mouth.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_780",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Zoanthids can reproduce both sexually and asexually. New colonies are founded via the release of sperm and eggs into the water. After fertilization eggs develop into planktonic larvae which are transported to new sites, where they settle and transform into the adult form. Once established colonies develop by budding of the original founding individual and all members of the colony are genetically identical and remain connected to one another via a basal carpet of tissue.</p>",
+            "shortTextKey": "taxon_text_6_781",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several other zoanthid species are common on subtropical shores to the east of South Africa, but this is one of few to occur in temperate parts of the country. It is unlikely to be confused with other regional species due to its pink colour and cryptic habitat.</p>",
+            "shortTextKey": "taxon_text_7_782",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 30)<br><br>Carlgren, O (1938). South African Actiniaria and Zoantharia. <i>Kungliga Svenska Vetenskapsakademiens Handlingar</i>, 17(3), 1–148.",
+            "shortTextKey": "taxon_text_8_783",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-552-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-552-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-552-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-552-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-552-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-552-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,398 @@
+{
+    "name": "Sea pens & soft corals",
+    "description": null,
+    "verboseName": "Sea pens & soft corals",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-831-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-831-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-831-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-842-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-842-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-842-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-843-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-843-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-843-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Actinoptilum molle",
+            "taxonAuthor": "(Kükenthal, 1910)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b2447f1d-8147-4b97-aaa9-46464c0299ba",
+            "taxonNuid": "00100800100500s00j004001001",
+            "slug": "actinoptilum-molle",
+            "localizedSlug": {
+                "en": "radial-sea-pen"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-350-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-350-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-350-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-350-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-350-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-350-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Alcyonium fauri",
+            "taxonAuthor": "J.S. Thomson, 1910",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f0440368-f14d-4756-b454-caa1b4bb210d",
+            "taxonNuid": "00100800100400500100j",
+            "slug": "alcyonium-fauri",
+            "localizedSlug": {
+                "en": "purple-soft-coral"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-351-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-351-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-351-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-848-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-848-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-848-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-848-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-848-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-848-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Alcyonium variabile",
+            "taxonAuthor": "(J.S. Thomson, 1921)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0267b763-d9b2-4c78-9112-dc71983eac0b",
+            "taxonNuid": "00100800100400500101i",
+            "slug": "alcyonium-variabile",
+            "localizedSlug": {
+                "en": "variable-soft-coral"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-352-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-352-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-352-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-352-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-352-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-352-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eunephthya thyrsoidea",
+            "taxonAuthor": "(Verrill, 1865)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a11e9e95-102f-4f5f-bf95-f81262abae26",
+            "taxonNuid": "00100800100400b004006",
+            "slug": "eunephthya-thyrsoidea",
+            "localizedSlug": {
+                "en": "cauliflower-soft-coral"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-353-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-353-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-353-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-838-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-838-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-838-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-353-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-353-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-353-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Inconstantia exigua",
+            "taxonAuthor": "McFadden & van Ofwegen, 2012",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "48e4a32d-6cb5-4b46-89f3-7a45708397a5",
+            "taxonNuid": "00100800100400p001001",
+            "slug": "inconstantia-exigua",
+            "localizedSlug": {
+                "en": "creeping-soft-coral"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-359-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-359-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-359-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-359-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-359-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-359-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Parasphaerasclera valdiviae",
+            "taxonAuthor": "(Kukenthal, 1906)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "81a7c3c0-ffed-48bb-8471-c80aec629364",
+            "taxonNuid": "00100800100500s00h001008",
+            "slug": "parasphaerasclera-valdiviae",
+            "localizedSlug": {
+                "en": "valdivian-soft-coral"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-365-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-365-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-365-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-365-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-365-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-365-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Virgularia schultzei",
+            "taxonAuthor": "Kükenthal, 1910",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ad9dd940-d3d1-41e9-95d4-ccce30919aa5",
+            "taxonNuid": "00100800100500s00j00g00600h",
+            "slug": "virgularia-schultzei",
+            "localizedSlug": {
+                "en": "feathery-sea-pen"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2905-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2905-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2905-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2907-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2907-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2907-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2906-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2906-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2906-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2905-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2905-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2905-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Malacacanthus capensis",
+            "taxonAuthor": "(Hickson, 1900)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1c2c7560-15df-4f74-bb27-2b032f4dd839",
+            "taxonNuid": "00100800100400u001001",
+            "slug": "malacacanthus-capensis",
+            "localizedSlug": {
+                "en": "sunburst-soft-coral"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-850-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-850-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-850-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-837-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-837-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-837-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-851-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-851-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-851-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-363-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-363-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-363-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-367-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-367-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-367-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-850-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-850-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-850-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Stomatopods (mantis shrimps)",
+    "description": null,
+    "verboseName": "Stomatopods (mantis shrimps)",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Lysiosquilla capensis",
+            "taxonAuthor": "Hansen, 1895",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3d575b3e-3fbb-4c6c-8e5d-63d06640bf10",
+            "taxonNuid": "001003003002001001",
+            "slug": "lysiosquilla-capensis",
+            "localizedSlug": {
+                "en": "banded-mantis-shrimp"
+            },
+            "images": [],
+            "primaryImage": null
+        },
+        {
+            "taxonLatname": "Pterygosquilla capensis",
+            "taxonAuthor": "Manning, 1969",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "a4a21e05-f0ff-4ce0-9040-fac094c59291",
+            "taxonNuid": "001003003002002001",
+            "slug": "pterygosquilla-capensis",
+            "localizedSlug": {
+                "en": "cape-mantis-shrimp"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

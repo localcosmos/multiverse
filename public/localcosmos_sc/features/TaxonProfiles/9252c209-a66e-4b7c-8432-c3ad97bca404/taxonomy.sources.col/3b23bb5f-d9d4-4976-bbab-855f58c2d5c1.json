@@ -1,0 +1,181 @@
+{
+    "taxonLatname": "Callopatiria formosa",
+    "taxonAuthor": "(Mortensen, 1933)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3b23bb5f-d9d4-4976-bbab-855f58c2d5c1",
+    "taxonNuid": "00100c001001001004003003003009002",
+    "gbifNubkey": 2272000,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2305-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2305-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2305-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 183,
+    "vernacular": {
+        "en": "Beautiful starfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beautiful starfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Parasterina formosa, Patiria formosa</i></p>",
+            "shortTextKey": "taxon_text_9_1655",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Arms tapering from a fairly-broad base, each semicircular in cross-section, the upper surface convex and the lower surface flat. Surface texture granular. Colour variable and may be yellow, orange, red or purple, but almost always with round yellow or orange spots, which become larger and denser towards ends of arms.</p>",
+            "shortTextKey": "taxon_text_1_1656",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Diameter typically about 80 mm, but up to 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_1657",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Almost entirely confined to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_1658",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common species in this location extending from about 15 - 55 m depth. Despite being commonly photographed, little else is known about biology.</p>",
+            "shortTextKey": "taxon_text_4_1659",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>No specific information for this species but thought to feed on detritus and on a variety of benthic invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_1660",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and (being echinoderms) there are five gonads in each individual! Sperm and eggs are released into the water column and develop into planktonic larvae.</p>",
+            "shortTextKey": "taxon_text_6_1661",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related Red-tiled starfish <i>C. granifera </i>is similar in size and shape and found in much the same habitat, but differs in colour, always being plain orange or red.</p>",
+            "shortTextKey": "taxon_text_7_1662",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 78).",
+            "shortTextKey": "taxon_text_8_1663",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2305-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2305-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2305-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2305-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2305-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2305-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2306-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2306-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2306-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2307-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2307-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2307-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2304-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2304-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2304-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Patiria formosa",
+            "taxonAuthor": "(Mortensen, 1933)"
+        },
+        {
+            "taxonLatname": "Parasterina formosa",
+            "taxonAuthor": "Mortensen, 1933"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,105 @@
+{
+    "taxonLatname": "Dromidia aegibotus",
+    "taxonAuthor": "Barnard, 1947",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f6ebdcd6-89ea-47ed-b389-245f7498e025",
+    "taxonNuid": "00100300a00600200500400200200200e001",
+    "gbifNubkey": 4377905,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 982,
+    "vernacular": {
+        "en": "Scrubbing brush crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Scrubbing brush crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized sponge crab, carapace (hard upper shell) reddish with short, stiff yellowish or brownish bristles giving rise to its common name. Carapace broader than long, with the frontal margin bearing three acute teeth, while the lateral margin (side) has four teeth (three anterolaterally, with one behind branchial groove). Fifth leg distinctly shorter and more slender than the fourth. Does not carry a sponge or ascidian like many other species in the family.</p>",
+            "shortTextKey": "taxon_text_1_9309",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 95 mm in width, length up to 70 mm.</p>",
+            "shortTextKey": "taxon_text_2_9310",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> From Saldanha to Gqeberha.</p>",
+            "shortTextKey": "taxon_text_3_9311",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Not much known regarding their biology, though these animals often exhibit nocturnal habits, though they are also occasionally encountered during the day. Interestingly, Scrubbing brush crabs do not have an association with a sponge or ascidian like other members in the family and is thus bare.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_9312",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Scavenger, mostly eating dead animals they come across, though also observed to take some slow moving prey.</p>",
+            "shortTextKey": "taxon_text_5_9313",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate,<strong> </strong>with females storing sperm in chitin-lined spermathecae, though this is not retained after moulting. Very little is known regarding reproduction of the group, though sperm and eggs meet externally in an abdominal chamber. Ovigerous females carry eggs below the abdomen until the larvae hatch.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9314",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is one of six species of this endemic genus, five of which are found in False Bay. Superficially similar to the shaggy sponge crab <i>D. hirsutissima</i>, though it has longer bristles giving it a shaggy appearance and has two to three spines laterally. Also, somewhat similar to <i>Lewindromia unidentata</i> (Mozambique), though it has short brown/reddish fur and a single tooth at the carapace mid-margin.</p>",
+            "shortTextKey": "taxon_text_7_9315",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 132). <br><br>McLay, CL (2019). Podotreme reproduction: occurrence of sperm plaque in sponge crabs (Decapoda: Brachyura: Dromiidae). <i>Journal of Crustacean Biology</i>, 39(1), 82-87.",
+            "shortTextKey": "taxon_text_8_9316",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

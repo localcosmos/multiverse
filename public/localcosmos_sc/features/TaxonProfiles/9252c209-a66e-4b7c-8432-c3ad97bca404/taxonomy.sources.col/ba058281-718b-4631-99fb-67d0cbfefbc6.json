@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Oregoniplana pantherina",
+    "taxonAuthor": "Sluys, 1989",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ba058281-718b-4631-99fb-67d0cbfefbc6",
+    "taxonNuid": "00100s01200f003002002002002",
+    "gbifNubkey": 6475890,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1744-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1744-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1744-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 861,
+    "vernacular": {
+        "en": "Panther skittleworm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Panther skittleworm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As the name implies flatworms have flat, leaflike bodies and either glide around on a bed of cilia or, in larger species, by using ripples of muscular contraction that pass along the body. Most marine species belong to the Order Polyclada, which are generally fairly-large (10-40 mm) and broad and have a many-branched gut. Triclads, also known as planarians, are smaller (&lt;10 mm) with a longer, narrower body shape and a 3-branched gut. The group is relatively uncommon in marine habitats, although diverse in freshwater and in damp terrestrial habitats.</p><p>This species has an elongate skittle-shaped body tapering towards a pointed head. The tip of the head is black and the rest of the body decorated with longitudinal brown and white bands, with two pronounced transverse white bands, one immediately behind the head and the other midway along the body. There is a pair of black eyes on the head, but these can be difficult to distinguish against the striped body pattern.</p>",
+            "shortTextKey": "taxon_text_1_8321",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically 2-4 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_8322",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Known only from the Cape Peninsula and vicinity.</p>",
+            "shortTextKey": "taxon_text_3_8323",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Normally found creeping on the undersides of boulders in the intertidal zone, where they can be extremely common, numbering in hundreds under an individual rock. Seem to prefer living in shallow pools high in the intertidal in the Littorina zone.</p>",
+            "shortTextKey": "taxon_text_4_8324",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>The feeding organ of flatworms is a tubular proboscis on the underside and this leads into a blind-ending gut with no anus. The diet of this species is unknown, but most freshwater planarians feed either on small invertebrates of scavenge dead or dying organisms.</p>",
+            "shortTextKey": "taxon_text_5_8325",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Triclads are hermaphrodite but can reproduce both asexually and sexually. Asexual reproduction involves fission, after which each section regenerates the missing body parts. This may take place naturally or following injury. In sexual reproduction two individuals exchange sperm and the fertilized eggs develop inside the body before being shed in capsules or cocoons which hatch directly into fully formed juveniles. The brown spheres in the image provided are probably the egg cases.</p>",
+            "shortTextKey": "taxon_text_6_8326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is the only common marine triclad we have observed in the region and can be distinguished from local polyclads by the much more elongate body shape. It is also fairy easily recognised by the brown and white longitudinal and transverse bands on the body but colour appears to be variable and differs in different published accounts.</p>",
+            "shortTextKey": "taxon_text_7_8327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 60 as skittleworm). <br><br>Li, WX, Sluys, R, Vila-Farré, M, Chen, JJ, Yang, Y, Li, SF & Wang, AT (2019). A new continent in the geographic distribution of the genus <i>Oregoniplana</i> (Platyhelminthes: Tricladida: Maricola), its rediscovery in South Africa and its molecular phylogenetic position. <i>Zoological Journal of the Linnean Society</i>, 187(1), 82-99.<br><br>Sluys, R (1989). A monograph of the marine triclads. Rotterdam & Brookfield: Balkema.",
+            "shortTextKey": "taxon_text_8_8328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1744-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1744-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1744-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1744-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1744-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1744-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1743-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1743-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1743-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

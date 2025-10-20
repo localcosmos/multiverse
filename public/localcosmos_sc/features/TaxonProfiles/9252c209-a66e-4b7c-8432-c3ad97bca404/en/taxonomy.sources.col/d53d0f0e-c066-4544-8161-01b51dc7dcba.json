@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Ascidia canaliculata",
+    "taxonAuthor": "Heller, 1878",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d53d0f0e-c066-4544-8161-01b51dc7dcba",
+    "taxonNuid": "00100700200200200200100i",
+    "gbifNubkey": 2330541,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2274-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2274-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2274-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 148,
+    "vernacular": {
+        "en": "Channeled ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Channeled ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Test large, oval and semi-transparent, often with purplish vein-like markings and light purplish or pinkish colouring, intensifying along siphons. Siphons fairly elongate and widely-separated, with exhalent siphon well down on one side. Siphons not adhering to substratum (as in <i>A. caudata</i>) and grooved towards tip, apertures distinctly lobed and without distinct oral tentacles. Typically found in groups under boulders.</p>",
+            "shortTextKey": "taxon_text_1_1306",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 100 mm long, including siphons.</p>",
+            "shortTextKey": "taxon_text_2_1307",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Atlantic Ocean, South Africa and Mozambique.</p><p><u>Local/Regional:</u> Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_1308",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives in narrow crevices or in cavities beneath boulders in shallow water.</p><p>The structure of the outer test of solitary ascidians such as this is interesting as it is composed of cellulose, a material normally associated with plants and found only in this group of animals. Cellulose may be a good choice for a protective coasting, as few animals have enzymes capable of digesting this material!</p>",
+            "shortTextKey": "taxon_text_4_1309",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1310",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most ascidians are hermaphroditic and although colonial species expand their colonies via asexual reproduction (budding), solitary one reproduce only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.</p><p>Ascidian larvae are famous for revealing the chordate affinities of the group, which are hard to appreciate by examining the rather degenerate-looking sedentary adults!</p><p>Ascidian larvae have a distinct tail and notocord (primitive ‘backbone’) and swim actively. When they are ready to settle they attach themselves to the substratum with adhesive papillae on the head and resorb the tail and notochord, effectively rotating the body 180 degrees so that the ‘mouth’ or inhalant siphon, now points upwards.</p>",
+            "shortTextKey": "taxon_text_6_1311",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The taxonomic position of this species is uncertain and it is closely related to and often confused with <i>A. sydneiensis</i>. Monniot et al. (see refs below) recognise the Atlantic, South African and Mozambique forms under this name and those from Australia, Sri Lanka&nbsp; and Mauritius as<i> A. sydneiensis.</i></p><p>There are also several other <i>Ascidia </i>species in the region and these can be difficult to distinguish, but <i>A. canaliculata </i>is best separated from related species by the fact that the siphons are not glued to the rock and their tips are lobed (unlike A. caudata), and they do not have red spots between the lobes (as found in <i>A. incrassata</i>).</p>",
+            "shortTextKey": "taxon_text_7_1312",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 246).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 63)",
+            "shortTextKey": "taxon_text_8_1313",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2274-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2274-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2274-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2274-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2274-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2274-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2270-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2270-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2270-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2453-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2453-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2453-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2437-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2437-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2437-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

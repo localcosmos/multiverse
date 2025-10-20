@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Eupilema inexpectata",
+    "taxonAuthor": "Pages, Gili & Bouillon, 1992",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3a9f6159-811d-4957-9535-8bda2a8c732a",
+    "taxonNuid": "001008005002001002004001001001",
+    "gbifNubkey": 2264590,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-348-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-348-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-348-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 501,
+    "vernacular": {
+        "en": "Root-mouthed jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Root-mouthed jellyfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very large, high, smooth, dome-shaped bell with thick, translucent jelly. Margin of bell lacks tentacles, but is ornamented with numerous scallops. A short, thick, fused set of oral arms hangs under the bell like a thick trunk and lacks terminal appendages (as found in the related <i>Rhizostoma</i>). The arms spreads out distally to reveal numerous small mouthlets.</p><p>Colour translucent white.</p>",
+            "shortTextKey": "taxon_text_1_4820",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 400 mm bell diameter (some sources give up to 1.5 m).</p>",
+            "shortTextKey": "taxon_text_2_4821",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.&nbsp;</p><p><u>Local/Regional:</u> Known only from the southwestern coast of South Africa.</p>",
+            "shortTextKey": "taxon_text_3_4822",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Despite its large size, this species was only recently described and appears to have has a restricted distribution. Little is known about its biology.</p>",
+            "shortTextKey": "taxon_text_4_4823",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not documented, but given the structure of its feeding appendages assumed to feed on small zooplankton.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_4824",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown, but assumed to have a dimorphic life cycle like other members of this family, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and release gametes into the water. Fertilised eggs develop into larvae that ultimately settle onto hard surfaces, where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_4825",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with <i>Rhizostoma</i> species, but these have longer oral arms which end on elongate terminal appendages.</p>",
+            "shortTextKey": "taxon_text_7_4826",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 50).",
+            "shortTextKey": "taxon_text_8_4827",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-348-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-348-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-348-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-348-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-348-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-348-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

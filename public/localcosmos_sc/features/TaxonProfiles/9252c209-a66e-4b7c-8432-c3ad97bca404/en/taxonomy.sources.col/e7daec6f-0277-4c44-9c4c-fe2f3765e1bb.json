@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Styela angularis",
+    "taxonAuthor": "(Stimpson, 1855)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e7daec6f-0277-4c44-9c4c-fe2f3765e1bb",
+    "taxonNuid": "00100700200200300300z003",
+    "gbifNubkey": 2332007,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-655-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-655-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-655-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 168,
+    "vernacular": {
+        "en": "Angular ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Angular ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Styela costata</i></p>",
+            "shortTextKey": "taxon_text_9_1505",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tall, solitary, upright ascidian with a tough, leathery, brown test that is angular and six-sided in cross-section (hence the name). The siphons each have four lobes, with the inhalant one being on the shoulder and the exhalant one pointing upwards.<i> &nbsp;</i>Often partly overgrown by fouling organisms.</p>",
+            "shortTextKey": "taxon_text_1_1506",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 100 mm in height.</p>",
+            "shortTextKey": "taxon_text_2_1507",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia and South Africa only.</p><p><u>Local/Regional:</u> Southern Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_1508",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A fairy uncommon species usually seen singly or in small scattered groups in low intertidal pools or on shallow reefs. Little else known about habits.</p><p>The structure of the outer test of these ascidians is interesting as it is composed of cellulose, a material normally associated with plants and found only in this group of animals. Cellulose may be a good choice for a protective coasting, as few animals have enzymes capable of digesting this material!</p>",
+            "shortTextKey": "taxon_text_4_1509",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.</p>",
+            "shortTextKey": "taxon_text_5_1510",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most ascidians are hermaphroditic and although colonial species expand their colonies via asexual reproduction (budding), solitary one like this one reproduce only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.</p><p>Ascidian larvae are famous for revealing the chordate affinities of the group, which are hard to appreciate by examining the rather degenerate-looking sedentary adults!</p><p>Ascidian larvae have a distinct tail and notocord (primitive ‘backbone’) and swim actively. When they are ready to settle they attach themselves to the substratum with adhesive papillae on the head and resorb the tail and notochord, effectively rotating the body 180 degrees so that the ‘mouth’ or inhalant siphon, now points upwards.</p>",
+            "shortTextKey": "taxon_text_6_1511",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The 6-sided angular test is distinctive, although at least two other much smaller<i> Styela </i>species also occur in the same region.</p>",
+            "shortTextKey": "taxon_text_7_1512",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 246).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 199).",
+            "shortTextKey": "taxon_text_8_1513",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-655-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-655-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-655-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-655-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-655-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-655-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Styela costata",
+            "taxonAuthor": "(Hartmeyer, 1911)"
+        },
+        {
+            "taxonLatname": "Cynthia angularis",
+            "taxonAuthor": "Stimpson, 1855"
+        },
+        {
+            "taxonLatname": "Tethyum costatum",
+            "taxonAuthor": "Hartmeyer, 1911"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

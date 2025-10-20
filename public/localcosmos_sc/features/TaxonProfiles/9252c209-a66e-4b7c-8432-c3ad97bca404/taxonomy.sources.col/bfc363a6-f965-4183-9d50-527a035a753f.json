@@ -1,0 +1,119 @@
+{
+    "taxonLatname": "Coccotropsis gymnoderma",
+    "taxonAuthor": "(Gilchrist, 1906)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "bfc363a6-f965-4183-9d50-527a035a753f",
+    "taxonNuid": "00100700300200200101300z003001",
+    "gbifNubkey": 2335231,
+    "image": null,
+    "shortProfile": "",
+    "taxonProfileId": 859,
+    "vernacular": {
+        "en": "Smooth-skin waspfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Smooth-skin waspfish",
+            "Smooth-skin scorpionfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Smooth-skin scorpionfish</p>",
+            "shortTextKey": "taxon_text_9_8302",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Previously included within the family Scorpaenidae and still listed under that family name in same accounts. However, that family has now been divided into several smaller families.</p><p>Very small and cryptic, reaching a length of only about 5 cm.&nbsp;Body stubby and rough-skinned with a large, wrinkled head and prominent dorsal fin which bears 14-15 venomous spines and 5-6 soft rays. Pectoral fins large and pale, held out laterally. Body colour mottles orange and brown, with a distinctive broad white band in front of the tail.</p>",
+            "shortTextKey": "taxon_text_1_8303",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 5 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_8304",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_8305",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A fairly common species, but seldom seen because of its very small size and cryptic colouration. Usually solitary or in small groups resting among benthic invertebrates and seaweeds and seen only when disturbed and swim and short distance before settling again. Spines on dorsal fin extremely venomous and inflict a very painful sting (hence common name of family - waspfish). Should not be touched. Usually on deeper reefs and recorded to at least 110 m depth.</p>",
+            "shortTextKey": "taxon_text_4_8306",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Details unknown but other waspfish predatory on small invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_8307",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown.</p>",
+            "shortTextKey": "taxon_text_6_8308",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Similar to scorpionfish, but much smaller. Chubbier than the more slender klipfishes and only superficially similar for example to the Bull klipfish, <i>Clinus taurus; </i>deeply notched dorsal fin with protruding venomous spines obvious separation character. Broad white band in front of the tail in this species is a diagnostic feature.</p>",
+            "shortTextKey": "taxon_text_7_8309",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 274). <br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 2 (p. 552). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 220).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 479).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 31).",
+            "shortTextKey": "taxon_text_8_8310",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tetraroge gymnoderma",
+            "taxonAuthor": "Gilchrist, 1906"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

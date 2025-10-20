@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Parazoanthus capensis",
+    "taxonAuthor": "Duerden, 1907",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "65074dfc-6f14-45cf-a6e0-a9cb2e54c899",
+    "taxonNuid": "00100800100300500300500c007",
+    "gbifNubkey": 5841717,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-614-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-614-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-614-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 96,
+    "vernacular": {
+        "en": "Sponge zoanthid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sponge zoanthid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Parazoanthus capensis</i>&nbsp;</p>",
+            "shortTextKey": "taxon_text_9_795",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Zoanthids resemble small anemones and similarly have a columnar body topped by a ring of tentacles surrounding a central mouth. Unlike anemones though, they are colonial and colony members remain united by a basal sheet of tissue. Most species carpet tropical shores, this one is thus unusual both in it temperate distribution and because it lives in sponges.</p><p>Colonies infiltrate sponges on shallow reefs, with the individual polyps emerging through the surface of the sponge. The delicate polyps are about 5 mm tall, white to pale yellow, not covered in sand and have fairly long slender tentacles (for a zoanthid). Often seen in the Tree sponge <i>Echinoclathria</i>, which may host so many zoanthid polyps that infected sponges are sometimes mistaken for seafans.</p>",
+            "shortTextKey": "taxon_text_1_796",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Polyps about 5 mm tall, colonies may infiltrate sponges at least 20 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_797",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic</p><p><u>Local/Regional:</u> Cape Peninsula to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_798",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little is known about this species, other than that it is seen emerging from sponges. Given its white colour and subtidal distribution the polyps probably lack symbiotic algae (zooxanthellae), which are common in intertidal species. It thus probably relies entirely on capturing food with the tentacles.</p>",
+            "shortTextKey": "taxon_text_4_799",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small planktonic prey are captured with the tentacles, which are armed with stinging calls, and transferred to the mouth.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_800",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Zoanthids can reproduce both sexually and asexually. Now colonies are founded via the release of sperm and eggs into the water. After fertilization eggs develop into planktonic larvae, which are transported to new sites, where they settle and transform into the adult form. Once established, colonies develop by budding off the original founding individual and all members of the colony are thus genetically identical and remain connected to one another via a basal carpet of tissue.</p>",
+            "shortTextKey": "taxon_text_6_801",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several other zoanthid species are common on subtropical shores to the east of South Africa, but this is one of few to occur in temperate parts of the county. It is unlikely to be confused with other regional species due to its white colour and unusual habitat of living within sponges.</p>",
+            "shortTextKey": "taxon_text_7_802",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 30).<br><br>Carlgren, O (1938). South African Actiniaria and Zoantharia. <i>Kungliga Svenska Vetenskapsakademiens Handlingar</i>, 17(3), 1–148.",
+            "shortTextKey": "taxon_text_8_803",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-614-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-614-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-614-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-614-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-614-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-614-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

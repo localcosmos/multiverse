@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Geranium incanum",
+    "taxonAuthor": "Burm. f.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a8e3a65f-736f-49e2-873e-9c541b6b64a8",
+    "taxonNuid": "00600600500s002003037",
+    "gbifNubkey": 2890643,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3022-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3022-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3022-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1061,
+    "vernacular": {
+        "en": "Coastal geranium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coastal geranium",
+            "Carpet geranium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Low bushy plant which forms a mound of soft, finely divided leaves that are smooth above but greyish and hairy below. Bears numerous delicate pink to mauve flowers which are borne on slender, naked stalks and have five equal petals, each marked with darker veins and paler towards the base.</p>",
+            "shortTextKey": "taxon_text_1_9990",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 30 cm tall and can form clumps at least 1 m across. Flowers 15-30 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9991",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional: </u>Cape Peninsula to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9992",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in sandy and rocky soils along the coast, but is also a popular garden plant especially suited to trailing over rockeries of retaining walls, or in hanging baskets, and is now cultivated well outside its natural range. Attracts a variety of pollinating insects and is also a food plant of butterfly and moth caterpillars.</p><p>The leaves and flowers can be used to make a refreshing tea. This was traditionally also used to treat bladder infections, venereal disease and menstruation problems.</p>",
+            "shortTextKey": "taxon_text_4_9993",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9994",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to December. The seeds are born on a distinctive structure of five curling threads attached around a central stalk. Easily propagated from both seed or from cuttings.</p>",
+            "shortTextKey": "taxon_text_6_9995",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Distinctive and the only common member of the genus in the region.</p>",
+            "shortTextKey": "taxon_text_7_9996",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3022-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3022-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3022-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3022-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3022-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3022-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Geranium elongatum",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Geranium incanum",
+            "taxonAuthor": "J. Printz ex L."
+        },
+        {
+            "taxonLatname": "Geranium caffroides",
+            "taxonAuthor": "R. Knuth"
+        },
+        {
+            "taxonLatname": "Geranium incanum var. typicum",
+            "taxonAuthor": "R. Knuth in Engl."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

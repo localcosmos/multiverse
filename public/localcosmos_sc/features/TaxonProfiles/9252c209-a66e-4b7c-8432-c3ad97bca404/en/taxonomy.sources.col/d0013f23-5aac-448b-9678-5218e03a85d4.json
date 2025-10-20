@@ -1,0 +1,161 @@
+{
+    "taxonLatname": "Salvia aurea",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d0013f23-5aac-448b-9678-5218e03a85d4",
+    "taxonNuid": "00600600500w00705k020",
+    "gbifNubkey": 3884533,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2959-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2959-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2959-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1038,
+    "vernacular": {
+        "en": "Beach salvia"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beach salvia"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Salvia africana-lutea</i></p>",
+            "shortTextKey": "taxon_text_9_9779",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Erect, coastal, perennial shrub with broad, grey leaves that are slightly hairy and aromatic. Golden-brown flowers crowded at ends of branches and have distinctive hooded upper petals that resemble a parrot beak, the long stamens protruding beneath the hood. The rusty coloured saucer-like calyx persists long after the flowers fall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9780",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 2 m.</p>",
+            "shortTextKey": "taxon_text_2_9781",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Namaqualand to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_9782",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Coastal species very common on sandy dunes in dryer areas.</p><p>Popular in coastal gardens due to long flowering season and unusual flowers. Flowers also rich in nectar and attract birds and insects.</p><p>Widely used in traditional medicine for respiratory ailments, influenza, gynaecological complaints, fever, headaches and digestive disorders and by settlers as a tea to treat colds, tuberculosis, and chronic bronchitis. Like other <i>Salvia</i> species, the plants are also rich in essentail oils.</p>",
+            "shortTextKey": "taxon_text_4_9783",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9784",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers June to December.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9785",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related Rusty sage <i>S. lanceolata</i> occurs along the west coast as well as further inland and has rusty-red to greyish-blue flowers.</p>",
+            "shortTextKey": "taxon_text_7_9786",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2959-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2959-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2959-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2959-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2959-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2959-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2960-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2960-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2960-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Salvia colorata",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Salvia africana-lutea",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Salvia eckloniana",
+            "taxonAuthor": "Benth."
+        },
+        {
+            "taxonLatname": "Crolocos aurea",
+            "taxonAuthor": "(L.) Raf."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

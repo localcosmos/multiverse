@@ -1,0 +1,110 @@
+{
+    "name": "Clavatulid shells",
+    "description": null,
+    "verboseName": "Clavatulid shells",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2546-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2546-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2546-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Clavatula taxea",
+            "taxonAuthor": "(Röding, 1798)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e7aa09e0-65e0-40ac-bf6c-e8f176eb216a",
+            "taxonNuid": "00100k00700300e00300b00403j",
+            "slug": "clavatula-taxea",
+            "localizedSlug": {
+                "en": "yew-turrid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-102-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-102-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-102-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-102-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-102-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-102-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Clionella sinuata",
+            "taxonAuthor": "(Born, 1778)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "739ddfce-3fad-4e86-ae2f-ee184bf52a2a",
+            "taxonNuid": "00100k00700300e00300b00600c",
+            "slug": "clionella-sinuata",
+            "localizedSlug": {
+                "en": "ribbed-turrid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+                }
+            }
+        }
+    ]
+}

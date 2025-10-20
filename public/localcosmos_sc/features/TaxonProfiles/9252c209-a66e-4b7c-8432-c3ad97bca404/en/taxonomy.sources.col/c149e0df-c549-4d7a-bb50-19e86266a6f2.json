@@ -1,0 +1,209 @@
+{
+    "taxonLatname": "Africofusus ocelliferus",
+    "taxonAuthor": "(Lamarck, 1816)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c149e0df-c549-4d7a-bb50-19e86266a6f2",
+    "taxonNuid": "00100k00700300e00200y003001004",
+    "gbifNubkey": 10963558,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1172-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1172-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1172-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 267,
+    "vernacular": {
+        "en": "Long-siphoned whelk"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Long-siphoned whelk"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Fusinus ocelliferus</i></p>",
+            "shortTextKey": "taxon_text_9_2485",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly large shell, easily recognized by the fairly long spire and elongated siphonal canal, which is about 30% total length of the shell. Also by the fact that the foot is bright orange-red with white spots. The whorls of the shell are decorated with flattened spiral ridges and sometimes with small knobs. External colour pale with brown markings and spots, interior white.</p><p>There are several regional varieties which may represent genetically distinct species.</p>",
+            "shortTextKey": "taxon_text_1_2486",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 150 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2487",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_2488",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common and distinctive species found both intertidally and on deeper reefs. Little else is known about its biology.</p>",
+            "shortTextKey": "taxon_text_4_2489",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on polychaete worms as evidenced by the presence of their setae in its faeces, but no other details known.</p>",
+            "shortTextKey": "taxon_text_5_2490",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are vase-shaped with a short thick stalk and are deposited in groups under rocks.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2491",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily recognized by its long siphonal canal and bright red foot. Can be confused with the Fine-ribbed whelk <i>Lugubrilaria lugubris</i> but that species occurs only on the west coast, has more numerous and more delicate ridges on the shell, a shorter siphonal canal and two pleats on the inner lip near the siphonal canal.</p>",
+            "shortTextKey": "taxon_text_7_2492",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 194)<br><br>Herbert, DG & Jones, GJ (2018). Phylum Mollusca In: Atkinson LJ and Sink KJ (eds) Field Guide to the Offshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 249-320 (p. 274 as <i>Fucinus ocelliferus</i>).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 102).",
+            "shortTextKey": "taxon_text_8_2493",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1172-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1172-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1172-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1172-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1172-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1172-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1170-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1170-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1170-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1171-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1171-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1171-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2269-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2269-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2269-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cominella prolongata",
+            "taxonAuthor": "E. A. Smith, 1899"
+        },
+        {
+            "taxonLatname": "Fusus ocellifer",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Fusus crenulatus",
+            "taxonAuthor": "G. B. Sowerby II, 1880"
+        },
+        {
+            "taxonLatname": "Fusus verruculatus",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Fusus ocelliferus",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Fusinus ocelliferus",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Africofusus ocellifer",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Fusinus ocellifer",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Fusus rudolphi",
+            "taxonAuthor": "Dunker, 1871"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

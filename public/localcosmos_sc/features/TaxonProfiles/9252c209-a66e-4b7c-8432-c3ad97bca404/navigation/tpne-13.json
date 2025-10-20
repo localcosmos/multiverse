@@ -1,0 +1,236 @@
+{
+    "name": "Bristle worms",
+    "description": null,
+    "verboseName": "Bristle worms",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-679-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-679-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-679-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-683-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-683-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-683-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-689-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-689-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-689-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 4,
+            "minImages": 3,
+            "modeImages": 4
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-16",
+            "parentKey": "tpne-13",
+            "name": "Sedentary bristleworms",
+            "verboseName": "Sedentary bristleworms",
+            "taxa": [
+                {
+                    "taxonLatname": "Sedentaria",
+                    "taxonAuthor": "Lamarck, 1818",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a08ca099-9697-463f-9a36-3779a96aade1",
+                    "taxonNuid": "001002002052"
+                },
+                {
+                    "taxonLatname": "Spirobis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "4281d38c-e11d-4382-8f93-7dc31e174c72",
+                    "taxonNuid": "00100c002003001"
+                },
+                {
+                    "taxonLatname": "Euclymene",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "5ea87e2e-2619-48b0-8736-fdd784d8828d",
+                    "taxonNuid": "00100c002004001"
+                },
+                {
+                    "taxonLatname": "Nicomache",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "e484f29c-f52e-4c13-ade1-dc78f3424ded",
+                    "taxonNuid": "00100c002004002"
+                },
+                {
+                    "taxonLatname": "Pherusa",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "a6a2a358-bae2-40e3-a2ec-c0e7325e48c8",
+                    "taxonNuid": "00100c002006001"
+                },
+                {
+                    "taxonLatname": "Thelepus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "0af1537c-1a09-4850-a102-b63c3d053321",
+                    "taxonNuid": "00100c002006002"
+                },
+                {
+                    "taxonLatname": "Spionida",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "ce528837-fefc-4786-9e7e-4db1d6befc7f",
+                    "taxonNuid": "00100c002005"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-684-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-684-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-684-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1073-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1073-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1073-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1074-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1074-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1074-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-692-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-692-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-692-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-684-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-684-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-684-1000.webp"
+                }
+            },
+            "slug": "sedentary-bristleworms"
+        },
+        {
+            "key": "tpne-15",
+            "parentKey": "tpne-13",
+            "name": "Free-living bristleworms",
+            "verboseName": "Free-living bristleworms",
+            "taxa": [
+                {
+                    "taxonLatname": "Errantia",
+                    "taxonAuthor": "Audouin & H Milne Edwards, 1832",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "ed617802-52a4-496b-bb65-bc6b1b4bfd9f",
+                    "taxonNuid": "001002002015"
+                },
+                {
+                    "taxonLatname": "Malmgreniella",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "dfef3688-1a2c-448b-9e73-b71ddd0767f8",
+                    "taxonNuid": "00100c002002001"
+                },
+                {
+                    "taxonLatname": "Nephthys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "9152a055-1864-4cd1-9f51-5f7b1ac885e3",
+                    "taxonNuid": "00100c002002002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-680-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-680-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-680-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-690-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-690-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-690-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-691-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-691-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-691-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-680-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-680-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-680-1000.webp"
+                }
+            },
+            "slug": "free-living-bristleworms"
+        }
+    ],
+    "taxonProfiles": []
+}

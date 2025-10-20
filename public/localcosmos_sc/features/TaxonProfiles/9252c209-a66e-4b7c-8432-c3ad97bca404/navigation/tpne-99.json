@@ -1,0 +1,764 @@
+{
+    "name": "Hexacorallia: Anemones, hard corals & zoanthids",
+    "description": null,
+    "verboseName": "Hexacorallia: Anemones, hard corals & zoanthids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-827-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-827-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-827-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-829-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-829-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-829-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-830-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-830-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-830-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Anthostella stephensoni",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e4315def-33a7-4d27-ad82-e57f4cb404d9",
+            "taxonNuid": "00100800100300100a001001008002",
+            "slug": "anthostella-stephensoni",
+            "localizedSlug": {
+                "en": "violet-spotted-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-449-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-449-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-449-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-449-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-449-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-449-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Anthothoe stimpsonii",
+            "taxonAuthor": "(Verrill, 1869)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "350460bf-8d56-4836-a5b8-20622a4a5f6a",
+            "taxonNuid": "00100800100300100a00300q00200b",
+            "slug": "anthothoe-stimpsonii",
+            "localizedSlug": {
+                "en": "striped-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-451-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-451-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-451-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-450-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-450-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-450-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-451-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-451-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-451-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Bunodactis reynaudi",
+            "taxonAuthor": "(Milne Edwards, 1857)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1ec57bda-166e-4fea-8d5b-29dbdff1fa6c",
+            "taxonNuid": "00100800100300100a00100100d00j",
+            "slug": "bunodactis-reynaudi",
+            "localizedSlug": {
+                "en": "sandy-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-474-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-474-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-474-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-475-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-475-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-475-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-474-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-474-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-474-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Bunodosoma capense",
+            "taxonAuthor": "(Lesson, 1830)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "04ca8a7e-3785-4959-aa0f-fda6e386f20a",
+            "taxonNuid": "00100800100300100a00100100e004",
+            "slug": "bunodosoma-capense",
+            "localizedSlug": {
+                "en": "knobbly-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-476-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-476-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-476-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-476-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-476-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-476-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ceriantheopsis austroafricanus",
+            "taxonAuthor": "Molodtsova, Griffiths & Acuña, 2011",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a41e9c92-f010-4a1d-b0a8-74ef436a02de",
+            "taxonNuid": "001008001001002002005002",
+            "slug": "ceriantheopsis-austroafricanus",
+            "localizedSlug": {
+                "en": "tube-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-492-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-492-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-492-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-492-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-492-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-492-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Corynactis annulata",
+            "taxonAuthor": "(Verrill, 1867)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b9568a9f-d1d3-4b7a-ba9b-4bf619160e03",
+            "taxonNuid": "001008001003003001002001",
+            "slug": "corynactis-annulata",
+            "localizedSlug": {
+                "en": "strawberry-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-501-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-501-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-501-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-501-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-501-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-501-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Halcampa capensis",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ca68c75c-0440-4505-a9ac-8864802edca8",
+            "taxonNuid": "00100800100300100a00300e002003",
+            "slug": "halcampa-capensis",
+            "localizedSlug": {
+                "en": "12-tentacle-sand-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-537-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-537-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-537-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-537-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-537-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-537-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Halianthella annularis",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9073cc50-22e5-4299-a525-ce66814e5ef9",
+            "taxonNuid": "00100800100300100a00300e004001",
+            "slug": "halianthella-annularis",
+            "localizedSlug": {
+                "en": "brooding-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-538-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-538-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-538-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-538-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-538-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-538-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Isanthus capensis",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b5fc9f84-85ee-4c8f-a9bc-6ef20b618d2b",
+            "taxonNuid": "00100800100300100a00300i006001",
+            "slug": "isanthus-capensis",
+            "localizedSlug": {
+                "en": "ring-tentacle-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-549-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-549-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-549-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-549-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-549-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-549-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Korsaranthus natalensis",
+            "taxonAuthor": "(Carlgren, 1938)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "24ea0608-cc29-4578-abc0-43d564515f66",
+            "taxonNuid": "00100800100300100a00100100w001",
+            "slug": "korsaranthus-natalensis",
+            "localizedSlug": {
+                "en": "candy-striped-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-555-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-555-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-555-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-555-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-555-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-555-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Parazoanthus capensis",
+            "taxonAuthor": "Duerden, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "65074dfc-6f14-45cf-a6e0-a9cb2e54c899",
+            "taxonNuid": "00100800100300500300500c007",
+            "slug": "parazoanthus-capensis",
+            "localizedSlug": {
+                "en": "sponge-zoanthid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-614-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-614-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-614-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-614-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-614-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-614-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Preactis millardae",
+            "taxonAuthor": "England in England & Robson, 1984",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "535fbcc0-2637-444d-9c16-8f7944acd6bb",
+            "taxonNuid": "00100800100300100a00100h002001",
+            "slug": "preactis-millardae",
+            "localizedSlug": {
+                "en": "walking-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-636-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-636-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-636-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-636-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-636-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-636-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudactinia flagellifera",
+            "taxonAuthor": "(Drayton in Dana, 1846)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "19bf0837-244d-4ec8-aadd-51a274d8bf4e",
+            "taxonNuid": "00100800100300100a00100101f001",
+            "slug": "pseudactinia-flagellifera",
+            "localizedSlug": {
+                "en": "false-plum-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-637-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-637-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-637-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-637-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-637-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-637-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudactinia varia",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b2b80d9d-b444-4cb3-9639-584602b8d537",
+            "taxonNuid": "00100800100300100a00100101f004",
+            "slug": "pseudactinia-varia",
+            "localizedSlug": {
+                "en": "apricot-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-638-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-638-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-638-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-638-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-638-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-638-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Isozoanthus capensis",
+            "taxonAuthor": "Carlgren, 1938",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ce64155a-8766-4e25-a9f6-ff37cce26fbc",
+            "taxonNuid": "001008001003005003005007006",
+            "slug": "isozoanthus-capensis",
+            "localizedSlug": {
+                "en": "cape-zoanthid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-552-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-552-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-552-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-552-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-552-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-552-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Actinia ebhayiensis",
+            "taxonAuthor": "Schama, Mitchell & Solé-Cava, 2011",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f3704f8b-4b92-4adc-8457-62357af0c218",
+            "taxonNuid": "00100800100300100a00100100100r",
+            "slug": "actinia-ebhayiensis",
+            "localizedSlug": {
+                "en": "plum-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-438-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-438-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-438-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-438-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-438-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-438-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Anthostella sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "20e1b2bb-11ff-4fa7-9535-ded5e7ed1060",
+            "taxonNuid": "001004001001001",
+            "slug": "anthostella-sp",
+            "localizedSlug": {
+                "en": "dwarf-spotted-anemone"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-704-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-704-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-704-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-704-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-704-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-704-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Balanophyllia spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3a8046f8-d349-48f8-8067-43cad4f9cee9",
+            "taxonNuid": "001004004001001001",
+            "slug": "balanophyllia-spp",
+            "localizedSlug": {
+                "en": "cup-corals"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-849-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-849-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-849-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-744-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-744-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-744-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-743-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-743-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-743-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-849-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-849-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-849-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caryophyllia spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "a6f628ee-8480-4cfe-99b5-7a9f9177d86a",
+            "taxonNuid": "001004004001002001",
+            "slug": "caryophyllia-spp",
+            "localizedSlug": {
+                "en": "tusk-cup-corals"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-745-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-745-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-745-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-746-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-746-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-746-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-745-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-745-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-745-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Anthopleura michaelseni",
+            "taxonAuthor": "(Pax, 1920)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d9d042a1-5ff2-441f-924b-4bccc3196995",
+            "taxonNuid": "00100800100300100a00100100700w",
+            "slug": "anthopleura-michaelseni",
+            "localizedSlug": {
+                "en": "crevice-anemone"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-448-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-448-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-448-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-448-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-448-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-448-1000.webp"
+                }
+            }
+        }
+    ]
+}

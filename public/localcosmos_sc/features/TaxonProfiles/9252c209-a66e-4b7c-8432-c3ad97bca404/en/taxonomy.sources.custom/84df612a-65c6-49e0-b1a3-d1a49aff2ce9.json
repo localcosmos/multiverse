@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Lophyra spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "84df612a-65c6-49e0-b1a3-d1a49aff2ce9",
+    "taxonNuid": "001003002001005001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-733-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-733-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-733-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 599,
+    "vernacular": {
+        "en": "Leopard tiger beetles"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Leopard tiger beetles",
+            "Lophyra spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Striking beetles with slightly-flattened bodies, long legs, prominent eyes and large, curved scimitar-like mandibles. The metallic coloured thorax is fringed by white setae and the elytra are yellowish with characteristic complex patterns of black markings.</p><p>There are over 20 similar species in the region, distinguished mostly by subtle differences in the pattern of black lines or blotches on the elytra, so the genus is treated here as a group and species level identification is not attempted.</p>",
+            "shortTextKey": "taxon_text_1_5925",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Adults about 10-12 mm, depending on species.</p>",
+            "shortTextKey": "taxon_text_2_5926",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Genus widespread across Africa, Asia and Europe.</p><p><u>Local/Regional:</u> Entire region, both inland and along coast.</p>",
+            "shortTextKey": "taxon_text_3_5927",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in sandy areas, both inland and along the seashore. Active in heat of the day and appear to be seasonal, being seen mostly in summer. Run rapidly and if disturbed tends to fly close to the ground for a short distance and then settle again. Active predators pouncing on other insects and grasping them with their sharp mandibles.</p><p>The larvae are also predatory and occupy vertical burrows in the sand with the head positioned level with the surface. They lunge out to grasp passing prey with their large mandibles and then pull them back into the burrow.</p>",
+            "shortTextKey": "taxon_text_4_5928",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All species are predatory on other insects and those found on the shore adjacent to kelp beds appear to target mainly kelp flies.</p>",
+            "shortTextKey": "taxon_text_5_5929",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The elongated larvae live in vertical burrows excavated in the sand and also have large mandibles with which to predate other invertebrates. They have unusually long lives, some species taking 1-3 years to complete their larval development.</p>",
+            "shortTextKey": "taxon_text_6_5930",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are about 150 regional species in this family, some other genera also having black and yellow markings, but most species found on the seashore belong to this genus. The plain yellow Night tiger beetle also occurs in the intertidal along the west coast, but is strictly nocturnal.</p>",
+            "shortTextKey": "taxon_text_7_5931",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Picker, MD, Griffiths, CL & Weaving, A (2019). Field Guide to Insects of South Africa. Third Edition. Struik Nature, Cape Town, 527 pp. (p. 230)",
+            "shortTextKey": "taxon_text_8_5932",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-733-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-733-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-733-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-733-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-733-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-733-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

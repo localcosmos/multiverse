@@ -1,0 +1,464 @@
+{
+    "taxonLatname": "Charonia lampas",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f578132e-9dde-4690-9a55-e82e6fa9c319",
+    "taxonNuid": "00100k00700300c00c003001002",
+    "gbifNubkey": 5724924,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2250-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2250-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2250-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 254,
+    "vernacular": {
+        "en": "Pink lady"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pink lady",
+            "knobbed triton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>The largest whelk in the region, reaching an impressive 290 mm. Shell heavy, with moderately long spire, but short siphonal canal. Each whorl with flattened spiral ridges and a row of low nodules. Positions of previous apertures marked by transverse ridges spaced more than a half-turn apart. Aperture with thick outer lip marked with a series of brown transverse bars, inner lip pinkish with wrinkles. External colour pale brown with darker flames. In live animal foot mottled red-brown and tentacles orange with transverse black bars. Operculum elongate-oval, thick and horny.</p>",
+            "shortTextKey": "taxon_text_1_2356",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 290 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2357",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Very widely distributed including Europe, west coast of Africa, South Africa, Madagascar, Indian Ocean, Australia and New Zealand.</p><p><u>Local/Regional:</u> False Bay to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_2358",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common from low intertidal to a depth of at least 100 m and usually found singly. Predatory, feeding on holothurians, sea urchins and starfish.</p><p>The wide global distribution of the species and regional differences in shape, ornamentation, colour and adult size suggest that several species may be currently included under this one name.</p>",
+            "shortTextKey": "taxon_text_4_2359",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on echinoderms, including holothurians, urchins and starfish. A toxin is used to anaesthetize the prey.</p>",
+            "shortTextKey": "taxon_text_5_2360",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Egg cases are more or less cylindrical with a ridge up each side and are reddish in colour. They are laid in groups of 90-120. Each egg capsule contains 300-2000 eggs, which hatch after 1-4 months, emerging through an exit pore at the top of the case as planktonic larvae.</p>",
+            "shortTextKey": "taxon_text_6_2361",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large size and ornamentation of the aperture are distinctive. Could be confused with the similarly-shaped <i>Ranella gemmifera,</i> but that species only reaches 110 mm.</p>",
+            "shortTextKey": "taxon_text_7_2362",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 190).<br><br>Herbert, DG & Jones, GJ (2018). Phylum Mollusca In: Atkinson LJ and Sink KJ (eds) Field Guide to the Offshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 249-320 (p. 265).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 73).",
+            "shortTextKey": "taxon_text_8_2363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2250-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2250-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2250-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2250-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2250-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2250-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-77-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-77-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-77-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2367-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2367-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2367-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1218-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1218-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1218-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1219-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1219-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1219-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Triton ranelliforme",
+            "taxonAuthor": "Sismonda, 1847"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. propeficarezzense",
+            "taxonAuthor": "De Gregorio, 1885"
+        },
+        {
+            "taxonLatname": "Septa rubicunda",
+            "taxonAuthor": "G. Perry, 1811"
+        },
+        {
+            "taxonLatname": "Charonia euclia instructa",
+            "taxonAuthor": "Iredale, 1929"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. ficarazzensis",
+            "taxonAuthor": "De Gregorio, 1884"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. labroplita",
+            "taxonAuthor": "De Gregorio, 1884"
+        },
+        {
+            "taxonLatname": "Charonia euclia",
+            "taxonAuthor": "Hedley, 1914"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides",
+            "taxonAuthor": "(Brocchi, 1814)"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. imperans",
+            "taxonAuthor": "De Gregorio, 1884"
+        },
+        {
+            "taxonLatname": "Murex gyrinoides",
+            "taxonAuthor": "Brocchi, 1814"
+        },
+        {
+            "taxonLatname": "Charonia capax",
+            "taxonAuthor": "H. J. Finlay, 1926"
+        },
+        {
+            "taxonLatname": "Nyctilochus alfredensis",
+            "taxonAuthor": "Bartsch, 1915"
+        },
+        {
+            "taxonLatname": "Septa englishi",
+            "taxonAuthor": "R. B. Newton, 1905"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. cochleosocia",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia lampas weisbordi",
+            "taxonAuthor": "J. Gibson-Smith, 1976"
+        },
+        {
+            "taxonLatname": "Triton australe",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. verrucosum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia lampas lampas",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Charonia lampas sauliae",
+            "taxonAuthor": "(Reeve, 1844)"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. bicanaliculatum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton subcolubrinum",
+            "taxonAuthor": "d'Orbigny, 1852"
+        },
+        {
+            "taxonLatname": "Charonia lampas pustulata",
+            "taxonAuthor": "(Euthyme, 1889)"
+        },
+        {
+            "taxonLatname": "Tritonium glabrum",
+            "taxonAuthor": "Locard, 1886"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. carinata",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. scalaratum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. latespiratum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Tritonium pustulata",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Murex nerei",
+            "taxonAuthor": "Dillwyn, 1817"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. intermedium",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. transeuns",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia pustulata",
+            "taxonAuthor": "(Euthyme, 1889)"
+        },
+        {
+            "taxonLatname": "Charonia powelli",
+            "taxonAuthor": "Cotton, 1957"
+        },
+        {
+            "taxonLatname": "Charonia capax euclioides",
+            "taxonAuthor": "H. J. Finlay, 1926"
+        },
+        {
+            "taxonLatname": "Tritonium solitarium",
+            "taxonAuthor": "Beyrich, 1856"
+        },
+        {
+            "taxonLatname": "Charonia nodifera var. euclia",
+            "taxonAuthor": "Hedley, 1914"
+        },
+        {
+            "taxonLatname": "Simpulum nodiferum var. minima",
+            "taxonAuthor": "Pallary, 1900"
+        },
+        {
+            "taxonLatname": "Tritonium pustulatum var. varicosum",
+            "taxonAuthor": "Euthyme, 1889"
+        },
+        {
+            "taxonLatname": "Eutritonium salbriacense",
+            "taxonAuthor": "Cossmann & Peyrot, 1924"
+        },
+        {
+            "taxonLatname": "Triton pliniaea",
+            "taxonAuthor": "Mayer, 1873"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. minusverrucosum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia crassa",
+            "taxonAuthor": "(Grateloup, 1847)"
+        },
+        {
+            "taxonLatname": "Charonia nodifera",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Tritonium partschii",
+            "taxonAuthor": "M. Hörnes, 1848"
+        },
+        {
+            "taxonLatname": "Charonia mirabilis",
+            "taxonAuthor": "Parenzan, 1970"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. singilla",
+            "taxonAuthor": "De Gregorio, 1884"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. naniusculum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia rubicunda",
+            "taxonAuthor": "(Perry, 1811)"
+        },
+        {
+            "taxonLatname": "Triton nodiferum var. glabra",
+            "taxonAuthor": "Weinkauff, 1868"
+        },
+        {
+            "taxonLatname": "Triton ventricosum",
+            "taxonAuthor": "Grateloup, 1833"
+        },
+        {
+            "taxonLatname": "Eutritonium lampas",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Murex lampas",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Triton nodiferum",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Charonia sauliae macilenta",
+            "taxonAuthor": "Kuroda & Habe, 1961"
+        },
+        {
+            "taxonLatname": "Eutritonium (Sassia) aperturale",
+            "taxonAuthor": "Cossmann & Peyrot, 1924"
+        },
+        {
+            "taxonLatname": "Tritonium opis",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Ranella lampas",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Triton sauliae",
+            "taxonAuthor": "Reeve, 1844"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. inflectilabrum",
+            "taxonAuthor": "De Gregorio, 1884"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. subnormalis",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Tritonium pustulatum",
+            "taxonAuthor": "Euthyme, 1889"
+        },
+        {
+            "taxonLatname": "Triton (Semiranella) valrovinensis",
+            "taxonAuthor": "De Gregorio, 1894"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. callosum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. diramatum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. flabellatum",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides var. normalis",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Tritonium pustulatum var. minor",
+            "taxonAuthor": "Euthyme, 1889"
+        },
+        {
+            "taxonLatname": "Simpulum nodiferum",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Tritonium mediterraneum",
+            "taxonAuthor": "Risso, 1826"
+        },
+        {
+            "taxonLatname": "Triton crassum",
+            "taxonAuthor": "Grateloup, 1847"
+        },
+        {
+            "taxonLatname": "Simpulum nodiferum var. major",
+            "taxonAuthor": "Pallary, 1900"
+        },
+        {
+            "taxonLatname": "Triton gyrinoides f. pellegrinense",
+            "taxonAuthor": "De Gregorio, 1893"
+        },
+        {
+            "taxonLatname": "Charonia sauliae",
+            "taxonAuthor": "(Reeve, 1844)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

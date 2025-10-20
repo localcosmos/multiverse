@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Solanderia procumbens",
+    "taxonAuthor": "(Carter, 1873)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c7b3bddc-a78e-4d42-b4d7-7c1f980edc56",
+    "taxonNuid": "00100800300100100300e001006",
+    "gbifNubkey": 5185567,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-332-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-332-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-332-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 488,
+    "vernacular": {
+        "en": "Grey sea-fan hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Grey sea-fan hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large fan-like species, often mistaken for a sea-fan (Gorgonacea). The erect colony has an internal chitinous skeleton and is fairly regularly branched in a single plane, to form a fan-like structure up to 400 mm tall. Main stem thick and flattened, but smaller branches rounded in cross-section and grey or yellow-brown in colour. The small polyps are housed within bracket-shaped projections (hydrophores) extending from the sides of the stems, are elongate and bear scattered tentacles irregularly over the body. When preserved they are knob-like, but in life presumably elongate. Reproductive individuals are small and spherical.</p>",
+            "shortTextKey": "taxon_text_1_4690",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colony up to 400 mm tall and with a span of 300 mm.</p>",
+            "shortTextKey": "taxon_text_2_4691",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> West coast of Cape Peninsula to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_4692",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Unusual appearance for a hydroid and looks much more like a sea-fan. Found on rocky reefs from about 12-130 m depth and extends from the rock face out into the water to intercept the dominant current.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4693",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on small particles and planktonic organisms in the water.</p>",
+            "shortTextKey": "taxon_text_5_4694",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Male and female reproductive individuals (gonozooids) borne on different colonies, but male and females individuals look similar. Free-living stages have not been observed.</p>",
+            "shortTextKey": "taxon_text_6_4695",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly unique among regional hydroids due to the stiff, branching, fan-like structure and this is the only such species in the Western Cape (one other species in the genus known form Mozambique). Often mistaken for a sea-fan (Gorgonacean), but the polyps are quite different – those of seafans having a ring of 8 elongate tentacles rather than elongate form with scattered tentacles found in <i>Solandaria</i> species.</p>",
+            "shortTextKey": "taxon_text_7_4696",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 56).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 59).",
+            "shortTextKey": "taxon_text_8_4697",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-332-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-332-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-332-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-332-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-332-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-332-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ceratella procumbens",
+            "taxonAuthor": "Carter, 1873"
+        },
+        {
+            "taxonLatname": "Ceratella spinosa",
+            "taxonAuthor": "Carter, 1873"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

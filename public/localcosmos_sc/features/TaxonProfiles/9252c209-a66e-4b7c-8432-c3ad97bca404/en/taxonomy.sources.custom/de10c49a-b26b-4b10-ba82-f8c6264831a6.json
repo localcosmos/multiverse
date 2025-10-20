@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Petalonia binghamiae (J. Agardh)",
+    "taxonAuthor": "K.L. Vinagradova, 1973",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "de10c49a-b26b-4b10-ba82-f8c6264831a6",
+    "taxonNuid": "00300100i001",
+    "gbifNubkey": 3197869,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1033-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1033-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1033-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 705,
+    "vernacular": {
+        "en": "Petalonia"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Petalonia"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Endarachne binghamiae</i></p>",
+            "shortTextKey": "taxon_text_9_6916",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms a group of flattened, tapering, strap-like blades emerging from a single, discoid holdfast. The blades are thicker at the centre and thinner towards the edges and are fairly thin but opaque and medium brown in colour.</p>",
+            "shortTextKey": "taxon_text_1_6917",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades typically about 100-200 mm long and up to about 20 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_6918",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread but scattered records in warm-temperate seas.</p><p><u>Local/Regional:</u><i> </i>False Bay to KwaZulu-Natal. Also reported from Namibia.</p>",
+            "shortTextKey": "taxon_text_3_6919",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Typically found attached to rocks in rockpools, growing to a larger size in the lower shore.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_6920",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6921",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sporangia found across large areas of the blade surface and on both sides.</p>",
+            "shortTextKey": "taxon_text_6_6922",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The almost identical <i>P. fascia</i> is found mainly along the west coast and, apart from this difference in distribution range, can only really be distinguished anatomically by examining internal structure of the blades.</p>",
+            "shortTextKey": "taxon_text_7_6923",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 384).",
+            "shortTextKey": "taxon_text_8_6924",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1033-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1033-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1033-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1033-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1033-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1033-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

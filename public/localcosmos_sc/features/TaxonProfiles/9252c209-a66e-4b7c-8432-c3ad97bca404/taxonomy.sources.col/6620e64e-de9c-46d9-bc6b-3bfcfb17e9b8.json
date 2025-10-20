@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Hatschekia conifera",
+    "taxonAuthor": "Yamaguti, 1939",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6620e64e-de9c-46d9-bc6b-3bfcfb17e9b8",
+    "taxonNuid": "00100300600e00200800l00400v",
+    "gbifNubkey": 4328423,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-540-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-540-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-540-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 81,
+    "vernacular": {
+        "en": "Copepod gill parasite"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Copepod gill parasite"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Other names: <i>Hatschekia acuta</i> (synonym)</p>",
+            "shortTextKey": "taxon_text_9_657",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small parasitic copepods found attached to the gills of fishes. The thorax is oval and the trunk elongated and oval, with no distinct separation between trunk and abdomen, the trunk just ending in a pair of small uropods. Two elongate eggs strings may also be present in females.</p>",
+            "shortTextKey": "taxon_text_1_658",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body about 2-5 mm with egg strings another 3 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_659",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Reported from Japan, Chile, South Africa, Western Indian Ocean and New Zealand.</p><p><u>Local/Regional:</u> Around entire South African coast.</p>",
+            "shortTextKey": "taxon_text_3_660",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>All members of this diverse genus are gill parasites on a variety of fish. This species occurs on snoek and on angelfish.</p>",
+            "shortTextKey": "taxon_text_4_661",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on mucus as well as on gill tissue of host fish.</p>",
+            "shortTextKey": "taxon_text_5_662",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The eggs are produced in long strings hanging from the abdomen of females. These hatch into swimming larvae which seek out new host fish.</p>",
+            "shortTextKey": "taxon_text_6_663",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of more than 70 species in this genus but the only one found in South Africa.</p>",
+            "shortTextKey": "taxon_text_7_664",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Cressey, RF (1968). A redescription of <i>Hatschekia conifera</i>, Yamaguti 1939, (Copepoda, Caligoida), including the first description of the male. <i>Proceedings of the Biological Society of Washington</i>, 81, 173–178.<br><br>Jones, JB (1985). A revision of <i>Hatschekia</i> Poche, 1902 (Copepoda: Hatschekiidae), parasitic on marine fishes. <i>New Zealand Journal of Zoology</i>, 12(2), 213-271.<br><br>Oldewage, WH (1993). Morphological variation in <i>Hatschekia conifera</i> Yamaguti, 1939 (Copepoda, Siphonostomatoida) from the Southern Atlantic ocean. <i>Crustaceana</i>, 65 (1), 41-45.",
+            "shortTextKey": "taxon_text_8_665",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-540-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-540-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-540-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-540-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-540-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-540-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Hatschekia conifer",
+            "taxonAuthor": "Cressey, 1970"
+        },
+        {
+            "taxonLatname": "Hatschekia acuta",
+            "taxonAuthor": "Barnard, 1948"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,57 @@
+{
+    "taxonLatname": "Pinus hartwegii",
+    "taxonAuthor": "Roezl",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3abf9848-60d6-445b-b406-2634a8440bd7",
+    "taxonNuid": "006008007001005008014",
+    "gbifNubkey": 5285141,
+    "image": null,
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 23,
+    "vernacular": {
+        "de": "Kiefer Syno"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Kiefer Syno"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Radsia nigrovirescens",
+    "taxonAuthor": "(Blainville, 1825)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e20cb5f3-8014-49ef-8e97-cd9e015aca2a",
+    "taxonNuid": "00100k00g003002002001003002004002",
+    "gbifNubkey": 4370541,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-775-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-775-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-775-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 630,
+    "vernacular": {
+        "en": "Brooding chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Brooding chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Chitons have eight dorsal shell plates surrounded by a soft fleshy girdle. This species is readily identified by the smooth and large girdle scales and the girdle colour with banded black and brown. Shell plates almost rectangular. Texture of shell with radial riblets on most areas and central areas smooth or finely threaded.. Articulamentum with rounded anterior extensions. Colour black, girdle brown with black stripes.</p>",
+            "shortTextKey": "taxon_text_1_6235",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small/medium, typically around 10-20 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6236",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> West Coast of South Africa up to Namibia.</p><p><u>Local/Regional:</u> Namibia to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_6237",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Under rocks and damp crevices in the mid-intertidal zone. Usually clustered together, mostly under rocks but have also often been seen on open surfaces of the intertidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6238",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6239",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization but in the pallial fold of the animal. Eggs hatch into juveniles brooded in the fold until big enough to be released.</p>",
+            "shortTextKey": "taxon_text_6_6240",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Very common and the only species in this genus to the region. Unmistakable dark appearance and striped girdle. Also characteristic are the brooded eggs or young chitons underneath the adults.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6241",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Blainville, HMD de (1825). Oscabrion, Chiton, pp. 519-555, in: Dictionnaire des Sciences Naturelles (F. Cuvier, ed.), vol. 36. Levrault, Strasbourg & Paris, & Le Normant, Paris. (p. 538).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 160).",
+            "shortTextKey": "taxon_text_8_6242",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-775-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-775-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-775-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-775-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-775-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-775-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chiton (Chiton) nigrovirescens",
+            "taxonAuthor": "Blainville, 1825"
+        },
+        {
+            "taxonLatname": "Chiton (Sypharochiton) nigrovirens",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Chiton capensis",
+            "taxonAuthor": "Gray, 1828"
+        },
+        {
+            "taxonLatname": "Chiton nigrovirescens",
+            "taxonAuthor": "Blainville, 1825"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

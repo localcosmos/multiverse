@@ -1,0 +1,77 @@
+{
+    "name": "Phoronids (horseshoe worms)",
+    "description": null,
+    "verboseName": "Phoronids (horseshoe worms)",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2448-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2448-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2448-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 2,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Phoronopsis albomaculata",
+            "taxonAuthor": "Gilchrist, 1907",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7556a1c2-7b5d-4fb6-93cf-b4386e6a29c0",
+            "taxonNuid": "00100q003001",
+            "slug": "phoronopsis-albomaculata",
+            "localizedSlug": {
+                "en": "gilchrists-phoronid"
+            },
+            "images": [
+                {
+                    "text": "<p>redrawn from Gilchrist (1907)</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2445-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2445-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2445-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p><i>Phoronis hippocrepia </i>redrawn from Gilchrist (1907)&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2446-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2446-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2446-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "<p>redrawn from Gilchrist (1907)</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2445-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2445-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2445-1000.webp"
+                }
+            }
+        }
+    ]
+}

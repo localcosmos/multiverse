@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Tricolia neritina",
+    "taxonAuthor": "(Dunker, 1846)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "16e2e05f-e4f1-4883-bb40-20fb54a53b91",
+    "taxonNuid": "00100k00700v00700100i00500100r",
+    "gbifNubkey": 4358454,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-156-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-156-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-156-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 326,
+    "vernacular": {
+        "en": "Stripy pheasant shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Stripy pheasant shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell small, smooth, glossy and very short-spired, with a large aperture. Colour pattern distinctive, comprising numerous thin spiral lines over a paler background and with a few white or yellow spots just below the suture. In live specimens shell colour is cream with dark purple to black lines, but these lines fade to become red or pink in dead shells (which are what is depicted in most guides!). Interior of shell pearly white, foot decorated with narrow dark lines. Operculum white and calcareous.</p>",
+            "shortTextKey": "taxon_text_1_3066",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell &nbsp;up to 5 mm long.</p>",
+            "shortTextKey": "taxon_text_2_3067",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Port Alfred.</p>",
+            "shortTextKey": "taxon_text_3_3068",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Small but fairly common among seaweeds or under boulders. Little else is know about the biology of this species<i>.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_4_3069",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on surface tissues of algae and on diatoms and detritus found on algal and rock surfaces.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_3070",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate in this family and eggs are shed singly into the water, each enclosed in a gelatinous capsule. They hatch into pelagic larvae which settle within a few days.</p>",
+            "shortTextKey": "taxon_text_6_3071",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly distinctive species by virtue of its very short spire, enlarged aperture and dense pattern of spiral stripes. Most guides depict the dead shell, which has bright pink stripes, and this can cause confusion when observing live animals, which have much darker purple to black stipes on the shell!</p>",
+            "shortTextKey": "taxon_text_7_3072",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 180).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 47).<br><br>Nangammbi, TC, Herbert, DG & Teske, PR (2016). Molecular insights into species recognition within southern Africa's endemic <i>Tricolia</i> radiation (Vetigastropoda: Phasianellidae). <i>Journal of Molluscan Studies</i>, 82(1), 97-103.",
+            "shortTextKey": "taxon_text_8_3073",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-156-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-156-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-156-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-156-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-156-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-156-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gena lineata",
+            "taxonAuthor": "A. Adams, 1850"
+        },
+        {
+            "taxonLatname": "Phasianella neritina",
+            "taxonAuthor": "Dunker, 1846"
+        },
+        {
+            "taxonLatname": "Chromotis neritina",
+            "taxonAuthor": "(Dunker, 1846)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

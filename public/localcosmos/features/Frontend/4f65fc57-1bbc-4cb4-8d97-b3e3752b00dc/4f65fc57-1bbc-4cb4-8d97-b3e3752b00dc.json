@@ -1,0 +1,80 @@
+{
+    "uuid": "4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc",
+    "version": 10,
+    "options": {},
+    "globalOptions": {},
+    "name": "Frontend",
+    "slug": "24-frontend",
+    "userContent": {
+        "texts": {
+            "termsOfUse": "<p>terms of use</p>",
+            "legalNotice": "<p>legal notice</p>",
+            "privacyPolicy": "<p>privacy policy</p>"
+        },
+        "images": {
+            "appLauncherIcon": {
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appLauncherIcon-91.svg",
+                    "2x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appLauncherIcon-91.svg",
+                    "4x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appLauncherIcon-91.svg",
+                    "8x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appLauncherIcon-91.svg"
+                },
+                "licence": {
+                    "licence": "CC0",
+                    "licenceVersion": "1.0",
+                    "creatorName": "Thomas Uher",
+                    "creatorLink": "",
+                    "sourceLink": ""
+                }
+            },
+            "appSplashscreen": {
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appSplashscreen-92.svg",
+                    "2x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appSplashscreen-92.svg",
+                    "4x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appSplashscreen-92.svg",
+                    "8x": "/localcosmos/user_content/frontend/images/MultiverseBeta__appSplashscreen-92.svg"
+                },
+                "licence": {
+                    "licence": "CC0",
+                    "licenceVersion": "1.0",
+                    "creatorName": "Thomas Uher",
+                    "creatorLink": "",
+                    "sourceLink": ""
+                }
+            },
+            "logo": {
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/frontend/images/MultiverseBeta__logo-93.svg",
+                    "2x": "/localcosmos/user_content/frontend/images/MultiverseBeta__logo-93.svg",
+                    "4x": "/localcosmos/user_content/frontend/images/MultiverseBeta__logo-93.svg",
+                    "8x": "/localcosmos/user_content/frontend/images/MultiverseBeta__logo-93.svg"
+                },
+                "licence": {
+                    "licence": "CC0",
+                    "licenceVersion": "1.0",
+                    "creatorName": "Thomas Uher",
+                    "creatorLink": "",
+                    "sourceLink": ""
+                }
+            },
+            "favicon": {
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/frontend/images/MultiverseBeta__favicon-94-250.webp",
+                    "2x": "/localcosmos/user_content/frontend/images/MultiverseBeta__favicon-94-500.webp",
+                    "4x": "/localcosmos/user_content/frontend/images/MultiverseBeta__favicon-94-1000.webp",
+                    "8x": "/localcosmos/user_content/frontend/images/MultiverseBeta__favicon-94-2000.webp"
+                },
+                "licence": {
+                    "licence": "CC0",
+                    "licenceVersion": "1.0",
+                    "creatorName": "Thomas Uher",
+                    "creatorLink": "",
+                    "sourceLink": ""
+                }
+            }
+        },
+        "configuration": {
+            "supportEmail": "thomas.uher@code-for-nature.com"
+        }
+    }
+}

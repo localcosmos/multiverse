@@ -1,0 +1,38 @@
+{
+    "title": "Stories",
+    "templateName": "Collection",
+    "templatePath": "/template_content/page/text/text.html",
+    "version": 1,
+    "contents": {
+        "description": "Here you can find stories about the Great African Seaforest.",
+        "articlePreview": [
+            {
+                "uuid": "7fdb095a-a0a4-4db3-b0a0-1ffffbb15afc",
+                "article": {
+                    "pk": "3",
+                    "url": "/pages/story/whats-your-name/",
+                    "slug": "whats-your-name",
+                    "title": "From Patchwork to Simon’s Town: A Cuttlefish Discovery",
+                    "templateName": "story"
+                },
+                "abstract": "While working on the 1001 Seaforest Species project, I discovered that a familiar cuttlefish in the kelp forest had long been misidentified. An otter’s leftovers revealed the truth: it was the Simon’s Town cuttlefish, not the Patchwork cuttlefish. A reminder that names matter in knowing and protecting nature.",
+                "linkName": "Simon's Town cuttlefish",
+                "image": {
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/published-articlePreview:7fdb095a-a0a4-4db3-b0a0-1ffffbb15afc:image-15-s-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/published-articlePreview:7fdb095a-a0a4-4db3-b0a0-1ffffbb15afc:image-15-s-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/published-articlePreview:7fdb095a-a0a4-4db3-b0a0-1ffffbb15afc:image-15-s-1000.webp",
+                        "8x": "/localcosmos/user_content/content_images/published-articlePreview:7fdb095a-a0a4-4db3-b0a0-1ffffbb15afc:image-15-s-2000.webp"
+                    },
+                    "licence": {
+                        "licence": "All Rights Reserved",
+                        "licenceVersion": "1.0",
+                        "creatorName": "Jannes Landschoff",
+                        "creatorLink": "",
+                        "sourceLink": ""
+                    }
+                }
+            }
+        ]
+    }
+}

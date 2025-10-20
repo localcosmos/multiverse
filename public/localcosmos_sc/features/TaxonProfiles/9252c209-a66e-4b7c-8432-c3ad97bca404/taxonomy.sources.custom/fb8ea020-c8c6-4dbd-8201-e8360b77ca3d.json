@@ -1,0 +1,185 @@
+{
+    "taxonLatname": "Tubicinella major",
+    "taxonAuthor": "Lamarck, 1802",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "fb8ea020-c8c6-4dbd-8201-e8360b77ca3d",
+    "taxonNuid": "001003001004009001",
+    "gbifNubkey": 7580540,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-898-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-898-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-898-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 566,
+    "vernacular": {
+        "en": "Screw whale-barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Screw whale-barnacle",
+            "Tubicinella major"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very unusual and unmistakable elongate and cylindrical barnacle found buried into the skin of Southern Right Whales. There are six shell valves that are fused to form a cylindrical structure that tapers towards to lower end and is surrounded by 2-10 ribbed annular ridges that secure it firmly in place.</p>",
+            "shortTextKey": "taxon_text_1_5565",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 60 mm long and 30 mm in shell diameter.</p>",
+            "shortTextKey": "taxon_text_2_5566",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Atlantic and Pacific Oceans.</p><p><u>Local/Regional:</u> Across entire region, but most records from south Western Cape.</p>",
+            "shortTextKey": "taxon_text_3_5567",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found exclusively in the skin of large whales. They are ‘energy parasites’ that rely on the movement of the host to generate a feeding current and then filter food passively from the passing water.</p>",
+            "shortTextKey": "taxon_text_4_5568",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All barnacles are filter-feeders, extending their feathery feeding appendages though the aperture and using these to capture floating particles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_5569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Barnacles are hermaphroditic, but prefer to cross-fertilise. Larvae are released into the water and seek out other suitable hosts on which to settle.</p>",
+            "shortTextKey": "taxon_text_6_5570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be mistaken for other barnacles in the region due to their highly unusual cylindrical ridged shells and unique habitat.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_5571",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_5572",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-898-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-898-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-898-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-898-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-898-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-898-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-899-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-899-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-899-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-900-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-900-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-900-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-903-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-903-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-903-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-902-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-902-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-902-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-697-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-697-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-697-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

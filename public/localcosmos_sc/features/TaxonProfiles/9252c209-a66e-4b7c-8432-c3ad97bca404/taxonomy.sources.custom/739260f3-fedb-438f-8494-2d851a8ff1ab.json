@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ulva rigida",
+    "taxonAuthor": "C. Agardh, 1823",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "739260f3-fedb-438f-8494-2d851a8ff1ab",
+    "taxonNuid": "003007003001003",
+    "gbifNubkey": 5273416,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1320-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1320-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1320-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 763,
+    "vernacular": {
+        "en": "Rigid sea lettuce"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Rigid sea lettuce"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms firm, flat, light- to grass-green lobes emerging from a central holdfast. Smaller individuals often take the form of small, tight rosettes. Blades two cells thick and have minute teeth near the base.</p>",
+            "shortTextKey": "taxon_text_1_7439",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 100 mm long, but can reach 500 mm.</p>",
+            "shortTextKey": "taxon_text_2_7440",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across temperate ad tropical seas.</p><p><u>Local/Regional:</u><i> </i>Cape Peninsula to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7441",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Abundant on exposed intertidal rocks, where it can form dense beds, and in rockpools and shallow sublittoral reefs.</p>",
+            "shortTextKey": "taxon_text_4_7442",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7443",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Show alternating generations - the asexual, diploid sporophyte produces numerous spores which develop into haploid (having only one set of chromosomes) male and female gametophytes, which in this case are morphologically indistinguishable from the sporophyte. These produce sperm and eggs which fuse and develop back into sporophytes.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7444",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several easily-confused species in this genus. See references for keys and full accounts of these.</p>",
+            "shortTextKey": "taxon_text_7_7445",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 372). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33, 1-294 (p. 44).<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 95).",
+            "shortTextKey": "taxon_text_8_7446",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1320-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1320-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1320-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1320-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1320-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1320-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

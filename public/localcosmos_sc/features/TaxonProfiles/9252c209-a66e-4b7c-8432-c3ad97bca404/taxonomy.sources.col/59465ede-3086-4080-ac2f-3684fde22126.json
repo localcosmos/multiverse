@@ -1,0 +1,156 @@
+{
+    "taxonLatname": "Ovalipes trimaculatus",
+    "taxonAuthor": "(De Haan, 1833)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "59465ede-3086-4080-ac2f-3684fde22126",
+    "taxonNuid": "00100300a00600200500600100p00a00100c",
+    "gbifNubkey": 4307454,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2746-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2746-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2746-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 976,
+    "vernacular": {
+        "en": "Three-spot swimming crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Three-spot swimming crab",
+            "three-spot swimming crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Ovalipes punctatus, </i>Red Spot Swimming-crab (Barnard, 1950)</p>",
+            "shortTextKey": "taxon_text_9_9254",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium to large-sized crab, carapace (hard upper shell) cream-grey coloured, speckled with reddish dots, a crescent-shaped red mark in the middle, with two larger oval red spots at the back. Chelae (pincers) tinged reddish-pink on inner surface.</p><p>Carapace much wider than long, with granules on surface, frontal margin with four teeth, with another next to each eye and four large teeth on the lateral (side) margins. Chelae inner side of upper margin with fringe of shaggy hair, outer surface of wrist and hand with granules. Second leg with horned ridge on end of the fourth joint, creating a stridulating mechanism (used for communication) when rubbed against its chelae (especially in older males). Dactyl (last segment) of fifth leg flattened, oval-shaped, used as a ‘paddle’ for swimming.</p>",
+            "shortTextKey": "taxon_text_1_9255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace length up to 55 mm, breadth up to 70 mm. Total animal width from tip of left legs to right legs about 200 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread as found on both sides of South America (Chile, Argentina, Brazil), as well as several sub-Antarctic islands, Madagascar, Namibia and South Africa.</p><p><u>Local/Regional:</u> From Walvis Bay, Namibia to Port Shepstone, KwaZulu-Natal, on sandy beaches in the surf zone to 38 m.</p>",
+            "shortTextKey": "taxon_text_3_9257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Three-spot swimming crabs are strong swimmers commonly encountered below the break zone of surf-beaten sandy beaches where they use the paddle-like hindlegs to navigate a dynamic environment. Move fast over the sand and can quickly dig themselves into the sand with a characteristic and dynamic backwards pumping movement. With just the eyes sticking out they are safely hidden from predators, and ready to attack bypassing prey. Mostly active at night.</p><p>Like all crustaceans, frequently moult as they grow, and this is done in the safety of being buried in the sand. Fresh moults that wash up are therefore often fragmented as parts of the fragile shells remain stuck in the sand. Studies have found larger individuals occur shallower (&lt;20 m), while juveniles tend to occur in deeper waters, suggesting settlement of larva occurs deeper.</p><p>Biomass of these crabs have been estimated to around 1 crab per square meter of beach (based on a study in Gqeberha, formerly Port Elizabeth), and the species is commercially important in Chile and Argentina, though only taken as bycatch using beach-seine nets. In some instances mass mortalities occurred due to larvae of the alien invasive mussel <i>Mytilus galloprovincialis </i>settling on the eyestalks and mouthparts (as these are virtually the only hard substratum where mussel larvae can settle on sandy habitats), severely reducing the crabs ability to function, and this has led to mortalities of 2000-2400 crabs per kilometre of shore.</p>",
+            "shortTextKey": "taxon_text_4_9258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Voracious predators of bivalves and gastropods, especially various <i>Donax</i> spp. and <i>Bullia</i> spp. Also found to eat polychaetes, fish or other crustaceans buried in the sand or swimming in the surf zone. In South America these crabs were found to also target some rocky shore species, though not specifically looked in South African populations.</p>",
+            "shortTextKey": "taxon_text_5_9259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Occurs between males and recently-moulted females, mostly at night. The male turns the female upside-down using his chelae and holds her with his legs to transfer the spermatophore (sperm package). Have been found to stay paired up for up to 12 hours after. Short spawning period present in January, with a longer one in May, where female release the eggs to the underside of their body and carry them until they hatch. Studies have found females to be extremely fecund, carrying between 76000-490000 eggs. Have eight zoeal stages, with one megalopa stage, after which they develop into juveniles, settling in deeper waters.</p>",
+            "shortTextKey": "taxon_text_6_9260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A sister species, <i>O. iridescens</i> also occurs in South Africa, though they are found in deeper waters along the south coast and unlikely to be confused. The habitat, the two red oval spots and median red mark are diagnostic of <i>O. trimaculatus</i>.</p>",
+            "shortTextKey": "taxon_text_7_9261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 122). <br><br>Du Preez, HH (1983). The effects of temperature, season and activity on the respiration of the three spot swimming crab, <i>Ovalipes punctatus</i>. <i>Comparative Biochemistry and Physiology Part A: Physiology</i>, 75(3), 353-362.<br><br>Du Preez, HH & McLachlan, A (1984). Distribution of the portunid crab <i>Ovalipes punctatus</i> (De Haan) in Algoa Bay and salinity and temperature tolerances of its zoeae. <i>African Zoology</i>, 19(4), 302-304.<br><br>Emmerson, WD (2016). A Guide to, and Checklist for, the Decapoda of Namibia, South Africa and Mozambique. Newcastle upon Tyne: Cambridge Scholars Publishing. Volumes 1 – 3, 526, 645, 711 pp.<br><br>Schoeman, DS & Cockcroft, AC (1996). A description of <i>Ovalipes trimaculatus</i> (De Haan, 1833)(Brachyura: Portunidae: Polybiinae) zoeae reared in the laboratory. <i>South African Journal of Marine Science</i>, 17(1), 113-134.",
+            "shortTextKey": "taxon_text_8_9262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2746-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2746-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2746-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2746-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2746-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2746-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Corystes (Anisopus) trimaculatus",
+            "taxonAuthor": "De Haan, 1833"
+        },
+        {
+            "taxonLatname": "Platyonychus africanus",
+            "taxonAuthor": "A. Milne-Edwards, 1861"
+        },
+        {
+            "taxonLatname": "Platyonychus purpureus",
+            "taxonAuthor": "Dana, 1852"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

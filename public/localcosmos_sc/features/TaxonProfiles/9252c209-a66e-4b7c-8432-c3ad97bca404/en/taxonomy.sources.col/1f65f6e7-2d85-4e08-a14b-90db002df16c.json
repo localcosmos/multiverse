@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Chaetopleura pomarium",
+    "taxonAuthor": "Barnard, 1963",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1f65f6e7-2d85-4e08-a14b-90db002df16c",
+    "taxonNuid": "00100k00g00300200200100200100n",
+    "gbifNubkey": 2306734,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-763-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-763-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-763-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 619,
+    "vernacular": {
+        "en": "Knobbed chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Knobbed chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened mollusk with eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Shell plates rectangular and centrally raised. Texture of shell characteristic with spaced-out and highly raised radially arranged large pustules on the sides (about 5 rows) and smaller, longitudinally arranged lower pustules on the centre. Girdle wide with scale-like spicules bearing chitinous cups or chitinous hairs, tips needle-like; elongated scales on the ventral side. Articulamentum thin and white with small subrectangular anterior extensions. Colour orange brown-pale.</p>",
+            "shortTextKey": "taxon_text_1_6125",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium, typically around 10-20 mm total body length.</p>",
+            "shortTextKey": "taxon_text_2_6126",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia and South Africa.</p><p><u>Local/Regional:</u> Table Bay, Kommetjie, Muizenberg and Zout River.</p>",
+            "shortTextKey": "taxon_text_3_6127",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>In crevices or under rocks in the intertidal to subtidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6128",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6129",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6130",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of five South African species, of which four are found in the Western Cape. The small size, long hairs and paleness, as well as the prominent granules in radial and longitudinal lines are characteristic.</p>",
+            "shortTextKey": "taxon_text_7_6131",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1963). Contributions to the knowledge of South African marine Mollusca. Part IV. Gastropoda: Prosobranchiata: Rhipidoglossa, Docoglossa. Tectibranchiata. Polyplacophora. Solenogastres. Scaphopoda. <i>Annals of the South African Museum</i>, 47(2), 201–360. (p. 335, fig. 29i).<br><br>Kaas, P & Van Belle, RA (1985). Monograph of living Chitons (Mollusca: Polyplacophora). Vol. 1. Order Neoloricata: Lepidopleurina. E. J. Brill/W. Backhuys eds. Leiden 244 pp. (p. 91).",
+            "shortTextKey": "taxon_text_8_6132",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-763-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-763-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-763-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-763-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-763-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-763-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chaetopleura (Chaetopleura) pomarium",
+            "taxonAuthor": "Barnard, 1963"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

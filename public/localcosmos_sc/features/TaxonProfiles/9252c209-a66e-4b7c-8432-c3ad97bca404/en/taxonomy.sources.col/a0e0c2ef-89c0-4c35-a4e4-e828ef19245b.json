@@ -1,0 +1,197 @@
+{
+    "taxonLatname": "Lanice conchilega",
+    "taxonAuthor": "(Pallas, 1766)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a0e0c2ef-89c0-4c35-a4e4-e828ef19245b",
+    "taxonNuid": "00100200205200100400200500300b002007",
+    "gbifNubkey": 2325106,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1075-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1075-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1075-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 238,
+    "vernacular": {
+        "en": "Sand mason"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sand mason",
+            "sand mason",
+            "sand mason worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Longish, soft, flesh-coloured worm better known for its unusual branching tube than for the appearance of the worm itself. The head bears a tuft of long, thin tentacles and segments 2-4 bear branching red gills. The remainder of the worm is soft and flesh-coloured (often red patch ventrally) with short pad-like appendages on the thoracic segments. The tube is long and straight and made of course sand grains and shell fragments cemented together with mucous. It can project several centimeters above the sediment and terminates in an expanded tree-like crown of stiff branches that support the feeding appendages.</p>",
+            "shortTextKey": "taxon_text_1_2196",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body up to about 100 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2197",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Europe including Mediterranean, as well as Gulf of Mexico, Mauritius, Red Sea, Mozambique and South Africa.</p><p><u>Local/Regional:</u> False Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_2198",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives buried in soft sediments with the top of the tube protruding into the water column. The branched, tree-like extensions around the opening of the tube support the feeding tentacles as these reach out to grasp food particles on the water column, or on the sediment surface. Can occur in dense aggregations, in which case they can change the structure of the surrounding sediments and create habitat for a variety of other species. The distinctively branched tubes are often cast ashore after storms.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2199",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter or deposit feeder, removing particulate material from the water column passing overhead, or from the sediment surface.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2200",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>In this family sexes are usually separate and eggs and sperm are released directly into the water column, where they develop into planktonic larvae. Larvae in European populations of this species spend about two months in the plankton before settling.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2201",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Many similar species of terebellid worms, most of which have soft bodies, long tentacles and red gills, occur in the region. This species is best recognised by its unique tube.</p>",
+            "shortTextKey": "taxon_text_7_2202",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 72).<br><br>Day, JH (1967). A Monograph on the Polychaeta of Southern Africa. British Museum (Natural History), London, Part 2. (p. 743).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group Press, Cape Town. (p. 78).<br><br>Rabaut, M, Guilini, K, Van Hoey, G, Vincx, M & Degraer, S (2007). A bio-engineered soft-bottom environment: the impact of <i>Lanice conchilega</i> on the benthic species-specific densities and community structure. <i>Estuarine, Coastal and Shelf Science</i>, 75(4), 525-536.",
+            "shortTextKey": "taxon_text_8_2203",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1075-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1075-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1075-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1075-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1075-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1075-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1076-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1076-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1076-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-59-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-59-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-59-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Terebella flexuosa",
+            "taxonAuthor": "(Delle Chiaje, 1828)"
+        },
+        {
+            "taxonLatname": "Terebella pectoralis",
+            "taxonAuthor": "Quatrefages, 1866"
+        },
+        {
+            "taxonLatname": "Nereis conchilega",
+            "taxonAuthor": "Pallas, 1766"
+        },
+        {
+            "taxonLatname": "Terebella prudens",
+            "taxonAuthor": "Quatrefages, 1866"
+        },
+        {
+            "taxonLatname": "Terebella artifex",
+            "taxonAuthor": "Sars, 1863"
+        },
+        {
+            "taxonLatname": "Terebella littoralis",
+            "taxonAuthor": "Dalyell, 1853 [non Linnaean as 'littoralis seu arenaria']"
+        },
+        {
+            "taxonLatname": "Amphitrite flexuosa",
+            "taxonAuthor": "Delle Chiaje, 1828"
+        },
+        {
+            "taxonLatname": "Amphitrite tondi",
+            "taxonAuthor": "Delle Chiaje, 1828"
+        },
+        {
+            "taxonLatname": "Wartelia gonotheca",
+            "taxonAuthor": "Giard, 1878"
+        },
+        {
+            "taxonLatname": "Terebella conchilega",
+            "taxonAuthor": "(Pallas, 1766)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

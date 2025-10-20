@@ -1,0 +1,277 @@
+{
+    "taxonLatname": "Diplosoma listerianum",
+    "taxonAuthor": "(Milne Edwards, 1841)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9ce7e8b8-1672-4d47-a743-c03f9d3e8e91",
+    "taxonNuid": "00100700200200100300500f",
+    "gbifNubkey": 5200414,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-523-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-523-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-523-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 154,
+    "vernacular": {
+        "en": "Gossamer ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Gossamer ascidian",
+            "Lister's didemnid",
+            "gray encrusting compound tunicate"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Leptoclinum listerianum</i></p>",
+            "shortTextKey": "taxon_text_9_1365",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>An extremely soft and fragile species forming flat semi-transparent gelatinous sheet that overgrow seaweeds, rocks and other sedentary invertebrates. The small pale round zooids are evenly spaced in the matrix and each has its own inhalant opening. Larger raised exhalant openings are spread unevenly across the surface and white pigment cells are scattered thought the matrix. Breaks up very easily when handled and is hence often overlooked, also frequently misidentified as a sponge due to the turret-like exhalant openings.</p>",
+            "shortTextKey": "taxon_text_1_1366",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids only about 2-3 mm, but colonies 100 mm or more across.</p>",
+            "shortTextKey": "taxon_text_2_1367",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> An introduced species originally from Europe but now widely dispersed across the globe by shipping.</p><p><u>Local/Regional:</u> Namibia to KwaZulu-Natal, mostly in harbours, but also sheltered reefs.</p>",
+            "shortTextKey": "taxon_text_3_1368",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common but often overlooked fouling species abundant in harbours and other sheltered sites, but also in rocky reefs, kelps beds, etc. Impact probably minimal due to its fragile nature.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_1369",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus. In this species waste-water is then expelled though common exhalent apertures shared by numerous zooids.</p>",
+            "shortTextKey": "taxon_text_5_1370",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expanded via asexual reproduction (budding of existing zooids), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1371",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The evenly-spaced zooids and fragile nature of the colony distinguish this species from most other regional colonial ascidians. Often misidentified as a sponge though!</p>",
+            "shortTextKey": "taxon_text_7_1372",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 250).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M. (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 60).<br><br>Picker, M & Griffiths, C (2011). Alien and invasive animals: a South African perspective. Struik Nature, Cape Town (p. 72).",
+            "shortTextKey": "taxon_text_8_1373",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-523-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-523-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-523-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-523-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-523-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-523-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Diplosoma mitsukuri",
+            "taxonAuthor": "Oka, 1892"
+        },
+        {
+            "taxonLatname": "Pseudodidemnum cristallinum",
+            "taxonAuthor": "Giard, 1872"
+        },
+        {
+            "taxonLatname": "Pseudodidemnum listerianum",
+            "taxonAuthor": "(Milne Edwards, 1841)"
+        },
+        {
+            "taxonLatname": "Leptoclinum okai",
+            "taxonAuthor": "Tokioka, 1949"
+        },
+        {
+            "taxonLatname": "Leptoclinum lacteum",
+            "taxonAuthor": "(Van Name, 1902)"
+        },
+        {
+            "taxonLatname": "Diplosoma cristallinum",
+            "taxonAuthor": "(Giard, 1872)"
+        },
+        {
+            "taxonLatname": "Astellium spongiforme",
+            "taxonAuthor": "Giard, 1872"
+        },
+        {
+            "taxonLatname": "Diplosoma pizoni",
+            "taxonAuthor": "Ritter & Forsyth, 1917"
+        },
+        {
+            "taxonLatname": "Diplosoma atropunctatum",
+            "taxonAuthor": "Van Name, 1902"
+        },
+        {
+            "taxonLatname": "Diplosoma gelatinosum",
+            "taxonAuthor": "(Milne Edwards, 1841)"
+        },
+        {
+            "taxonLatname": "Leptoclinum takeharai",
+            "taxonAuthor": "Tokioka, 1951"
+        },
+        {
+            "taxonLatname": "Diplosoma cupuliferum",
+            "taxonAuthor": "(Kott, 1952)"
+        },
+        {
+            "taxonLatname": "Leptoclinum atropunctatum",
+            "taxonAuthor": "(Van Name, 1902)"
+        },
+        {
+            "taxonLatname": "Diplosoma punctatum",
+            "taxonAuthor": "(Forbes, 1848)"
+        },
+        {
+            "taxonLatname": "Diplosoma listeri",
+            "taxonAuthor": "Lahille, 1890"
+        },
+        {
+            "taxonLatname": "Leptoclinum gelatinosum",
+            "taxonAuthor": "Milne Edwards, 1841"
+        },
+        {
+            "taxonLatname": "Pseudodidemnum crystallinum",
+            "taxonAuthor": "Giard, 1872"
+        },
+        {
+            "taxonLatname": "Diplosoma chamaeleon",
+            "taxonAuthor": "Drasche, 1884"
+        },
+        {
+            "taxonLatname": "Diplosoma mitsukurii",
+            "taxonAuthor": "Oka, 1892"
+        },
+        {
+            "taxonLatname": "Diplosoma lacteum",
+            "taxonAuthor": "Van Name, 1902"
+        },
+        {
+            "taxonLatname": "Leptoclinum rayneri",
+            "taxonAuthor": "Macdonald, 1859"
+        },
+        {
+            "taxonLatname": "Leptoclinum mitsukurii",
+            "taxonAuthor": "(Oka, 1892)"
+        },
+        {
+            "taxonLatname": "Leptoclinum macdonaldi",
+            "taxonAuthor": "(Herdman, 1886)"
+        },
+        {
+            "taxonLatname": "Diplosoma crystallinum",
+            "taxonAuthor": "(Giard, 1872)"
+        },
+        {
+            "taxonLatname": "Pseudodiplosoma zosterarium",
+            "taxonAuthor": "Jourdain, 1885"
+        },
+        {
+            "taxonLatname": "Diplosoma chamaelean",
+            "taxonAuthor": "Drasche, 1884"
+        },
+        {
+            "taxonLatname": "Leptoclinum listerianum",
+            "taxonAuthor": "Milne Edwards, 1841"
+        },
+        {
+            "taxonLatname": "Leptoclinum macrolobium",
+            "taxonAuthor": "Tokioka, 1949"
+        },
+        {
+            "taxonLatname": "Lissoclinum cupuliferum",
+            "taxonAuthor": "Kott, 1952"
+        },
+        {
+            "taxonLatname": "Diplosoma macdonaldi",
+            "taxonAuthor": "Herdman, 1886"
+        },
+        {
+            "taxonLatname": "Diplosoma rayneri",
+            "taxonAuthor": "(Macdonald, 1859)"
+        },
+        {
+            "taxonLatname": "Didemnum gelatinosum",
+            "taxonAuthor": "(Milne Edwards, 1841)"
+        },
+        {
+            "taxonLatname": "Leptoclinum punctatum",
+            "taxonAuthor": "Forbes, 1848"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Haematopus moquini",
+    "taxonAuthor": "Bonaparte, 1856",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6c50cb57-2cff-4ae8-af74-6c3a2d2be42b",
+    "taxonNuid": "001007003002002004002009007001009",
+    "gbifNubkey": 2480263,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-914-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-914-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-914-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 654,
+    "vernacular": {
+        "en": "African oystercatcher"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African oystercatcher",
+            "African Oystercatcher"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, easily recognized and charismatic wader with completely black plumage, red legs, bright red eye-rings and powerful, straight, red bill. Sexes alike, although female slightly heavier and with longer and more pointed bill.</p><p>Also easily recognized by the distinctive loud, strident, piping call.</p>",
+            "shortTextKey": "taxon_text_1_6458",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 42-45 cm, wingspan 80-88 cm, mass of male about 665 g, of female 730 g.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6459",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Core range Northern Namibia (rarely S. Angola) to Eastern Cape (rarely KwaZulu-Natal).</p>",
+            "shortTextKey": "taxon_text_3_6460",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually seen in pairs or small groups foraging in intertidal during low tide, or roosting above the high-water mark, often communally, during high tide. Mussels eaten by inserting the sharp bill between the valves when these gape, severing the adductor muscle and then scissoring out the flesh. Limpets are knocked off the rocks by a sharp jab to their posterior margin, turned over and wedged upside down while flesh scissored out.</p><p>World population was only about 4000 in 1980’s, but is now rising due both to restrictions on the driving of vehicles on beaches and to the invasion of rocky shores by the invasive Mediterranean mussel. This has vastly increased both absolute amount of food available, and also time for which this is available, as this mussel occurs higher in the intertidal than other native species.</p><p>Adults mostly sedentary and territorial, but young birds may migrate to nursery areas, often north of core adult range in Namibia, returning south after 2-3 years. Longevity up to 35 years.</p>",
+            "shortTextKey": "taxon_text_4_6461",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mostly on mussels and limpets, but also polychaete worms and whelks. On sandy beaches may take white mussels (<i>Donax serra</i>) and sandhoppers.</p>",
+            "shortTextKey": "taxon_text_5_6462",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogamous, solitary nester, although on islands nests may be just meters apart. Nests usually within about 30 m of high-water mark. Breed mostly November – January, slightly later in Namibia than in South Africa. Nest a shallow scrap, usually on sandy ground, when on rock that cannot be scraped margins may be built up with shells or stones. Eggs 1-2, rarely 3, buff green or brown with black and brown lines and spots. Incubated by both parents, incubation time 27-39 days and young take a further 38 days to fledge. Eggs and chicks subject to mortality due to human disturbance, dogs on beaches, off road vehicles etc. and breeding success higher on islands than on mainland due to reduced disturbance.</p>",
+            "shortTextKey": "taxon_text_6_6463",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable. The black and white European oystercatcher has a similar body shape and is a rare visitor to the Southern African coast.</p>",
+            "shortTextKey": "taxon_text_7_6464",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 348). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 389).",
+            "shortTextKey": "taxon_text_8_6465",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-914-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-914-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-914-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-914-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-914-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-914-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

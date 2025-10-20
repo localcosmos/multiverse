@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Papenfussiella gracilis",
+    "taxonAuthor": "Kylin, 1940",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a9f0cad4-f4a5-4841-8855-ed4250fccf9c",
+    "taxonNuid": "00300100h001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1032-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1032-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1032-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 704,
+    "vernacular": {
+        "en": "Furr slime-strings"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Furr slime-strings"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Flaccid, slippery and light brown with a soft, furry texture due to surface covering of short filaments. Thallus sparsely branched, some of the branches as long as the main axes. Branches bend readily in the current and break up easily when handled. When viewed under the microscope the furry surface filaments are formed of a single chain of cells, longer towards the base and as broad as long distally and with oval sporangia near their bases.</p>",
+            "shortTextKey": "taxon_text_1_6908",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length can reach 30-50 cm, branches about 3 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_6909",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_6910",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Typically in lowshore pools and gullies on wave exposed coasts.</p>",
+            "shortTextKey": "taxon_text_4_6911",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6912",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Oval sporangia found attached to filaments on surfaces of thallus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_6913",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The flaccid, furry texture is fairly characteristic of this group. This species is characterised by having only a few elongate branches, but the more profusely and densely branched <i>Myriocladia capensis</i>, <i>Myriogloia papenfussii </i>and <i>Myriogloia abbreviata </i>occur in similar habitats (see Stegenga reference for details as to how to distinguish these).</p>",
+            "shortTextKey": "taxon_text_7_6914",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 390, identified to group only). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 155).",
+            "shortTextKey": "taxon_text_8_6915",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1032-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1032-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1032-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1032-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1032-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1032-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2105-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2105-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2105-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2106-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2106-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2106-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

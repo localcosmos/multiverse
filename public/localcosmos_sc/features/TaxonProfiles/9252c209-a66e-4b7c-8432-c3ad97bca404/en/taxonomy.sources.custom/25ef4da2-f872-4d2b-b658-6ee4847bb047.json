@@ -1,0 +1,127 @@
+{
+    "taxonLatname": "Nematoda",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "25ef4da2-f872-4d2b-b658-6ee4847bb047",
+    "taxonNuid": "001008",
+    "gbifNubkey": 5967481,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-707-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-707-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-707-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 575,
+    "vernacular": {
+        "en": "Free-living nematodes"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Free-living nematodes",
+            "Nematoda"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Nematodes are an extremely diverse phylum of mostly small, slender and elongate worms. The body tapers at both ends and is covered by a tough cuticle, but is otherwise fairly featureless, unless examined under a high-powered microscope. Although nematodes are abundant across almost all marine (as well as terrestrial and freshwater) habitats and include a wide diversity of both free-living and parasitic forms, identification is thus difficult and the group remains poorly studied and un-noticed by most observers.</p><p>The large species illustrated here was common among the byssal threads of mussels in the intertidal zone at Muizenberg, but remains unidentified.</p>",
+            "shortTextKey": "taxon_text_1_5675",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically &lt;20 mm body length, but the species depicted&nbsp;unusually large at about 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_5676",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan in almost all marine habitats.</p><p><u>Local/Regional:</u> Namibia to about Knysna.</p>",
+            "shortTextKey": "taxon_text_3_5677",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Numerous free-living species are known from marine habitats in South Africa, although probably far more species remain undescribed that are named!</p><p>Coles (1977) already reported more than 60 regional free-living species, many of which he recorded from False Bay. Most of these were from grab or dredge samples of soft benthic substrata, but the species shown here is from a rocky shore and is probably un-described.</p>",
+            "shortTextKey": "taxon_text_4_5678",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Most free-living nematodes are thought to feed on diatoms, fungi, bacteria or tiny invertebrates, including other nematodes.</p>",
+            "shortTextKey": "taxon_text_5_5679",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most free-living species have separate sexes, females often being larger than males. After copulation the sperm (which are unusual in that they lack flagella and creep around like amoebae) migrate to the uterus where the eggs are fertlised, covered in a tough shell and released into the environment. There is no larval stage and the eggs hatch directly into tiny worms.</p>",
+            "shortTextKey": "taxon_text_6_5680",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Nematode worms have few external features and are very difficult to identify without microscopic examination. To view features of many of the free-living marine species in the region see Cole (1977) as cited below.</p>",
+            "shortTextKey": "taxon_text_7_5681",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-707-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-707-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-707-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-707-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-707-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-707-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

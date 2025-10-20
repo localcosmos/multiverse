@@ -1,0 +1,130 @@
+{
+    "name": "Caulerpas",
+    "description": null,
+    "verboseName": "Caulerpas",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2101-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2101-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2101-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Caulerpa filiformis (Suhr)",
+            "taxonAuthor": "Hering, 1841",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "5b0edd58-20df-4fc5-9629-9b5b330fab12",
+            "taxonNuid": "003007001002001",
+            "slug": "caulerpa-filiformis-suhr",
+            "localizedSlug": {
+                "en": "strap-caulerpa"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2098-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2098-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2098-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2100-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2100-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2100-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2099-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2099-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2099-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1300-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1300-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1300-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2098-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2098-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2098-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caulerpa holmesiana",
+            "taxonAuthor": "G.Murray, 1891",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c9189742-af3b-44bd-8d6a-0f43efee349e",
+            "taxonNuid": "003007001002002",
+            "slug": "caulerpa-holmesiana",
+            "localizedSlug": {
+                "en": "feathery-caulerpa"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1301-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1301-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1301-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1301-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1301-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1301-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Plocamium suhrii",
+    "taxonAuthor": "Kützing, 1849",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a243bec6-1fbc-42ef-80ee-eff50fd619da",
+    "taxonNuid": "00300200c001003",
+    "gbifNubkey": 5278572,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1428-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1428-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1428-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 811,
+    "vernacular": {
+        "en": "Suhr’s plocamium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Suhr’s plocamium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly tall but delicate species comprising multiple, erect fronds emerging from a well-developed holdfast. Colour deep red, often strongly infused with an iridescent purplish-blue. Fronds flattened and give off alternating claw-like lateral branches in groups of two, the margins of which are not serrated. Reproductive bodies form tiny clumps of leaf-like clusters in the axes of side branches.</p>",
+            "shortTextKey": "taxon_text_1_7880",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Fronds up to about 150 mm tall and about 3 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7881",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa, northern Namibia, Angola, Madagascar, Amsterdam and St Paul Islands, as well as (doubtfully?) Korea.</p><p><u>Local/Regional: </u>False Bay to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7882",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very attractive and distinctively-coloured species fairly common from low intertidal to shallow sublittoral up to about 5 m depth.</p>",
+            "shortTextKey": "taxon_text_4_7883",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7884",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Has a complex life cycle consisting of three phases. The diploid sporophyte produces haploid spores which develop onto separate male and female gametophytes. These look similar to the sporophyte, except for details of the small fertile branches in the axils of the fronds. The female gametophyte retains her eggs while they are fertilised by the male gametes and develop into wart-like discs, and these are finally releases as asexual carpospores that develop back into the sporophyte generation!</p>",
+            "shortTextKey": "taxon_text_6_7885",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other regional species of <i>Plocamium, </i>all with curved branches<i>,</i> but this species is most likely to be confused with <i>P. corallorhiza,</i> which also has a blue hue, but is more robust, growing to about 300 mm tall and with fronds up to about 10 mm broad.</p>",
+            "shortTextKey": "taxon_text_7_7886",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 410). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33, 1-294. (p. 198).<br><br>Reddy, MM, du Plessis, J, Roodt-Wiling, R, Anderson, RJ & Bolton, JJ (2023). The reinstatement of <i>Plocamium robertiae</i> (Rhodophyta, Plocamiales) and an updated species inventory of the genus in South Africa. <i>Phycologia</i>, 62(2), 194-202.<br><br>Simons, RH (1964). Species of <i>Plocamium</i> on the South African coast. <i>Bothalia</i>, 8, 183-193.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 330).",
+            "shortTextKey": "taxon_text_8_7887",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1428-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1428-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1428-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1428-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1428-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1428-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

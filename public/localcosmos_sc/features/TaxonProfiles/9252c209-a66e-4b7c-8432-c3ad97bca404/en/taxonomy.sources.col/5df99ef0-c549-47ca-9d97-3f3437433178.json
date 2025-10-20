@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Cafius xantholoma",
+    "taxonAuthor": "(Gravenhorst, 1806)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5df99ef0-c549-47ca-9d97-3f3437433178",
+    "taxonNuid": "00100300900501000b01m00c00k00801e",
+    "gbifNubkey": 4308862,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-477-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-477-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-477-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 42,
+    "vernacular": {
+        "en": "Punctate shore rove beetle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Punctate shore rove beetle"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Staphylinus xantholoma</i>&nbsp;</p>",
+            "shortTextKey": "taxon_text_9_306",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Beetles of the family Staphylinidae (‘rove beetles’) are fairly easily recognized as a group, in that most have elongate, narrow bodies and very short wing-covers, leaving the long abdomen largely exposed. However, many species are small and the family is very diverse, so species level identification can be challenging.</p><p>This species is larger than most, uniformly black, and fairly easily recognised by the very strongly punctate (dimpled) texture of the wing covers (elytra) and to a lesser extent of the abdomen, which also ends of an unusually long tuft of setae.</p>",
+            "shortTextKey": "taxon_text_1_307",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 9 mm body length, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_308",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Atlantic coasts of Europe and Africa, including Mediterranean and Baltic Sea.</p><p><u>Local/Regional:</u><i> </i>Not well known, but fairly common along west coast.</p>",
+            "shortTextKey": "taxon_text_3_309",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Little known about this species in South Africa other than that it restricted to the seashore and is regularly recorded among drift kelp. In Europe known to be a predator of kelp flies and of their larvae and abundance is correlated to that of the prey.</p>",
+            "shortTextKey": "taxon_text_4_310",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on kelp flies and their larvae.</p>",
+            "shortTextKey": "taxon_text_5_311",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The South African species has not been studied, but most staphylinids lay their eggs attached to objects in their habitat, such as kelp in this case. Their larvae are grub-like and also predatory.</p>",
+            "shortTextKey": "taxon_text_6_312",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Staphylinid beetles are extremely common in intertidal habitats and hundreds of coastal species are known globally. The South African fauna is poorly described and many species probably remain un-named. Although several other staphylinid species are found associated with rotting algae in the region this one is fairly easily recognized by its punctate elytra.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_313",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Frank, JH, & Ahn, KJ (2011). Coastal Staphylinidae (Coleoptera): A worldwide checklist, biogeography and natural history. <i>ZooKeys</i>, 107, 1-98.<br><br>Hodge, S & Williams, A (2007). Coleoptera found in wrack beds and strandlines around the Kent coast. <i>British Journal of Entomology and Natural History</i>, 20, 61-70.<br><br>Stenton-Dozey, JME, & Griffiths, CL (1983). The fauna associated with kelp stranded on a sandy beach. In Sandy beaches as ecosystems (pp. 557-568). Springer, Dordrecht.",
+            "shortTextKey": "taxon_text_8_314",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-477-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-477-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-477-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-477-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-477-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-477-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Staphylinus xantholoma",
+            "taxonAuthor": "Gravenhorst, 1806"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

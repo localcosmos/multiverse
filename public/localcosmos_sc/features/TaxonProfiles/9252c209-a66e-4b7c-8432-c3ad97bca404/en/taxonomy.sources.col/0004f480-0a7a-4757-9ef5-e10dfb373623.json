@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Felicia echinata",
+    "taxonAuthor": "(Thunb.) Nees",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0004f480-0a7a-4757-9ef5-e10dfb373623",
+    "taxonNuid": "0060060050040030010co00x",
+    "gbifNubkey": 5401128,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3023-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3023-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3023-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1062,
+    "vernacular": {
+        "en": "Prickly felicia"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Prickly felicia",
+            "Bloublommetjie"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Stiff, upright, much-branched shrublet with white stems densely covered with small, stiff, pointed, glossy leaves that have bristly margins and are curved back at their ends to form sharp tips. The end of the stems each bear 2-3 blue-to-mauve daisy-like flowers with one whorl of about 25 marginal florets (‘petals’) and yellow centres. After flowering fluffy seed-heads develop.</p>",
+            "shortTextKey": "taxon_text_1_9999",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 60 cm, flowers about 30 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_10000",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Some sources give distribution from Mossel Bay to Eastern Cape, but others record the species from Table Bay eastwards and iNaturalist depicts many images from the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_10001",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A coastal species that occurs naturally only in a narrow coastal strip, but is widely cultivated in gardens and now found more inland.</p><p>The plant is spectacular when in flower and is popular in coastal gardens.</p>",
+            "shortTextKey": "taxon_text_4_10002",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10003",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to October. The one-seeded fruits are egg-shaped and crowed by a circle of long bone-coloured hairs which aid in wind-dispersal.</p>",
+            "shortTextKey": "taxon_text_6_10004",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a diverse genus containing about 85 species of which some 50 occur in the fynbos region, but this species is fairly distinctive due to its stiff, prickly leaves.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_10005",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3023-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3023-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3023-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3023-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3023-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3023-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Felicia paralia",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Aster echinatus var. paralius",
+            "taxonAuthor": "(DC.) Harv."
+        },
+        {
+            "taxonLatname": "Aster echinatus",
+            "taxonAuthor": "(Thunb.) Less."
+        },
+        {
+            "taxonLatname": "Pieronia echinata",
+            "taxonAuthor": "Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

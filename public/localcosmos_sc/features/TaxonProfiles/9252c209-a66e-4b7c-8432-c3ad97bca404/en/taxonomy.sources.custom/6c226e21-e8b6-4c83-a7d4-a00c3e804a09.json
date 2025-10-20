@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Grateloupia sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "6c226e21-e8b6-4c83-a7d4-a00c3e804a09",
+    "taxonNuid": "003002009001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1377-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1377-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1377-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 791,
+    "vernacular": {
+        "en": "Rippled ribbon-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Rippled ribbon-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dark plum-red and forming long, flaccid strap-like blades which have margins that are longer than the central portions, such that the fronds have rippled edges.</p><p>The species level identifications of South African <i>Grateloupia</i> are currently confused. Stegenga <i>et al.</i> (1997) used the names <i>G. doryphora</i> and <i>G. filicina</i> for South African material, but De Clerk <i>et al.</i> (2005) described a new species <i>G. capensis</i> for material previously referred to <i>G. filicina </i>and also<i> </i>resurrected the species<i> G. longifolia </i>for material with broad, foliose fronds. Bolton <i>et al.</i> (2016) reported two more newly-discovered species from aquaculture rafts in Saldanha Bay, both of which appear to be introduced and one of which remains unidentified. Species in this genus are plastic in form and difficult to identify on the basis of morphology, so we do not commit to a species level identification here, although the specimens photographed seem to most closely resemble the shape and habits of the form known as ‘<i>G. longifolia’</i>.</p>",
+            "shortTextKey": "taxon_text_1_7691",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length can reach 303 mm, with fronds typically about 30 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_7692",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Species in this genus occur virtually worldwide.</p><p><u>Local/Regional:</u><i> </i>All along west coast, including Namibia.</p>",
+            "shortTextKey": "taxon_text_3_7693",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The ‘<i> longifolia’</i> form depicted here is common on the lower levels of sand-inundated rocky shores along the west coast, where it can form extensive growth, rolling back and forth in the breaking waves. Other species occur in rocks pools on rocky shores and on aquaculture rafts.</p>",
+            "shortTextKey": "taxon_text_4_7694",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7695",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia widely spread across large sections of the fronds.</p>",
+            "shortTextKey": "taxon_text_6_7696",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Species level identifications difficult in this group, but the long, flaccid, rippled blades and preference for sand-inundated habitats in the depicted form are fairly characteristic of the<i> longifolia</i> form.</p>",
+            "shortTextKey": "taxon_text_7_7697",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bolton, JJ, De Clerck, O, Francis, CM, Siyanga-Tembo, F & Anderson, RJ (2016). Two newly discovered <i>Grateloupia</i> (Halymeniaceae, Rhodophyta) species on aquaculture rafts on the west coast of South Africa, including the widely introduced <i>Grateloupia turuturu</i>. <i>Phycologia</i>, 55(6), 659-664.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 392). <br><br>De Clerck, O, Gavio, B, Fredericq, S, Barbara, I & Coppejans, E (2005). Systematics of <i>Grateloupia filicina</i> (Halymeniaceae, Rhodophyta), based on rbcL sequence analyses and morphological evidence, including the reinstatement of <i>G. minima</i> and the description of <i>G. capensis</i> sp. nov. 1. <i>Journal of Phycology</i>, 41(2), 391-410.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 288 as G. doryphora and G. filicina).",
+            "shortTextKey": "taxon_text_8_7698",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1377-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1377-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1377-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1377-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1377-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1377-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

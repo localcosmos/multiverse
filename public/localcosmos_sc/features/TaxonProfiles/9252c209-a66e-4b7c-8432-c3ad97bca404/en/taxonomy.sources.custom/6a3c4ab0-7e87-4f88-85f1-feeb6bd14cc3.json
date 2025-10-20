@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Adeonella spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "6a3c4ab0-7e87-4f88-85f1-feeb6bd14cc3",
+    "taxonNuid": "001001001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-747-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-747-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-747-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 609,
+    "vernacular": {
+        "en": "Sabre bryozoans"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sabre bryozoans"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colonies erect, branching and bushy, easily confused as being algae. Blades narrow to wide, divide regularly and are stiff, but may be flexible or heavily calcified and brittle. They bear rows of zooids on both sides, and these are arranged in distinctive regular, diagonal lines. Viewed microscopically, the zooecia are mostly flat and rectangular to rounded, with round to oval apertures and without conspicuous spines.</p><p>There are over 40 species in this genus, of which nearly 30 occur in the waters around southern Africa, so these are treated here as a group. Although the species are similar in overall structure, they differ in colour (usually white but some pink or brown), width of the lobes and microscopic structure of the zooecia.</p>",
+            "shortTextKey": "taxon_text_1_6025",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 5 but up to 20 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_6026",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global</u>: Over 40 species in the genus with many known from South Africa, each with different distribution range.</p><p><u>Local/Regional:</u> Whole region, shallow water to at least 880 m.</p>",
+            "shortTextKey": "taxon_text_3_6027",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found on rocky reefs from shallow to deep water, but seldom in intertidal.</p>",
+            "shortTextKey": "taxon_text_4_6028",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_6029",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by budding new zooecia along the tips of the branches. New colonies arise from sexual reproduction with some species in this group brooding their larvae internally.</p>",
+            "shortTextKey": "taxon_text_6_6030",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other regional genera that form flat, branching blades, for example<i> Onchoporella</i>, but <i>Adeonella</i> species can fairly easily be distinguished as the zooecia are arranged in distinctive, regular, diagonal rows.</p>",
+            "shortTextKey": "taxon_text_7_6031",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 140).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 17).<br><br>Florence, W (2018). Phylum Bryozoa In: Atkinson LJ and Sink KJ (eds) Field Guide to the Ofshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 227-243. (p. 239).<br><br>Hayward, PJ (1988). The recent species of <i>Adeonella</i> (Bryozoa: Cheilostomata) including descriptions of fifteen new species. <i>Zoological Journal of the Linnean Society</i>, 94(2), 111-191.<br><br>Rosso A & Novosel M (2010). The genus Adeonella (Bryozoa, Ascophora) in the Mediterranean, with description of two new living species and rediscovery of a fossil one. <i>Journal of Natural History</i>, 44:27-28, 1697-1727.",
+            "shortTextKey": "taxon_text_8_6032",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-747-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-747-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-747-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-747-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-747-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-747-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

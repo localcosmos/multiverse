@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Austromegabalanus cylindricus",
+    "taxonAuthor": "(Gmelin, 1780)",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "efab87d6-7c29-4fe8-99de-ec00c2cfa87b",
+    "taxonNuid": "001003001004001001",
+    "gbifNubkey": 6467697,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-417-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-417-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-417-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 549,
+    "vernacular": {
+        "en": "Giant barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Giant barnacle",
+            "Austromegabalanus cylindricus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Balanus maxillaris</i></p>",
+            "shortTextKey": "taxon_text_9_5280",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>The largest barnacle in the region. Shell with a calcareous base and formed from six white to pale pink plates. Larger of the plates closing the aperture (scutum) marked with transverse ridges and smaller ones (terga) produced to form prominent ‘fangs’ which project through aperture.</p>",
+            "shortTextKey": "taxon_text_1_5281",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell diameter up to about 40 mm, shell height may reach 150 mm in close-packed colonies.</p>",
+            "shortTextKey": "taxon_text_2_5282",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa, but has been introduced to New Zealand via shipping.</p><p><u>Local/Regional:</u> Northern Cape to about Algoa Bay</p>",
+            "shortTextKey": "taxon_text_3_5283",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Most commonly found subtidally, but scattered individuals can be found in lower intertidal pools. Most common on jetties and floating structures such as ships hulls and mussel rafts, where it can become a pest. Fast growing and reaches adult size in about 2 years. The closely-related species <i>A. psittacus</i> is a sought-after seafood in Chile, where it is used to make traditional dishes such as ‘Curanto’. Overfishing has caused a decline in natural stocks and there are plans to culture the species for local consumption and export to Japan.</p>",
+            "shortTextKey": "taxon_text_4_5284",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like all barnacles – feeds on small living and non-living organic particles filtered from the water column.</p>",
+            "shortTextKey": "taxon_text_5_5285",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Almost all barnacles are hermaphroditic, but cross-fertilisation is the rule and the penis of one individual is extended out of the body and into an adjacent individual to transfer sperm. As each animal is permanently attached to the rock the number of potential mates is limited by the length of the penis, which can be up to 3-times the diameter of the shell (relatively the longest of any animal group). The eggs are initially brooded in the mantle cavity and larvae later released. These swim and feed in the water column and go through several stages until ready to settle. Larvae are chemically attracted to older individuals, encouraging the formation of closely–packed colonies.</p>",
+            "shortTextKey": "taxon_text_6_5286",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be readily distinguished from other regional species by its large size and the fact that the terga are extended into pointed ‘fangs’ that project from the aperture.</p>",
+            "shortTextKey": "taxon_text_7_5287",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p82)<br><br>Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_5288",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-417-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-417-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-417-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-417-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-417-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-417-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

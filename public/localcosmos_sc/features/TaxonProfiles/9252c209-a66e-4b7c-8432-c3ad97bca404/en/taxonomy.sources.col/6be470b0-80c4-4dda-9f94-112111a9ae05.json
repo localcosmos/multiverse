@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Pagurapseudes dentatus",
+    "taxonAuthor": "(Brown, 1956)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6be470b0-80c4-4dda-9f94-112111a9ae05",
+    "taxonNuid": "00100300a00d00200200a002002002",
+    "gbifNubkey": 2228754,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-593-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-593-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-593-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 82,
+    "vernacular": {
+        "en": "Hermit tanaid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hermit tanaid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Kalliapseudes dentatus</i></p>",
+            "shortTextKey": "taxon_text_9_666",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Best identified by its unusual habitat of occupying the discarded shells of small gastropods, much like a hermit crab. Like all taniads the first of the seven pairs of walking legs bear a conspicuous pair of chelate nippers. The second walking leg is elongate and used for walking, but the remaining ones are short and bearing sucker-like structures that are presumably used to grip the inside of the host shell.</p>",
+            "shortTextKey": "taxon_text_1_667",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 3 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_668",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Known only from False Bay, but almost certainly more widely distributed in the region.</p>",
+            "shortTextKey": "taxon_text_3_669",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Best known for its unusual habits of living in small mollusc shells, much like a hermit crab, and almost certainly mistaken for juvenile hermit crabs by most observers. The species was only known from a single specimen described in the 1950 until recently rediscovered by the Sea Change Project researchers living in large numbers under intertidal boulders in False Bay, where it co-occurs with two species if small hermit crabs. Occupy at least 19 different of small gastropod shells and appendages adapted to grip the inside of the host shell, much as in hermits.</p>",
+            "shortTextKey": "taxon_text_4_670",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not well known, but presumed to feed on detritus and small organisms grasped by the sturdy chelae.</p>",
+            "shortTextKey": "taxon_text_5_671",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As in all tanaids the eggs are brooded in a marsupial chamber ventrally between the legs of the female and released as manca larvae.</p>",
+            "shortTextKey": "taxon_text_6_672",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only known species of shell-inhabiting tanaid from the region, although as this group is so poorly researched others may well remain undetected.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_673",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Brokensha, R, Landschoff, J, du Plessis, A & Griffiths CL (2020). Redescription and notes on the ecology of <i>Pagurapseudes dentatus</i> (Brown, 1956) (Peracarida: Tanaidacea), a shell-inhabiting tanaid from South Africa, <i>Journal of Crustacean Biology</i>, 40(6), 715–724",
+            "shortTextKey": "taxon_text_8_674",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-593-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-593-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-593-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-593-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-593-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-593-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Kalliapseudes dentatus",
+            "taxonAuthor": "Brown, 1956"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

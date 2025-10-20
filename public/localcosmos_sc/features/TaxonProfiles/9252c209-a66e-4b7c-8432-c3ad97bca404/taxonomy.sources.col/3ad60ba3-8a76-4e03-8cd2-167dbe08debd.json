@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Plantago crassifolia",
+    "taxonAuthor": "Forssk.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3ad60ba3-8a76-4e03-8cd2-167dbe08debd",
+    "taxonNuid": "00600600500w00i00400b01k",
+    "gbifNubkey": 4156168,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2950-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2950-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2950-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1032,
+    "vernacular": {
+        "en": "Thick-leaved plantain"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Thick-leaved plantain",
+            "Fleshy plantain",
+            "Thick-leaved Plantain"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Plantago crassifolia </i>(Until recently confused with <i>P. crassifolia</i>, which is found in Europe and the Mediterranean coast of north Africa, but recent genetic evidence has shown that the South African species is distinct and the name <i>P. carnosa</i> has been resurrected as its correct name.)</p>",
+            "shortTextKey": "taxon_text_9_9725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Short perennial forming a dense rosette of elongate, fleshy, lance-shaped light-green leaves, sometimes wooly in axils. Common along the margins of estuaries, lagoons or sheltered beaches. Upright stems reaching well above the leaves and each bear a spike of tiny white flowers.</p>",
+            "shortTextKey": "taxon_text_1_9726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reach a height of only about 20 cm. Leaves about 10-20 cm long.</p>",
+            "shortTextKey": "taxon_text_2_9727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa,</p><p><u>Local/Regional:</u> In estuaries and salt-water lagoons extending from about Saldanha Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Salt-tolerant plant that occurs low on sandy and muddy shores in both estuaries and fully-marine salt marshes ,<i>o</i>ften forming dense stands.</p>",
+            "shortTextKey": "taxon_text_4_9729",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flower November to March. Wind pollinated.</p>",
+            "shortTextKey": "taxon_text_6_9731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Distinctive and unlikely to be confused with other species.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2950-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2950-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2950-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2950-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2950-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2950-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Plantago falcifolia",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Plantago maritima var. crassifolia",
+            "taxonAuthor": "(Forssk.) Batt."
+        },
+        {
+            "taxonLatname": "Plantago crassifolia var. compacta",
+            "taxonAuthor": "Willk."
+        },
+        {
+            "taxonLatname": "Plantaginella crassifolia",
+            "taxonAuthor": "(Forssk.) Fourr."
+        },
+        {
+            "taxonLatname": "Plantago maritima subsp. crassifolia",
+            "taxonAuthor": "(Forssk.) Holmboe"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,171 @@
+{
+    "taxonLatname": "Jellyella eburnea",
+    "taxonAuthor": "(Hincks, 1891)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "71c8c290-d5e4-4f96-9960-a6ea0c11d26e",
+    "taxonNuid": "00100500100100h001003003001",
+    "gbifNubkey": 1007797,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2368-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2368-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2368-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 938,
+    "vernacular": {
+        "en": "Planktonic bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Planktonic bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Membranipora eburnea</i></p>",
+            "shortTextKey": "taxon_text_9_9013",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a flat, white, lacelike sheet growing on floating objects, especially the shells of the cephalopod <i>Spirula </i>and of bubble-raft shells of the genus <i>Janthina,</i> but also on floating pieces of plastic, pumice and seeds, etc.</p><p>Examined closely the individual zooecia are arranged in a single layer like brick paving with each zooid oval to rectangular, with rounded or pointed tubercles on each of the corners.</p>",
+            "shortTextKey": "taxon_text_1_9014",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 1-2 cm across.</p>",
+            "shortTextKey": "taxon_text_2_9015",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: </u>Widely distributed across subtropical and temperate seas.</p><p><u>Local/Regional:</u> Whole region, usually washed ashore after storms.</p>",
+            "shortTextKey": "taxon_text_3_9016",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly found in the open ocean on hard surfaces and often seen on the cast up shells of <i>Spirula</i> and <i>Janthina</i>. Few other details available.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_9017",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_9018",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Hermaphrodite. Colonies expand by budding new zooecia along the margins. New colonies arise from sexual reproduction and settlement of planktonic larvae at new sites but details unknown.</p>",
+            "shortTextKey": "taxon_text_6_9019",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Closely related to the tuberculate lace animal <i>J. tuberculata</i> but that species is found only on the blades of algae, whereas this one occurs on shells and other hard surfaces.</p>",
+            "shortTextKey": "taxon_text_7_9020",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Taylor, PD & Monks, N (1997). A new cheilostome bryozoan genus pseudoplanktonic on molluscs and algae. <i>Invertebrate biology</i>, 39-51.",
+            "shortTextKey": "taxon_text_8_9021",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2368-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2368-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2368-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2368-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2368-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2368-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2408-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2408-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2408-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2407-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2407-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2407-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Membranipora eburnea",
+            "taxonAuthor": "Hincks, 1891"
+        },
+        {
+            "taxonLatname": "Membranipora tehuelca var. intertuberculata",
+            "taxonAuthor": "Waters, 1898"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

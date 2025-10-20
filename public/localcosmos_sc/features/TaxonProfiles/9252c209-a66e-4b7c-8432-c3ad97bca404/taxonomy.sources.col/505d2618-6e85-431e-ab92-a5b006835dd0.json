@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Haliclona (Haliclona) anonyma",
+    "taxonAuthor": "(Stephens, 1915)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "505d2618-6e85-431e-ab92-a5b006835dd0",
+    "taxonNuid": "00100t002001009003005004002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-785-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-785-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-785-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 638,
+    "vernacular": {
+        "en": "Purple turret sponge"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Purple turret sponge"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best thought of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small opening on the body surface, removing fine particles and ejecting the waste water from one or more larger openings called oscula.</p><p>This species forms a soft, compressible bright purple to pinkish sheet on rocky substrata. Numerous tubular, sometimes coalescent, turret-like branches of varying lengths extend upwards from the surface, each with a rounded end bearing a circular osculum.</p>",
+            "shortTextKey": "taxon_text_1_6314",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Sheet up to 50 cm across, turrets up to 15 cm long.</p>",
+            "shortTextKey": "taxon_text_2_6315",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.&nbsp;</p><p><u>Local/Regional:</u> West and south coast of South Africa.</p>",
+            "shortTextKey": "taxon_text_3_6316",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common on rocky reefs and low-shore pools to a depth of at least 144 m, often growing among, or overgrowing, other benthic invertebrates or foliose and coralline algae.</p>",
+            "shortTextKey": "taxon_text_4_6317",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6318",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take the form of sending out root-like extension from which new individual bud, by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6319",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several fairly similar purple tubular sponges in the region and differentiating these can be difficult from images and without examination of spicules.</p>",
+            "shortTextKey": "taxon_text_7_6320",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 26).<br><br>Samaai, T & Gibbons, MJ (2005). Demospongiae taxonomy and biodiversity of the Benguela region on the west coast of South Africa. <i>African Natural History</i>, 1, 1-96. (p. 85).<br><br>Samaai, T, Payne, R, Maduray, S & Janson, L (2018). Phylum Porifera In: Atkinson LJ and Sink KJ (eds) Field Guide to the Ofshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 37-64. (p. 41).",
+            "shortTextKey": "taxon_text_8_9178",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-785-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-785-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-785-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-785-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-785-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-785-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Haliclona anonyma",
+            "taxonAuthor": "(Stephens, 1915)"
+        },
+        {
+            "taxonLatname": "Siphonochalina anonyma",
+            "taxonAuthor": "Stephens, 1915"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

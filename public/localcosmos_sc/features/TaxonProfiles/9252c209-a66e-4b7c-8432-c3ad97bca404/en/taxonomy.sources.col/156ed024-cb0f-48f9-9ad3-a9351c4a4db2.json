@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Hippolyte catagrapha",
+    "taxonAuthor": "d'Udekem d'Acoz, 2007",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "156ed024-cb0f-48f9-9ad3-a9351c4a4db2",
+    "taxonNuid": "00100300a006002006001004008006",
+    "gbifNubkey": 6455450,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2771-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2771-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2771-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 966,
+    "vernacular": {
+        "en": "Feather star shrimp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Feather star shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Most easily identified by its unique association with feather stars, specifically <i>Tropiometra carinata </i>on which it is camouflaged. The shrimp has various colour morphs and patterns, mimicking that of its respective feather star host, and hence ranges from longitudinal red and yellow stripes to a spotted panther-like pattern.</p><p>The carapace (upper hard shell) is somewhat stout, leading into a straight rostrum (projection to the front) that is roughly as long as the carapace. The rostrum is smooth with a sharp spine at the end, and 2-3 ventral teeth on the underside. The diagnostic character separating this species from other South African species is a whorl of setae on the tip of the third maxilliped (mouth part). Since specimens would need to be collected and dissected to see this character, the identification in the field by its unique habitat and behaviour is highly useful.</p>",
+            "shortTextKey": "taxon_text_1_9183",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 22 mm.</p>",
+            "shortTextKey": "taxon_text_2_9184",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Recently described, only known from False Bay (though some unverified records on iNaturalist include Australia, Phillippines, Tanzania and Gulf of Aqaba).</p>",
+            "shortTextKey": "taxon_text_3_9185",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Has a unique association and can exclusively be found on the Elegant feather star, <i>Tropiometra carinata </i>where roughly 20% of feather stars hosts between 1-3 shrimp. These are exceedingly difficult to spot due to their small size and camouflaged nature. The feather star provides protection and food for the shrimp.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_9186",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on the mucous and waste produced by the feather star, and also scavenges food particles from the ambulacral groove running down the arms of the feather star as it passes the food to its mouth.</p>",
+            "shortTextKey": "taxon_text_5_9187",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Suggested to exhibit simple protandry (where males become females), as observed in many others species in the genus elsewhere.</p>",
+            "shortTextKey": "taxon_text_6_9188",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Their association with feather stars (living and camouflaging on them) is diagnostic, though another species in the same genus, the Broken-backed shrimp <i>H. kraussiana</i> is also know from the region.</p>",
+            "shortTextKey": "taxon_text_7_9189",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "d'Udekem d'Acoz, C (2007). New records of Atlantic <i>Hippolyte</i>, with the description of two new species, and a key to all Atlantic and Mediterranean species (Crustacea, Decapoda, Caridea). <i>Zoosystema</i>, 29, 183-207.<br><br>Levy, T, Zupo, V, Mutalipassi, M, Somma, E, Ruocco, N, Costantini, M, Abehsera, S, Manor, R, Chalifa-Caspi, V, Sagi, A & Aflalo, ED (2021). Protandric transcriptomes to uncover parts of the crustacean sex-differentiation puzzle. <i>Frontiers in Marine Science</i>, 8, p.745540.",
+            "shortTextKey": "taxon_text_8_9190",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2771-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2771-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2771-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2771-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2771-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2771-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2774-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2774-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2774-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2773-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2773-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2773-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2772-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2772-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2772-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Lepas (Lepas) testudinata",
+    "taxonAuthor": "Aurivillius, 1892",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "ec8f20ab-53d6-49b2-b9b5-d531a5abfb15",
+    "taxonNuid": "001003001005001003",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-433-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-433-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-433-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 561,
+    "vernacular": {
+        "en": "Elongate kelp goose barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Elongate kelp goose barnacle",
+            "Lepas (Lepas) testudinata"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Goose barnacles have a laterally flattened body, enclosed by five white plates and borne on a flexible, fleshy stalk. This species is characterized by its relatively thin white to fairly dark grey shell valves, which are separated by relatively wide gaps and show concentric growth lines. The aperture may have a narrow yellow margin. The stalk is typically very long, pale to brown and often, but not always, covered on soft spiny projections. Particularly commonly seen on floating kelps.</p>",
+            "shortTextKey": "taxon_text_1_5401",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 300 mm total length, including very elongate stalks, but head typically only about 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_5402",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in temperate seas in Southern hemisphere.</p><p><u>Local/Regional:</u> Restricted to cooler waters of west and south coasts, not found on east coast.</p>",
+            "shortTextKey": "taxon_text_3_5403",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>This species is most commonly recorded attached to floating kelps, where it may occur in extremely large numbers (thousands per kelp) and form clumps up to 300 mm long. Growth rate is thought to be extremely rapid and kelps suspected to have been uprooted in storms only a few weeks earlier can be washed up already covered in large barnacles. As the barnacles are negatively buoyant large infestations probably cause the kelps to sink, which would result in death of the barnacles.</p>",
+            "shortTextKey": "taxon_text_4_5404",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All barnacles are filter-feeders, extending their feathery feeding appendages though the aperture and combing these through the water to capture floating particles.</p>",
+            "shortTextKey": "taxon_text_5_5405",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Barnacles are hermaphroditic but prefer to cross-fertilise. Larvae are released into the water and seek out other suitable floating object on which to settle.</p>",
+            "shortTextKey": "taxon_text_6_5406",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other similar and easily confused goose barnacles on the region, but this one can be fairly reliably recognized by a very elongate, spiky stalk and preference for kelps.</p>",
+            "shortTextKey": "taxon_text_7_5407",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 80)<br><br>Whitehead, O, Griffiths, CL & Biccard, A (2011). Habitat use and the importance of litter for goose barnacle populations in South Africa. <i>Crustaceana</i> 84 (5-6), 635–649.",
+            "shortTextKey": "taxon_text_8_5408",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-433-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-433-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-433-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-433-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-433-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-433-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Hypnea spicifera (Suhr)",
+    "taxonAuthor": "Harvey, 1847",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a94c93f7-f7b6-4462-bf30-0957aa3e5f36",
+    "taxonNuid": "003002005005002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1383-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1383-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1383-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 797,
+    "vernacular": {
+        "en": "Green-tips"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Green-tips"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms stiff, upright, greenish tufts on the lower levels of exposed rocky shores, these becoming purplish towards their bases (revealing that this is a red, not a green alga!). The upright shafts emerge from a matt of creeping rhizomes and are typically about 3 mm in diameter. Each upright is irregularly branched and bears numerous short, spiky lateral projections towards its tip.</p>",
+            "shortTextKey": "taxon_text_1_7745",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Clumps typically about 200 mm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7746",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa and widely distributed in Indian Ocean.</p><p><u>Local/Regional:</u><i> </i>Northern Namibia (and possibly into Angola) and all along the South African coast.</p>",
+            "shortTextKey": "taxon_text_3_7747",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very distinctive and common species on intertidal rocks in the mid- to low shore, particularly on the south and east coasts, where it can form a distinct green band. Less common and less vivid green on the west coast. Often found in areas subject to sand inundation.</p><p>Has potential as a source for the extraction of carrageenan, a chemical used in the food industry as a gelling and thickening agent.</p>",
+            "shortTextKey": "taxon_text_4_7748",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7749",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spore producing structures (tetrasporangia) concentrated in the spiniform appendages branching from the ends of the main uprights.</p>",
+            "shortTextKey": "taxon_text_6_7750",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This genus contains about 8 regional species, some of which are very difficult to tell apart. Although these have been partially resolved in a genetic study by Johnson (see references) this work appears not to have been formally published. This species can be distinguished from other local members of the genus by its stiffer and much thicker stems (3 mm vs less than 1 mm).&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7751",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 406). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33, 1-294 (p. 182).<br><br>Isaac, WE & Hewitt, F (1953). The morphology, geographical distribution and ecology of <i>Hypnea spicifera</i> (Suhr) Harv. <i>Journal of South African Botany</i>, 19, 73-84.<br><br>Johnson, VJ (2018). Molecular systematics of the genus <i>Hypnea</i> (Rhodophyta) in South Africa, with the description of a new genus, <i>Tenebris</i> (Cystocloniaceae, Rhodophyta). Unpublished Masters Dissertation, Department of Biological Sciences, University of Cape Town.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 335).",
+            "shortTextKey": "taxon_text_8_7752",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1383-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1383-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1383-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1383-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1383-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1383-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,184 @@
+{
+    "taxonLatname": "Ocyale sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "896c84b6-b65d-4a1b-906d-211a52f5ace4",
+    "taxonNuid": "001003005001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1596-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1596-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1596-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 848,
+    "vernacular": {
+        "en": "Burrowing wolf spider"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Burrowing wolf spider"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spiders as a group are easily identified by having the body divided into just two sections – an anterior prosoma (equivalent to a fused head and thorax) and a posterior opisthosoma or abdomen. The prosoma bears a pair of poison fangs, a pair of leg-like feelers called pedipalps and four pairs of long jointed legs. Another characteristic feature is the presence of silk glands in the abdomen. Although diverse and abundant in almost all terrestrial environments, spiders are rare in marine habitats, a few occurring in the rocky intertidal and others in and above the driftline on sandy beaches.</p><p>Wolf spiders (Family Lycosidae) are free-running, ground-living spiders. They have a characteristic eye pattern with two large posterior eyes high on the head, below which are four smaller anterior eyes. Sand-dwelling species are typically pale in colour. This species appears to be an undescribed member of the genus <i>Ocyale</i> and is off-white with a grey dorsal patch around the eyes and another larger patch dorsally on the abdomen. The anterior eyes are relatively large and arranged into a rectangle. No previous spiders of this genus have been reported from temperate parts of South Africa, although <i>O. ghost </i>is known from a sandy beach around a freshwater lake in Madagascar and <i>O. guttata</i> from inland habitats from Tanzania southwards to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_1_8204",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>15-20 mm total length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_8205",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Unknown, but probably endemic.</p><p><u>Local/Regional:</u> So far only recorded from the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_8206",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found above the high water mark on sandy beaches and on coastal dunes where it buries in the sand, emerging to hunt for prey. Leaves characteristic digging marks that consists of a central burrow and small roundish balls of sand left in a circular pattern around the central whole.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_8207",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Details unknown, but all wolf spiders are predatory, so probably feeds on beach-dwelling insects such as kelp flies, as well as possibly beach hoppers (Amphipoda), which are abundant in this habitat.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_8208",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Wolf spiders have a characteristic mode of reproduction in which the female secures her eggs into a large ball-like mass which she carries around attached to the spinnerets on her abdomen. Once the spiderlings hatch out, they climb onto the female’s back and are carried around by her for several days before becoming independent.</p>",
+            "shortTextKey": "taxon_text_6_8209",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>No similar-looking pale wolf spiders are known from the seashore in this region and this is most likely an undescribed species.</p>",
+            "shortTextKey": "taxon_text_7_8210",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Alderweireldt, M (1996). A taxonomic revision of the genus <i>Ocyale</i> Audouin, 1826 in Africa (Araneae: Lycosidae). <i>Journal of Natural History</i>, 30(9), 1349-1365.<br><br>Jocque, M, Wellens, S, Andrianarivosoa, JD, Rakotondraparany, F & Jocqué, R (2017). A new species of <i>Ocyale</i> (Araneae, Lycosidae) from Madagascar, with first observations on the biology of a representative in the genus. <i>European Journal of Taxonomy</i>, (355), 1-13.",
+            "shortTextKey": "taxon_text_8_8211",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1596-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1596-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1596-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1596-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1596-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1596-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1594-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1594-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1594-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1593-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1593-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1593-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1595-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1595-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1595-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1592-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1592-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1592-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1597-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1597-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1597-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

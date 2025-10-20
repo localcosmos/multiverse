@@ -1,0 +1,161 @@
+{
+    "taxonLatname": "Fucomimus mus",
+    "taxonAuthor": "(Gilchrist & Thompson, 1908)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a729b109-af42-412f-859a-88e262a96d27",
+    "taxonNuid": "00100700300200200100w01700c001",
+    "gbifNubkey": 2380260,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-201-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-201-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-201-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 367,
+    "vernacular": {
+        "en": "Mousey klipfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Mousey klipfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Clinus mus, Pavoclinus mus</i></p>",
+            "shortTextKey": "taxon_text_9_3455",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Klipfishes of the family Clinidae are small, elongate, laterally-compressed, bottom-dwelling fishes with a single dorsal fin stretching head to tail. The pelvic fin is inserted in front of the pectoral fin and consists of just 2–3 elongate rays (and one concealed spine) and the tail is rounded. All species are viviparous and the males have a prominent intromittent organ just behind the anus. The group is particularly common and diverse in intertidal and shallow water systems along the southern and western coasts of South Africa and together these make up the continent’s largest group of endemic fish species.</p><p>This slender, strongly laterally-compressed species has a small head and mouth and a long, slender peduncle to the tail. The dorsal fin has 25–28 spines and 3–4 rays, with the first three spines distinctly raised into a crest separated by a deep notch from following spines. There is no tentacle above the eye.</p><p>The colour is extremely variable, but is usually fairly plain green, yellow, red or brown, often with paler horizontal bars. The body colour extends onto the dorsal fin, which has a series of pale windows after ever 2–3 spines. Pale windows also present in tail and anal fin. Eyes usually with three darker spokes forming a Y.</p>",
+            "shortTextKey": "taxon_text_1_3456",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 9 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3457",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_3458",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Sluggish, slow-moving species, associated with dense algae, among which it is well camouflaged. Colour varies with host algae. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_3459",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small-mouthed species that feeds mainly on amphipods, isopods, and copepods. In larger fish copepods become less important and polychaetes, isopods and mollusks make up more of the diet.</p>",
+            "shortTextKey": "taxon_text_5_3460",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Species-specific details unknown, but all clinids are livebearers, males copulating with females and fertilizing the eggs internally with their intromittent organs. Juveniles develop inside the females’ ovaries and in most species the live young are born in spring, have a short planktonic life then settle on the bottom. &nbsp;</p>",
+            "shortTextKey": "taxon_text_6_3461",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only member of this endemic genus, but several similar and easily confused species occur in the related genus <i>Pavoclinus</i>, which have similarly slender bodies and elongated caudal peduncles and are very variable in colour. The windows in the dorsal fin are a good distinguishing feature.</p>",
+            "shortTextKey": "taxon_text_7_3462",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bennett, B, Griffiths, CL & Penrith, ML (1983). The diets of littoral fish from the Cape Peninsula. <i>African Zoology</i>, 18(4), 343-352.<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 390).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 399). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 766).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 65).",
+            "shortTextKey": "taxon_text_8_3463",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-201-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-201-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-201-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-202-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-202-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-202-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-201-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-201-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-201-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clinus mus",
+            "taxonAuthor": "Gilchrist & Thompson, 1908"
+        },
+        {
+            "taxonLatname": "Pavoclinus mus",
+            "taxonAuthor": "(Gilchrist & Thompson, 1908)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

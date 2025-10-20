@@ -1,0 +1,153 @@
+{
+    "name": "Galatheoids (squat lobsters & porcelain crabs)",
+    "description": null,
+    "verboseName": "Galatheoids (squat lobsters & porcelain crabs)",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-812-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-812-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-812-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1024-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1024-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1024-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1098-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1098-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1098-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 0,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Galathea labidolepta",
+            "taxonAuthor": "Stimpson, 1858",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a03ae256-eac6-459a-a5bf-0963b20946a3",
+            "taxonNuid": "00100300a006002002003001006029",
+            "slug": "galathea-labidolepta",
+            "localizedSlug": {
+                "en": "blue-spotted-squat-lobster"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2738-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2738-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2738-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2739-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2739-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2739-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2738-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2738-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2738-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Porcellana africana",
+            "taxonAuthor": "Chace, 1956",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "26bd0469-1b52-4f89-8395-50ebe3359935",
+            "taxonNuid": "00100300a00600200200300400o001",
+            "slug": "porcellana-africana",
+            "localizedSlug": {
+                "en": "african-porcelain-crab"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2747-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2747-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2747-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2748-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2748-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2748-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2747-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2747-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2747-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pisidia streptocheles",
+            "taxonAuthor": "(Stimpson, 1858)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "81212cd7-4dd2-447b-b2f5-70d90ef58406",
+            "taxonNuid": "00100300a00600200200300400m00c",
+            "slug": "pisidia-streptocheles",
+            "localizedSlug": {
+                "en": "cape-porcelain-crab"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

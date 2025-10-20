@@ -1,0 +1,286 @@
+{
+    "name": "Stalked barncales",
+    "description": null,
+    "verboseName": "Stalked barncales",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-889-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-889-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-889-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-894-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-894-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-894-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-905-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-905-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-905-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-906-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-906-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-906-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 6,
+            "minImages": 1,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Dosima fascicularis",
+            "taxonAuthor": "(Ellis & Solander, 1786)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "1b22dec1-6f53-4d9e-bbca-36353bfba402",
+            "taxonNuid": "001003001005002001",
+            "slug": "dosima-fascicularis",
+            "localizedSlug": {
+                "en": "dosima-fascicularis"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-895-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-895-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-895-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-890-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-890-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-890-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-897-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-897-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-897-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-891-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-891-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-891-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-890-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-890-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-890-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lepas (Lepas) anatifera",
+            "taxonAuthor": "Linnaeus, 1758",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3b13bbbe-b2e9-4af7-b074-c51584969936",
+            "taxonNuid": "001003001005001001",
+            "slug": "lepas-lepas-anatifera",
+            "localizedSlug": {
+                "en": "yellow-rimmed-goose-barnacle"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-907-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-907-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-907-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-908-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-908-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-908-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-909-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-909-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-909-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-910-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-910-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-910-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-911-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-911-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-911-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-430-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-430-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-430-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-907-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-907-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-907-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lepas (Lepas) anserifera",
+            "taxonAuthor": "Linnaeus, 1767",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c6745f79-368b-4d75-a206-99c96a62a11b",
+            "taxonNuid": "001003001005001002",
+            "slug": "lepas-lepas-anserifera",
+            "localizedSlug": {
+                "en": "ridged-goose-barnacle"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-431-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-431-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-431-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-432-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-432-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-432-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-431-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-431-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-431-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lepas (Lepas) testudinata",
+            "taxonAuthor": "Aurivillius, 1892",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "ec8f20ab-53d6-49b2-b9b5-d531a5abfb15",
+            "taxonNuid": "001003001005001003",
+            "slug": "lepas-lepas-testudinata",
+            "localizedSlug": {
+                "en": "elongate-kelp-goose-barnacle"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-433-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-433-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-433-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-433-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-433-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-433-1000.webp"
+                }
+            }
+        }
+    ]
+}

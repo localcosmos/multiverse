@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Celleporaria capensis",
+    "taxonAuthor": "(O'Donoghue & de Watteville, 1935)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "36e7b255-0621-4e6a-8b98-f804186222b3",
+    "taxonNuid": "00100500100100b00b00100600h",
+    "gbifNubkey": 1004674,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-379-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-379-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-379-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 526,
+    "vernacular": {
+        "en": "Spiny false-coral bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spiny false-coral bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a thick, rounded, purple, calcareous crust bearing rounded bumps on its surface and with a fuzzy appearance (caused by the spines on the surface). Could be confused with a coral, hence the common name.</p><p>When viewed closely, the rectangular zooecia are not clearly distinct from one another and each has a large, rounded aperture flanked by a pair of strong spikes and with a triangular anterior projection or ‘rostrum’.</p>",
+            "shortTextKey": "taxon_text_1_5060",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than1 mm long, colonies typically 2-5 cm across.</p>",
+            "shortTextKey": "taxon_text_2_5061",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_5062",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common in rock pools, under boulders and on kelp holdfasts, usually as a single, isolated colony. No other details available.</p>",
+            "shortTextKey": "taxon_text_4_5063",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5064",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No species-specific details known. Existing colonies expand by budding new zooecia around the margins. Also undertake sexual reproduction, but specific details not available.</p>",
+            "shortTextKey": "taxon_text_6_5065",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The purple colour and spiky appearance are fairly reliable identification characters, but several other hard, coral-like species occur in the same habitats, such as the yellowish <i>Gephyrophora polymorpha</i> and the more upright and finger-like orange <i>Turbicellepora cylindriformis</i>.</p><p>Note also the confusingly similarly name of the only distantly-related <i>Celleporella hyalina</i>.</p>",
+            "shortTextKey": "taxon_text_7_5066",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 140).<br><br>Day, JH (1969). A Guide to Marine Life on South African Shores. AA Balkema, Cape Town. (p. 129).",
+            "shortTextKey": "taxon_text_8_5067",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-379-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-379-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-379-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-379-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-379-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-379-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-380-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-380-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-380-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

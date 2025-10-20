@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Hyperia medusarum",
+    "taxonAuthor": "(Müller, 1776)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "35c24743-5e27-4bcb-83bf-63af50ccea44",
+    "taxonNuid": "00100300a001003001001001004001008",
+    "gbifNubkey": 5177649,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-544-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-544-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-544-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 27,
+    "vernacular": {
+        "en": "Jellyfish amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Jellyfish amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cancer medusarum</i>&nbsp;</p>",
+            "shortTextKey": "taxon_text_9_171",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Squat, rotund amphipod with truncated head bearing very large, vertically- elongated eyes; antennae very short in females, much longer in males. First two pairs of legs without nippers and remaining legs held splayed and more or less all similar in length. Colour fairly transparent with brown or orange speckles, eyes sometimes green.</p><p>Perhaps most easily identified by its association with large jellyfish.</p>",
+            "shortTextKey": "taxon_text_1_172",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 12 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_173",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in North and South Atlantic Ocean.</p><p><u>Local/Regional:</u> Namibia to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_174",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of several hyperiid amphipods that have parasitic relationships with large jellyfish (as well as with salps and ctenophores) and commonly found in the bells of compass jellyfish (<i>Chrysaora</i> species). The amphipods are facultative parasites when adult (in other words they also live outside of jellyfish), but the relationship is obligate in juveniles. There is a tendency for the amphipods to move to the gonads of the host as it becomes larger, the reason being that the gonad tissue provides higher carbon and protein concentrations than other tissues.</p><p>&nbsp;In the North Sea the relationship is strongly seasonal with jellyfish being much more heavily parasitised in late summer and autumn, when they are larger and sexually mature. In Namibia, infection rates were low (4%) in summer, but much higher (38%) in winter, suggesting that the jellyfish may breed at that time, which correlates with their generally larger sizes in winter.</p>",
+            "shortTextKey": "taxon_text_4_175",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Hyperiids may feed on prey caught by the jellyfish and are sometimes found on their feeding arms, but also feed on the host tissue, particularly the gonads.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_176",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females bear paired ventral brood plates that form a marsupial chamber within which the eggs develop into fully formed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This group is fairly easily recognised by the compact, humped body form, very large eyes and association with jellyfish. However, several species of <i>Hyperia </i>and related genera have been reported from the region, so not all specimens found associated with jellyfish may belong to this particular species.</p>",
+            "shortTextKey": "taxon_text_7_178",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Buecher, E, Sparks, C, Brierley, A, Boyer, H, & Gibbons, M (2001). Biometry and size distribution of <i>Chrysaora hysoscella</i> (Cnidaria, Scyphozoa) and <i>Aequorea aequorea</i> (Cnidaria, Hydrozoa) off Namibia with some notes on their parasite <i>Hyperia medusarum</i>. <i>Journal of Plankton Research</i>, 23(10), 1073-1080.",
+            "shortTextKey": "taxon_text_8_179",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-544-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-544-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-544-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-544-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-544-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-544-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Hyperia hystrix",
+            "taxonAuthor": "Bovallius, 1889"
+        },
+        {
+            "taxonLatname": "Hyperia medusarum hystrix",
+            "taxonAuthor": "Bovallius, 1889"
+        },
+        {
+            "taxonLatname": "Hyperia medusarum medusarum",
+            "taxonAuthor": "(Müller, 1776)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,1101 @@
+{
+    "name": "Birds",
+    "description": null,
+    "verboseName": "Birds",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2198-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2198-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2198-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2149-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2149-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2149-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2197-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2197-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2197-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Haematopus moquini",
+            "taxonAuthor": "Bonaparte, 1856",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6c50cb57-2cff-4ae8-af74-6c3a2d2be42b",
+            "taxonNuid": "001007003002002004002009007001009",
+            "slug": "haematopus-moquini",
+            "localizedSlug": {
+                "en": "african-oystercatcher"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-914-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-914-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-914-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-914-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-914-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-914-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Spheniscus demersus",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "42933504-ce83-4687-943d-e92420a425f7",
+            "taxonNuid": "001007003002002004002010001006001",
+            "slug": "spheniscus-demersus",
+            "localizedSlug": {
+                "en": "african-penguin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2199-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2199-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2199-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2268-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2268-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2268-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-915-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-915-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-915-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-916-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-916-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-916-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2199-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2199-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2199-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Threskiornis aethiopicus",
+            "taxonAuthor": "(Latham, 1790)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "256a5566-0e0d-44d4-af1f-7a80ce8252db",
+            "taxonNuid": "00100700300200200400200r00500200c001",
+            "slug": "threskiornis-aethiopicus",
+            "localizedSlug": {
+                "en": "african-sacred-ibis"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-917-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-917-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-917-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-917-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-917-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-917-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sterna vittata",
+            "taxonAuthor": "J. F. Gmelin, 1789",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8ac9c2ee-9046-4ffa-9c37-757221cd3d1d",
+            "taxonNuid": "00100700300200200400200900a00j00d",
+            "slug": "sterna-vittata",
+            "localizedSlug": {
+                "en": "antarctic-tern"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-918-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-918-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-918-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-918-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-918-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-918-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Phalacrocorax neglectus",
+            "taxonAuthor": "(Wahlberg, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5764f05f-6882-47f0-8f4a-8df7979e2140",
+            "taxonNuid": "00100700300200200400201400300300e",
+            "slug": "phalacrocorax-neglectus",
+            "localizedSlug": {
+                "en": "bank-cormorant"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-919-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-919-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-919-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-919-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-919-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-919-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Phalacrocorax capensis",
+            "taxonAuthor": "(Sparrman, 1788)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4b586231-59fb-4eb8-964c-d4de98b9054f",
+            "taxonNuid": "001007003002002004002014003003004",
+            "slug": "phalacrocorax-capensis",
+            "localizedSlug": {
+                "en": "cape-cormorant"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-920-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-920-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-920-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-921-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-921-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-921-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-920-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-920-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-920-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Morus capensis",
+            "taxonAuthor": "(Lichtenstein, 1823)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e3c68919-5b14-4816-8b17-129fbe221cdb",
+            "taxonNuid": "001007003002002004002014004001002",
+            "slug": "morus-capensis",
+            "localizedSlug": {
+                "en": "cape-gannet"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-922-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-922-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-922-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-922-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-922-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-922-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Motacilla capensis",
+            "taxonAuthor": "Linnaeus, 1766",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7edd2488-ae13-4f9d-b5a9-91cb8c00c0f2",
+            "taxonNuid": "00100700300200200400200q01u005003",
+            "slug": "motacilla-capensis",
+            "localizedSlug": {
+                "en": "cape-wagtail"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-923-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-923-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-923-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-923-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-923-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-923-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hydroprogne caspia",
+            "taxonAuthor": "(Pallas, 1770)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "92fb57e1-0be5-4047-8bc7-3d1eb8cf13eb",
+            "taxonNuid": "00100700300200200400200900a008001",
+            "slug": "hydroprogne-caspia",
+            "localizedSlug": {
+                "en": "caspian-tern"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-924-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-924-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-924-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-924-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-924-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-924-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tringa nebularia",
+            "taxonAuthor": "(Gunnerus, 1767)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cfafdf42-414e-43cf-936f-eec4b661dfb9",
+            "taxonNuid": "00100700300200200400200900g00e008",
+            "slug": "tringa-nebularia",
+            "localizedSlug": {
+                "en": "common-greenshank"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-925-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-925-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-925-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-925-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-925-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-925-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sterna hirundo",
+            "taxonAuthor": "Linnaeus, 1758",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cc5ff147-8011-4fa1-9bbb-dac5311f4844",
+            "taxonNuid": "00100700300200200400200900a00j006",
+            "slug": "sterna-hirundo",
+            "localizedSlug": {
+                "en": "common-tern"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-928-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-928-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-928-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-926-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-926-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-926-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-928-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-928-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-928-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Numenius phaeopus",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0d3baa45-af12-4abf-b00a-620de46b79bc",
+            "taxonNuid": "00100700300200200400200900g00a007",
+            "slug": "numenius-phaeopus",
+            "localizedSlug": {
+                "en": "common-whimbrel"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-927-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-927-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-927-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-927-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-927-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-927-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Microcarbo coronatus",
+            "taxonAuthor": "(Wahlberg, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ed278eaa-9e2e-40f5-ad54-81e02b902d40",
+            "taxonNuid": "001007003002002004002014003002002",
+            "slug": "microcarbo-coronatus",
+            "localizedSlug": {
+                "en": "crowned-cormorant"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-929-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-929-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-929-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-929-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-929-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-929-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Alopochen aegyptiaca",
+            "taxonAuthor": "(Linnaeus, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f0202253-7328-463c-9c34-2bfbf8fb48fa",
+            "taxonNuid": "001007003002002004002002001002001",
+            "slug": "alopochen-aegyptiaca",
+            "localizedSlug": {
+                "en": "egyptian-goose"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-940-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-940-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-940-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-940-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-940-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-940-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Megaceryle maxima",
+            "taxonAuthor": "(Pallas, 1769)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3c0852a7-88bd-443e-b717-4a869480afe2",
+            "taxonNuid": "00100700300200200400200d001002003003",
+            "slug": "megaceryle-maxima",
+            "localizedSlug": {
+                "en": "giant-kingfisher"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-941-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-941-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-941-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-942-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-942-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-942-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-941-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-941-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-941-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Plegadis falcinellus",
+            "taxonAuthor": "(Linnaeus, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "38f4cde2-b794-4941-9b54-ac75c0ce37f6",
+            "taxonNuid": "00100700300200200400200r005002009002",
+            "slug": "plegadis-falcinellus",
+            "localizedSlug": {
+                "en": "glossy-ibis"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-943-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-943-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-943-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-943-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-943-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-943-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chroicocephalus cirrocephalus",
+            "taxonAuthor": "(Vieillot, 1818)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e5667310-1327-450e-b191-d7e71190ff33",
+            "taxonNuid": "00100700300200200400200900a003003",
+            "slug": "chroicocephalus-cirrocephalus",
+            "localizedSlug": {
+                "en": "grey-headed-gull"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-944-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-944-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-944-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-944-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-944-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-944-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ardea cinerea",
+            "taxonAuthor": "Linnaeus, 1758",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "77cadd88-b7b6-4dc4-9130-a1adb2920faf",
+            "taxonNuid": "00100700300200200400200r001001001002",
+            "slug": "ardea-cinerea",
+            "localizedSlug": {
+                "en": "grey-heron"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-945-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-945-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-945-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-945-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-945-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-945-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Bostrychia hagedash",
+            "taxonAuthor": "(Latham, 1790)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a0ceb0df-ebdb-48c9-a035-f7c5f6c5c7b6",
+            "taxonNuid": "00100700300200200400200r005002001003",
+            "slug": "bostrychia-hagedash",
+            "localizedSlug": {
+                "en": "hadeda-ibis"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-946-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-946-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-946-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-946-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-946-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-946-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chroicocephalus hartlaubii",
+            "taxonAuthor": "(Bruch, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e5b048c2-0c82-4abf-a4b8-37fd916373de",
+            "taxonNuid": "00100700300200200400200900a003005",
+            "slug": "chroicocephalus-hartlaubii",
+            "localizedSlug": {
+                "en": "hartlaubs-gull"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-947-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-947-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-947-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-947-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-947-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-947-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Larus dominicanus",
+            "taxonAuthor": "M. H. K. Lichtenstein, 1823",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5e35ee66-8f8a-4f71-af5d-dcdacf54f820",
+            "taxonNuid": "00100700300200200400200900a00b00b",
+            "slug": "larus-dominicanus",
+            "localizedSlug": {
+                "en": "kelp-gull"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2200-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2200-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2200-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-949-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-949-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-949-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-948-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-948-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-948-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2200-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2200-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2200-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Egretta garzetta",
+            "taxonAuthor": "(Linnaeus, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0dd2f362-53ae-4602-bc4f-6649b902cc4c",
+            "taxonNuid": "00100700300200200400200r001001005005",
+            "slug": "egretta-garzetta",
+            "localizedSlug": {
+                "en": "little-egret"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-950-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-950-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-950-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-950-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-950-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-950-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ceryle rudis",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0d12e08c-89b7-4aa9-ae08-3d5813d97e21",
+            "taxonNuid": "00100700300200200400200d001002001001",
+            "slug": "ceryle-rudis",
+            "localizedSlug": {
+                "en": "pied-kingfisher"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-951-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-951-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-951-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-951-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-951-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-951-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Arenaria interpres",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8b0186a5-e3a0-47fc-9029-01d5df573f24",
+            "taxonNuid": "00100700300200200400200900g002001",
+            "slug": "arenaria-interpres",
+            "localizedSlug": {
+                "en": "ruddy-turnstone"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-952-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-952-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-952-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-952-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-952-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-952-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Calidris alba",
+            "taxonAuthor": "(Pallas, 1764)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "248c44af-0012-4bd8-9fa1-5a689c9e6f53",
+            "taxonNuid": "00100700300200200400200900g004002",
+            "slug": "calidris-alba",
+            "localizedSlug": {
+                "en": "sanderling"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-953-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-953-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-953-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-953-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-953-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-953-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sterna sandvicensis",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "d11f058b-bc66-4be2-9002-384a6f5dc32b",
+            "taxonNuid": "00100b004001001",
+            "slug": "sterna-sandvicensis",
+            "localizedSlug": {
+                "en": "sandwich-tern"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-954-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-954-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-954-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-954-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-954-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-954-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thalasseus bergii",
+            "taxonAuthor": "(M. H. K. Lichtenstein, 1823)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "bdb6033a-35fc-4271-b359-5dbe7bbbf1ac",
+            "taxonNuid": "00100700300200200400200900a00l004",
+            "slug": "thalasseus-bergii",
+            "localizedSlug": {
+                "en": "swift-tern-2"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-955-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-955-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-955-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-956-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-956-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-956-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-955-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-955-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-955-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Charadrius marginatus",
+            "taxonAuthor": "Vieillot, 1818",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4ba95046-24e0-4b95-89b7-dfd93f9ee0cf",
+            "taxonNuid": "00100700300200200400200900300200e",
+            "slug": "charadrius-marginatus",
+            "localizedSlug": {
+                "en": "white-fronted-plover"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-957-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-957-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-957-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-957-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-957-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-957-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Phalacrocorax lucidus",
+            "taxonAuthor": "(Lichtenstein, 1823)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5ac42e6e-f703-4389-87c0-09e5de05463e",
+            "taxonNuid": "00100700300200200400201400300300c",
+            "slug": "phalacrocorax-lucidus",
+            "localizedSlug": {
+                "en": "white-breasted-cormorant"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-958-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-958-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-958-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-958-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-958-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-958-1000.webp"
+                }
+            }
+        }
+    ]
+}

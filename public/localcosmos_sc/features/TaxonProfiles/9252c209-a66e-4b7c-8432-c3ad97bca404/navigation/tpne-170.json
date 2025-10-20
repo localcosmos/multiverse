@@ -1,0 +1,189 @@
+{
+    "name": "Fan-like or flat-shaped",
+    "description": null,
+    "verboseName": "Fan-like or flat-shaped",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2102-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2102-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2102-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 0,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Exallosorus harveyanus (Pappe ex Kützing)",
+            "taxonAuthor": "J.A. Phillips, 1997",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "72ba450c-a42e-4e90-902c-2ce100dd7422",
+            "taxonNuid": "00300100b001",
+            "slug": "exallosorus-harveyanus-pappe-ex-kutzing",
+            "localizedSlug": {
+                "en": "multifanned-zonaria"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1017-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1017-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1017-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1017-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1017-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1017-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudoralfsia verrucosa (Areschoug)",
+            "taxonAuthor": "Parente, Fletcher & G.W. Saunders, 2020",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "78eb3379-b1bc-40ab-95a9-20dca82df62b",
+            "taxonNuid": "00300100j001",
+            "slug": "pseudoralfsia-verrucosa-areschoug",
+            "localizedSlug": {
+                "en": "ralfsia"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2413-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2413-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2413-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1034-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1034-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1034-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2413-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2413-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2413-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Zeacarpa leiomorpha",
+            "taxonAuthor": "R.J Anderson, H. R Simons & J.J. Bolton, 1988",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "e59037ef-a628-4fac-8d7b-044784dc9ae0",
+            "taxonNuid": "00300100n001",
+            "slug": "zeacarpa-leiomorpha",
+            "localizedSlug": {
+                "en": "mint-chocolate-spread"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1053-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1053-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1053-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1053-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1053-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1053-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Zonaria subarticulata (J.V. Lamouroux)",
+            "taxonAuthor": "Papenfuss, 1944",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "6c54b29c-581a-4b59-aae7-60fff218ae1d",
+            "taxonNuid": "00300100o001",
+            "slug": "zonaria-subarticulata-jv-lamouroux",
+            "localizedSlug": {
+                "en": "articulated-zonaria"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1054-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1054-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1054-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1054-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1054-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1054-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sonderophycus capensis (Montagne)",
+            "taxonAuthor": "M.J. Wynne, 2011",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "b44e31b3-92a1-4c79-8755-3968d29cfe58",
+            "taxonNuid": "00300200d001001",
+            "slug": "sonderophycus-capensis-montagne",
+            "localizedSlug": {
+                "en": "red-fan-weed"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Hippolyte kraussiana",
+    "taxonAuthor": "(Stimpson, 1860)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9b59aeef-bac9-44b6-8e81-36107bd2e1df",
+    "taxonNuid": "00100300a00600200600100400800h",
+    "gbifNubkey": 5716557,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2732-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2732-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2732-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 967,
+    "vernacular": {
+        "en": "Broken-backed shrimp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Broken-backed shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium-sized inconspicuous shrimp with various colour patterns, ranging from yellow, green, red and almost black to match its habitat.</p><p>Slender carapace (hard upper shell) terminating in a straight rostrum that is slightly shorter than the length of the carapace. Rostrum with 1-2 dorsal teeth and 4-5 ventral teeth. Pleon (hind body) bent in the middle giving it a distinctive hunch- or ‘broken’-backed appearance, separating it from other South African <i>Hippolyte</i> species.</p>",
+            "shortTextKey": "taxon_text_1_9192",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 32 mm.</p>",
+            "shortTextKey": "taxon_text_2_9193",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa to Madagascar.</p><p><u>Local/Regional:</u> Simon’s Town to East London.</p>",
+            "shortTextKey": "taxon_text_3_9194",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives among and on various seaweeds, estuarine weedbeds and seagrass. Broken-backed shrimps are slow-moving, cryptic and use camouflage to avoid predation.</p>",
+            "shortTextKey": "taxon_text_4_9195",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not specifically known for this species, though others in the genus have been shown to have varied diet including diatoms, macroalgae, sponges, bryozoans and foraminiferans. Interestingly, studies on other species from elsewhere have shown that diet can lead to sex changes, as in the case of <i>Hippolyte inermis</i> when feeding on certain diatoms.</p>",
+            "shortTextKey": "taxon_text_5_9196",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Suggested to exhibit simple protandry (where males become females), as observed in many others species in the genus elsewhere.</p>",
+            "shortTextKey": "taxon_text_6_9197",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The bent abdomen giving a hunchbacked appearance is diagnostic.</p>",
+            "shortTextKey": "taxon_text_7_9198",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 108). <br><br>d'Udekem d'Acoz, C (2007). New records of Atlantic <i>Hippolyte</i>, with the description of two new species, and a key to all Atlantic and Mediterranean species (Crustacea, Decapoda, Caridea). <i>Zoosystema</i>, 29, 183-207.<br><br>Zupo, V (2001). Influence of diet on sex differentiation of <i>Hippolyte inermis</i> Leach (Decapoda: Natantia) in the field. <i>Hydrobiologia</i>, 449, 131-140.",
+            "shortTextKey": "taxon_text_8_9199",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2732-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2732-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2732-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2732-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2732-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2732-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Virbius capensis",
+            "taxonAuthor": "Lenz & Strunck, 1914"
+        },
+        {
+            "taxonLatname": "Virbius kraussianus",
+            "taxonAuthor": "Stimpson, 1860"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

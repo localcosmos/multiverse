@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Lichina intermedia",
+    "taxonAuthor": "(C. Bab.) M. Schultz",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "15030e74-ea73-40a5-967e-e77cec1e09d5",
+    "taxonNuid": "0050030rh00100200h003",
+    "gbifNubkey": 10574473,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-414-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-414-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-414-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 546,
+    "vernacular": {
+        "en": "Southern black sea-lichen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Southern black sea-lichen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Lichina pygmaea var intermedia</i></p>",
+            "shortTextKey": "taxon_text_9_5249",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>An obligate marine species found well down in the intertidal in the <i>Littorina</i> (periwinkle) or Balanoid (barnacle) zones of the intertidal.</p><p>Forms quite extensive clumps and often mistaken as a seaweed. The dark-brown or olive-green thallus is formed into upright tufts with each ‘frond’ irregularly branched in a single plane (‘palmate‘), like a short brown seaweed. The reproductive bodies (apothecia) and globular or flask-like.</p><p>Originally thought to be a globally widespread species, <i>L. pygmaea</i>, but the Southern Hemisphere populations have recently been proven to represent a distinct species.</p>",
+            "shortTextKey": "taxon_text_1_5250",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically 10 cm or more across. Fronds about 10 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_5251",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Australia, New Zealand and South Africa.</p><p><u>Local/Regional:</u> Poorly documented, but there are records along west coast of South Africa to at least Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_5252",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common species that was reported as early as 1960 by TA Stephenson, one of the pioneers of intertidal research in South Africa. However, still remains very poorly studied with no research undertaken to date in South Africa. May form large patches on intertidal rocks and thus probably a significant component of the diets of upper intertidal grazers, such as periwinkles and high-shore limpets.</p><p>The symbiont is a cyanobacterium rather than an alga.</p>",
+            "shortTextKey": "taxon_text_4_5253",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_5254",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by branching<strong>. </strong>Spores are produced by small fruiting bodies on the surface of the colony.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_5255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>We are not aware of any published research on intertidal lichens in South Africa, so it is very difficult to say whether there are other similar species in the region. Most easily confused with small brown or red algae, but these lack the apothecia (sporing bodies).</p>",
+            "shortTextKey": "taxon_text_7_5256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ortiz-Álvarez, R, de Los Ríos, A, Fernández-Mendoza, F, Torralba-Burrial, A & Pérez-Ortega, S (2015). \"Ecological specialization of two photobiont-specific maritime cyanolichen species of the genus <i>Lichina</i>\".<i>PloS one</i>. 10 (7), e0132718.<br><br>Schultz, M (2017). Morphological and molecular data support <i>Lichina intermedia</i> as a distinct austral-marine species in the <i>L. pygmaea</i> group. <i>The Lichenologist</i>, 49(4), 321-332.",
+            "shortTextKey": "taxon_text_8_5257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-414-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-414-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-414-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-414-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-414-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-414-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lichina pygmaea var. intermedia",
+            "taxonAuthor": "C. Bab."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

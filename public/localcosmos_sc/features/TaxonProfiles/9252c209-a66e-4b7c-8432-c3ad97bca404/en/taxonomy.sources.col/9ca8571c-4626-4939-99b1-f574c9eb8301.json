@@ -1,0 +1,170 @@
+{
+    "taxonLatname": "Nucella dubia",
+    "taxonAuthor": "(Krauss, 1848)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9ca8571c-4626-4939-99b1-f574c9eb8301",
+    "taxonNuid": "00100k00700300e00900100f012005",
+    "gbifNubkey": 5726280,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1141-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1141-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1141-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 288,
+    "vernacular": {
+        "en": "Common dogwhelk"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Common dogwhelk",
+            "common dogwhelk"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell conical and whelk-shaped with a large aperture and relatively short spire, each whorl of the shell with a series of weak, flattened spiral ridges. The ridges are sometimes patterned with alternating bands of brown and white marks, but colouration is extremely variable (hence the species name ‘dubia’!) and ranges from plain brown or grey to bearing marked dark flames on a pale background. Internal colour usually dark purple to brown, often with paler bands.</p><p>The fact that this species extends far higher into the intertidal than other whelks is also a useful identification feature in the field.</p>",
+            "shortTextKey": "taxon_text_1_2696",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 20 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2697",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_2698",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common, but relatively small species found remarkably high into the intertidal and the only whelk to occur up into the Littorina Zone, where it nestles in crevices, emerging to feed on periwinkles, barnacles and small limpets, which it attacks by drilling, or though the opercular opening.</p><p>As they can occur in high densities (86 per square m) the whelks are responsible for predating about 12 % of the periwinkle population each year, and as many as 45% of the population of the barnacle <i>Tetraclita serrata</i>, hence probably maintaining free spaces within the barnacle beds.</p>",
+            "shortTextKey": "taxon_text_4_2699",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>The egg cases are purse-shaped with a pair of short ear-like lobes at the top and are borne on a very short stalk. Each capsule contains many hundreds of eggs, but only about 12-47 of these develop into crawling young, which emerge through an ‘escape hatch’ in the egg case, the remaining eggs are nurse-cells that are eaten during development.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2700",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are purse-shaped with a pair of short ear-like lobes at the top and are borne on a very short stalk. Each capsule contains many hundreds of eggs, but only about 12-47 of these develop into crawling young, which emerge through an ‘escape hatch’ in the egg case, the remaining eggs are nurse-cells that are eaten during development.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several related species that occur on the same shores. The Girdled dogwhelk <i>Trochia cingulata</i> is bluish-grey to white, often has a series of pronounced spiral ridges on each whorl and is found lower on the shore and only on the west coast. The Scaly dogwhelk <i>N. squamosa</i> is larger with a grid of numerous intersecting fine ridges on the shell, which is almost always covered by the hydroid <i>Hydractinia altispina</i>. The banded dogwhelk <i>N. wahlbergi</i> is larger (34 mm) with a longer spire and is white with fine spiral grooves and usually a marked brown band around the last whorl.</p>",
+            "shortTextKey": "taxon_text_7_2702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 192).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 90).<br><br>McQuaid, CD (1985). Differential effects of predation by the intertidal whelk<i> Nucella dubia</i> (Kr.) on <i>Littorina africana  knysnaensis</i> (Phillipi) and the barnacle <i>Tetraclita serrata</i> Darwin. <i>Journal of Experimental Marine Biology and Ecology</i>, 89(2-3), 97-107.",
+            "shortTextKey": "taxon_text_8_2703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1141-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1141-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1141-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1141-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1141-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1141-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-117-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-117-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-117-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Trophon acutispira",
+            "taxonAuthor": "(G. B. Sowerby III, 1921)"
+        },
+        {
+            "taxonLatname": "Nucella pyramidalis",
+            "taxonAuthor": "(W. H. Turton, 1932)"
+        },
+        {
+            "taxonLatname": "Purpura dubia",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Thais rufanensis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Thais pyramidalis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Cominella acutispira",
+            "taxonAuthor": "G. B. Sowerby III, 1921"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

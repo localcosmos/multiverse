@@ -1,0 +1,158 @@
+[
+    {
+        "taxonLatname": "Salmo trutta",
+        "taxonAuthor": "Linnaeus, 1758",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a",
+        "taxonNuid": "00100800101200100701a",
+        "gbifNubkey": 8215487,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "vernacular",
+        "name": "Breden",
+        "isPreferredName": false,
+        "acceptedNameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a"
+    },
+    {
+        "taxonLatname": "Salmo trutta",
+        "taxonAuthor": "Linnaeus, 1758",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a",
+        "taxonNuid": "00100800101200100701a",
+        "gbifNubkey": 8215487,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "vernacular",
+        "name": "Blauforelle",
+        "isPreferredName": false,
+        "acceptedNameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a"
+    },
+    {
+        "taxonLatname": "Salmo trutta",
+        "taxonAuthor": "Linnaeus, 1758",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a",
+        "taxonNuid": "00100800101200100701a",
+        "gbifNubkey": 8215487,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "vernacular",
+        "name": "Bergforelle",
+        "isPreferredName": false,
+        "acceptedNameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a"
+    },
+    {
+        "taxonLatname": "Salmo trutta",
+        "taxonAuthor": "Linnaeus, 1758",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a",
+        "taxonNuid": "00100800101200100701a",
+        "gbifNubkey": 8215487,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "vernacular",
+        "name": "Bachforelle",
+        "isPreferredName": false,
+        "acceptedNameUuid": "fb1421f2-2ab1-4cc6-867f-bad2afaf8b3a"
+    },
+    {
+        "taxonLatname": "Acer pseudoplatanus",
+        "taxonAuthor": "L.",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+        "taxonNuid": "00600800601d00800102r",
+        "gbifNubkey": 3189870,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+            }
+        },
+        "shortProfile": "<p>Der Bergahorn, ein mystischer Wächter, verbindet Erde und Kosmos mit seiner erdenden Energie und schützt suchende Seelen. Seine Blätter flüstern Weisheit der Ahnen, während sein Holz Harmonie und Beständigkeit schenkt. In der Stille unter seinen Ästen offenbaren sich Klarheit und tiefe Erkenntnis.</p>",
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn",
+        "isPreferredName": true,
+        "acceptedNameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0"
+    },
+    {
+        "taxonLatname": "Acer pseudoplatanus",
+        "taxonAuthor": "L.",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+        "taxonNuid": "00600800601d00800102r",
+        "gbifNubkey": 3189870,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+            }
+        },
+        "shortProfile": "<p>Der Bergahorn, ein mystischer Wächter, verbindet Erde und Kosmos mit seiner erdenden Energie und schützt suchende Seelen. Seine Blätter flüstern Weisheit der Ahnen, während sein Holz Harmonie und Beständigkeit schenkt. In der Stille unter seinen Ästen offenbaren sich Klarheit und tiefe Erkenntnis.</p>",
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Bergahorn",
+        "isPreferredName": false,
+        "acceptedNameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0"
+    },
+    {
+        "taxonLatname": "Betula pendula",
+        "taxonAuthor": "Roth",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "a748aec5-9656-4451-831c-b55325ae38a9",
+        "taxonNuid": "00600800600p00100201n",
+        "gbifNubkey": 5331916,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+            }
+        },
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Birke",
+        "isPreferredName": false,
+        "acceptedNameUuid": "a748aec5-9656-4451-831c-b55325ae38a9"
+    },
+    {
+        "taxonLatname": "Fagus sylvatica",
+        "taxonAuthor": "L.",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "a251756f-3209-4160-bdc3-bed491629d1e",
+        "taxonNuid": "00600800600p00300400b",
+        "gbifNubkey": 2882316,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+            }
+        },
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Buche",
+        "isPreferredName": true,
+        "acceptedNameUuid": "a251756f-3209-4160-bdc3-bed491629d1e"
+    }
+]

@@ -1,0 +1,231 @@
+{
+    "name": "Upright coralline algae",
+    "description": null,
+    "verboseName": "Upright coralline algae",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Arthrocardia spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "1cf6f69d-3cab-48b9-9e9b-bbf78013e17c",
+            "taxonNuid": "003002001002001",
+            "slug": "arthrocardia-spp",
+            "localizedSlug": {
+                "en": "hinged-corallines"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1183-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1183-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1183-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1185-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1185-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1185-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1183-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1183-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1183-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Corallina officinalis",
+            "taxonAuthor": "Linnaeus, 1758",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "613ef5a7-639f-4759-8b1b-2c61a858c1d6",
+            "taxonNuid": "003002001004001",
+            "slug": "corallina-officinalis",
+            "localizedSlug": {
+                "en": "feather-coralline"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1190-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1190-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1190-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1190-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1190-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1190-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Jania cultrata (Harvey)",
+            "taxonAuthor": "J.M Kim, Guiry & H.-G. Choi, 2007",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "f964e4cc-1b9b-4e62-9c7d-1ac16b7a8c38",
+            "taxonNuid": "003002001005001",
+            "slug": "jania-cultrata-harvey",
+            "localizedSlug": {
+                "en": "arrowhead-coralline"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1193-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1193-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1193-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1193-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1193-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1193-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Jania sagittata (J.V. Lamouroux)",
+            "taxonAuthor": "Blainville, 1834",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "38fc6196-ab0b-401b-85d0-c50e30b470eb",
+            "taxonNuid": "003002001005002",
+            "slug": "jania-sagittata-jv-lamouroux",
+            "localizedSlug": {
+                "en": "winged-arrowhead-coralline"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1195-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1195-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1195-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1195-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1195-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1195-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amphiroa capensis",
+            "taxonAuthor": "Areschoug, 1852",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "ecb332c3-54a1-4b13-8e59-1860ce65e5bb",
+            "taxonNuid": "003002001001001",
+            "slug": "amphiroa-capensis",
+            "localizedSlug": {
+                "en": "hidden-jointed-horsetail-coralline"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1181-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1181-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1181-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1181-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1181-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1181-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amphiroa ephedraea (Lamarck)",
+            "taxonAuthor": "Decaisne, 1842",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "958b37b8-ada2-40ae-b81b-b779b3c8c9c1",
+            "taxonNuid": "003002001001002",
+            "slug": "amphiroa-ephedraea-lamarck",
+            "localizedSlug": {
+                "en": "black-jointed-horsetail-coralline"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1182-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1182-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1182-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1182-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1182-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1182-1000.webp"
+                }
+            }
+        }
+    ]
+}

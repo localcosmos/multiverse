@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ectocarpus siliculosus (Dillwyn)",
+    "taxonAuthor": "Lyngbye, 1819",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "66bba11f-00db-4645-96b5-600392ffa0bc",
+    "taxonNuid": "00300100a001",
+    "gbifNubkey": 3199521,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1016-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1016-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1016-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 697,
+    "vernacular": {
+        "en": "Ectocarpus"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ectocarpus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms small, but dense tufts of thin branching filaments each made up of a single chain of cells. Main filaments and side branches taper towards tips and bear numerous conical sporangia along their margins. Colour reddish-brown.</p>",
+            "shortTextKey": "taxon_text_1_6845",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically up to about 2-3 cm tall, but rarely up to 20 cm. Axes a fraction of 1 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6846",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan.</p><p><u>Local/Regional:</u><i> </i>Port Nolloth on west coast to about East London.</p>",
+            "shortTextKey": "taxon_text_3_6847",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A small but common species forming short tufts on rocks or other larger algae from the high intertidal downwards. Often abundant and larger in brackish habitats.</p>",
+            "shortTextKey": "taxon_text_4_6848",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6849",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating sporophyte and gametophyte generations. Sporophyte bears conical sporangia directly along the margins of main axes.</p>",
+            "shortTextKey": "taxon_text_6_6850",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A confusing genus containing many species , some of which are probably incorrectly named. This species, which was originally described from the UK, also has numerous synonyms and may turn out to be a complex of regional species.</p>",
+            "shortTextKey": "taxon_text_7_6851",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 390). <br><br>Charrier, B, Coelho, SM, Le Bail, A, Tonon, T, Michel, G, Potin, P, ... & Cock, JM (2008). Development and physiology of the brown alga <i>Ectocarpus siliculosus</i>: two centuries of research. <i>New Phytologist</i>, 177(2), 319-332.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 141).",
+            "shortTextKey": "taxon_text_8_6852",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1016-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1016-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1016-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1016-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1016-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1016-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Rhabdosoma brevicaudatum",
+    "taxonAuthor": "Stebbing, 1888",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "98d0d136-c94c-458a-b673-5db8ab67a89c",
+    "taxonNuid": "00100300a001003001001002007006002",
+    "gbifNubkey": 5177748,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-645-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-645-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-645-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 35,
+    "vernacular": {
+        "en": "Needle-nose amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Needle-nose amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Extraordinary, transparent, cylindrical planktonic amphipod in which the head has become enormously extended to about half the length of the entire body! The elongate main part of the head has a medial swelling which bears very large eyes and beyond this projects a very long, spike-like rostrum. The walking legs are short and held folded close to the body, but the branched abdominal appendages (uropods) are again extremely elongate and trail behind the body.</p>",
+            "shortTextKey": "taxon_text_1_244",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 30 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_245",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in tropical and temperate seas.</p><p><u>Local/Regional:</u> Entire region.</p>",
+            "shortTextKey": "taxon_text_3_246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of the most bizarre of all amphipods and found swimming in the plankton. The large eyes presumably allow the animal to have a wide field of vision and avoid predators and/or spot prey, while the very thin, elongate body would be very streamlined for swimming. The long rostrum may be a mechanism to make the amphipod more difficult for predators to swallow. Very little else is known about the biology.</p>",
+            "shortTextKey": "taxon_text_4_247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Hyperiids mostly feed &nbsp;of other planktonic organisms.</p>",
+            "shortTextKey": "taxon_text_5_248",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females bear paired ventral brood plates that form a marsupial chamber within which the eggs develop into fully formed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_249",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This group is easily recognised by the extremely elongate cylindrical body and enormously enlarged pointed rostrum. There are three similar species in the region though. Of these <i>R. whitei</i> has a much shorter short rostral spike but even more elongate uropods.</p>",
+            "shortTextKey": "taxon_text_7_250",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Stebbing, TRR (1888). Report on the Amphipoda collected by <i>H.M.S. Challenger</i> during the years 1873-1876. Report on the Scientific Results of the Voyage of <i>H.M.S. Challenger</i> during the years 1873–76. Zoology. 29 (part 67): i-xxiv, 1-1737, pl. 1-212.",
+            "shortTextKey": "taxon_text_8_251",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-645-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-645-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-645-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-645-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-645-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-645-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Rhabdosoma brachyteles",
+            "taxonAuthor": "Stebbing, 1895"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

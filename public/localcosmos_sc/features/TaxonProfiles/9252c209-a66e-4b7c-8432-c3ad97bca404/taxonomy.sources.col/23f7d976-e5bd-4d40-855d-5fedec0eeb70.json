@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Senecio elegans",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "23f7d976-e5bd-4d40-855d-5fedec0eeb70",
+    "taxonNuid": "0060060050040030010uc0av",
+    "gbifNubkey": 3107376,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3019-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3019-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3019-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1040,
+    "vernacular": {
+        "en": "Wild cineraria"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Wild cineraria",
+            "Veld cineraria"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Annual herb with fleshy, erect, branching stems that are slightly hairy. Leaves somewhat hairy and glandular, up to about 8 cm long and deeply divided into several toothed lobes. Compound flowers made up of 13 petal-like ray florets and yellow disk florets in the centre. Bracts black-tipped. Colour of ray florets can be almost any shade of pink to purple.</p>",
+            "shortTextKey": "taxon_text_1_9798",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants about 60 cm tall, leaves about 80 mm and flower heads about 30 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9799",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa. Naturalised in Australia, New Zealand, Azores and California.</p><p><u>Local/Regional:</u> Saldanha Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9800",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in coastal sands and can occur almost down to high water mark. Flowers mainly in September- November, but some flowers present July-March. Widely cultivated for its colourful flowers. The leaves are sometimes cooked and eaten as a vegetable and various parts of the plant are used in traditional medicine.</p>",
+            "shortTextKey": "taxon_text_4_9801",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9802",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers mainly in Spring. Produces fluffy white seeds which germinate readily in well-drained soil.</p>",
+            "shortTextKey": "taxon_text_6_9803",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a large and complex group with some 80 regional species, making species level identifications challenging. Similar coastal species include <i>S. arenarius,</i> which has mauve to white rays and <i>S. maritimus</i> which has entirely yellow flower heads.</p>",
+            "shortTextKey": "taxon_text_7_9804",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3019-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3019-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3019-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2963-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2963-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2963-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3019-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3019-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3019-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Senecio pseudoelegans",
+            "taxonAuthor": "Less."
+        },
+        {
+            "taxonLatname": "Senecio elegans var. diffusus",
+            "taxonAuthor": "Ewart"
+        },
+        {
+            "taxonLatname": "Senecio elegans var. erectus",
+            "taxonAuthor": "Ewart"
+        },
+        {
+            "taxonLatname": "Jacobaea elegans",
+            "taxonAuthor": "(L.) Moench"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

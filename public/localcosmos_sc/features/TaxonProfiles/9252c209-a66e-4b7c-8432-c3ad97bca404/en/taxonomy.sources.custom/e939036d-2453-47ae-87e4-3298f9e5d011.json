@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Macrocystis pyrifera (Linnaeus)",
+    "taxonAuthor": "C. Agardh 1820",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "e939036d-2453-47ae-87e4-3298f9e5d011",
+    "taxonNuid": "00300100g001",
+    "gbifNubkey": 5422328,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1031-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1031-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1031-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 703,
+    "vernacular": {
+        "en": "Bladder kelp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bladder kelp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Macrocystis angustifolia</i></p>",
+            "shortTextKey": "taxon_text_9_6898",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Easily recognized by its great length and unusual flowing growth form. Attached by a large holdfast made up of a tangle of slender haptera, from which multiple thin, unbranched, rope-like stipes emerge. Along each stipe thin lateral blades emerge at irregular intervals. Each blade has a rippled surface, a toothed margin, a sharp tip and an air-filled bladder at its base that provides buoyancy.</p>",
+            "shortTextKey": "taxon_text_1_6899",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>The longest of all algae, typically up to about 10 m long, but recorded as reaching a length of 45 m!</p>",
+            "shortTextKey": "taxon_text_2_6900",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Very widely-distributed along the Pacific coast of North America from Alaska to California and in South America, South Africa, Australia and New Zealand.</p><p><u>Local/Regional:</u><i> </i>Restricted to a few sheltered locations between about Saldanha Bay and Cape Point.</p>",
+            "shortTextKey": "taxon_text_3_6901",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The rarest of the South African kelps, occurring at only about 10 sites along the southern part of the west coast, but forms extensive beds in other parts of the world. Previously – recognized regional species are now all synonymized under this one name. Well known as not only the longest of all algae, but also the fastest growing, with growth rates of up to 60 cm per day!</p><p>In other regions an important ecosystem engineer, generating food and creating habitat for a wealth of other species, protecting the coastline from wave action, etc. Also used by humans as a source of alginates and as food.</p>",
+            "shortTextKey": "taxon_text_4_6902",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6903",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating generations of the familiar large, spore-producing sporophytes, which release haploid spores that develop into microscopic male and female gametophytes that produce eggs and sperm that merge to form a new generation of diploid sporophytes.</p>",
+            "shortTextKey": "taxon_text_6_6904",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable.</p>",
+            "shortTextKey": "taxon_text_7_6905",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 386). <br><br>Fleischman, MJ, Bolton, JJ & Rothman, MD (2020). <i>Macrocystis</i> (Laminariales, Phaeophyceae) in South Africa: distribution, morphology, and potential susceptibility to warming events. <i>Journal of Applied Phycology</i>, 32(4), 2447-2457.<br><br>Fleischman, MJ, Bolton, JJ & Rothman, MD (2021). <i>Macrocystis</i> (Laminariales, Phaeophyceae) in South Africa: potential for cultivation through holdfast fragmentation and use as feed for the aquacultured abalone, <i>Haliotis midae</i>.<i> Journal of Applied Phycology</i>, 33(3), 1731-1740.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 193).",
+            "shortTextKey": "taxon_text_8_6906",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1031-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1031-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1031-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1031-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1031-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1031-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

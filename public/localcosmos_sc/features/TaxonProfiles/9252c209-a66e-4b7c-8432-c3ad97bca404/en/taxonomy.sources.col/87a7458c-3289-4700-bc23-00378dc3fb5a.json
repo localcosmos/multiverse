@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Celleporella hyalina",
+    "taxonAuthor": "(Linnaeus, 1767)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "87a7458c-3289-4700-bc23-00378dc3fb5a",
+    "taxonNuid": "00100500100100b00k00400300a",
+    "gbifNubkey": 1005933,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-381-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-381-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-381-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 527,
+    "vernacular": {
+        "en": "Glassy mat bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Glassy mat bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a small flat, rounded, glassy patch lacking surface spines. Colour white to pale yellowish.</p><p>When examined microscopically the feeding zooecia are flat, transparent and elongate with parallel striations near the wide, rounded, aperture, which has a rectangular notch on its proximal side. The surface of the zooecia have transverse ridges resembling growth rings. Female zooecia are very short with an aperture that is much wider than long and bear large globular ovicells that each have 9-11 dorsal pores.</p>",
+            "shortTextKey": "taxon_text_1_5070",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 3 cm across. but can reach 10 cm.</p>",
+            "shortTextKey": "taxon_text_2_5071",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: Widely distibuted in cooler waters, including Europe,</u> Pacific coast of North and South America, Atlanic coast of Canada and USA. Also Australia, New Zealand and South Africa, where it is likely introduced.</p><p>As currently described this is a species complex incorporating an unknown number of genetically distinct forms.</p><p><u>Local/Regional:</u> West coast to Durban.</p>",
+            "shortTextKey": "taxon_text_3_5072",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Most commonly found on the primary blades of Sea bamboo <i>Ecklonia maxima </i>and Split-fan kelp<i> Laminaria pallida,</i> where it is very common<i>.</i> Also reported from stems of hydroids and on other bryozoans.</p>",
+            "shortTextKey": "taxon_text_4_5073",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5074",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by budding new zooids along the margins. New colonies arise from sexual reproduction and settlement of planktonic larvae at new sites.</p>",
+            "shortTextKey": "taxon_text_6_5075",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The glassy appearance and shapes of zooecia are characteristic, and the habitat (on kelps) is also a useful guide to identification.</p><p>There are several other flat, white species common on the blades of algae though – these include <i>Jellyella tuberculata, </i>which has hexagonal zooids with tubercles at their anterior corners, <i>Membranipora rustica</i>, which has rectangular zooids and <i>Electra pilosa</i>, in which zooids are arranged in rows and which bear long spines.</p><p>Note also the confusingly similar name of the only distantly-related <i>Celleporaria capensis</i>.</p>",
+            "shortTextKey": "taxon_text_7_5076",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Boonzaaier-Davids, MK, Ma, KC & Mcquaid, CD (2023). Epibiotic association of encrusting cheilostome bryozoans on shells of an invasive mussel from rocky shores of South Africa, with the description of a new aviculiferous species of <i>Chaperia</i>. <i>Zootaxa</i>, 5258(2), 197-210.<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 29).<br><br>Hoare, K, Goldson, AJ, Giannasi, N & Hughes, RN (2001). Molecular phylogeography of the cosmopolitan bryozoan <i>Celleporella hyalina</i>: cryptic speciation? <i>Molecular Phylogenetics and Evolution</i>, 18(3), 488-492.",
+            "shortTextKey": "taxon_text_8_5077",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-381-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-381-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-381-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-381-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-381-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-381-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cellepora hyalina",
+            "taxonAuthor": "Linnaeus, 1767"
+        },
+        {
+            "taxonLatname": "Hippoporina hylina",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Hippothoa hyalina",
+            "taxonAuthor": "(Linnaeus, 1767)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

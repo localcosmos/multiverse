@@ -1,0 +1,299 @@
+{
+    "taxonLatname": "Semicassis zeylanica",
+    "taxonAuthor": "(Lamarck, 1822)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "81cc0741-1ce0-4b6e-a0fe-c89216e37482",
+    "taxonNuid": "00100k00700300c00c00200200501e",
+    "gbifNubkey": 9562824,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2160-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2160-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2160-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 262,
+    "vernacular": {
+        "en": "Helmet snail"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Helmet snail"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Phalium labiatum zeylanicum, Phalium zeylanicum, Semicassis labiata</i></p>",
+            "shortTextKey": "taxon_text_9_2435",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Well known and easily recognized species and the only helmet shell to extend into the cooler waters of the Western Cape. Shell fairly large and globular with a short spire, deep siphonal notch and thickened outer lip. Last whorl of shell with row of rounded knobs, otherwise smooth and glossy. Knobs undeveloped in False Bay specimens. Colour pinkish with rows of pale spots, outer lip crossed by five pairs of dark bars. Foot large and pink with a narrow yellow margin and yellow and black striped tentacles. Large tubular siphon usually held erect. Extremely variable species that has caused taxonomic confusion, as several different growth forms occur along the coast and offshore, but which are all regarded the same species.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_2436",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 78 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2437",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_2438",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Attractive and conspicuous species. Dead shells often washed ashore, but live animals subtidal and less frequently seen. Often buried in sand emerging to feed on sea urchins and pansy shells.</p>",
+            "shortTextKey": "taxon_text_4_2439",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Predatory, Western Cape specimens feeding almost entirely on the common Cape urchin <i>Parechinus angulosus, </i>which are first paralysed using a toxic mucous and then attached by either drilling a hole though the test, or by penetrating the peristome (the membrane surrounding the mouth). Feeding rates in captivity have been measure at one urchin every 7,5 days, although there are sometimes long gaps between feeding events.</p>",
+            "shortTextKey": "taxon_text_5_2440",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are laid in large communal cylindrical masses contributed to by numerous females. Each female lays 2000-3000 egg capsules each containing&nbsp;a mean of 133 eggs. Eggs hatched as veliger larvae after 23 days and settled after a further 7 days.</p>",
+            "shortTextKey": "taxon_text_6_2441",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with any other regional species but this species is extremely variable with two main forms.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2442",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 18).<br><br>Herbert, DG & Jones, GJ (2018). Phylum Mollusca In: Atkinson LJ and Sink KJ (eds) Field Guide to the Offshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 249-320 (p 262).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 72 , as <i>P. labiatum zeylanicum</i>).<br><br>Mazomba, T (2017). Feeding and reproduction behaviour in <i>Semicassis labiata zeylanica</i> (Gastropoda: Cassidae). Honours project, Department of Biological Sciences, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_2443",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2160-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2160-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2160-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2160-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2160-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2160-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2164-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2164-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2164-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2177-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2177-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2177-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2169-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2169-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2169-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2167-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2167-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2167-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2170-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2170-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2170-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2168-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2168-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2168-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2171-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2171-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2171-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2172-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2172-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2172-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2173-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2173-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2173-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2175-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2175-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2175-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2174-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2174-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2174-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Phalium labiatum zeylanicum",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Semicassis labiata zeylanica",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Phalium (Xenogalea) labiatum var. iredalei",
+            "taxonAuthor": "Bayer, 1935"
+        },
+        {
+            "taxonLatname": "Cassis zeylanica",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Semicassis (Semicassis) zeylanica",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Semicassis labiata iheringi",
+            "taxonAuthor": "(Carcelles, 1953)"
+        },
+        {
+            "taxonLatname": "Phalium iheringi",
+            "taxonAuthor": "Carcelles, 1953"
+        },
+        {
+            "taxonLatname": "Phalium labiatum iredalei",
+            "taxonAuthor": "Bayer, 1935"
+        },
+        {
+            "taxonLatname": "Cassis pirum var. intercedens",
+            "taxonAuthor": "E. von Martens, 1904"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": true
+}

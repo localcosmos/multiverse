@@ -1,0 +1,208 @@
+{
+    "name": null,
+    "description": null,
+    "verboseName": "Plantae",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-77-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-77-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-77-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-76-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-76-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-76-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-78-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-78-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-78-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 2,
+            "minImages": 0,
+            "modeImages": 2
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-12",
+            "parentKey": "tpne-4",
+            "name": null,
+            "verboseName": "Pinales",
+            "taxa": [
+                {
+                    "taxonLatname": "Pinales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d2d67377-52f1-425e-b393-967788f21b08",
+                    "taxonNuid": "006008007001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-79-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-79-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-79-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+                }
+            },
+            "slug": "pinales"
+        },
+        {
+            "key": "tpne-13",
+            "parentKey": "tpne-4",
+            "name": null,
+            "verboseName": "Rosales",
+            "taxa": [
+                {
+                    "taxonLatname": "Rosales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "60b70cfb-0970-457d-ab7b-a4b04902e14b",
+                    "taxonNuid": "00600800601b"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "rosales"
+        },
+        {
+            "key": "tpne-14",
+            "parentKey": "tpne-4",
+            "name": "Lippenblütlerartige",
+            "verboseName": "Lippenblütlerartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Diadematidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "812506a2-f1aa-4bb0-ac67-a3055da92ff1",
+                    "taxonNuid": "00100d003007001"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "lippenblutlerartige"
+        },
+        {
+            "key": "tpne-15",
+            "parentKey": "tpne-4",
+            "name": "Malpighienartige",
+            "verboseName": "Malpighienartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Malpighiales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "73d62fd1-3d21-4a80-ab7c-8aa721f7f8bb",
+                    "taxonNuid": "00600800600z"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "malpighienartige"
+        },
+        {
+            "key": "tpne-11",
+            "parentKey": "tpne-4",
+            "name": "Seifenbaumartige",
+            "verboseName": "Seifenbaumartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Sapindales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "39ea117f-5a0f-47b3-bd36-9a27f5b3e2f6",
+                    "taxonNuid": "00600800601d"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "seifenbaumartige"
+        }
+    ],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Fraxinus excelsior",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7fa38327-7b07-430e-a385-fe0a8a049233",
+            "taxonNuid": "00600800600w00c00a00j",
+            "slug": "fraxinus-excelsior",
+            "localizedSlug": {
+                "de": "esche"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "name": "Cephalopods (Octopus & kin)",
+    "description": null,
+    "verboseName": "Cephalopods (Octopus & kin)",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2661-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2661-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2661-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2685-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2685-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2685-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2592-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2592-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2592-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2555-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2555-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2555-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2666-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2666-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2666-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1621-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1621-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1621-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-200",
+            "parentKey": "tpne-52",
+            "name": "Octopuses",
+            "verboseName": "Octopuses",
+            "taxa": [
+                {
+                    "taxonLatname": "Octopodoidea",
+                    "taxonAuthor": "d'Orbigny, 1840",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "49edb427-814b-44bf-96e0-5b4f4dee8184",
+                    "taxonNuid": "00100k004003004001002002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2660-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2660-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2660-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2660-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2660-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2660-1000.webp"
+                }
+            },
+            "slug": "octopuses"
+        },
+        {
+            "key": "tpne-201",
+            "parentKey": "tpne-52",
+            "name": "Argonauts",
+            "verboseName": "Argonauts",
+            "taxa": [
+                {
+                    "taxonLatname": "Argonautoidea",
+                    "taxonAuthor": "Cantraine, 1841",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "bf99c1c5-821c-413f-93b3-f95275dd50d1",
+                    "taxonNuid": "00100k004003004001002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2667-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2667-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2667-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2667-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2667-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2667-1000.webp"
+                }
+            },
+            "slug": "argonauts"
+        },
+        {
+            "key": "tpne-202",
+            "parentKey": "tpne-52",
+            "name": "Cuttlefish",
+            "verboseName": "Cuttlefish",
+            "taxa": [
+                {
+                    "taxonLatname": "Sepiida",
+                    "taxonAuthor": "Gray, 1849",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c999c0b2-58f0-49db-93df-5239ebcb0d7c",
+                    "taxonNuid": "00100k004003003008"
+                },
+                {
+                    "taxonLatname": "Sepia",
+                    "taxonAuthor": "Linneus, 1758",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "18ae5de7-be99-4120-94e5-d1c0ff67b93d",
+                    "taxonNuid": "001005004002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2663-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2663-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2663-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2663-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2663-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2663-1000.webp"
+                }
+            },
+            "slug": "cuttlefish"
+        },
+        {
+            "key": "tpne-203",
+            "parentKey": "tpne-52",
+            "name": "Squids & squid-like",
+            "verboseName": "Squids & squid-like",
+            "taxa": [
+                {
+                    "taxonLatname": "Loliginidae",
+                    "taxonAuthor": "Lesueur, 1821",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "494e61db-8b69-479e-8a69-7b7202630fbc",
+                    "taxonNuid": "00100k004003003006002"
+                },
+                {
+                    "taxonLatname": "Spirula",
+                    "taxonAuthor": "Lamarck, 1799",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "621885a0-580b-4c4f-8344-bd093288dbe1",
+                    "taxonNuid": "00100k004003003009005001002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2664-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2664-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2664-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2664-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2664-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2664-1000.webp"
+                }
+            },
+            "slug": "squids-squid-like"
+        }
+    ],
+    "taxonProfiles": []
+}

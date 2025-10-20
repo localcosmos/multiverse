@@ -1,0 +1,160 @@
+{
+    "taxonLatname": "Tricolia capensis",
+    "taxonAuthor": "(Dunker, 1846)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9d7ec3a0-9057-4918-8ec7-b5c9f4bd50b3",
+    "taxonNuid": "00100k00700v00700100i005001005",
+    "gbifNubkey": 4358453,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-155-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-155-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-155-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 325,
+    "vernacular": {
+        "en": "Pheasant shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pheasant shell",
+            "pheasant shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell small, smooth, glossy and fairly high-spired (but spire not excelling aperture in length). External colour greyish-black with a few white flame-like markings. Operculum white and calcareous.</p><p>Extremely abundant among intertidal algae (also a useful identification feature!).</p>",
+            "shortTextKey": "taxon_text_1_3056",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell 5-9 mm long.</p>",
+            "shortTextKey": "taxon_text_2_3057",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Hermanus (note earlier papers include the “<i>africana</i>“ form so cite a much wider distribution).</p>",
+            "shortTextKey": "taxon_text_3_3058",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Small but extremely common species found crawling over rock surfaces and intertidal algae in rock pools. Very active and crawl speedily along, frantically waving the three pairs of sensory tentacles along the sides of the foot. The foot is divided longitudinally into two muscle bands that can operate alternately (like tank tracks) giving added maneuverability.</p><p>Little else is known about the biology of this small but very common species<i>.</i></p>",
+            "shortTextKey": "taxon_text_4_3059",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on surface tissues of algae and on diatoms and detritus found on algal and rock surfaces.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_3060",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate in this family and eggs are shed singly into the water, each enclosed in a gelatinous capsule. They hatch into pelagic larvae which settle within a few days.</p>",
+            "shortTextKey": "taxon_text_6_3061",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Southern Africa hosts more phasianellid species than anywhere else in the world, with 10 endemic species reported, plus 3 other Indo–Pacific species extending into KwaZulu-Natal. <i>Tricolia capensis</i> is by far the most common species along the west coast and in the South-Western Cape though. It is replaced to the east (from Struis Bay) by <i>T. africana,</i> which is smaller, more elongate, has a smaller aperture and is generally more brightly coloured. The two species also differ in habitat, <i>T. capensis</i> occurring among seaweeds, and <i>T. africana</i> on or under rocks in midshore pools.</p>",
+            "shortTextKey": "taxon_text_7_3062",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 180).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 42 includes ‘africana’ form under capensis).<br><br>Nangammbi, TC, Herbert, DG & Teske, PR (2016). Molecular insights into species recognition within southern Africa's endemic <i>Tricolia</i> radiation (Vetigastropoda: Phasianellidae). <i>Journal of Molluscan Studies</i>, 82(1), 97-103.",
+            "shortTextKey": "taxon_text_8_3063",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-155-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-155-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-155-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-155-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-155-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-155-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Phasianella farquhari",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Phasianella rufanensis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Phasianella rufanensis var. adjacens",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Phasianella capensis",
+            "taxonAuthor": "Dunker, 1846"
+        },
+        {
+            "taxonLatname": "Tricolia africana",
+            "taxonAuthor": "(Bartsch, 1915)"
+        },
+        {
+            "taxonLatname": "Phasianella africana",
+            "taxonAuthor": "Bartsch, 1915"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

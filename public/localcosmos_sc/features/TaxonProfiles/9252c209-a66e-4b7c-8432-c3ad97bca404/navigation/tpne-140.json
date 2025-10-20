@@ -1,0 +1,309 @@
+{
+    "name": "Kob, Rockcod, Grunters & Baardman",
+    "description": null,
+    "verboseName": "Kob, Rockcod, Grunters & Baardman",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1585-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1585-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1585-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1496-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1496-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1496-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1466-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1466-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1466-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1499-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1499-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1499-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Argyrosomus japonicus",
+            "taxonAuthor": "(Temminck & Schlegel, 1843)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "59352769-ac62-40a2-b507-c494e42779af",
+            "taxonNuid": "00100700300200200100w03s002007",
+            "slug": "argyrosomus-japonicus",
+            "localizedSlug": {
+                "en": "dusky-kob"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1497-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1497-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1497-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1497-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1497-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1497-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pomadasys commersonnii",
+            "taxonAuthor": "(Lacepède, 1801)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ccfc7e21-4ce2-4012-82c7-6f5240e49116",
+            "taxonNuid": "00100700300200200100w01w00g009",
+            "slug": "pomadasys-commersonnii",
+            "localizedSlug": {
+                "en": "spotted-grunter"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-237-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-237-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-237-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-237-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-237-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-237-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pomadasys olivaceus",
+            "taxonAuthor": "(Day, 1875)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0b816ed2-fe9b-4a32-8641-4f0aae456825",
+            "taxonNuid": "00100700300200200100w01w00g00l",
+            "slug": "pomadasys-olivaceus",
+            "localizedSlug": {
+                "en": "olive-grunter"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1501-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1501-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1501-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1501-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1501-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1501-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Umbrina canariensis",
+            "taxonAuthor": "Valenciennes, 1843",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "54aeeb7c-845b-4361-97cf-f8d10beef90c",
+            "taxonNuid": "00100700300200200100w03s01u004",
+            "slug": "umbrina-canariensis",
+            "localizedSlug": {
+                "en": "baardman"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1464-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1464-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1464-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1465-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1465-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1465-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1461-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1461-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1461-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1463-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1463-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1463-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1462-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1462-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1462-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1464-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1464-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1464-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Epinephelus marginatus",
+            "taxonAuthor": "(Lowe, 1834)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0523a26a-4c09-4c7d-83fa-b960361a79f7",
+            "taxonNuid": "00100700300200200100w03x00s01i",
+            "slug": "epinephelus-marginatus",
+            "localizedSlug": {
+                "en": "yellowbelly-rockcod"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1579-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1579-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1579-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1580-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1580-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1580-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1582-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1582-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1582-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1583-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1583-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1583-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1584-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1584-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1584-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1579-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1579-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1579-1000.webp"
+                }
+            }
+        }
+    ]
+}

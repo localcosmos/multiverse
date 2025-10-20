@@ -1,0 +1,148 @@
+{
+    "taxonLatname": "Tetragonia decumbens",
+    "taxonAuthor": "Mill.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2ee16f63-f7bb-4c6c-ae0e-4df016ed41a7",
+    "taxonNuid": "00600600500d00300200500b",
+    "gbifNubkey": 5554679,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2967-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2967-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2967-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1044,
+    "vernacular": {
+        "en": "Sprawling duneweed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sprawling duneweed",
+            "Dune spinach"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling, much-branched succulent abundant on fore dunes. The soft pinkish branches creep along the ground and give rise to oval bluish-green leaves that lack stalks and are downward-curled lengthwise (like a shield). Leaves and young branches covered in tiny glistening bumps. Flowers with 4 petals, small and bright yellow, borne is short clusters hidden at the base of the leaves. Fruit with 4 stiff wings.</p>",
+            "shortTextKey": "taxon_text_1_9834",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 20 cm tall with sprawling branches at least 1 m long. Leaves about 5 cm diameter. Flowers 3-4 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9835",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa. Introduced to Western Australia.</p><p><u>Local/Regional:</u> Central Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very common foredune species extending down to almost high water mark. Forms dense growths and is an important dune stabilizer. Young leaves can be harvested and eaten like spinach.</p>",
+            "shortTextKey": "taxon_text_4_9837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9838",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to March. The four-angled fruit are easily blown about by the wing, aiding their dispersal.</p>",
+            "shortTextKey": "taxon_text_6_9839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other regional species in the genus. Most likely to be confused with Trailing dune spinach <i>T. fruiticosa,</i> which is also common along the coast, but also occurs inland. However, that species is taller, has longer, thinner leaves and has larger flowers borne on a much taller flower spike.</p>",
+            "shortTextKey": "taxon_text_7_9840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2967-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2967-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2967-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2967-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2967-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2967-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Aizoon perfoliatum",
+            "taxonAuthor": "L. fil."
+        },
+        {
+            "taxonLatname": "Tetragonia zeyheri",
+            "taxonAuthor": "Fenzl ex Harv. & Sond."
+        },
+        {
+            "taxonLatname": "Tetragonia obovata",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Tetragonia tetrapteris",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Tetragonia perfoliata",
+            "taxonAuthor": "(L. fil.) Druce"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

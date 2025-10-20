@@ -1,0 +1,137 @@
+{
+    "taxonLatname": "Clathria (Clathria) dayi",
+    "taxonAuthor": "Lévi, 1963",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f7ad4a51-0835-4f9f-8a8a-de44740e8fff",
+    "taxonNuid": "00100t00200100c00h00100100200u",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-780-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-780-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-780-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 634,
+    "vernacular": {
+        "en": null
+    },
+    "allVernacularNames": {
+        "en": []
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best thought of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small openings on the body surface, removing fine particles and ejecting the waste water from one or more usually larger openings called oscula.</p><p>This species is fairly easily identified by its characteristic tree-like shape, emerging from a small disc-like attachment to expand into broad upright, flattened branches or wide fans. The surface is soft, but slightly hairy and lacks prominent oscula and the colour is consistently bright-orange to red.</p>",
+            "shortTextKey": "taxon_text_1_6275",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 200 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_6276",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> West coast of South Africa to False Bay, at depths of about 15-272 m.</p>",
+            "shortTextKey": "taxon_text_3_6277",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Always subtidal and usually found on vertical faces of rocky reefs among other sponges and encrusting invertebrates. Common in kelp bed systems along the west coast.</p>",
+            "shortTextKey": "taxon_text_4_6278",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filters small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6279",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take the form of sending out root-like extension from which new individual bud, by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6280",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Form may vary considerably, with blades sometimes very broad and sometimes broken into narrower fingers, but fan-like form and red colour distinctive. The related Tree sponge <i>Echinoclathria dichotoma</i> has much narrowed and cylindrical branches.</p>",
+            "shortTextKey": "taxon_text_7_6281",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 16). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 24).<br><br>Samaai, T & Gibbons, MJ (2005). Demospongiae taxonomy and biodiversity of the Benguela region on the west coast of South Africa. <i>African Natural History</i>, 1, 1-96. (p. 38).",
+            "shortTextKey": "taxon_text_8_9177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-780-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-780-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-780-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-780-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-780-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-780-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clathria dayi",
+            "taxonAuthor": "Lévi, 1963"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

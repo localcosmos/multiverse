@@ -1,0 +1,181 @@
+{
+    "taxonLatname": "Spirula spirula",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a106110a-cc20-48a9-876e-1538a6d4d434",
+    "taxonNuid": "00100k004003003009005001002001",
+    "gbifNubkey": 5189558,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2556-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2556-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2556-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 941,
+    "vernacular": {
+        "en": "Ram's horn squid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ram's horn squid",
+            "common spirula",
+            "ram's horn",
+            "ram's horn shell",
+            "ram's horn squid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cephalopod with a loosely coiled, calcareous, many-chambered (25 to 37) shell in the characteristically spiral form of a Ram’s horn, which is easily recognised and often washed ashore along the South African coastline. The live animal, which lives in the deep open ocean, is never seen.&nbsp;</p><p>When alive, shell positioned internally at the back of the animal to provide buoyancy control. Eye large, without cornea. Mantle cylindrical and usually covered in smooth silvery to red-brown skin. Two long tentacles and eight arms; increasing in length from the top to the belly of the animal, suckers in rows of four or six and all (except fourth arm) united by webs. Arms and tentacles can be withdrawn into the mantle. No sexual dimorphism in sucker number and position. A large bioluminescent light organ or photophore positioned at the posterior end of the mantle emits a green glow observed to continue for hours at a time and surrounded by two ear-shaped fins.</p>",
+            "shortTextKey": "taxon_text_1_9041",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Mantle length 30 mm to 45 mm.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9042",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global distribution:</u> Found in tropical and subtropical waters worldwide.</p><p><u>Local/Regional:</u> Throughout the region.</p>",
+            "shortTextKey": "taxon_text_3_9043",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A mesopelagic species known to undertake a diel vertical migration, inhabits depths around 1000 m during the day and migrates to the surface to depths between 100 to 300 m at night. Although shells get frequently washed ashore along the South African coastline, indicating that the species is common, live or even dead animals are extremely rarely seen. A living Ram’s horn squid was recently filmed in the wild for the first during a ship-based, deep sea exploration dive, bringing new insights into the biology of this remarkable cephalopod.</p><p>The internal many-chambered shell gets filled with gas to maintain buoyancy. Active motions of the fins further control the Ram’s horn squid’s position in the water column. Originally it was thought that the animals sat in a vertical position; head downwards and arms upward. However, it is now clear that the animal swims in a head-up position when at rest.&nbsp;</p><p>Only known extant member of order Spirulida, with an average life span of 18 to 20 months. However, the taxonomic status is unresolved also because fresh specimens needed for morphological and genetic work are rare. Currently treated as one global species, but studies based on shell metrics and growth differences in shell characters revealed differences between geographical regions. Preliminary morphological studies suggest that populations between the Atlantic and Indo-West Pacific may represent different lineages.</p>",
+            "shortTextKey": "taxon_text_4_9044",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Hunt nocturnally with peak activity at night. Mainly feeds on small prey items such as crustaceans.</p><p>The head-up position recently observed is supported by the presence of a photophore at the mantle tip which may be used to break up the animal's silhouette as a predator avoidance strategy. This counterillumination is a strategy commonly used by mesopelagic squid to break up silhouettes against light from above when the animal gets hunted from below. Although Ram's horn squid can use some jet propulsion, the fragility of the shell and effort involved in rapid movement suggests that stillness and camouflage are the ram's horn squid's main defense against predation. Known predators include the fish Splendid alfoniso, <i>Bleryx splendens</i>, swordfish as well as seabirds such as petrels and albatrosses. The latter suggests that Ram’s horn squids sometimes migrate into surface waters above 10 m depth.</p>",
+            "shortTextKey": "taxon_text_5_9045",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Much remains speculative as mating or spawning has never been observed. Reproduction similar to most cephalopods in the fact that during mating the male uses a modified arm, called the hectocotylus, to insert a sperm sac into the female's seminal receptacle located in the buccal membrane of the mantle. Mature males also have two ventral arms modified without suckers and tipped with finger-like projections, which may aid in courting and the mating act.&nbsp;Sexual maturity is reached after 12 to 15 months at mantle length 30 mm.&nbsp;</p><p>Sampling of juveniles at depth between 1000 and 1740 m may suggest that egg laying occurs on the benthic layer of continental slopes - no pelagic eggs have been observed. Eggs are small and the paralarvae resemble adults with a mantle length of 1.5 mm and a two chambered shell.</p>",
+            "shortTextKey": "taxon_text_6_9046",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable and currently only one species recognised globally.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9047",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2556-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2556-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2556-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2556-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2556-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2556-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2557-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2557-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2557-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Spirula peroni",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Spirula fragilis",
+            "taxonAuthor": "Lamarck, 1801"
+        },
+        {
+            "taxonLatname": "Spirula peronii",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Spirula prototypus",
+            "taxonAuthor": "Péron, 1804"
+        },
+        {
+            "taxonLatname": "Spirulea prototypos",
+            "taxonAuthor": "Péron, 1807"
+        },
+        {
+            "taxonLatname": "Lituus laevis",
+            "taxonAuthor": "Gray, 1849"
+        },
+        {
+            "taxonLatname": "Spirula blakei",
+            "taxonAuthor": "Lönnberg, 1896"
+        },
+        {
+            "taxonLatname": "Spirula australis",
+            "taxonAuthor": "Lamarck, 1816"
+        },
+        {
+            "taxonLatname": "Spirula reticulata",
+            "taxonAuthor": "Owen, 1848"
+        },
+        {
+            "taxonLatname": "Nautilus spirula",
+            "taxonAuthor": "Linnaeus, 1758"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

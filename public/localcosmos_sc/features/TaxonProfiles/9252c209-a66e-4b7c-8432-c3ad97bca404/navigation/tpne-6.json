@@ -1,0 +1,153 @@
+{
+    "name": "Stalked jellyfish",
+    "description": null,
+    "verboseName": "Stalked jellyfish",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-613-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-613-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-613-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-806-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-806-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-806-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-807-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-807-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-807-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Calvadosia lewisi",
+            "taxonAuthor": "Miranda, Branch, Collins, Hirano, Marques & Griffiths, 2017",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6f016bd6-6e29-43e1-845b-f3a5a1201e2d",
+            "taxonNuid": "001008006002001002001007",
+            "slug": "calvadosia-lewisi",
+            "localizedSlug": {
+                "en": "cross-of-pearls"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-308-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-308-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-308-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-308-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-308-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-308-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Depastromorpha africana",
+            "taxonAuthor": "Carlgren, 1935",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "6f135915-1179-4f26-a053-3fc0207883e8",
+            "taxonNuid": "001008006002002001001001",
+            "slug": "depastromorpha-africana",
+            "localizedSlug": {
+                "en": "stalked-trumpet-jelly"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-809-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-809-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-809-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-809-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-809-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-809-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lipkea stephensoni",
+            "taxonAuthor": "Carlgren, 1933",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "79f492a0-96c7-49a2-9f76-8a96d473564d",
+            "taxonNuid": "001008006002002003001002",
+            "slug": "lipkea-stephensoni",
+            "localizedSlug": {
+                "en": "bell-stalked-jelly"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-808-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-808-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-808-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-808-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-808-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-808-1000.webp"
+                }
+            }
+        }
+    ]
+}

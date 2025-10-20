@@ -1,0 +1,1149 @@
+{
+    "name": "Sedentary bristleworms",
+    "description": null,
+    "verboseName": "Sedentary bristleworms",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-684-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-684-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-684-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1073-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1073-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1073-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1074-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1074-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1074-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-692-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-692-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-692-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 7,
+            "minImages": 0,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Pherusa sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "676316ab-bf7f-466f-9ebe-c1fc5d9739a7",
+            "taxonNuid": "00100c002006001001",
+            "slug": "pherusa-sp",
+            "localizedSlug": {
+                "en": "bristle-cage-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-722-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-722-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-722-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-722-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-722-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-722-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gunnarea gaimardi",
+            "taxonAuthor": "(Quatrefages, 1848)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3632d0cd-75b0-499b-9250-33e32bc1691d",
+            "taxonNuid": "001002002052001001003001",
+            "slug": "gunnarea-gaimardi",
+            "localizedSlug": {
+                "en": "cape-reefworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-21-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-21-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-21-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-22-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-22-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-22-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-21-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-21-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-21-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Serpula vermicularis",
+            "taxonAuthor": "Linnaeus, 1767",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4d2fad6f-782c-41aa-80ee-e1df0b2d6f27",
+            "taxonNuid": "00100200205200100200300t003004019",
+            "slug": "serpula-vermicularis",
+            "localizedSlug": {
+                "en": "operculate-fanworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-23-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-23-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-23-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-23-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-23-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-23-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Arenicola loveni",
+            "taxonAuthor": "Kinberg, 1866",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d62a30dd-4bdc-4f0e-ae49-213c978c77c5",
+            "taxonNuid": "001002002052003001003006",
+            "slug": "arenicola-loveni",
+            "localizedSlug": {
+                "en": "common-bloodworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-30-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-30-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-30-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-30-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-30-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-30-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chaetopterus variopedatus",
+            "taxonAuthor": "(Renier, 1804)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "de5ff55b-d81b-42d1-8b86-d0a04d433f44",
+            "taxonNuid": "00100200205200200100n",
+            "slug": "chaetopterus-variopedatus",
+            "localizedSlug": {
+                "en": "chaetopterus"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-34-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-34-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-34-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-34-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-34-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-34-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Filograna implexa",
+            "taxonAuthor": "Berkeley, 1835",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "48d50c75-a691-4cff-af1e-ad24be428721",
+            "taxonNuid": "001002002052001002003006007002",
+            "slug": "filograna-implexa",
+            "localizedSlug": {
+                "en": "filigreed-coral-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudopotamilla reniformis",
+            "taxonAuthor": "(Bruguière, 1789)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4893d4f0-2201-4677-8ae4-b9a0a3b50f0c",
+            "taxonNuid": "00100200205200100200200300u00i",
+            "slug": "pseudopotamilla-reniformis",
+            "localizedSlug": {
+                "en": "gregarious-fanworm"
+            },
+            "images": [
+                {
+                    "text": "<p>Rockpool, de Hoop</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1062-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1062-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1062-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Rockpool, de Hoop</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1059-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1059-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1059-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Castle Rock</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1064-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1064-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1064-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Castle Rock</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1063-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1063-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1063-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-47-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-47-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-47-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Rockpool, de Hoop</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1060-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1060-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1060-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Rockpool, de Hoop</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1061-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1061-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1061-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "<p>Rockpool, de Hoop</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1062-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1062-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1062-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sabella pavonina",
+            "taxonAuthor": "Savigny, 1822",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f4d5fa1e-77b6-4a74-9393-082163d07e6c",
+            "taxonNuid": "00100200205200100200200300v01a",
+            "slug": "sabella-pavonina",
+            "localizedSlug": {
+                "en": "peacock-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2431-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2431-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2431-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2432-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2432-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2432-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-48-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-48-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-48-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-49-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-49-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-49-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2431-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2431-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2431-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Spirobranchus kraussii",
+            "taxonAuthor": "(Baird, 1864)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3e772a89-ce7d-414e-91d0-85c333a22abf",
+            "taxonNuid": "00100200205200100200300t00100b00i",
+            "slug": "spirobranchus-kraussii",
+            "localizedSlug": {
+                "en": "blue-coral-worm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1077-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1077-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1077-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-50-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-50-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-50-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-51-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-51-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-51-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>intertidal, de Hoop</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1058-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1058-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1058-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1077-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1077-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1077-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Orbinia angrapequensis",
+            "taxonAuthor": "(Augener, 1918)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "466cb271-52c7-4c52-8ea7-d8a331d8f5fc",
+            "taxonNuid": "001002002052003006004007002",
+            "slug": "orbinia-angrapequensis",
+            "localizedSlug": {
+                "en": "wooly-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-52-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-52-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-52-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-52-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-52-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-52-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Scolelepis squamata",
+            "taxonAuthor": "(Müller, 1806)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "61406a25-6691-4eee-8aa2-2c763c663746",
+            "taxonNuid": "00100200205200100300100301200z",
+            "slug": "scolelepis-squamata",
+            "localizedSlug": {
+                "en": "beach-spionid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-53-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-53-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-53-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-53-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-53-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-53-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amphictene capensis",
+            "taxonAuthor": "(Pallas, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d2625c5a-af6e-4578-bda8-ae1f32198751",
+            "taxonNuid": "001002002052001004002004001003",
+            "slug": "amphictene-capensis",
+            "localizedSlug": {
+                "en": "ice-cream-cone-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cirriformia capensis",
+            "taxonAuthor": "(Schmarda, 1861)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c3901f4f-e9a9-4297-a2d4-be852da5c60c",
+            "taxonNuid": "001002002052001004001002009002",
+            "slug": "cirriformia-capensis",
+            "localizedSlug": {
+                "en": "orange-thread-gilled-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-56-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-56-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-56-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-56-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-56-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-56-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dodecaceria pulchra",
+            "taxonAuthor": "Day, 1955",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1a7e436a-a861-4322-844c-a0f76ed9eac9",
+            "taxonNuid": "00100200205200100400100200d00k",
+            "slug": "dodecaceria-pulchra",
+            "localizedSlug": {
+                "en": "black-boring-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-57-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-57-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-57-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-57-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-57-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-57-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Flabelligera affinis",
+            "taxonAuthor": "M. Sars, 1829",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4fd9016e-532a-4c00-9ef6-a06fb5a5a27e",
+            "taxonNuid": "00100200205200100400100400a001",
+            "slug": "flabelligera-affinis",
+            "localizedSlug": {
+                "en": "flabby-bristleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2918-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2918-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2918-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-58-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-58-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-58-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2919-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2919-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2919-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2917-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2917-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2917-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2918-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2918-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2918-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lanice conchilega",
+            "taxonAuthor": "(Pallas, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a0e0c2ef-89c0-4c35-a4e4-e828ef19245b",
+            "taxonNuid": "00100200205200100400200500300b002007",
+            "slug": "lanice-conchilega",
+            "localizedSlug": {
+                "en": "sand-mason"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1075-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1075-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1075-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1076-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1076-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1076-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-59-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-59-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-59-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1075-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1075-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1075-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Loimia medusa",
+            "taxonAuthor": "(Savigny, 1822)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8171168e-5dad-470c-98c3-a7da23bb3f8b",
+            "taxonNuid": "00100200205200100400200500300b00400i",
+            "slug": "loimia-medusa",
+            "localizedSlug": {
+                "en": "corkscrew-tangleworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-60-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-60-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-60-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-60-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-60-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-60-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudobranchiomma longa",
+            "taxonAuthor": "(Kinberg, 1866)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7c16f7aa-89d7-494c-a697-ea37f99bad07",
+            "taxonNuid": "00100200205200100200200300t004",
+            "slug": "pseudobranchiomma-longa",
+            "localizedSlug": {
+                "en": "feather-duster-worm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1044-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1044-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1044-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1043-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1043-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1043-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1045-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1045-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1045-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1042-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1042-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1042-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-46-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-46-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-46-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1044-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1044-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1044-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Branchiomma natalense",
+            "taxonAuthor": "(Kinberg, 1866)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3337cb9b-1d0d-4391-9a42-e090a3c87713",
+            "taxonNuid": "00100200205200100200200300500n",
+            "slug": "branchiomma-natalense",
+            "localizedSlug": {
+                "en": "natal-lappet-fanworm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-286-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-286-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-286-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-286-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-286-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-286-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Spirobis spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "9db7a40d-7c21-49d1-bf03-84012c060e95",
+            "taxonNuid": "00100c002003001001",
+            "slug": "spirobis-spp",
+            "localizedSlug": {
+                "en": "spiral-fanworms"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-719-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-719-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-719-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-719-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-719-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-719-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Euclymene sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "4b7902f9-8771-4217-9258-257aaa574f4a",
+            "taxonNuid": "00100c002004001001",
+            "slug": "euclymene-sp",
+            "localizedSlug": {
+                "en": "frame-faced-bamboo-worms"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-720-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-720-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-720-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-720-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-720-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-720-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Nicomache sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "177db2c0-a20b-4ba8-905d-1d940ffeebbf",
+            "taxonNuid": "00100c002004002001",
+            "slug": "nicomache-sp",
+            "localizedSlug": {
+                "en": "crest-faced-bamboo-worms"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-721-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-721-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-721-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-721-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-721-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-721-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thelepus sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "d2f6ca2b-992b-41ce-a5e9-847d348621b0",
+            "taxonNuid": "00100c002006002001",
+            "slug": "thelepus-sp",
+            "localizedSlug": {
+                "en": "simple-gilled-tangleworms"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-723-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-723-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-723-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-723-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-723-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-723-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Protula bispiralis",
+            "taxonAuthor": "(Savigny, 1822)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "db7644d3-7e14-4025-b5da-f53aeefaaa37",
+            "taxonNuid": "00100200205200100200300600k00b",
+            "slug": "protula-bispiralis",
+            "localizedSlug": {
+                "en": "red-fanworm"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-964-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-964-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-964-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-965-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-965-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-965-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-966-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-966-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-966-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-967-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-967-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-967-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2287-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2287-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2287-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2288-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2288-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2288-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-964-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-964-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-964-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Polydora (and Boccardia) spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "7333507f-f31e-4a2e-8ffb-7b678f2eb645",
+            "taxonNuid": "00100c002005001001",
+            "slug": "polydora-and-boccardia-spp",
+            "localizedSlug": {
+                "en": "polydora-spp"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

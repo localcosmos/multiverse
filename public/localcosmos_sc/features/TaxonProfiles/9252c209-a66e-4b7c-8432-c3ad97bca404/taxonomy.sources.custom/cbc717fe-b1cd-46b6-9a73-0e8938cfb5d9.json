@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Roseolithon superpositum (Foslie)",
+    "taxonAuthor": "P.W. Gabrielson, Manevelt, Hughey & V. Pena, 2023",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "cbc717fe-b1cd-46b6-9a73-0e8938cfb5d9",
+    "taxonNuid": "003002003004001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2121-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2121-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2121-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 732,
+    "vernacular": {
+        "en": "Mushroom coralline crust"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Mushroom coralline crust"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Lithothamnion superpositum, Mesophyllum superpositum</i></p>",
+            "shortTextKey": "taxon_text_9_7159",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colonies thick and encrusting and firmly attached to the rocks. Small colonies initially round to oval, but as they grow, they may merge and become confluent. The upper surface has a smooth undulating margin surrounding a central area of large protuberances, which may be conical or thickened distally (like a button mushroom). The smoother areas around the margins of the colony are thick and purplish-brown, the protuberances often with whiter areas where surface cells are sloughing.</p>",
+            "shortTextKey": "taxon_text_1_7160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically 60 mm across.</p>",
+            "shortTextKey": "taxon_text_2_7161",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Groenriviermond on west coast to Algoa Bay in Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_7162",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Abundant on hard substrata from the low intertidal to depths of about 18 mm, but less common towards the east of range. Overgrows other encrusting species.</p>",
+            "shortTextKey": "taxon_text_4_7163",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7164",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproductive conceptacles are&nbsp; raised as low conical projections that are initially flat-topped, but become pitted as cells around the central pore are shed.</p>",
+            "shortTextKey": "taxon_text_6_7165",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily identified by the thick base and strongly knobbed upper surface.</p>",
+            "shortTextKey": "taxon_text_7_7166",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gabrielson, PW, Maneveldt, GW, Hughey, JR & Peña, V (2023). Taxonomic contributions to Hapalidiales (Corallinophycidae, Rhodophyta): <i>Boreolithothamnion</i> gen. nov., <i>Lithothamnion</i> redefined and with three new species and <i>Roseolithon</i> with new combinations. <i>Journal of Phycology</i>, 59(4), 751-774.<br><br>Keats, DW, Maneveldt, G & Chamberlain, YM (2000). <i>Lithothamnion superpositum</i> Foslie: a common crustose red alga (Corallinaceae) in South Africa. <i>Cryptogamie Algologie</i>, 21(4), 381-400.",
+            "shortTextKey": "taxon_text_8_7167",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2121-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2121-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2121-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1215-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1215-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1215-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2121-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2121-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2121-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

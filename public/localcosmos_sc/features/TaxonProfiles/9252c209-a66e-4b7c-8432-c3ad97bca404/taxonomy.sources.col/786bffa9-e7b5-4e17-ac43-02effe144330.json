@@ -1,0 +1,177 @@
+{
+    "taxonLatname": "Pleurobrachia pileus",
+    "taxonAuthor": "(O. F. Müller, 1776)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "786bffa9-e7b5-4e17-ac43-02effe144330",
+    "taxonNuid": "001009006004008004006",
+    "gbifNubkey": 2501136,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-344-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-344-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-344-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 498,
+    "vernacular": {
+        "en": "Sea-gooseberry"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sea-gooseberry",
+            "Atlantic sea gooseberry",
+            "sea gooseberry"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spherical to slightly oval but symmetrical. Transparent and found floating in open ocean, but quite frequently washed ashore. Two long, trailing tentacles at the one end bear numerous short, feathery side-branches along just the one edge. There are eight equal ciliary rows that each run for about 75% of body length.</p>",
+            "shortTextKey": "taxon_text_1_4790",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 15-20 mm long (excluding tentacles).</p>",
+            "shortTextKey": "taxon_text_2_4791",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Atlantic Ocean, but also reported from New Zealand and Southern Ocean.</p><p><u>Local/Regional:</u> Whole coast.</p>",
+            "shortTextKey": "taxon_text_3_4792",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Little known about biology but can sometimes be very common. Thought to only live for a few months. Hyperiid amphipods sometimes seen associated with this species. European populations make daily vertical migrations, descending to deeper waters of 80-150 m in the early morning and rising again to surface waters in the late afternoon.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4793",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on small planktonic crustaceans such as amphipods, copepods and crab or barnacle larvae captured by the tentacles, which lack stinging cells (as found in cnidarians), but are instead armed with adhesive cells (colloblasts) with which to ensnare small prey.</p>",
+            "shortTextKey": "taxon_text_5_4794",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Almost all ctenophores are hermaphroditic and shed eggs and sperm into the water where fertilization takes place, leading to development of free-swimming larvae which gradually adopt the adult form.</p>",
+            "shortTextKey": "taxon_text_6_4795",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Similar to <i>Hormiphora </i>sp<i>., </i>but members of that genus<i> </i>are wider at the one end, like a pear, while <i>Pleurobranchia </i>are round to oval but symmetrical in shape.</p>",
+            "shortTextKey": "taxon_text_7_4796",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 54).<br><br>Gibbons, MJ, Haddock, SH, Matsumoto, GI & Foster, C (2021). Records of ctenophores from South Africa. <i>PeerJ</i>, 9, e10697.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 66).",
+            "shortTextKey": "taxon_text_8_4797",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-344-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-344-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-344-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-344-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-344-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-344-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Callianira hexagona",
+            "taxonAuthor": "Slabber, 1778"
+        },
+        {
+            "taxonLatname": "Cydippe ovatus",
+            "taxonAuthor": "of Lesson, 1843"
+        },
+        {
+            "taxonLatname": "Callianira slabberi",
+            "taxonAuthor": "De Haan, 1827"
+        },
+        {
+            "taxonLatname": "Pleurobrachia rhododactyla",
+            "taxonAuthor": "L. Agassiz, 1850"
+        },
+        {
+            "taxonLatname": "Cydippe flemingii",
+            "taxonAuthor": "Forbes & Goodsir, 1839"
+        },
+        {
+            "taxonLatname": "Beroe hexagona",
+            "taxonAuthor": "Modeer, 1790"
+        },
+        {
+            "taxonLatname": "Cydippe bicolor",
+            "taxonAuthor": "Sars, 1835"
+        },
+        {
+            "taxonLatname": "Cydippe pomiformis",
+            "taxonAuthor": "Patterson, 1839"
+        },
+        {
+            "taxonLatname": "Beroe pileus",
+            "taxonAuthor": "O. F. Müller, 1776"
+        },
+        {
+            "taxonLatname": "Cydippe pileus",
+            "taxonAuthor": "(Müller, 1776)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,809 @@
+{
+    "name": "Cuttlefish",
+    "description": null,
+    "verboseName": "Cuttlefish",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2663-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2663-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2663-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 19,
+            "minImages": 7,
+            "modeImages": 7
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Sepia typica",
+            "taxonAuthor": "(Steenstrup, 1875)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3401c595-e8d2-4da2-8d12-6d937ef78574",
+            "taxonNuid": "001005004002001",
+            "slug": "sepia-typica",
+            "localizedSlug": {
+                "en": "pore-bellied-cuttlefish"
+            },
+            "images": [
+                {
+                    "text": "<p>Langebaan lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2558-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2558-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2558-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Langebaan lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2595-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2595-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2595-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Langebaan lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2598-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2598-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2598-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>pores on the underside next to an injury</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2599-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2599-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2599-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>magnification, pores on the underside next to an injury</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2600-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2600-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2600-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Langebaan lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2597-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2597-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2597-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Langebaan lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2596-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2596-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2596-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "<p>Langebaan lagoon</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2558-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2558-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2558-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sepia simoniana",
+            "taxonAuthor": "Thiele, 1920",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "dc9745bd-336c-430e-a2cf-f5a226a533f4",
+            "taxonNuid": "00100k00400300300800100100200d018",
+            "slug": "sepia-simoniana",
+            "localizedSlug": {
+                "en": "simons-town-cuttlefish"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2559-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2559-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2559-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2591-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2591-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2591-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2562-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2562-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2562-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2560-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2560-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2560-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2601-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2601-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2601-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2566-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2566-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2566-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2565-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2565-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2565-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2568-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2568-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2568-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2567-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2567-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2567-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2561-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2561-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2561-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2564-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2564-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2564-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>juvenile</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2627-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2627-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2627-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>juvenile</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2628-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2628-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2628-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2626-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2626-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2626-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>remains of specimen predated by otter, cuttlebone and tentacle with broad club</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2585-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2585-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2585-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>otter predation, broad club with very small suckers</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2584-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2584-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2584-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>microscope image of single club sucker with ring of tiny teeth, about 150x magnification</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2586-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2586-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2586-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>beak</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2583-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2583-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2583-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2559-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2559-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2559-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sepia vermiculata",
+            "taxonAuthor": "Quoy & Gaimard, 1832",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "634838da-1df1-44b3-86f3-e16ec97cafb8",
+            "taxonNuid": "00100k00400300300800100100200d01j",
+            "slug": "sepia-vermiculata",
+            "localizedSlug": {
+                "en": "patchwork-cuttlefish"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2629-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2629-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2629-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2630-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2630-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2630-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2633-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2633-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2633-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Knysna Lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2590-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2590-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2590-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Knysna Lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2588-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2588-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2588-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Knysna Lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2589-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2589-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2589-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Knysna Lagoon</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2587-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2587-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2587-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2699-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2699-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2699-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2629-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2629-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2629-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sepia tuberculata",
+            "taxonAuthor": "Lamarck, 1798",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "fc73ba1d-adc8-4198-b56a-eab65ef89038",
+            "taxonNuid": "00100k00400300300800100100200d01g",
+            "slug": "sepia-tuberculata",
+            "localizedSlug": {
+                "en": "tuberculate-cuttlefish"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2617-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2617-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2617-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2612-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2612-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2612-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Clutch with just over 30 eggs - adult animal behind it on the right</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2616-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2616-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2616-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2618-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2618-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2618-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2611-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2611-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2611-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2625-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2625-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2625-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2622-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2622-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2622-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2609-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2609-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2609-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>animal contracting mantle and arms - this posture is related to when animal mimic <i>Burnupena </i>whelks</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2614-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2614-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2614-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2613-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2613-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2613-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>animal flattening the body and mantle to not be seen</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2624-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2624-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2624-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2623-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2623-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2623-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2608-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2608-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2608-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2607-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2607-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2607-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2615-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2615-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2615-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2619-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2619-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2619-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2610-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2610-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2610-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>suckers on fourth arm against the camera glass</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2620-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2620-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2620-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2621-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2621-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2621-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2617-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2617-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2617-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Decorisepia australis",
+            "taxonAuthor": "(Quoy & Gaimard, 1832)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "fc6772be-bec0-4a1d-a974-b236744a5d71",
+            "taxonNuid": "00100k004003003008001001002005001",
+            "slug": "decorisepia-australis",
+            "localizedSlug": {
+                "en": "southern-cuttlefish"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2580-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2580-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2580-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2579-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2579-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2579-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2582-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2582-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2582-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2581-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2581-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2581-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>freshly dead, washed-up animal</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2576-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2576-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2576-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>close up of eye, freshly dead, washed-up animal</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2570-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2570-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2570-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>cuttlebone and remains of freshly dead, washed-up animal</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2571-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2571-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2571-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>cuttlebone and remains of freshly dead, washed-up animal</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2575-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2575-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2575-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>tentacle clubs with large medial suckers</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2569-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2569-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2569-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2572-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2572-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2572-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2574-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2574-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2574-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2578-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2578-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2578-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>courtship and mating behaviour</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2573-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2573-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2573-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>courtship and mating behaviour</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2577-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2577-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2577-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2580-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2580-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2580-1000.webp"
+                }
+            }
+        }
+    ]
+}

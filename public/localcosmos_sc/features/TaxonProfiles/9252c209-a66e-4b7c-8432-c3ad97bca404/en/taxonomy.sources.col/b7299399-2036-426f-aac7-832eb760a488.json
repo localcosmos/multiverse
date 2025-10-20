@@ -1,0 +1,141 @@
+{
+    "taxonLatname": "Salicornia tegetaria",
+    "taxonAuthor": "(S. Steffen, Mucina & G. Kadereit) Piirainen & G. Kadereit",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b7299399-2036-426f-aac7-832eb760a488",
+    "taxonNuid": "00600600500d00400700b01c",
+    "gbifNubkey": 9459555,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2957-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2957-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2957-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1037,
+    "vernacular": {
+        "en": "Glasswort samphire"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Glasswort samphire"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Creeping species with underground runners rooted at the nodes and sending up short vertical stems that usually arise in pairs from the nodes and are covered by plump, barrel-shaped segments 7-15 mm long and 2-5 mm wide. The tiny white flowers are arranged in threes on the distal segments. Colour can be transparent light green, but often reddish.</p>",
+            "shortTextKey": "taxon_text_1_9771",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reach a height of only about 20 cm, segments 2-5 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_9772",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa, extending from Namibia to Mozambique.</p><p><u>Local/Regional:</u> In estuaries and salt-water lagoons along entire coast of South Africa.</p>",
+            "shortTextKey": "taxon_text_3_9773",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Salt-tolerant plant that occurs low on sandy and muddy shores in both estuaries and fully-marine saltmarshes<i>, </i>where regularly inundated by the tide. Often forms dense beds such as in Geelbek, Langebaan.</p><p>Species in this genus have a long history of use as food plants in Europe and can be eaten raw in salads, pickled, or cooked as a vegetable.</p>",
+            "shortTextKey": "taxon_text_4_9774",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9775",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Members of this genus are typically wind pollinated and produce small seeds which are dispersed by wind or water. This species flowers from November to June with a peak in December and seed production peaks in February.</p>",
+            "shortTextKey": "taxon_text_6_9776",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most abundant of several other similar species found in the region. Detailed examination is required to distinguish these – see references provided.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9777",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2957-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2957-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2957-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2957-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2957-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2957-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2958-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2958-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2958-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sarcocornia tegetaria",
+            "taxonAuthor": "S. Steffen, Mucina & G. Kadereit"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

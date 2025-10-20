@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Siphonaria compressa",
+    "taxonAuthor": "Allanson, 1958",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e96faee6-26d7-4eb6-86c3-1617b8f2390a",
+    "taxonNuid": "00100k00700d00300300b00100100300b00n",
+    "gbifNubkey": 5724441,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-141-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-141-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-141-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 310,
+    "vernacular": {
+        "en": "Eelgrass false-limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Eelgrass false-limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell cap-shaped, unusually elongate and very small, with elevated apex offset to the right. Outer surface smooth, lacking the distinct radiating ribs typical of most other regional species. Colour dark brown, often with pale radiating rays around margin.</p><p>Also easily identified by its unique habitat, as it is restricted to the blades of the seagrass <i>Zostera capensis</i>.</p>",
+            "shortTextKey": "taxon_text_1_2916",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 4 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2917",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa<i>.</i></p><p><u>Local/Regional:</u> Restricted to Langebaan Lagoon, with&nbsp;another&nbsp;genetically distinct population only in Knysna Estuary that probably needs to be described as a distinct species.</p>",
+            "shortTextKey": "taxon_text_3_2918",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Habitat extremely distinctive, as found only grazing on the fronds of the seagrass <i>Zostera capensis</i> at a single site, Langebaan Lagoon, and then also confined to the lower levels of these seagrass beds. As the range is so restricted, and the population has undergone considerable annual fluctuations over the past decades, this species is considered vulnerable to extinction. Seagrass beds in the region are also in decline.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2919",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, thought to feed on microscopic algae growing on the fronds of seagrass blades.</p>",
+            "shortTextKey": "taxon_text_5_2920",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are laid in protective capsules on the seagrass blades. Each capsule contains only about 20-50 eggs (far fewer that other species) and hatch after 13 days 25 °C or 18 days at 17 °C as completely metamorphosed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_2921",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by its small adult size, elongate shape and lack of radiating ribs on the exterior of the shell. Also by and specialised habitat.</p>",
+            "shortTextKey": "taxon_text_7_2922",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Allanson, BR (1958). On the systematics and distribution of the molluscan genus <i>Siphonaria</i> in South Africa. <i>Hydrobiologia</i>, 12, 149-180.<br><br>Allanson, BR & Msizi, SC (2010). Reproduction and growth of the endangered siphonariid limpet <i>Siphonaria compressa</i> (Pulmonata: Basommatophora). <i>Invertebrate Reproduction & Development</i>, 54(3), 151-161.<br><br>Angel, A, Branch, GM, Wanless, RM & Siebert, T (2006). Causes of rarity and range restriction of an endangered, endemic limpet, <i>Siphonaria compressa</i>. <i>Journal of Experimental Marine Biology and Ecology</i>, 330(1), 245-260.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 170).<br><br>Chambers, RJ & McQuaid, CD (1994). Notes on the taxonomy, spawn and larval development of South African species of the intertidal limpet <i>Siphonaria</i> (Gastropoda: Pulmonata). <i>Journal of Molluscan Studies</i>, 60(3), 263-275.",
+            "shortTextKey": "taxon_text_8_2923",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-141-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-141-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-141-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-141-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-141-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-141-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Siphonaria (Sacculosiphonaria) compressa",
+            "taxonAuthor": "Allanson, 1958"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

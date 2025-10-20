@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Leucothoe richiardii",
+    "taxonAuthor": "Lessona, 1865",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "07de0495-b816-439c-a070-f046dd264614",
+    "taxonNuid": "00100300a00100100100100300100203c",
+    "gbifNubkey": 5717384,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-296-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-296-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-296-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 459,
+    "vernacular": {
+        "en": "Hooked sponge amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hooked sponge amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly-large and robust amphipod with unusually short first antennae and very large and unusual nippers or gnathopods. The first pair of nippers has a unique (to the genus) form in which the ‘finger’ is formed by both of the last two segments, which close against a ‘palm’ formed by an extension of the third-last segment. Second pair of nippers are unusually powerful, but more conventional in form (subchelate), the palm without teeth and 5th segment extended into a lobe that protects hind margin of 6th segment (the ‘hand’) - see photograph under<i> L. spinicarpa</i>). Third abdominal side-plate has a hook-like, upturned tooth on hind corner.</p><p>Colour mottled orange with attractively white speckles on 5 pair of legs, which are held extended to the sides.</p>",
+            "shortTextKey": "taxon_text_1_4378",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 10 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_4379",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: Mediterranean,</u> South Africa, Madagascar, India.</p><p><u>Local/Regional:</u> Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_4380",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commensal in the cavities within sponges and tunicates.</p>",
+            "shortTextKey": "taxon_text_4_4381",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to scavenge on food particles pumped thought he internal cavities of sponges and tunicates, within which the amphipods dwell.</p>",
+            "shortTextKey": "taxon_text_5_4382",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, the eggs are retained within a marsupial chamber between the walking legs of the female, where they develop into fully-formed juveniles prior to release.</p>",
+            "shortTextKey": "taxon_text_6_4383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p><strong>:</strong> In South Africa this family is represented by only the one genus <i>Leucothoe</i>, with five fairly similar species that are distinguished by the length of the antennae, shape and numbers of teeth on the palm of the second pair of nippers and shape of third abdominal side plate. This species is identified by its relatively short first antennae, lack of teeth on the palm of second nipper and distinctive upturned hook on lower corner to third side plate.</p>",
+            "shortTextKey": "taxon_text_7_4384",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 96).<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 52).",
+            "shortTextKey": "taxon_text_8_4385",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-296-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-296-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-296-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-296-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-296-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-296-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

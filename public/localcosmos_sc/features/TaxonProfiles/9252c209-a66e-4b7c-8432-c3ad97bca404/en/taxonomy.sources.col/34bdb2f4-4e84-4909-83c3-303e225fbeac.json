@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Exosphaeroma truncatitelson",
+    "taxonAuthor": "Barnard, 1940",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "34bdb2f4-4e84-4909-83c3-303e225fbeac",
+    "taxonNuid": "00100300a00800e00400401f011",
+    "gbifNubkey": 2207316,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-528-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-528-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-528-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 54,
+    "vernacular": {
+        "en": "Round-tailed pill-bug"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Round-tailed pill-bug"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Extremely common small, smooth-bodied isopod that readily rolls into a ball when disturbed. Abdominal segments fused with telson to form a ‘pleotelson’. Colouration vary variable, but usually fairly uniform yellows, browns or pinks, sometimes with broad white patch dorsally. Most characteristic features are the broadly-rounded, slightly truncated pleotelson (after which the species is named) and pointed tips to the uropods, which extend to at least tip of pleotelson.</p>",
+            "shortTextKey": "taxon_text_1_415",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 8 mm excluding antennae, but mostly smaller.</p>",
+            "shortTextKey": "taxon_text_2_416",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to region.</p><p><u>Local/Regional:</u> Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_417",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An extremely common, but small species that occurs in enormous densities, especially under boulders on rocky shores and also in sand near to rocks. Particularly common far up into the intertidal, where it is one of few dominant species.</p>",
+            "shortTextKey": "taxon_text_4_418",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on drift kelp and other algae and organic debris that accumulate in rockpools, gullies and under boulders.</p>",
+            "shortTextKey": "taxon_text_5_419",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods the eggs are retained within a marsupial pouch between the walking legs of females and hatch into fully developed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_420",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 14 regional species in this common genus, all of which have an entire pleotelson (not distally rolled or notched). The various species are distinguished mainly by ornamentation and shape of the pleotelson and shape of the uropods. This is the only species with a smooth, broadly-rounded pleotelson and pointed uropods.</p>",
+            "shortTextKey": "taxon_text_7_421",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 92).<br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 106)",
+            "shortTextKey": "taxon_text_8_422",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-528-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-528-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-528-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-528-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-528-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-528-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

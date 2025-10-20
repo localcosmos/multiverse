@@ -1,0 +1,179 @@
+{
+    "taxonLatname": "Moerella tulipa",
+    "taxonAuthor": "(Hanley, 1844)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "af61cc66-d5d4-434b-a543-cff9d0911aa7",
+    "taxonNuid": "00100k00200100100200300200300a00c00300q",
+    "gbifNubkey": 9693362,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-575-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-575-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-575-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 105,
+    "vernacular": {
+        "en": "Tulip tellin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tulip tellin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Previously known as <i>Tellina tulipa</i> and <i>Tellina gilchristi</i> and given the common name Gilchrist’s tellin. Given the new scientific name, however, that now seems inappropriate, so we have changed the common name to a more descriptive ‘Tulip tellin’, also to match the new species name.</p>",
+            "shortTextKey": "taxon_text_9_885",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairy small and slender, with delicate, thin shell valves that are slightly extended posteriorly, but not bent to the side (as in <i>Pallidea</i>). Shell smooth, other than fine concentric growth lines. Colour off-white with both concentric and radiating pink lines that best distinguish it from other local tellines.</p>",
+            "shortTextKey": "taxon_text_1_886",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Relatively small, at up to 28 mm shell length.</p>",
+            "shortTextKey": "taxon_text_2_887",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> &nbsp;St Helena Bay to Port Alfred.</p>",
+            "shortTextKey": "taxon_text_3_888",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Burrows in fine sediments from low water to about 100 m depth. Fairly common in False Bay and other similar, sheltered sites but scarce elsewhere. As in other tellins, this species is essentially a deposit feeder, bending over the elongate siphons and moving them around to vacuum up food particles lying on, or close to, the sediment surface.</p>",
+            "shortTextKey": "taxon_text_4_889",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves feeds by pumping water in via an inhalent siphon, filtering out fine particles though the enlarged gills and then ejecting the filtered water through an exhalent siphon. &nbsp;Because of their feeding habits, tellins tend to suck in large amounts of sand along with their food material and thus have large labial palps, which are used to sort the incoming particle stream.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_890",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like almost all bivalves is a broadcast spawner. Details of reproductive cycle of this species in South Africa have not been investigated.</p>",
+            "shortTextKey": "taxon_text_6_891",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Best distinguished from other regional tellins by colour pattern. At some sites occurs adjacent to the larger <i>Homalina trilatera</i>, which is similar in shell shape, but pure white in colour.</p>",
+            "shortTextKey": "taxon_text_7_892",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 154).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 181).",
+            "shortTextKey": "taxon_text_8_893",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-575-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-575-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-575-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-575-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-575-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-575-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tellina tenella",
+            "taxonAuthor": "Jeffreys, 1881"
+        },
+        {
+            "taxonLatname": "Tellina (Moerella) gilchristi",
+            "taxonAuthor": "G. B. Sowerby III, 1904"
+        },
+        {
+            "taxonLatname": "Atlantella tulipa",
+            "taxonAuthor": "(Hanley, 1844)"
+        },
+        {
+            "taxonLatname": "Tellina gilchristi",
+            "taxonAuthor": "G. B. Sowerby III, 1904"
+        },
+        {
+            "taxonLatname": "Moerella jeffreysi",
+            "taxonAuthor": "(C. W. Johnson, 1932)"
+        },
+        {
+            "taxonLatname": "Tellina whitechurchi",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Tellina tulipa",
+            "taxonAuthor": "Hanley, 1844"
+        },
+        {
+            "taxonLatname": "Tellina jeffreysi",
+            "taxonAuthor": "C. W. Johnson, 1932"
+        },
+        {
+            "taxonLatname": "Tellina becki",
+            "taxonAuthor": "W. H. Turton, 1932"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

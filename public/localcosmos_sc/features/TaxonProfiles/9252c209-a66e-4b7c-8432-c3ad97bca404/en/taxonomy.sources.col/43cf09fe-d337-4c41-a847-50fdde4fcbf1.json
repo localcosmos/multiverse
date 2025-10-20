@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Psammogobius knysnaensis",
+    "taxonAuthor": "Smith, 1935",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "43cf09fe-d337-4c41-a847-50fdde4fcbf1",
+    "taxonNuid": "00100700300200200100w01u059002",
+    "gbifNubkey": 2378088,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-253-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-253-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-253-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 414,
+    "vernacular": {
+        "en": "Knysna sandgoby"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Knysna sandgoby"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Gobies are a diverse family of small, bottom-dwelling fish, most with a broad, depressed head, dorsal fin separated into anterior spiny and posterior soft-rayed sections and pelvic fins united to form a cup-like disc on which the fish rests when sitting on the bottom. The eyes are usually placed close together on top of the head. Some tropical species are brightly coloured, but temperate ones are generally pale and well camouflaged.</p><p>Although there are over 100 species in southern Africa, few extend to the Western Cape. This species is much smaller than other similar gobies in the region and is relatively slender. It is characterized by the fact that the gill openings on the two sides are united beneath the throat by a free fold of skin. Colour mottled grey with pale underside.</p>",
+            "shortTextKey": "taxon_text_1_3926",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to only 7 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3927",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Port Nolloth to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3928",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common in estuaries, but also in sheltered marine sand banks. Abundant in Langebaan Lagoon, where it is one of the most common fish species. Typically found in shallow pools at low tide, retreating into the burrows or sand and mud-prawns when disturbed.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_3929",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on small benthic invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_3930",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Breeds year round. Eggs are attached to undersides of stones on the sandbanks.</p>",
+            "shortTextKey": "taxon_text_6_3931",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Relatively few gobies extend to the South Western Cape, and this species is best recognised by its small size, light build and preference for sheltered sandbanks. There are several other larger more robust species in the region. The Commafin goby <i>C. saldanha</i> is pale with numerous black spots and a larger black patch at rear of first dorsal fin. The Banded goby <i>C. caffer </i>has about 10 marked vertical bars along the sides the body and the Prison goby <i>C. gilchristi&nbsp;</i> similar but thinner bars and these are arranged in about 8 pairs. The Bareheaded goby is mottled brown with a vertical bar at base of pectoral fin.</p>",
+            "shortTextKey": "taxon_text_7_3932",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 330).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 801).",
+            "shortTextKey": "taxon_text_8_3933",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-253-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-253-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-253-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-253-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-253-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-253-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

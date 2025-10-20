@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Calliopiella michaelseni",
+    "taxonAuthor": "Schellenberg, 1925",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ceb0ac0b-2669-4ca3-8074-2b30c784058a",
+    "taxonNuid": "00100300a00100b005001001001005001",
+    "gbifNubkey": 4315087,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-481-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-481-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-481-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 15,
+    "vernacular": {
+        "en": "Limpet amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Limpet amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Laterally flattened, smooth-bodied, shrimp-like amphipod, best recognized by its obligate association with limpets. Colour pale translucent green with red eyes. Antennae equal and about 20% body length; nippers small and more of less equal, with elongate, rectangular hand. Last 3 pairs of abdominal appendages (uropods) with two equal branches, almost devoid of spines. End of telson rounded or slightly notched.</p>",
+            "shortTextKey": "taxon_text_1_64",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 11 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_65",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_66",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Well known for its apparent obligate association with large limpets, particularly being found under shells of <i>Cymbula oculus, C. granatina, C. miniata </i>and<i> C. compressa,</i> as well as <i>Scutellastra tabularis</i>. Usually occur in male/female pairs within the mantle (gill) cavity of the limpet. The sizes of the amphipods is correlated with that of the host limpet. <strong>Thought to be territorial and to defend their host habitat (the limpet) against other individuals of its own species.</strong></p>",
+            "shortTextKey": "taxon_text_4_67",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on faeces of the limpet host and probably also on algal fragments scraped from the rocks by the limpet’s radula.</p>",
+            "shortTextKey": "taxon_text_5_68",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Males copulate with females and inseminate the eggs when they are released into the marsupium, which is situated between the legs of the female. There they develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_69",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only regional species in the genus and best identified by its unusual habitat. Another amphipod, <i>Apohyale grandicornis</i>, is also sometimes found under limpets exposed during low tide, but this is a casual relationship, and the amphipods leave their host during high tide (see that species entry for a description of <i>Apohyale</i>). In <i>Apohyale</i> the second nipper is also greatly enlarged in males and the last pair of uropods has only one short branch.</p>",
+            "shortTextKey": "taxon_text_7_70",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, JL (1978). Redescription of the amphipod, Calliopiella michaelseni Schellenberg from South Africa, with comparison to a new genus from the Pacific Ocean. <i>Annals of the South African Museum</i> 75: 33–40.<br><br>Branch, G (1975). The ecology of <i>Patella</i> from the Cape Peninsula, South Africa. 5. Commensalism. <i>Zoologica Africana</i>, 10, 133–162.<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i> (p. 40).",
+            "shortTextKey": "taxon_text_8_71",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-481-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-481-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-481-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-481-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-481-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-481-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-480-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-480-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-480-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

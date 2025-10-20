@@ -1,0 +1,307 @@
+{
+    "name": "Branching red algae",
+    "description": null,
+    "verboseName": "Branching red algae",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Ahnfeltiopsis polyclada (Kützing)",
+            "taxonAuthor": "P.C. Silva & DeCew, 1992",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "7383de82-d6db-458e-a457-82820c0f715b",
+            "taxonNuid": "003002005001002",
+            "slug": "ahnfeltiopsis-polyclada-kutzing",
+            "localizedSlug": {
+                "en": "fine-split-weed"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1348-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1348-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1348-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1348-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1348-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1348-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chondria armata (Kützing)",
+            "taxonAuthor": "Okamura, 1907",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "f14adff1-ce57-4b7b-b589-e9aa1ee2edf3",
+            "taxonNuid": "003002004009001",
+            "slug": "chondria-armata-kutzing",
+            "localizedSlug": {
+                "en": "pink-chondria"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1366-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1366-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1366-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1366-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1366-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1366-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chondria capensis (Harvey)",
+            "taxonAuthor": "Askenasy, 1888",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "991dbc5c-cd88-4058-8305-1ba1283be000",
+            "taxonNuid": "003002004009002",
+            "slug": "chondria-capensis-harvey",
+            "localizedSlug": {
+                "en": "cape-chondria"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1367-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1367-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1367-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1367-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1367-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1367-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Laurencia glomerata (Kützing)",
+            "taxonAuthor": "Kützing, 1849",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "988c7bae-b146-493a-8017-f3af40740a62",
+            "taxonNuid": "00300200400c001",
+            "slug": "laurencia-glomerata-kutzing",
+            "localizedSlug": {
+                "en": "grape-laurencia"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1384-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1384-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1384-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1384-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1384-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1384-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Scinaia capensis (Setchell)",
+            "taxonAuthor": "Huisman, 1985",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "399af8b9-88b4-45f2-8a7d-91895db2b2c2",
+            "taxonNuid": "00300200b002001",
+            "slug": "scinaia-capensis-setchell",
+            "localizedSlug": {
+                "en": "forked-scinaia"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1436-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1436-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1436-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1436-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1436-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1436-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Trematocarpus flabellatus (J. Agardh)",
+            "taxonAuthor": "De Toni, 1900",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "5c81be85-518a-4ea1-b267-dd7c0e2a67c0",
+            "taxonNuid": "00300200c002001",
+            "slug": "trematocarpus-flabellatus-j-agardh",
+            "localizedSlug": {
+                "en": "comb-fan-weed"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1853-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1853-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1853-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1854-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1854-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1854-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1440-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1440-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1440-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1853-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1853-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1853-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gymnogongrus dilatatus (Turner)",
+            "taxonAuthor": "J.Agardh 1851",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "aadbd28c-9dcb-4a37-a022-0a2df65f4fd8",
+            "taxonNuid": "003002005004001",
+            "slug": "gymnogongrus-dilatatus-turner-2",
+            "localizedSlug": {
+                "en": "dilated-gymnogrongrus"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1855-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1855-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1855-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1855-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1855-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1855-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ahnfeltiopsis complicata (Kützing)",
+            "taxonAuthor": "P.C. Silva & DeCew, 1992",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "235690d0-9797-4b8c-afe3-b1326a58156f",
+            "taxonNuid": "003002005001001",
+            "slug": "ahnfeltiopsis-complicata-kutzing",
+            "localizedSlug": {
+                "en": "complicated-split-weed"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1347-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1347-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1347-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1347-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1347-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1347-1000.webp"
+                }
+            }
+        }
+    ]
+}

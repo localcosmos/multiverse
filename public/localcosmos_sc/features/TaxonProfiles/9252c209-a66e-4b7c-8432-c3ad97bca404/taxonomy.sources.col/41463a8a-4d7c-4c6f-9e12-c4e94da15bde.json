@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Plecostachys serpyllifolia",
+    "taxonAuthor": "(P. J. Bergius) Hilliard & B. L. Burtt",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "41463a8a-4d7c-4c6f-9e12-c4e94da15bde",
+    "taxonNuid": "0060060050040030010qz002",
+    "gbifNubkey": 3149321,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2951-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2951-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2951-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1033,
+    "vernacular": {
+        "en": "Cobweb bush"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cobweb bush"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dense, coastal shrub that forms a sprawling mound of slender stems bearing woolly, greyish, soft oval leaves that tend to bend down at their tips. Flowerheads small and congested and form brush-like clusters at the ends of the branchlets. Flowers with small white petals surrounded more obvious elongate brownish to purplish finger-like bracts.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9735",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 1 m.</p>",
+            "shortTextKey": "taxon_text_2_9736",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa. Introduced to Spain, Portugal, UK, California and Western Australia, where it is considered a weed.</p><p><u>Local/Regional:</u> About Melkbosstrand on west coast to KwaZulu-Natal and into Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_9737",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Coastal species common on coastal flats near the sea, but also on damp lower mountain slopes. The grey colour of the plant and its small hairy leaves are both considered adaptations to surviving summer drought.</p><p>Popular as an easy-to-grow and attractive silvery ground cover in coastal gardens and effective in stabilizing mobile sands. Contains essential oils which have antimicrobial and antifungal properties.</p>",
+            "shortTextKey": "taxon_text_4_9738",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9739",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers March to May. Easily gown from both cuttings and from seed. Germination increased by exposure to smoke primer.</p>",
+            "shortTextKey": "taxon_text_6_9740",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with White bristle-bush <i>Metalasia </i>species which also forms silvery shrubs with similar flower clusters, but these tend to have narrow, stiff, needle-like leaves.</p>",
+            "shortTextKey": "taxon_text_7_9741",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2951-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2951-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2951-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2951-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2951-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2951-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Helichrysum serpyllifolium",
+            "taxonAuthor": "(P. J. Bergius) Less."
+        },
+        {
+            "taxonLatname": "Gnaphalium serpyllifolium",
+            "taxonAuthor": "P. J. Bergius"
+        },
+        {
+            "taxonLatname": "Helichrysum serpyllifolium orbiculare",
+            "taxonAuthor": "(Thunb.) DC."
+        },
+        {
+            "taxonLatname": "Helichrysum orbiculare",
+            "taxonAuthor": "(Thunb.) Druce"
+        },
+        {
+            "taxonLatname": "Gnaphalium orbiculare",
+            "taxonAuthor": "Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

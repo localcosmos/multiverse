@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Gastrosaccus psammodytes",
+    "taxonAuthor": "O. Tattersall, 1958",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3e4e1ecf-1e0a-411b-ae25-526c0d250038",
+    "taxonNuid": "00100300a00b00201a00e",
+    "gbifNubkey": 2220195,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2536-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2536-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2536-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 73,
+    "vernacular": {
+        "en": "Surf mysid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Surf mysid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Mysids are small, often transparent shrimps in which the legs lack nippers. The abdomen ends in a tail fan formed of an elongate central telson and a single pair of large, branched uropods.<strong> </strong>A characteristic small round statocyst or balancing organ is found at the base of the inner ranch of the uropod.<i> </i>In this species the apex of the telson is notched, the notch being lines by small spines. The lateral margins of the telson also bear a row of 6-7 evenly-spaced spines, the last and largest one being at the tip.</p>",
+            "shortTextKey": "taxon_text_1_586",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 12<strong> </strong>mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_587",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Mozambique to Namibia.</p><p><u>Local/Regional:</u> Across region on sandy beaches.</p>",
+            "shortTextKey": "taxon_text_3_588",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Mysids can be either benthic or free-swimming and this species characteristically forms swarms in the surf zone of exposed sandy beaches.</p><p>Occur in the surf zone of exposed sandy beaches, sometimes burrowing into the sand by day and emerging into the water column at night. Brooding females often occur inshore and males and juveniles in deeper water more offshore.</p>",
+            "shortTextKey": "taxon_text_4_589",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Mysids are mostly filter feeders, creating a feeding current by beating the abdominal appendages and feeding on algae, detritus and zooplankton in the water column. This species appears to feed largely on the surf-zone diatom <i>Anaulus birostratus</i>.</p>",
+            "shortTextKey": "taxon_text_5_590",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females have a conspicuous ventral brood pouch in which the eggs are brooded until they have developed fully into the adult form.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_591",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are numerous species in this and related genera in the region and these are distinguished mostly by details of the shape and spination of the uropods and telson. The habitat of this particular species also helps to identify it.</p>",
+            "shortTextKey": "taxon_text_7_592",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Tattersall, OS (1958). Further notes on Mysidacea from South African waters. <i>Transactions of the Royal Society of South Africa</i>, 4, 373-385.<br><br>Webb, P, Perissinotto, R, & Wooldridge, TH (1988). Diet and feeding of <i>Gastrosaccus psammodytes</i> (Crustacea, Mysidacea) with special reference to the surf diatom <i>Anaulus birostratus</i>. <i>Marine Ecology Progress Series</i>, 45(3), 255-261.<br><br>Wooldridge, T (1981). Zonation and distribution of the beach mysid, <i>Gastrosaccus psammodytes</i> (Crustacea: Mysidacea). <i>Journal of Zoology</i>, 193(2).",
+            "shortTextKey": "taxon_text_8_593",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2536-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2536-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2536-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2536-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2536-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2536-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

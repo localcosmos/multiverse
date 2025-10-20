@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Pereionotus natalensis",
+    "taxonAuthor": "(K.H. Barnard, 1940)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9d27a763-a74e-4d49-be8c-7965158a2fcc",
+    "taxonNuid": "00100300a00100b006001002008005007",
+    "gbifNubkey": 6461215,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-997-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-997-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-997-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 685,
+    "vernacular": {
+        "en": "Splayed amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Splayed amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Palinnotus natalensis</i></p>",
+            "shortTextKey": "taxon_text_9_6736",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, and very unusual in shape with a broad, depressed body, very short antennae that turn to the side after the first joint and broad splayed side plates and posterior legs. A distinct ridge also runs down the midline of the back. Colour green.</p>",
+            "shortTextKey": "taxon_text_1_6737",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Adults only about 3-4 mm.</p>",
+            "shortTextKey": "taxon_text_2_6738",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_6739",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Rarely seen and previously known only from the more tropical east coast. This is the first record of this small but distinctive species from the Western Cape. Found on a kelp holdfast, but nothing known about the diet or biology of this species.</p>",
+            "shortTextKey": "taxon_text_4_6740",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown but likely herbivorous - most species in this family being associated with algae. &nbsp;</p>",
+            "shortTextKey": "taxon_text_5_6741",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods the eggs are released into a brood pouch between the legs of the female, where they are fertilized by males and develop into fully-formed young before being released.</p>",
+            "shortTextKey": "taxon_text_6_6742",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable, but could easily be mistaken for an isopod as has the depressed body shape more typical of that group than of amphipods, which are typically compressed side to side (structure of the abdomen is definitely that of an amphipod though!).&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6743",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1940). Contributions to the crustacean fauna of South Africa 12. Further additions to the Tanaidacea, Isopoda, and Amphipoda, together with keys for the identification of the hitherto recorded marine and freshwater species. <i>Annals of the South African Museum</i>, 32, 381-543. <br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 75 as <i>Palinnotus natalensis</i>).",
+            "shortTextKey": "taxon_text_8_6744",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-997-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-997-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-997-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-997-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-997-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-997-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Palinnotus natalensis",
+            "taxonAuthor": "K.H. Barnard, 1940"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,17 @@
+{
+  "templateName" : "Article",
+  "type": "page",
+  "templatePath" : "/template_content/page/article/article.html",
+  "version" : 1,
+  "contents": {
+    "content": {
+      "type": "stream",
+      "allowedComponents": [
+        "TextBlock",
+        "Heading",
+        "Video"
+      ],
+      "templateName": "Article"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+    "taxonLatname": "Marginella nebulosa",
+    "taxonAuthor": "(Röding, 1798)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0c2d379c-19dd-4722-bcae-8f744195e6a5",
+    "taxonNuid": "00100k00700300e00l00400400704x",
+    "gbifNubkey": 5727457,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2221-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2221-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2221-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 283,
+    "vernacular": {
+        "en": "Cloudy marginella"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cloudy marginella",
+            "clouded margin shell",
+            "clouded marginella",
+            "clouded marginsnail",
+            "cloudy margin shell",
+            "cloudy marginella"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As a group marginellids are fairly distinctive. They have a smooth, glossy shell with an elongate, narrow aperture and a correspondingly short spire. The outer lip is thickened (unlike in cones for example) and the inner lip bears a series of distinctive ridges or pleats. There is no operculum and in live specimens the broad foot is often brightly patterned. Species identification is much more complicated, as there are a large number of often localized species (over 60 in South Africa), many with similar colour patterns. Only a few of the more distinctive and common species are treated in this guide.</p><p>This species is one of the largest found in the region and can be recognized by its size, the wavy grey and white ‘cloudy’ pattern on the heavy shell, the grey areas often edged with black lines; the dark spots on the strongly thickened outer lip and the fact that there are four pleats on the inner lip. In the living animal the foot is off-white with opaque white to almost bright green patches and red spots.</p>",
+            "shortTextKey": "taxon_text_1_2646",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell typically 35-40 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2647",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to&nbsp; East London.</p>",
+            "shortTextKey": "taxon_text_3_2648",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Not usually found intertidally, but fairly often seen by divers on shallow reefs, and to a depth of about 74 m. Usually found shallowly buried in sand in the vicinity of rocks, or crawling rapidly across the sand surface in search of prey.</p>",
+            "shortTextKey": "taxon_text_4_2649",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Predatory, feeding on other gastropods. Details unknown for this species, but related species immobilize their prey with a poison gland, envelop the victim in the foot and drag it beneath the sand surface for consumption.</p>",
+            "shortTextKey": "taxon_text_5_2650",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Members of the group lay domed or lens-shaped egg capsules that are attached to rocks or shells. Each capsule contains a single embryo.</p>",
+            "shortTextKey": "taxon_text_6_2651",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are many similar species in this group, but this one is fairly easily recognized by its exceptionally large size and clouded markings.</p>",
+            "shortTextKey": "taxon_text_7_2652",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 200)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 114).<br><br>Veldsman, SG (2019). Taxonomic review of the genus <i>Marginella</i>: dividing the African coast into marine provinces and Sub-Provinces. PhD Thesis. University of Pretoria, Pretoria, South Africa.",
+            "shortTextKey": "taxon_text_8_2653",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2221-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2221-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2221-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2221-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2221-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2221-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-111-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-111-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-111-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Marginella pyrum",
+            "taxonAuthor": "Deshayes, 1844"
+        },
+        {
+            "taxonLatname": "Pterygia flammea",
+            "taxonAuthor": "Link, 1807"
+        },
+        {
+            "taxonLatname": "Marginella nubeculata",
+            "taxonAuthor": "Lamarck, 1822"
+        },
+        {
+            "taxonLatname": "Marginella (Capensismarginella) nebulosa",
+            "taxonAuthor": "(Röding, 1798)"
+        },
+        {
+            "taxonLatname": "Glabella nubicola",
+            "taxonAuthor": "Swainson, 1840"
+        },
+        {
+            "taxonLatname": "Marginella nubicola",
+            "taxonAuthor": "(Swainson, 1840)"
+        },
+        {
+            "taxonLatname": "Marginella picta",
+            "taxonAuthor": "Dillwyn, 1817"
+        },
+        {
+            "taxonLatname": "Pterygia nebulosa",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Marginella flammea",
+            "taxonAuthor": "(Link, 1807)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

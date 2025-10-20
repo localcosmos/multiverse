@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Helcion pruinosus",
+    "taxonAuthor": "(Krauss, 1848)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "30429297-89d9-4358-bbef-757d40d71f75",
+    "taxonNuid": "00100k00700m002002003004",
+    "gbifNubkey": 4370043,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-133-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-133-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-133-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 301,
+    "vernacular": {
+        "en": "Broad-rayed limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Broad-rayed limpet",
+            "rayed limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell thin, broad elongate-oval and fairly flat, ‘cap-shaped’ with the aperture covering the full surface area. Apex displaced about 75% way towards anterior end. Outer surface of shell smooth, with only faint radial striations. Colour brown, often shot with numerous distinctive and beautiful iridescent green spots and lines.</p>",
+            "shortTextKey": "taxon_text_1_2826",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 35 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2827",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa<i>.</i></p><p><u>Local/Regional:</u> Southern west coast to far Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_2828",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common from mid to low intertidal on rocky shores and under boulders, emerging at night, particularly at spring tides, to feed using its powerful radula to scrape algae off exposed rocks.</p>",
+            "shortTextKey": "taxon_text_4_2829",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on algae.</p>",
+            "shortTextKey": "taxon_text_5_2830",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sex ratio 1:1 in the west, but with significantly more males in the eastern populations. Spawn mainly in summer, the larvae developing in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_2831",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easy to confuse with the similar Slim rayed-limpet <i>H. dunkeri.</i> but that species has a more slender profile and fine radial ribs on the shell. Colour in <i>H. dunkeri </i>also differs, usually being white to yellow or brown, often with darker rays or entire segments; although iridescent spots can occur, these are also far less conspicuous than in <i>H. pruinosus.</i></p><p>Can also be confused with juveniles of<i> Cymbula oculus </i>and<i> C. granatina, </i>both of which are also flat and flecked with iridescent green. However in these species the outline is broken by distinct projecting ribs, whereas the margin of<i> H. pruinosus </i>is smooth<i>.</i></p>",
+            "shortTextKey": "taxon_text_7_2832",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 170).<br><br>Henninger, TO & Hodgson, AN (2001). The reproductive cycle of <i>Helcion pruinosus</i> (Patellogastropoda) on two South African boulder shores. <i>Journal of Molluscan Studies</i>, 67(3), 385-394.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 37).",
+            "shortTextKey": "taxon_text_8_2833",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-133-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-133-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-133-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-133-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-133-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-133-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Patella pruinosa var. fuscoradiata",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Patella pruinosa",
+            "taxonAuthor": "Krauss, 1848"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Tsengia lanceolata (J. Agardh)",
+    "taxonAuthor": "Saunders & Kraft, 2002",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "d5474be6-ee4c-452e-ad00-d45581ede7d7",
+    "taxonNuid": "003002009005001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1441-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1441-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1441-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 824,
+    "vernacular": {
+        "en": "Lance-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Lance-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Nemastoma lanceolatum</i>.</p>",
+            "shortTextKey": "taxon_text_9_7987",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Attached by a small disc-like holdfast which extends into a short cylindrical stipe and then an elongate, bright-red, tough but soft, fleshy blade. The blade forks once or twice before tapering to pointed tips.</p>",
+            "shortTextKey": "taxon_text_1_7988",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades elongate and can be up to 1 m long long, but more typically about 500 mm. Blades about 50-100 mm wide and 1 mm thick.</p>",
+            "shortTextKey": "taxon_text_2_7989",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Hondeklip Bay on west coast to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_7990",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Mostly subtidal to a depth of about 5m, but can occur in deep intertidal pools and gullies. Fairly commonly seen among drift material.</p>",
+            "shortTextKey": "taxon_text_4_7991",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7992",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia found immersed on the blades</p>",
+            "shortTextKey": "taxon_text_6_7993",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The long, pointed, fleshy fronds and bright red colour are fairly distinctive.</p>",
+            "shortTextKey": "taxon_text_7_7994",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 394). <br><br>Saunders, GW & Kraft, GT (2002). Two new Australian species of <i>Predaea</i> (Nemastomataceae, Rhodophyta) with taxonomic recommendations for an emended Nemastomatales and expanded Halymeniales. <i>Journal of Phycology</i>, 38, 1245-1260.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 306, as <i>Nemastoma lanceolatum</i>).",
+            "shortTextKey": "taxon_text_8_7995",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1441-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1441-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1441-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1441-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1441-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1441-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

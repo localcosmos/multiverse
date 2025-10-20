@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ostrea atherstonei",
+    "taxonAuthor": "R. B. Newton, 1913",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "402d0a78-3e4b-4ce1-be8d-157e2d75e284",
+    "taxonNuid": "00100k00200100200a001006005007006",
+    "gbifNubkey": 4373338,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-591-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-591-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-591-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 117,
+    "vernacular": {
+        "en": "Brooding oyster"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Brooding oyster"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell irregularly-shaped and flattened, with the left valve cemented to the substratum and the right valve lying above it. The lower valve is only shallowly cupped and lacks any recess beneath the hinge. Colour white internally, often with a pink margin. Upper valve red or purplish-brown externally and textured by course overlapping growth layers, which may be eroded away in central area. Live animals are often densely overgrown by fouling organisms and can be very difficult to spot, especially when valves closed.</p>",
+            "shortTextKey": "taxon_text_1_1006",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 105 mm shell height.</p>",
+            "shortTextKey": "taxon_text_2_1007",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> Saldanha Bay to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_1008",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fossil beds of dead shells abundant in Langebaan Lagoon, where they were once dredged to make agricultural lime, but live animals no longer found there. Mostly occur singly or in small groups on shallow reefs, where they mostly go unnoticed due to dense overgrowth of fouling organisms. Edible, but not commonly exploited as uncommon and hard to find.</p>",
+            "shortTextKey": "taxon_text_4_1009",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves feeds by pumping water in via an inhalant siphon, filtering our fine particles though the enlarged gills and then ejecting the filtered water though an exhalent siphon.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1010",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with other members of this genus, individual are hermaphrodite and eggs are incubated before release as late stage larvae with spend about two weeks in the plankton before settling.</p>",
+            "shortTextKey": "taxon_text_6_1011",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>May be confused with the cape rock oyster <i>Striostrea margaritacea,</i> which has an overlapping distribution and similar habitat preferences. However, that species has the lower valve much deeper and has a hollowed-out recess internally beneath the hinge.</p>",
+            "shortTextKey": "taxon_text_7_1012",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Compton, JS (2001). Holocene sea-level fluctuations inferred from the evolution of depositional environments of the southern Langebaan Lagoon salt marsh, South Africa. <i>The Holocene</i>, 11(4), 395-405.<br><br>Haupt, TM, Griffiths, CL, Robinson, TB, Tonin, AF & De Bruyn, PA (2010). The history and status of oyster exploitation and culture in South Africa. <i>Journal of Shellfish Research</i>, 29(1), 151-159.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 170).",
+            "shortTextKey": "taxon_text_8_1013",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-591-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-591-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-591-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-591-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-591-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-591-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,263 @@
+{
+    "taxonLatname": "Parvulastra exigua",
+    "taxonAuthor": "(Lamarck, 1816)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "34e72326-0d53-4f4a-87d0-e40e6c617fcc",
+    "taxonNuid": "00100c00100100100400300300300k003",
+    "gbifNubkey": 2272178,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2482-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2482-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2482-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 190,
+    "vernacular": {
+        "en": "Dwarf cushion-star"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dwarf cushion-star"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Asterina exigua, Patiriella exigua</i></p>",
+            "shortTextKey": "taxon_text_9_1725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tiny, flattened and pentagonal species with poorly developed arms (usually five, but specimens with four or six arms may be found). Surface texture a series of small tile-like plates, each bearing a cluster of tiny knob-like spines. Gonopores situated on the ventral side. Common on algae, especially encrusting corallines, in rock pools and often seen laying groups of orange eggs on the undersides of rocks.</p><p>Colour very variable and differs regionally. Specimens from the west coast are usually uniform green or (more rarely) brown, while those east of Cape Point are variegated and mottled in a wide variety of patterns and in colours including blue, brown, red, purple and white. Underside uniformly blue-green.</p>",
+            "shortTextKey": "taxon_text_1_1726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Diameter typically about 20 mm.</p>",
+            "shortTextKey": "taxon_text_2_1727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: </u>Angola, Namibia, South Africa, Mozambique, Mauritius and southern Australia.</p><p><u>Local/Regional:</u> Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_1728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>By far the most common starfish in the intertidal zone, especially in rock pools, where often with several present on each square meter of rock, but easily missed by virtue of their small size and extremely cryptic colouration.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_1729",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous and feed by extruding the stomach though the mouth and plastering it onto the surfaces of algae, or onto rock surfaces, such that any microscopic algae present are digested and absorbed by the stomach. Pale, flower-like scars are sometimes visible on smooth rocks (or algae-coated glass of fish tanks) where specimens have recently fed!</p>",
+            "shortTextKey": "taxon_text_5_1730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and (being echinoderms) there are five gonads in each individual! This species in unusual among starfish in that its lays its eggs in groups on the undersides of rocks, where they develop directly into tiny starfish, without any planktonic larval stage. Development to hatching takes about 20 days in Australia, but is strongly dependent on water temperature.</p>",
+            "shortTextKey": "taxon_text_6_1731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with&nbsp;the Granular cushion star <i>P. dyscrita</i> which occurs in the same sites, but is less common, slightly larger (40 mm) and is usually found lower on the shore, or sub-tidally. The two species also differ in colour, surface texture and reproductive mode, <i>P. dyscrita</i> usually being mottled in pink and purple, having a more uniform granular surface texture and having dorsal gonopores, its sperm and eggs being released into the water column, where they develop into pelagic larvae.</p>",
+            "shortTextKey": "taxon_text_7_1732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 224).<br><br>Clark, AM & Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 81).<br><br>Payne, RP, Griffiths, CL, Von der Heyden, S & Koch, E (2015). The cushion–star <i>Parvulastra exigua</i> in South Africa: one species or more? <i>ZooKeys</i>, 524, 1-16.",
+            "shortTextKey": "taxon_text_8_1733",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2482-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2482-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2482-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2482-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2482-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2482-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2481-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2481-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2481-1000.webp"
+                }
+            },
+            {
+                "text": "<p>typical False Bay, South Coast, colour morphs</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2489-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2489-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2489-1000.webp"
+                }
+            },
+            {
+                "text": "<p>typical West Coast colour morphs</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2488-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2488-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2488-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2496-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2496-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2496-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2477-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2477-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2477-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2478-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2478-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2478-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2479-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2479-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2479-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2480-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2480-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2480-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2285-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2285-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2285-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-623-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-623-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-623-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Asterina exigua",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Asteriscus krausi",
+            "taxonAuthor": "(Gray, 1840)"
+        },
+        {
+            "taxonLatname": "Patiriella exigua",
+            "taxonAuthor": "(Lamarck, 1816)"
+        },
+        {
+            "taxonLatname": "Asterias minuta",
+            "taxonAuthor": "de Blainville, 1834"
+        },
+        {
+            "taxonLatname": "Asterias exigua",
+            "taxonAuthor": "Lamarck, 1816"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,124 @@
+{
+    "taxonLatname": "Gymnogongrus dilatatus (Turner)",
+    "taxonAuthor": "J. Agardh, 1851",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "00c5ed20-f789-496c-972b-f58edcefbe42",
+    "taxonNuid": "00300200400a001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1379-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1379-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1379-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 793,
+    "vernacular": {
+        "en": null
+    },
+    "allVernacularNames": {
+        "en": []
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms erect, broadly flattened axes, often several arising from the same holdfast, these then branch dichotomously several times before ending in rounded, truncated, forked tips (tips often arched). The surface of the fronds bear characteristic, large, ball-like knobs when fertile. Texture stiff and tough and colour dark plum-red. Colonies often encrusted with a pink epiphytic coralline alga and by bryozoans.</p>",
+            "shortTextKey": "taxon_text_1_7709",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 150 mm tall, with axes at least 5 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7710",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_7711",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Attached to rocks in low-shore pools and on shallow reefs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_7712",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7713",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia in prominent hemispherical structures borne on the upper parts of the thallus lobes.</p>",
+            "shortTextKey": "taxon_text_6_7714",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The dark plum red colour, tough branching axes and large ball-like knobs on fertile specimens make this species fairly easy to identify.</p>",
+            "shortTextKey": "taxon_text_7_7715",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1379-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1379-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1379-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1379-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1379-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1379-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Exosphaeroma varicolor",
+    "taxonAuthor": "Barnard, 1914",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7603b075-1518-436e-94a6-9b5855e54323",
+    "taxonNuid": "00100300a00800e00400401f012",
+    "gbifNubkey": 2207300,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-529-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-529-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-529-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 55,
+    "vernacular": {
+        "en": "Variegated pill-bug"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Variegated pill-bug"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Common, medium-sized, mostly smooth-bodied isopod that readily rolls into a ball when disturbed. Abdominal segments fused. Colouration very variable (hence the species name!), but usually banded, the front half of thorax and of abdomen usually brown and the central section of body and tips of uropods and pleotelson cream or yellow.</p><p>Best identified by form of pleotelson, which is triangular with a pair of small longitudinal dorsal ridges at its base. Uropods not reaching beyond tip of pleotelson.</p>",
+            "shortTextKey": "taxon_text_1_424",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 10 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_425",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to region.</p><p><u>Local/Regional:</u> Namibia to about Hermanus.</p>",
+            "shortTextKey": "taxon_text_3_426",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common under boulders and among seaweeds on rocky shores and shallow reefs.</p>",
+            "shortTextKey": "taxon_text_4_427",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not specifically known, but thought to feed on algae and possibly other organic debris.</p>",
+            "shortTextKey": "taxon_text_5_428",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods the eggs are retained within a marsupial pouch between the walking legs of females and hatch into fully-developed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_429",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 14 regional species in this common genus, all of which have an entire pleotelson (not distally rolled or notched). The various species are distinguished mainly by ornamentation and shape of the pleotelson and shape of the uropods. This species is identified by the triangular pleotelson and its pair of small basal dorsal ridges.</p>",
+            "shortTextKey": "taxon_text_7_430",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1914). Contributions to the crustacean fauna of South Africa: Additions to the marine isopoda, with notes on some previously incompletely known species. <i>Annals of the South African Museum</i>, 10, 325-442.<br><br>Branch G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 92).<br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 107).",
+            "shortTextKey": "taxon_text_8_431",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-529-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-529-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-529-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-529-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-529-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-529-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

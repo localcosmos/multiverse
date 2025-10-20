@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Thelepus sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "d2f6ca2b-992b-41ce-a5e9-847d348621b0",
+    "taxonNuid": "00100c002006002001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-723-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-723-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-723-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 590,
+    "vernacular": {
+        "en": "Simple-gilled tangleworms"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Simple-gilled tangleworms",
+            "Thelepus sp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tangle worms, or spaghetti worms as they are also sometimes known, of this family are easy to recognize as a group, as the head bears a tangle of multiple, elongate, sticky, grooved tentacles (correctly termed palps) that are extended out from the burrow to gather food. Behind the palps are tufts of gills, which are usually bright red, but may be unbranched, or branched in tree-like fashion (dendritic). The body is soft, floppy and tapering and generally enclosed within a fragile, sandy tube. The segmental appendages (parapodia) are normally short ridges and are devoid of gills.</p><p>The group is very diverse, with over 40 regional species and these are hard to identify to species level, especially as the gills and tentacles have a tendency to break off if the worm is handled! This genus differs from most other coastal common genera in that the gills are un-branched.</p>",
+            "shortTextKey": "taxon_text_1_5825",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length typically about 50 mm.</p>",
+            "shortTextKey": "taxon_text_2_5826",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> The group is widespread, but as this entry is not to species level, so global distribution cannot be given.</p><p><u>Local/Regional:</u> Members of genus found across region.</p>",
+            "shortTextKey": "taxon_text_3_5827",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Construct fragile mucus tubes of sand and shell particles, usually attached to the sides of boulders buried in sand, on the undersides of rocks in sandy pools, etc. The worm remains in the tube and extends the feeding palps (tentacles) in all directions to collect organic particles. These are then not transported back to the mouth along ciliated grooves (as in fanworms for example), but rather the tentacle itself is periodically withdrawn and food particles licked off it by the mouth.</p>",
+            "shortTextKey": "taxon_text_4_5828",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Detritus feeders, extending the tentacles to gather fine organic material from of the sediment surface.</p>",
+            "shortTextKey": "taxon_text_5_5829",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little is known about reproduction in this group, but sexes are separate and some <i>Theleus</i> species are known to lay their eggs in cocoons attached to the outside of the tubes.</p>",
+            "shortTextKey": "taxon_text_6_5830",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easy to identify to group, but there are many genera and species that can only be distinguished by microscopic examination.</p><p>The Lobed tangleworm <i>Telothelepus capensis</i> also has unbranched gills, but its head is extended into a long, frilly lobe from the margins of which the tentacles emerge. It is also mostly estuarine. Species of the genera <i>Nicolea, Terebella</i> and <i>Loimia</i> are also common, but all have branched, not simple, gills, two pairs in the first two of these genera and three pairs in <i>Loimia.</i></p>",
+            "shortTextKey": "taxon_text_7_5831",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 72).<br><br>Day, JH (1967). A Monograph on the Polychaeta of Southern Africa. British Museum (Natural History), London, Part 2. (p. 727 onwards).",
+            "shortTextKey": "taxon_text_8_5832",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-723-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-723-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-723-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-723-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-723-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-723-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

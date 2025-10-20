@@ -1,0 +1,180 @@
+{
+    "taxonLatname": "Trochia cingulata",
+    "taxonAuthor": "(Linnaeus, 1771)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9fc1a03b-03b7-4121-935d-7aaa276ade29",
+    "taxonNuid": "00100k00700300e00900100f01g001",
+    "gbifNubkey": 4364494,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-120-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-120-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-120-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 291,
+    "vernacular": {
+        "en": "Girdled dogwhelk"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Girdled dogwhelk",
+            "corded rocksnail"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Nucella cingulata, Thais cingulata</i></p>",
+            "shortTextKey": "taxon_text_9_2725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell conical and whelk-shaped with a relatively small aperture and relatively short spire. Shell ornamentation very variable. The ‘typical’ form usually illustrated in guides is easy to recognize and has 1-4 very prominent, white, flat-topped ridges running around each whorl. These ridges are often absent though and in these cases the shell is smoothly blue-grey. Internal colour usually brownish with white bands corresponding to external ridges (where present).&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_2726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 30 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_2728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A characteristic and well-known west-coast species and one of the earliest shells to be described from South Africa. The typical banded form is very characteristic and easily recognised, but smooth forms are common and less easy to distinguish.</p><p>Often aggregates around clumps of mussels in the mid to low intertidal and is responsible for considerable mortality amongst smaller mussels – indeed&nbsp; the whelks can be seen creating clearings in the mussel beds as they feed (first photo)!</p><p>Most drilled mussels are small (&lt;30 mm). Predation rates are quite slow at less than 0.1 mussels per whelk per day, but as the whelks can reach densities of more than 500 individuals per square meter they are a significant cause of mussel mortality (500 whelks x 0.1 mussels per day x 365 days per year = 18 250 mussels killed per square meter per year!). The mussels are able to retaliate by tying down the whelks with byssal threads, preventing them from moving to new feeding locations!</p>",
+            "shortTextKey": "taxon_text_4_2729",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Prey mainly on mussels, but also on slipper limpets, barnacles, etc., drilling through the shell by alternately scraping away shell material with the radula and applying an acid gland to soften the shell. &nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Lays characteristic egg cases that are about 4-5 mm tall with a fairly long stalk and wedge-shaped body with a flat top, protected by a distinct overhanging ‘canopy’. Each eggs case contains a few eggs that develop into crawling young, plus numerous nurse cells that are consumed by the embryos during development.</p>",
+            "shortTextKey": "taxon_text_6_2731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily recognized by the broad flat ridges on the shell where these are present, but smooth individuals easily confused with the Common dogwhelk <i>N. dubia</i>. However, that species occurs higher in the intertidal, has weak, rounded ridges on each whorl of the shell, and is usually either plain brown or grey or has flames of rows of darker brown colour. The scaly dogwhelk <i>N. squamosa</i> is larger with a grid of numerous intersecting fine ridges on the shell, which is almost always covered by the hydroid <i>Hydractinia altispina,</i> while the Banded dogwhelk <i>N. wahlbergi </i>is also larger with a longer spire, and is white with a broad brown band around the last whorl.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 192).<br><br>Day, RW, Barkai, A & Wickens, PA (1991). Trapping of three drilling whelks by two species of mussel. <i>Journal of Experimental Marine Biology and Ecology</i>, 149(1), 109-122.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 90).<br><br>Wickens, PA & Griffiths, CL (1985). Predation by <i>Nucella cingulata</i> (Linnaeus, 1771) on mussels, particularly <i>Aulacomya ater</i> (Molina, 1782). <i>The Veliger</i>, 27(4), 366-374.",
+            "shortTextKey": "taxon_text_8_2733",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-120-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-120-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-120-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-120-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-120-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-120-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Buccinum cingulatum",
+            "taxonAuthor": "Linnaeus, 1771"
+        },
+        {
+            "taxonLatname": "Buccinum trochlea",
+            "taxonAuthor": "Bruguière, 1789"
+        },
+        {
+            "taxonLatname": "Murex dolium",
+            "taxonAuthor": "Fischer von Waldheim, 1807"
+        },
+        {
+            "taxonLatname": "Buccinum scala",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Nucella cingulata",
+            "taxonAuthor": "(Linnaeus, 1771)"
+        },
+        {
+            "taxonLatname": "Thais cingulata",
+            "taxonAuthor": "(Linnaeus, 1771)"
+        },
+        {
+            "taxonLatname": "Purpura spiralis",
+            "taxonAuthor": "Reeve, 1846"
+        },
+        {
+            "taxonLatname": "Cabestana helclarum",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Purpura cingulata",
+            "taxonAuthor": "(Linnaeus, 1771)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

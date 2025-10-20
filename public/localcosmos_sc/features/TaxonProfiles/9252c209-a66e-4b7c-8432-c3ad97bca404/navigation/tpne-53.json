@@ -1,0 +1,394 @@
+{
+    "name": "Echinoderms (starfish & kin)",
+    "description": null,
+    "verboseName": "Echinoderms (starfish & kin)",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2298-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2298-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2298-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2301-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2301-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2301-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2381-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2381-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2381-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2299-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2299-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2299-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2300-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2300-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2300-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 4,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-54",
+            "parentKey": "tpne-53",
+            "name": "Starfish",
+            "verboseName": "Starfish",
+            "taxa": [
+                {
+                    "taxonLatname": "Asteroidea",
+                    "taxonAuthor": "de Blainville, 1830",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "40321d40-50e1-4975-ac35-148a7c5bebe4",
+                    "taxonNuid": "00100c001001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2296-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2296-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2296-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2522-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2522-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2522-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2521-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2521-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2521-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2296-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2296-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2296-1000.webp"
+                }
+            },
+            "slug": "starfish"
+        },
+        {
+            "key": "tpne-55",
+            "parentKey": "tpne-53",
+            "name": "Brittle stars",
+            "verboseName": "Brittle stars",
+            "taxa": [
+                {
+                    "taxonLatname": "Ophiuroidea",
+                    "taxonAuthor": "Gray, 1840",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "384d5b8f-efce-49e8-890f-477ca3761605",
+                    "taxonNuid": "00100c001002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2511-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2511-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2511-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2509-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2509-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2509-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2510-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2510-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2510-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2297-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2297-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2297-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2511-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2511-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2511-1000.webp"
+                }
+            },
+            "slug": "brittle-stars"
+        },
+        {
+            "key": "tpne-56",
+            "parentKey": "tpne-53",
+            "name": "Feather stars",
+            "verboseName": "Feather stars",
+            "taxa": [
+                {
+                    "taxonLatname": "Crinoidea",
+                    "taxonAuthor": "Miller, 1821",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "3dd3b381-2b04-4634-8b2f-26563966758b",
+                    "taxonNuid": "00100c002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2525-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2525-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2525-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2519-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2519-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2519-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2506-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2506-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2506-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2380-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2380-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2380-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2525-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2525-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2525-1000.webp"
+                }
+            },
+            "slug": "feather-stars"
+        },
+        {
+            "key": "tpne-57",
+            "parentKey": "tpne-53",
+            "name": "Sea urchins",
+            "verboseName": "Sea urchins",
+            "taxa": [
+                {
+                    "taxonLatname": "Echinoidea",
+                    "taxonAuthor": "Schumacher, 1817",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a02f7ee2-0aa8-40a8-8eba-74868bf226e6",
+                    "taxonNuid": "00100c003001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2524-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2524-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2524-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2514-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2514-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2514-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2523-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2523-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2523-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2302-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2302-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2302-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2524-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2524-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2524-1000.webp"
+                }
+            },
+            "slug": "sea-urchins"
+        },
+        {
+            "key": "tpne-58",
+            "parentKey": "tpne-53",
+            "name": "Sea cucumbers",
+            "verboseName": "Sea cucumbers",
+            "taxa": [
+                {
+                    "taxonLatname": "Holothuroidea",
+                    "taxonAuthor": "de Blainville, 1834",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "23f6c42b-4941-45b0-9474-d8c08078e8b2",
+                    "taxonNuid": "00100c003002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2513-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2513-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2513-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2303-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2303-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2303-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2512-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2512-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2512-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2513-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2513-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2513-1000.webp"
+                }
+            },
+            "slug": "sea-cucumbers"
+        }
+    ],
+    "taxonProfiles": []
+}

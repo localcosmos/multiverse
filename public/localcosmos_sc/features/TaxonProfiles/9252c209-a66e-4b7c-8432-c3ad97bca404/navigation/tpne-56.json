@@ -1,0 +1,223 @@
+{
+    "name": "Feather stars",
+    "description": "Feather stars are unmistakable as a group, as they sit ‘upside–down’ with the mouth facing upwards and the long, graceful arms extended up into the water column. They also attach themselves to the substratum by means of a unique ring of claw-like segmented appendages on the underside of the body. They are abundant in the fossil record dating back over 500 million years and in early forms the body was often borne on a long stalk with the cirri at its base. Such stalked forms are rare today, but the larval stages of sedentary (i.e. stalkless) species still go though a stalked developmental stage.",
+    "verboseName": "Feather stars",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2525-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2525-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2525-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2519-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2519-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2519-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2506-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2506-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2506-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2380-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2380-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2380-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 2,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Annametra occidentalis",
+            "taxonAuthor": "(AH Clark, 1915)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0f6b38c1-e263-40f9-808e-5b4b988bffad",
+            "taxonNuid": "00100c002001001001002001003002002",
+            "slug": "annametra-occidentalis",
+            "localizedSlug": {
+                "en": "southern-feather-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-4-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-4-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-4-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tropiometra carinata",
+            "taxonAuthor": "(Lamarck, 1816)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4970a274-b90d-46dc-932d-3b2f69181b2f",
+            "taxonNuid": "00100c00200100100100g006001002",
+            "slug": "tropiometra-carinata",
+            "localizedSlug": {
+                "en": "elegant-feather-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2508-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2508-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2508-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2507-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2507-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2507-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2364-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2364-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2364-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2363-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2363-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2363-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-6-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-6-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-6-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2508-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2508-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2508-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Comanthus wahlbergii",
+            "taxonAuthor": "(Müller, 1843)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "74f8059f-1dce-4150-ae63-9d8be523fbd5",
+            "taxonNuid": "00100c00200100100100900100400200400b",
+            "slug": "comanthus-wahlbergii",
+            "localizedSlug": {
+                "en": "common-feather-star"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-5-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-5-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-5-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2518-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2518-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2518-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-5-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-5-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-5-1000.webp"
+                }
+            }
+        }
+    ]
+}

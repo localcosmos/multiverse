@@ -1,0 +1,778 @@
+{
+    "taxonLatname": "Fagus sylvatica",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a251756f-3209-4160-bdc3-bed491629d1e",
+    "taxonNuid": "00600800600p00300400b",
+    "gbifNubkey": 2882316,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 7,
+    "vernacular": {
+        "de": "Buche"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Buche",
+            "Rotbuche"
+        ]
+    },
+    "nodeNames": [
+        "Rotbuche"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:35",
+                        "encodedSpace": "<p>Laubbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "8e667ba6-b3eb-4952-87cd-e286e83da08e",
+                "name": "Abhängiges Merkmal",
+                "type": "TextOnlyFilter",
+                "position": 1,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "8e667ba6-b3eb-4952-87cd-e286e83da08e:37",
+                        "encodedSpace": "<p>Abhängig 1</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:3.0",
+                        "encodedSpace": 3.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:4.0",
+                        "encodedSpace": 4.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            -4.0,
+                            0.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:Wy00LjAsMC4wXQ=="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215",
+                "name": "Blattanordnung",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215:5",
+                        "encodedSpace": "wechselständig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-46-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-46-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-46-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "81cafb57-e0cf-4a9f-b064-afb6925b1c23",
+                "name": "Form des Blattes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "81cafb57-e0cf-4a9f-b064-afb6925b1c23:18",
+                        "encodedSpace": "oval",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-57-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-57-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-57-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC BY-SA",
+                            "licenceVersion": "4.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e97b684f-68a5-4507-815c-3b44c72e9c28",
+                "name": "Form des Blattendes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 4,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e97b684f-68a5-4507-815c-3b44c72e9c28:15",
+                        "encodedSpace": "mit Spitze",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-54-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-54-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-54-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "b25adc97-f7c8-4843-bf1a-630acac2fad9",
+                "name": "Form des Blattanfangs",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 5,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "b25adc97-f7c8-4843-bf1a-630acac2fad9:8",
+                        "encodedSpace": "gebuchtet",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-49-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-49-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-49-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    },
+                    {
+                        "spaceIdentifier": "b25adc97-f7c8-4843-bf1a-630acac2fad9:9",
+                        "encodedSpace": "ungebuchtet",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-50-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-50-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-50-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e2528f1b-6bd4-47db-834f-d25a2bcb894a",
+                "name": "Form des Blattrandes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 6,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e2528f1b-6bd4-47db-834f-d25a2bcb894a:10",
+                        "encodedSpace": "glatt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-51-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-51-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-51-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    },
+                    {
+                        "spaceIdentifier": "e2528f1b-6bd4-47db-834f-d25a2bcb894a:19",
+                        "encodedSpace": "wellig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-58-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-58-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-58-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e44a42ba-f451-475b-8ac7-11b04eda2048",
+                "name": "Form der Rinde",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 7,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e44a42ba-f451-475b-8ac7-11b04eda2048:20",
+                        "encodedSpace": "glatt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-59-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-59-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-59-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "67c06088-bacd-41fb-aaef-9d6b114aaa30",
+                "name": "Farbe des Stammes",
+                "type": "ColorFilter",
+                "position": 8,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "67c06088-bacd-41fb-aaef-9d6b114aaa30:13",
+                        "encodedSpace": [
+                            107,
+                            100,
+                            0,
+                            1.0
+                        ],
+                        "html": "rgba(107,100,0,1.0)",
+                        "gradient": false,
+                        "colorType": "single",
+                        "description": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "Der Begriff für unsere Buchstaben leitet sich von Buchen-Holzstäben ab. Sie wurden zum Deuten der auf ihnen eingeritzten Runen vom Boden auf-'gelesen'. Die althochdeutsche 'buoh', eine Holzschreibtafel aus Buche, ist der Namensgeber für unsere Bücher.\n\nEin über ganz Deutschland hinaus bekanntes Baumexemplar war die Bavaria-Buche. Sie stand nahe dem Ortsteil Pondorf der Gemeinde Altmannstein im oberbayerischen Landkreis Eichstätt im Naturpark Altmühltal. Ihr Alter wurde auf 500 bis 800 Jahre geschätzt, ihr Stammumfang betrug neun Meter, die Krone wies einen Durchmesser von über 30 Metern auf. Durch Sturmschäden in den Jahren 1995, 2006 und 2013 brachen nach und nach alle Hauptäste der ehemals halbkugelförmigen Krone. Das Bruchholz verblieb als Totholzbiotop an Ort und Stelle.",
+            "shortTextKey": "taxon_text_1_7",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Baum als Lebensraum",
+            "shortText": "Typische Buchenwaldbewohner sind Frühblüher wie Buschwindröschen, Waldbingelkraut, Waldmeister und Zwiebelzahnwurz. Sie nutzen das Licht, das im unbelaubten Frühjahrswald bis auf den Waldboden fallen kann.\n\nEin Charaktervogel buchenreicher Wälder ist der Schwarzspecht. Er meißelt seine Brut- und Schlafhöhlen in starke Stämme.\n\nHohltaube und Rauhfußkauz nutzen diese Baumhöhlen als 'Nachmieter'. Abgestorbenes Buchenholz ist für viele holzbewohnende Käferarten ein wichtiger Lebensraum.",
+            "shortTextKey": "taxon_text_3_9",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Schutz",
+            "texts": [
+                {
+                    "taxonTextType": "Waldschutz",
+                    "shortText": "Die Buche ist eine vergleichsweise risikoarme Baumart. Buchen- und Buchenmischbestände bilden stabile Wälder.\nJunge Buchen sind vor allem gegenüber Spätfrösten empfindlich. Für Mäuse und Schalenwild sind die Samen – die Bucheckern – besondere Leckerbissen. Wildverbiss und Schälschäden treten ebenfalls an der Buche auf.\n\nAn der Buche treten auch eine Reihe von Insekten wie der Buchenwickler, der Buchenspringrüssler, der Buchenprachtkäfer und der Kleine Buchenborkenkäfer auf. Auch Pilze befallen das Buchenholz. Bedeutsam sind vor allem Weißfäuleerreger, wie zum Beispiel der Zunderschwamm oder der Brandkrustenpilz, die das Holz zersetzen.",
+                    "shortTextKey": "taxon_text_2_8",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+            }
+        },
+        "taxonProfileImages": [],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-37-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-37-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-37-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Fagus fagus",
+            "taxonAuthor": "Scop., nom. superfl."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica aenea",
+            "taxonAuthor": "Dum.Cours."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica asplenifolia",
+            "taxonAuthor": "Dum.Cours."
+        },
+        {
+            "taxonLatname": "Fagus cochleata",
+            "taxonAuthor": "(Dippel) Domin"
+        },
+        {
+            "taxonLatname": "Fagus comptoniifolia",
+            "taxonAuthor": "Desf., nom. nud."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica roseomarginatis",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica cristata",
+            "taxonAuthor": "Dum.Cours."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica tricolor",
+            "taxonAuthor": "Simon-Louis ex K.Koch"
+        },
+        {
+            "taxonLatname": "Fagus cuprea",
+            "taxonAuthor": "Hurter ex A.DC., pro syn."
+        },
+        {
+            "taxonLatname": "Fagus echinata",
+            "taxonAuthor": "Gilib., opus utique oppr."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica atropunicea",
+            "taxonAuthor": "Weston"
+        },
+        {
+            "taxonLatname": "Fagus incisa",
+            "taxonAuthor": "Dippel, pro syn."
+        },
+        {
+            "taxonLatname": "Fagus laciniata",
+            "taxonAuthor": "A.DC., pro syn."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica pendula",
+            "taxonAuthor": "Dum.Cours."
+        },
+        {
+            "taxonLatname": "Fagus purpurea",
+            "taxonAuthor": "(Aiton) Dum.Cours."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica salicifolia",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica cochleata",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica colorata",
+            "taxonAuthor": "A.DC."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica heterophylla",
+            "taxonAuthor": "Loudon"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica laciniata",
+            "taxonAuthor": "(Vignet) Domin"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica foliis-striatis",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica quercoides",
+            "taxonAuthor": "Pers."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica tortuosa",
+            "taxonAuthor": "Pépin"
+        },
+        {
+            "taxonLatname": "Fagus sylvestris",
+            "taxonAuthor": "Gaertn."
+        },
+        {
+            "taxonLatname": "Fagus tortuosa",
+            "taxonAuthor": "(Dippel) F.Boden"
+        },
+        {
+            "taxonLatname": "Fagus purpurea roseomarginata",
+            "taxonAuthor": "Cripps"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica aureovariegata",
+            "taxonAuthor": "C.K.Schneid."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica bornyensis",
+            "taxonAuthor": "Simon-Louis ex Beissn."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica fastigiata",
+            "taxonAuthor": "Simon-Louis ex K.Koch"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica quercifolia",
+            "taxonAuthor": "(C.K.Schneid.) Geerinck"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica roseomarginata",
+            "taxonAuthor": "(Cripps) Domin"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica zlatia",
+            "taxonAuthor": "Späth ex E.Goeze"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica coriacea",
+            "taxonAuthor": "Wallr."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica luteovariegata",
+            "taxonAuthor": "Weston"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica albovariegata",
+            "taxonAuthor": "Weston"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica pyramidalis",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica retroflexa",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica grandidentata",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica variegata",
+            "taxonAuthor": "Dippel"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica vulgaris",
+            "taxonAuthor": "Aiton"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica purpurea",
+            "taxonAuthor": "Aiton"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica purpurea-pendula",
+            "taxonAuthor": "Van Geert, nom. nud."
+        },
+        {
+            "taxonLatname": "Fagus purpurea tricolor",
+            "taxonAuthor": "(Simon-Louis ex K.Koch) Pynaert"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica rohanii",
+            "taxonAuthor": "(Körb.) C.K.Schneid."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica rotundifolia",
+            "taxonAuthor": "Jackman"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica latifolia",
+            "taxonAuthor": "G.Kirchn."
+        },
+        {
+            "taxonLatname": "Fagus sylvatica purpureopendula",
+            "taxonAuthor": "H.Jaeger"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica pendula-purpurea",
+            "taxonAuthor": "Graebener"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica remillyensis",
+            "taxonAuthor": "Simon-Louis"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica miltonensis",
+            "taxonAuthor": "A.Henry"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica suentelensis",
+            "taxonAuthor": "Schelle"
+        },
+        {
+            "taxonLatname": "Fagus sylvatica suntalensis",
+            "taxonAuthor": "Beissn."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

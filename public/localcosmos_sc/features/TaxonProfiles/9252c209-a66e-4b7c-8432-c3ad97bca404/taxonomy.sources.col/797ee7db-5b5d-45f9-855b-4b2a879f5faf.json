@@ -1,0 +1,175 @@
+{
+    "taxonLatname": "Dufourea flammea",
+    "taxonAuthor": "(L. f.) Ach.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "797ee7db-5b5d-45f9-855b-4b2a879f5faf",
+    "taxonNuid": "0050030qj01500500i00b",
+    "gbifNubkey": 6345199,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-413-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-413-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-413-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 545,
+    "vernacular": {
+        "en": "Burning fingers lichen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Burning fingers lichen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Xanthodactylon flammeum</i></p>",
+            "shortTextKey": "taxon_text_9_5239",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colonies take the form of yellow or orange bushy clumps, usually attached to the tips of shrubs along the coastline adjacent to wave-exposed coasts. The tufts are formed of long, fingerlike yellow or orange lobes that are about 3 mm across and which branch dichotomously. The fingers may be erect, or hang downwards.</p><p>Apothecae inconspicuous and the same colour as the main stems (thallus) taking the form of small (2-3 mm) cup-like ‘mushrooms’ with constricted stems.</p>",
+            "shortTextKey": "taxon_text_1_5240",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Bushy tufts up to about 140 mm across.</p>",
+            "shortTextKey": "taxon_text_2_5241",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to west coast of southern Africa.</p><p><u>Local/Regional:</u> Northern Namibia southwards along west coast of South Africa.</p>",
+            "shortTextKey": "taxon_text_3_5242",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species in moist sites especially along the coastline, where it can form extensive colonies on the upper branches of coastal shrubs.</p>",
+            "shortTextKey": "taxon_text_4_5243",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_5244",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies can divide asexually by division. Spores are also produced within the apothecia and can spread to form distant colonies.</p>",
+            "shortTextKey": "taxon_text_6_5245",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>At a distance, can be confused with <i>Teloschistes</i> species as both form yellow to orange, bushy clumps on the tips of bushes above the shoreline on rocky coasts. However, in <i>Teloshistes</i> the branches are fine and usually flattened, whereas in <i>Dufourea flammea </i>they take the form of much thicker cylindrical finger-like hollow lobes.</p><p>There are several other regional species in the genus, but these form flatter colonies spreading over rocks or branches.</p>",
+            "shortTextKey": "taxon_text_7_5246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Arup, U, Søchting, U & Frödén, P (2013). A new taxonomy of the family Teloschistaceae. <i>Nordic Journal of Botany</i>, 31(1), 016–083. <br><br>Wirth, V (2010). Lichens of the Namib Desert: a Guide to their Identification. Klaus Hess Publishers, Gottingen- Windhoek (p. 34, as <i>Xanthodactylon flammeum</i>).",
+            "shortTextKey": "taxon_text_8_5247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-413-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-413-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-413-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-413-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-413-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-413-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Parmelia flammea",
+            "taxonAuthor": "(L. f.) Ach."
+        },
+        {
+            "taxonLatname": "Lobaria flammea",
+            "taxonAuthor": "(L. f.) Raeusch."
+        },
+        {
+            "taxonLatname": "Lichenoides flammeum",
+            "taxonAuthor": "(L. f.) Hoffm."
+        },
+        {
+            "taxonLatname": "Physcia flammea",
+            "taxonAuthor": "(L. f.) Nyl."
+        },
+        {
+            "taxonLatname": "Xanthoria flammea",
+            "taxonAuthor": "(L. f.) Hillmann"
+        },
+        {
+            "taxonLatname": "Lichenoides flammea",
+            "taxonAuthor": "(L. f.) Hoffm."
+        },
+        {
+            "taxonLatname": "Lichen flammeus",
+            "taxonAuthor": "L. f."
+        },
+        {
+            "taxonLatname": "Xanthodactylon flammeum",
+            "taxonAuthor": "(L. f.) C.W. Dodge"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

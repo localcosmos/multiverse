@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Pachymenia carnosa (J. Agardh)",
+    "taxonAuthor": "J. Agardh, 1876",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a376a0d7-61e0-4158-b96d-7f87be829c9a",
+    "taxonNuid": "003002009002001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1392-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1392-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1392-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 803,
+    "vernacular": {
+        "en": "Red rubber-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red rubber-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms multiple dark orange-red to blood-red straps emerging from a cylindrical holdfast. Blades have smooth margins and are very tough, leathery, up to 1.5 mm thick and not slippery to the touch. They have been compared to rubber inner-tubing in texture!</p>",
+            "shortTextKey": "taxon_text_1_7799",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades typically about 500 mm long and about 100 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7800",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_7801",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Large and conspicuous species found all along the west coast, where can be abundant in low intertidal zones and on shallow reefs, often associated with kelps.</p>",
+            "shortTextKey": "taxon_text_4_7802",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7803",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spore-producing structures, each producing 4- spores (tetrasporangia) are found across large areas of the blades.</p>",
+            "shortTextKey": "taxon_text_6_7804",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The related Slippery orbits <i>P. orbitosa</i> is lighter brown in colour, has wider and much thinner blades and is exremely slippery in texture.</p>",
+            "shortTextKey": "taxon_text_7_7805",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 392). <br><br>Farrant, AJ, Nunn, JR & Parolis, H (1971). Sulphated polysaccharides of the grateloupiaceae family: Part VI. A polysaccharide from <i>Pachymenia carnosa</i>. <i>Carbohydrate Research</i>, 19(2), 161-168.<br><br>Russell, LK, Hurd, CL, Nelson, WA & Broom, JE (2009). An examination of <i>Pachymenia</i> and <i>Aeodes</i> (Halymeniaceae, Rhodophyta) in New Zealand and the transfer of two species of <i>Aeodes</i> in South Africa to <i>Pachymenia</i>. <i>Journal of Phycology</i>, 45, 1389-1399.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 291).",
+            "shortTextKey": "taxon_text_8_7806",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1392-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1392-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1392-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1392-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1392-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1392-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1393-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1393-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1393-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Nothogenia erinacea (Turner)",
+    "taxonAuthor": "P.G. Parkinson, 1983",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "1f0f1440-fadd-4694-a7f1-0690df367088",
+    "taxonNuid": "00300200b001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1387-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1387-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1387-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 801,
+    "vernacular": {
+        "en": "Hedgehog weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hedgehog weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms branching yellowish-brown to almost black blades that emerge from a small holdfast. Edges of the blades, and sometimes the surfaces, bear numerous small, branched outgrowths (hence common name). May also incorporate swollen gas-filled bladders.</p><p>Becomes black and papery when exposed to air and dries out at low tide.</p>",
+            "shortTextKey": "taxon_text_1_7781",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 300 mm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7782",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about East London.</p>",
+            "shortTextKey": "taxon_text_3_7783",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly distinctive and common species found in patches on intertidal rocks, particularly in sand-inundated areas.</p>",
+            "shortTextKey": "taxon_text_4_7784",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7785",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The familiar form is the gametophyte and the sporophyte phase is crustose and capable of surviving long periods buried in sand.</p>",
+            "shortTextKey": "taxon_text_6_7786",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The outgrowths along the edges of the blades are a fairly distinctive identification feature.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7787",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ & Stegenga, H (1985). A crustose tetrasporophyte in the life history of <i>Nothogenia erinacea</i> (Turner) Parkinson (Galaxauraceae, Rhodophyta). <i>Phycologia</i>, 24, 111-118.<br><br>Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 398). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 260).",
+            "shortTextKey": "taxon_text_8_7788",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1387-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1387-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1387-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1387-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1387-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1387-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

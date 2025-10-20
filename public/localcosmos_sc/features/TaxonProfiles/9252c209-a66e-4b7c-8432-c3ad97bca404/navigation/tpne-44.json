@@ -1,0 +1,243 @@
+{
+    "name": "True spiders",
+    "description": null,
+    "verboseName": "True spiders",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-820-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-820-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-820-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1599-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1599-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1599-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1598-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1598-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1598-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 6,
+            "minImages": 2,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Desis formidabilis",
+            "taxonAuthor": "(O. Pickard-Cambridge, 1891)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "02c28470-edbd-43e3-9eb9-70dc2d0ef15d",
+            "taxonNuid": "00100300100300t00i003",
+            "slug": "desis-formidabilis",
+            "localizedSlug": {
+                "en": "formidable-shore-spider"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-521-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-521-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-521-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1600-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1600-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1600-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-521-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-521-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-521-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Amaurobioides africana",
+            "taxonAuthor": "Hewitt, 1917",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1ce9d47e-4918-46b2-9b15-f0c69439f279",
+            "taxonNuid": "001003001003007003001",
+            "slug": "amaurobioides-africana",
+            "localizedSlug": {
+                "en": "chevron-shore-spider"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2700-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2700-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2700-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-441-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-441-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-441-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1851-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1851-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1851-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1852-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1852-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1852-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2700-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2700-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2700-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ocyale sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "896c84b6-b65d-4a1b-906d-211a52f5ace4",
+            "taxonNuid": "001003005001001",
+            "slug": "ocyale-sp",
+            "localizedSlug": {
+                "en": "burrowing-wolf-spider"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1596-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1596-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1596-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1594-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1594-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1594-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1593-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1593-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1593-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1595-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1595-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1595-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1592-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1592-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1592-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1597-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1597-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1597-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1596-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1596-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1596-1000.webp"
+                }
+            }
+        }
+    ]
+}

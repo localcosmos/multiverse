@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Halopteris funicularis (Montagne)",
+    "taxonAuthor": "Sauvageau, 1904",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "63f6ca44-9a59-40de-bcea-a9eea587441c",
+    "taxonNuid": "00300100c001",
+    "gbifNubkey": 5423684,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1026-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1026-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1026-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 699,
+    "vernacular": {
+        "en": "Broom-weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Broom-weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Stypocaulon funiculare</i></p>",
+            "shortTextKey": "taxon_text_9_6862",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly short, tufted species with many-branched axes arising from a root-like holdfast. Each axis with numerous stiff, distally directed, bristle-like side-branches coming off in all directions, like a furry bottle-brush. Colour light to dark brown, with pale tips.</p>",
+            "shortTextKey": "taxon_text_1_6863",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length can reach 200 mm but typically much shorter.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6864",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia, South Africa, Argentina, Chile, Antactica and Southern Ocean islands.</p><p><u>Local/Regional</u><i><u>:</u> </i>Namibia to about Port Alfred.</p>",
+            "shortTextKey": "taxon_text_3_6865",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>In kelp understorey or in mid to lowshore pools down to a depth of about 12 m.</p>",
+            "shortTextKey": "taxon_text_4_6866",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6867",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Gametophytes rare, probably dioecious. Sporangia in dense clusters in axils of laterals. Oogonia spherical, each borne on a pedicel clusters of up to 3 in axils of laterals.</p>",
+            "shortTextKey": "taxon_text_6_6868",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The stiff, brush like branches are fairly distinctive.</p>",
+            "shortTextKey": "taxon_text_7_6869",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 390). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 164 as <i>Stypocaulon funiculare</i>).",
+            "shortTextKey": "taxon_text_8_6870",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1026-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1026-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1026-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1026-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1026-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1026-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1027-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1027-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1027-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

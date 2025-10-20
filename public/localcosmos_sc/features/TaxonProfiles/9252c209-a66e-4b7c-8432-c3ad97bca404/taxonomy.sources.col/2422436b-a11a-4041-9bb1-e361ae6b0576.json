@@ -1,0 +1,183 @@
+{
+    "taxonLatname": "Corhiza scotiae",
+    "taxonAuthor": "(Ritchie, 1907)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2422436b-a11a-4041-9bb1-e361ae6b0576",
+    "taxonNuid": "00100800300100200q002007008",
+    "gbifNubkey": 2267724,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1121-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1121-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1121-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 473,
+    "vernacular": {
+        "en": "Fine hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fine hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very tall hydroid with stiff, wiry, black or brown stems that can be up to 30 cm long. Stems anchored by root-like holdfast and branch only near the base, thereafter stems extend as a clump of parallel stalks, each with short lateral extensions. Separate male and female colonies.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_4540",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colony elongate - up to 300 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_4541",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to East London.</p>",
+            "shortTextKey": "taxon_text_3_4542",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Easily recognizable species, due to its parallel stems and very large size. Found on submerged reefs from about 18-120 m depth, especially in False Bay and often washed ashore after storms attached to kelp holdfasts, redbait, mussels and the like. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_4543",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not studied, but presumed to feed on small particles and planktonic organisms in the water.</p>",
+            "shortTextKey": "taxon_text_5_4544",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Male and female reproductive individuals (gonozooids) borne on different colonies. Male gonophores are elongate and have blunt ends. Female gonophores are bulbous and have flat lids.</p>",
+            "shortTextKey": "taxon_text_6_4545",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by its large size and long, straight, black stems. There are three other species in the genus, but these form tree-like branching colonies.</p>",
+            "shortTextKey": "taxon_text_7_4546",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 58).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 339).",
+            "shortTextKey": "taxon_text_8_4547",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1121-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1121-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1121-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1121-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1121-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1121-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1122-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1122-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1122-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1123-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1123-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1123-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1124-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1124-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1124-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1125-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1125-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1125-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Antennopsis scotiae",
+            "taxonAuthor": "Ritchie, 1907"
+        },
+        {
+            "taxonLatname": "Antennella ritchiei",
+            "taxonAuthor": "Totton, 1930"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Balanus trigonus",
+    "taxonAuthor": "Darwin, 1854",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "32df73df-eb7e-4210-91c7-f8ed5db35da9",
+    "taxonNuid": "001003001004002002",
+    "gbifNubkey": 2115724,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-421-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-421-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-421-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 552,
+    "vernacular": {
+        "en": "Pitted barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pitted barnacle",
+            "Balanus trigonus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, usually flattened, purple or pink-striped barnacle with six ridged shell plates and a calcareous base. Aperture distinctly triangular and the larger of shell plate that closes it (scutum) marked with diagnostic rows of pits.</p>",
+            "shortTextKey": "taxon_text_1_5311",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell diameter up to about 20 mm.</p>",
+            "shortTextKey": "taxon_text_2_5312",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan. Thought to be native to the Pacific, but has been widely dispersed around the world by shipping.</p><p><u>Local/Regional:</u> Common across the region, except coast of Northern Cape.</p>",
+            "shortTextKey": "taxon_text_3_5313",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common fouling species. Can be found under rocks in the intertidal but is most common on floating structures such as buoys, ships hulls, mussel rafts, etc. Tolerant of lowered salinity and also occurs in estuaries.</p>",
+            "shortTextKey": "taxon_text_4_5314",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like all barnacles feeds on small living and non-living organic particles filtered from the water column.</p>",
+            "shortTextKey": "taxon_text_5_5315",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Almost all barnacles are hermaphroditic, but cross-fertilisation is the rule and the penis of one individual is extended out of the body and into an adjacent individual to transfer sperm. As each animal is permanently attached to the rock the number of potential mates is limited by the length of the penis, which can be up to 3-times the diameter of the shell (relatively the longest of any animal group). The eggs are initially brooded in the mantle cavity and larvae later released. These swim and feed in the water column and go though several stages until ready to settle. Larvae are chemically attracted to older individuals, encouraging the formation of closely–packed colonies.</p>",
+            "shortTextKey": "taxon_text_6_5316",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other pink-striped barnacles (mostly <i>Amphibalanus</i> species) in the region, but the pits on the scutum distinguish this species from all other regional barnacles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_5317",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 82)",
+            "shortTextKey": "taxon_text_8_5318",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-421-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-421-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-421-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-421-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-421-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-421-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

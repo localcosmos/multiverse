@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''), url('/fonts/Ubuntu/Ubuntu-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'UbuntuCondensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/Ubuntu_Condensed/UbuntuCondensed-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('/fonts/Oswald/Oswald-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'OswaldThin';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''), url('/fonts/Oswald/Oswald-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100 900; /* Variable font supports full weight range */
+  src: local(''), url('/fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf') format('truetype-variations');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100 900; /* Variable font supports full weight range */
+  src: local(''), url('/fonts/Roboto/Roboto-Italic-VariableFont_wdth,wght.ttf') format('truetype-variations');
+}
+
+@font-face {
+  font-family: 'RobotoCondensed';
+  font-style: normal;
+  font-weight: 100 900; /* Variable font supports full weight range */
+  src: local(''), url('/fonts/Roboto_Condensed/RobotoCondensed-VariableFont_wght.ttf') format('truetype-variations');
+}
+
+@font-face {
+  font-family: 'RobotoCondensed';
+  font-style: italic;
+  font-weight: 100 900; /* Variable font supports full weight range */
+  src: local(''), url('/fonts/Roboto_Condensed/RobotoCondensed-Italic-VariableFont_wght.ttf') format('truetype-variations');
+}

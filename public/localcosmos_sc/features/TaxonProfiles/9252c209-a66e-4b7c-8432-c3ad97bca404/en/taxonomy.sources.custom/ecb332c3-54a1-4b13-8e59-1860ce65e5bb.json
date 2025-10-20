@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Amphiroa capensis",
+    "taxonAuthor": "Areschoug, 1852",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "ecb332c3-54a1-4b13-8e59-1860ce65e5bb",
+    "taxonNuid": "003002001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1181-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1181-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1181-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 715,
+    "vernacular": {
+        "en": "Hidden-jointed horsetail coralline"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hidden-jointed horsetail coralline"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly tall, bushy species with elongate segments that branch dichotomously at fairly regular intervals. Joints between segments narrow and not obvious (unlike related <i>A. ephdraea</i>), being largely concealed by ‘aprons’ extending from the ends of the segments. Surfaces of segments distinctively covered with warty reproductive structures. Colour pink with white tips.</p>",
+            "shortTextKey": "taxon_text_1_7007",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies up to about 150 mm tall. Segments up to 12 mm long and 1-2 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_7008",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Considered a South African endemic, as a record from West Africa has been discounted.</p><p><u>Local/Regional:</u> Cape Peninsula to Port Alfred.</p>",
+            "shortTextKey": "taxon_text_3_7009",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found in deep rock pools (photographed here in tidal swimming pool). May grow among other algae and often serve of substrate for tiny epiphytic algae of order Ceramiales (as in right hand side of provided image)</p>",
+            "shortTextKey": "taxon_text_4_7010",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7011",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Hemispherical structures containing reproductive organs form conspicuous bumps on segments.</p>",
+            "shortTextKey": "taxon_text_6_7012",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easy to identify to genus due to elongate segments with prominent reproductive conceptacles on surface. The similar but taller <i>A. ephydraea</i> also occurs in the SW Cape, but in that species the black joints are much wider and more conspicuous.</p>",
+            "shortTextKey": "taxon_text_7_7013",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 416). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 576).",
+            "shortTextKey": "taxon_text_8_7014",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1181-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1181-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1181-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1181-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1181-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1181-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

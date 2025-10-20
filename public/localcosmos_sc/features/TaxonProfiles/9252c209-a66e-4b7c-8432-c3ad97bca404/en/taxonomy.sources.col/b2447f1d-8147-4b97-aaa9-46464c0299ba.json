@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Actinoptilum molle",
+    "taxonAuthor": "(Kükenthal, 1910)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b2447f1d-8147-4b97-aaa9-46464c0299ba",
+    "taxonNuid": "00100800100500s00j004001001",
+    "gbifNubkey": 2258814,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-350-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-350-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-350-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 503,
+    "vernacular": {
+        "en": "Radial sea-pen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Radial sea-pen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Unusual seapen in which the rigid central stem (or rachis), which projects vertically from soft sediments, is completely encircled by a sausage-like cloak of polyps. When uprooted the buried section of the body can be seen as a tapering peduncle that forms about a third of the total length and is devoid of polyps.</p><p>Colour variable, but typically from pale-yellow, white or cream to mauve or reddish-purple, often with a metallic sheen.</p>",
+            "shortTextKey": "taxon_text_1_5442",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies up to 240 mm long (including buried section).</p>",
+            "shortTextKey": "taxon_text_2_5443",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Cape Columbine to southern Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_5444",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in sand in sheltered sites at depths of 6-222 m, but uprooted specimens sometimes found washed ashore. Bioluminescent. Fed upon by an undescribed species of nudibranch of the genus <i>Armina</i>.</p>",
+            "shortTextKey": "taxon_text_4_5445",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeding polyps use their tentacles, which are armed with stinging nematocysts, to capture small planktonic organisms from the water column.</p>",
+            "shortTextKey": "taxon_text_5_5446",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Animals grow and develop new polyps by asexual reproduction. Details of sexual reproduction unknown for this family but in other seapens separate male and female individuals release gametes into the water column, the resulting embryos developing into planktonic planula larvae, which settle after about a week to establish new colonies.</p>",
+            "shortTextKey": "taxon_text_6_5447",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable and the only species in the family. Other regional seapens have the polyps in branches arranged in a single plane, like a feather.</p>",
+            "shortTextKey": "taxon_text_7_5448",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 40, text only).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 46).<br><br>Williams, GC (1990). The Pennatulacea of southern Africa (Coelenterata, Anthozoa). <i>Annals of the South African Museum</i>/, 99(4), 31-119.",
+            "shortTextKey": "taxon_text_8_5449",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-350-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-350-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-350-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-350-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-350-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-350-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Actinoptilon molle",
+            "taxonAuthor": "Kükenthal, 1910"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

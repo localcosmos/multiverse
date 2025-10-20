@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Ischyromene macrocephala",
+    "taxonAuthor": "(Krauss, 1843)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "97871cd2-e535-490c-9de5-e4ac0d095b28",
+    "taxonNuid": "00100300a00800e00400401o00g",
+    "gbifNubkey": 2207356,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-551-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-551-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-551-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 60,
+    "vernacular": {
+        "en": "Bigheaded pill-bug"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bigheaded pill-bug"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Dymanenella macrocephala</i></p>",
+            "shortTextKey": "taxon_text_9_468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Diverse genus of flatted, rounded isopods that roll into a ball when disturbed. First five abdominal segments fused together, sixth segment fused to telson to form a ‘pleotelson’ the tips of which are rolled downwards to form a ‘gutter’. This species is identified by its broad head (hence the species name), which is longer than the first thoracic segment, and by the pair of pronounced dorsal tubercles on the pleotelson. Colour generally mottled pink.</p>",
+            "shortTextKey": "taxon_text_1_469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 10 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Table Bay to East London.</p>",
+            "shortTextKey": "taxon_text_3_471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Poorly known, but found under boulders in intertidal and on shallow subtidal reefs.</p>",
+            "shortTextKey": "taxon_text_4_472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on algae.</p>",
+            "shortTextKey": "taxon_text_5_473",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all isopods the eggs are released into a marsupium between the walking legs of the female, where they are fertilized by the male and develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_474",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 10 regional species in this genus, many of them common among intertidal algae. They are separated by body shape, dorsal ornamentation (smooth or with dorsal tubercles) and by pleotelson shape, ornamentation and type of terminal notch.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_475",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 92).",
+            "shortTextKey": "taxon_text_8_476",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-551-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-551-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-551-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-551-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-551-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-551-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Dynamenella macrocephala",
+            "taxonAuthor": "Krauss, 1843"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

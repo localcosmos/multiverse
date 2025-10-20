@@ -1,0 +1,178 @@
+{
+    "taxonLatname": "Arctotis stoechadifolia",
+    "taxonAuthor": "P. J. Bergius",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "dba901c0-5ab9-4a98-95d4-f3dae0042a54",
+    "taxonNuid": "00600600500400300f00d01r",
+    "gbifNubkey": 5406226,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2988-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2988-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2988-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1058,
+    "vernacular": {
+        "en": "Coast arctotis"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coast arctotis",
+            "Silver arctotis"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling perennial daisy with spreading stems that can form a carpet several metres across. The soft, silvery leaves are long and narrow with jagged margins and are woolly and sticky, with a strong bitter-sweet smell when touched. The showy compound flowers are large, solitary and borne on long, hollow, woolly stems. The outer ray florets (‘petals’) are cream to yellow on the upper-side and marked with a maroon stripe on the underside, while the central florets are dark to black.</p>",
+            "shortTextKey": "taxon_text_1_9961",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of some 35 cm, and may form patches at least 1 m across.</p>",
+            "shortTextKey": "taxon_text_2_9962",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to a restricted range in South Africa, but has been introduced widely as a garden plant and commonly grown in areas like California and Australia, where it may become invasive.</p><p><u>Local/Regional:</u> Limited natural distribution from Saldanha Bay to Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_9963",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Has a very limited natural distribution in coastal areas of the western Cape where it can be form extensive bads right down to high water mark.</p><p>An excellent groundcover in coastal gardens and widely cultivated in South Africa and around the world.</p>",
+            "shortTextKey": "taxon_text_4_9964",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9965",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers September to December. Pollinated by bees that visit the flowers during the heat of the day. &nbsp;Can be readily propagated by seed or from cuttings.</p>",
+            "shortTextKey": "taxon_text_6_9966",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a large and diverse genus containing some 50 regional species, of which about 30 occur in the fynbos biome. Species level identification can thus be difficult, but this species is fairly distinctive, both because of its silvery, white-felted leaves and its restricted coastal distribution.</p>",
+            "shortTextKey": "taxon_text_7_9967",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2988-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2988-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2988-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2987-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2987-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2987-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2988-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2988-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2988-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Arctotis decumbens",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Anemonospermos stoechadifolia",
+            "taxonAuthor": "(P. J. Bergius) Kuntze"
+        },
+        {
+            "taxonLatname": "Arctotis stoechadifolia var. bergii",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Anemonospermos incana",
+            "taxonAuthor": "(Burm. fil.) Kuntze"
+        },
+        {
+            "taxonLatname": "Arctotis radicans",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Centaurea incana",
+            "taxonAuthor": "Burm. fil."
+        },
+        {
+            "taxonLatname": "Arctotis grandis",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Arctotis stoechadifolia var. decumbens",
+            "taxonAuthor": "Less."
+        },
+        {
+            "taxonLatname": "Arctotis grandiflora",
+            "taxonAuthor": "Aiton"
+        },
+        {
+            "taxonLatname": "Arctotis stoechadifolia var. grandis",
+            "taxonAuthor": "(Thunb.) Less."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

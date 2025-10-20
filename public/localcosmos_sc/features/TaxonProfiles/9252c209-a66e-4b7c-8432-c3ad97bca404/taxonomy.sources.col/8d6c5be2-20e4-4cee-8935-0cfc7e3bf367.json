@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Ampelisca excavata",
+    "taxonAuthor": "K.H. Barnard, 1926",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8d6c5be2-20e4-4cee-8935-0cfc7e3bf367",
+    "taxonNuid": "00100300a00100100200300200100101y",
+    "gbifNubkey": 2219535,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-443-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-443-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-443-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 13,
+    "vernacular": {
+        "en": "Barnacle-burrow amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Barnacle-burrow amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Most easily identified by its unique habit of occupying the empty burrows of dead acrothoracican barnacles, which are most commonly excavated into the shells of mollusks, but can also occur in sheets of coralline algae.</p><p>There are three pairs of eyes, and as with other members of the family Ampeliscidae (but very unusually among other amphipods) each bears a rounded corneal lens. Antennae 1 and 2 are red, short (about one-third body length), equal, thick and setose. Last three pairs of walking legs are short, with expanded bases and are spinose, the basal segment (article 2) of last pair being strongly excavate behind (hence species name). Last segment of thorax with unique pair of dorsal ridges enclosing a hump and pit that are used to close off opening to burrow.</p>",
+            "shortTextKey": "taxon_text_1_46",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Most easily identified by its unique habit of occupying the empty burrows of dead acrothoracian barnacles, which are most commonly excavated into the shells of mollusks, but can also occur in sheets of coralline algae.</p><p>There are three pairs of eyes, and as with other members of the family Ampeliscidae (but very unusually among other amphipods) each bears a rounded corneal lens. Antennae 1 and 2 are red, short (about one-third body length), equal, thick and setose. Last three pairs of walking legs are short, with expanded bases and are spinose, the basal segment (article 2) of last pair being strongly excavate behind (hence species name). Last segment of thorax with unique pair of dorsal ridges enclosing a hump and pit that are used to close off opening to burrow.</p>",
+            "shortTextKey": "taxon_text_2_47",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Known from Algoa Bay to Cape Peninsula on shallow reefs up to about 36 m depth.</p>",
+            "shortTextKey": "taxon_text_3_48",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Has very unusual habits, the females exclusively occupying empty burrows excavated into calcareous substrata, mainly mollusk shells but also thick coralline algae, by acrothoracean barnacles. Particularly common in shells of the abalone <i>Haliotis midae</i>, the Turban shells <i>Turbo sarmaticus </i>and<i> T. cidaris, </i>as well as in the coralline alga<i> Heydrichia woelkerlingii</i>. The body form appears to have become modified to this unique habitat. The antennae have become adapted to filter-feeding, the limbs have become short, stout and spinose (reminiscent of those of hermit crabs) to grip the walls of the burrow and a plug–like structure on the dorsal surface appears to be use to close off the opening to the burrow when disturbed. Males are unknown and may look very different, since they are likely mobile and move between females, which remain captive within their burrows.</p>",
+            "shortTextKey": "taxon_text_4_49",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>When feeding the antennae are projected out of the burrow opening and used to filter organic particles from the water passing overhead. When disturbed the animal rolls over and blocks the aperture with the ‘plug-like’ swelling on its back.</p>",
+            "shortTextKey": "taxon_text_5_50",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>All amphipods broods their eggs in a marsupial chamber between the legs, where they develop into fully-formed juveniles which are then released into the water. In this case females are trapped within their burrows, so males are suspected to be free swimming and to move between females for fertilization. This has never been observed though and indeed males remain completely unknown.</p>",
+            "shortTextKey": "taxon_text_6_51",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 200 species in the genus <i>Ampelisca</i>, of which 14 are found in South Africa. However, most of these construct fragile sandy tubes in soft sediments. This species in unique in its specialised hermit-like habit, taking over the empty burrows of another species.</p>",
+            "shortTextKey": "taxon_text_7_52",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Original description: Barnard, KH (1925). Contributions to the Crustacean Fauna of South Africa no 8. Further Additions to the List of Amphipoda. <i>Annals of the South African Museum</i>, 20 (5): 319-380.  <br>                                                 <br>Botha, TPA & Griffiths, CL (2021). South African Acrothoracica (Crustacea: Cirripedia). <i>Zootaxa</i>, 4949(1), 45-78.<br><br>Gray, WS & Barnard, JL (1970). South African Ampelisca excavata KH Barnard (Amphipoda, Gammaridea), a redescription with notes on the domicile. <i>Crustaceana</i>, 19 (1): 67-83.",
+            "shortTextKey": "taxon_text_8_53",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-443-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-443-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-443-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-443-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-443-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-443-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-444-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-444-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-444-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

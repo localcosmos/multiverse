@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Diclidophoridae",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "06c35737-d4e1-4c0d-a2c5-e2dcee061747",
+    "taxonNuid": "001009001",
+    "gbifNubkey": 6402,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-708-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-708-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-708-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 576,
+    "vernacular": {
+        "en": "Gill flatworm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Gill flatworm",
+            "Diclidophoridae"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Monogeneans are mostly external parasites of vertebrates, especially fish. They are adapted for life on the skin or gills of often fast-moving hosts by being dorso-ventrally flattened and having an enlarged posterior organ (the haptor) armed with hooks and suckers to ensure firm attachment to the host. They lack specialised respiratory or circulatory systems and rely on diffusion across the body wall for respiration.</p><p>This species has been found on the gills of both Snoek and Pomfret and has an elongated, milky-white body and a lobed posterior attachment organ bearing a ring of about 9 suckers.</p>",
+            "shortTextKey": "taxon_text_1_5685",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 10 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_5686",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Unknown, as only identified to family level.</p><p><u>Local/Regional:</u> Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_5687",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Parasitic on the gills of both Snoek and Pomfret<i> (Brama brama). </i>Move about on the gills with an inchworm like motion.</p>",
+            "shortTextKey": "taxon_text_4_5688",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Many monogeneans feed on the mucous and superficial cells of the hosts, but some secrete a protease that digests the host’s skin and are able to access its blood.</p>",
+            "shortTextKey": "taxon_text_5_5689",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogeneans have a direct life cycle that does not involve a secondary host. Each individual has complex hermaphroditic reproductive organs, but individuals cross-fertilise, copulation usually involving an exchange of sperm. Some species release eggs directly in the water, while others are viviparous and release well-developed larvae which immediately settle onto other hosts.</p>",
+            "shortTextKey": "taxon_text_6_5690",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Many monogenean species occur in the region but each tends to be confined to one or a group of related hosts.</p>",
+            "shortTextKey": "taxon_text_7_5691",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Acosta, AA & Smit, NJ (2021). A first for Southern Africa: description of a new Heterobothrium (Monogenea: Diclidophoridae) parasitizing the evileye pufferfish <i>Amblyrhynchotes honckenii</i> (Tetraodontiformes: Tetraodontidae). <i>Parasitology Research</i>, 120(3), 819-830.<br><br>Nunkoo, MAI, Reed, CC & Kerwath, SE (2016). Community ecology of the metazoan parasites of snoek <i>Thyrsites atun</i> (Euphrasen, 1791)(Perciformes: Gempylidae) off South Africa. <i>African Journal of Marine Science</i>, 38(3), 363-371.<br><br>Weston, M, Nunkoo, I, Reed, C & van der Lingen, CD (2021). Ectoparasites infecting the heads and gills of commercially valuable marine fishes in South Africa. <i>African Zoology</i>, 56(4), 303-311.",
+            "shortTextKey": "taxon_text_8_5692",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-708-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-708-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-708-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-708-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-708-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-708-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

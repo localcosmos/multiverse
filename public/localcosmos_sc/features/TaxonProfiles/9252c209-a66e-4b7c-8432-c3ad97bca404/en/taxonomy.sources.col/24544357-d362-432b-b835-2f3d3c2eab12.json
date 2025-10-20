@@ -1,0 +1,165 @@
+{
+    "taxonLatname": "Orcinus orca",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "24544357-d362-432b-b835-2f3d3c2eab12",
+    "taxonNuid": "00100700300200200400400200100400200100a001",
+    "gbifNubkey": 2440483,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-278-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-278-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-278-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 440,
+    "vernacular": {
+        "en": "Orca"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Orca",
+            "Killer Whale",
+            "orca"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very well-known and iconic species and the largest member of the dolphin family. Body robust with short, rounded head lacking the beak typical of most dolphins. Mouth with 10–13 large, conical teeth in each jaw. Pectoral fins large, broad and paddle-like, with rounded ends (those of males larger, as are the tail flukes). Dorsal fin large, upright and sexually dimorphic, being smaller and curved backwards in females and much larger (up to 2m) and more triangular in males.</p><p>Colour pattern diagnostic – black dorsally with white lower jaw and belly. Another small white patch behind the eye, a grey or white saddle dorsal behind dorsal fin and another white patch on underside of tail.</p>",
+            "shortTextKey": "taxon_text_1_4186",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Very large, with males reaching 8 m in length and a mass of 8 t, but females much smaller at 5–7 m and a mass of 3–4 t.</p>",
+            "shortTextKey": "taxon_text_2_4187",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan, extending from the Arctic to Antarctic.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_4188",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Although commonly referred to as ‘killer whales’ the name Orca is preferred, as they are very large members of the family Delphinidae.</p><p>Reputed to be the most widely dispersed of all mammals, occurring from the tropics to high latitudes of both hemispheres and from coast to oceanic waters. Most often seen on offshore fishing grounds, but can be found close to the coast where they are always a thrill to see, although unpredictable in their distribution and habits. Elsewhere can form groups (pods) of up to 200 animals, but in South Africa groups are much smaller, usually of only 3–4 individuals. Fast swimming, reaching up to 30 km/h and have excellent senses of vision, hearing and echolocation. Produce whistling sounds for communication and clicking ones for echolocation. May undertake significant migrations, but the movement patterns of South African populations not well understood. Have a complex social structure and can form groups of several types, some stable and descended from a ‘matriarch’ and other groups looser and more transient.</p>",
+            "shortTextKey": "taxon_text_4_4189",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Large apex predators that take a very wide variety of prey, including many species of bony fish and sharks, squid, seabirds, turtles and various other species of marine mammals, including seals, dolphins and even large whales. May hunt in packs and some groups specialize on specific target species, such as whales. A pair of two males in False Bay is well known for attacking Great white sharks and has had a devastating impact on the population and the associated shark spotting industry! Despite their obvious ability to consume prey as large or larger than humans, no human fatalities have been noted in the wild, although some have been attributed to captive orcas.</p>",
+            "shortTextKey": "taxon_text_5_4190",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females mature at a length of about 5 m and age of about 10 years, reach peak fertility at about 20, and can continue to reproduce until the age of at least 40. They are one of the few mammals to experience menopause and may continue to live for decades (to at least 80, possible 100) after ceasing to reproduce. Males mature at about 15, but typically do not start reproducing until about 21 and are shorter-lived than females, reaching an age of about 60. Gestation varies from 15–18 months and young are born at about 180 kg and a length of 2.4 m. Females normally produce one calf about every five years. Although reproduction is seasonal in colder regions, in warmer waters young may be born at any time of year. The young are fed by the mother for at least one and up to two years.</p>",
+            "shortTextKey": "taxon_text_6_4191",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other species due to the extremely large size and characteristic colour pattern<i>.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_7_4192",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashton, N & Ashton, B (2012). Watching Whales and Dolphins in Southern Africa. Struik Nature, Cape Town (p. 108). <br><br>Best, PB (2007). Whales and Dolphins of the Southern African Subregion. Cambridge University Press (p. 263).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 366).<br><br>Cockcroft, V & Joyce, P (1998). Whale Watch: A Guide to Whales and other Marine Mammals of Southern Africa. Struik Publishers, Cape Town (p. 70).<br><br>Williams, AJ, Petersen, SL, Goren, M & Watkins, BP (2009). Sightings of killer whales <i>Orcinus orca</i> from longline vessels in South African waters, and consideration of the regional conservation status. <i>African Journal of Marine Science</i>, 31(1), 81-86.",
+            "shortTextKey": "taxon_text_8_4193",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-278-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-278-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-278-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-278-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-278-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-278-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Orca capensis",
+            "taxonAuthor": "Gray, 1846"
+        },
+        {
+            "taxonLatname": "Orcinus nanus",
+            "taxonAuthor": "Mikhalev & Ivashin, 1981"
+        },
+        {
+            "taxonLatname": "Orcinus glacialis",
+            "taxonAuthor": "Berzin & Vladimirov, 1983"
+        },
+        {
+            "taxonLatname": "Delphinus orca",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Orca ater",
+            "taxonAuthor": "Cope in Scammon, 1869"
+        },
+        {
+            "taxonLatname": "Orca rectipinna",
+            "taxonAuthor": "Cope in Scammon, 1869"
+        },
+        {
+            "taxonLatname": "Delphinus gladiator",
+            "taxonAuthor": "Bonnaterre, 1789"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

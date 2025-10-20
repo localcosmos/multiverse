@@ -1,0 +1,193 @@
+{
+    "taxonLatname": "Guinusia chabrus",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "944589d6-68b6-4ce1-94fc-0734a3866842",
+    "taxonNuid": "00100300a006002005006002003007004001",
+    "gbifNubkey": 5970883,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2740-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2740-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2740-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 972,
+    "vernacular": {
+        "en": "Cape rock crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape rock crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cancer chabrus, Plagusia tomentosa, Plagusia chabrus</i></p>",
+            "shortTextKey": "taxon_text_9_9218",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium- to large-sized crab, carapace (hard upper shell) reddish brown, walking legs with orange-yellow ridges and chelae (pincers) with rows of yellow tubercles.</p><p>Carapace texture smooth and velvety, frontal margin between the eyes with two notches where the antennae sprout from. Lateral margins (sides) with three marginal teeth. Walking legs with numerous teeth on upper margin of fourth joint.</p>",
+            "shortTextKey": "taxon_text_1_9219",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace length up to 15 cm.</p>",
+            "shortTextKey": "taxon_text_2_9220",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Currently considered a southern hemisphere species, ranging from the Indo-Pacific, including Australia, New Zealand, Chile and South Africa.</p><p><u>Local/Regional:</u> From the Namibian border to Eastern Cape and KwaZulu-Natal border, intertidal to 50 m.</p>",
+            "shortTextKey": "taxon_text_3_9221",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The most common shore crab along the southwest coast of South Africa, where they are frequently seen on shallow, rocky reefs and intertidal pools in crevices or can be seen on low-growing seaweeds, feeding on small organisms. Incredibly strong legs and hooked dactyls make them perfectly adapted to the wave-exposed shores which they dominate. Can also be observed on anthropogenic habitats such as jetties, quays, artificial reefs and also the bottom of ships (which could explain its widespread distribution). Do not occur in estuaries, as they cannot tolerate salinities below 70% seawater. Cape rock crabs are an important prey species for many kelp forest inhabitants, especially the Common octopus (<i>Octopus vulgaris</i>) that can reach into crevices and other hiding spots to pull the crab out. Escape responses are often observed as Cape rock crabs are excellent swimmers, using their flattened legs and hair fringes on them as efficient paddles, fleeing onto higher reefs, the water column, the kelp canopy, or even onto exposed intertidal rocks where the octopus can’t easily follow.</p>",
+            "shortTextKey": "taxon_text_4_9222",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Cape rock crabs have incredibly diverse diets and are known to take a wide variety of small invertebrates including barnacles, amphipods and small crustaceans, chitons, bivalves, gastropods and polychaetes. As these crabs are omnivores, they are also known to pick off and eat various species of seaweeds, with coralline algae being a large component thereof. As their diet indicates, they have a wide variety of gut enzymes, allowing them to be incredibly opportunistic feeders, taking prey as and when they are available. Active during the day but mostly feed at dusk.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_9223",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Males and females hold each other with their bellies facing each other until the female moults and after which the male transfers a sperm package to the female and both go their own way. When the female is ready to spawn her eggs, they are fertilised on their way out and attached and held under the females tail where they develop into the first larval stage and are then released into the open ocean. The pelagic larva swim and develop further in the plankton before settling back to the ground as a small juvenile crab. Ovigerous females are observed during Summer months (October – January).</p>",
+            "shortTextKey": "taxon_text_6_9224",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large size and distinct colouration make this species unmistakable. South African specimens may be a separate lineage from the Indo-Pacific on, though more research is required to confirm these suspicions.</p>",
+            "shortTextKey": "taxon_text_7_9225",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 120). <br><br>Emmerson, WD (2016). A Guide to, and Checklist for, the Decapoda of Namibia, South Africa and Mozambique. Newcastle upon Tyne: Cambridge Scholars Publishing. Volumes 1 – 3, 526, 645, 711 pp.<br><br>Griffiths, CL, Hockey, PAR, Van Erkom Schurink, C & Le Roux, PJ (1992). Marine invasive aliens on South African shores: implications for community structure and trophic functioning. <i>South African journal of marine science</i>, 12(1), 713-722.<br><br>Le Roux, PJ (1991). The population ecology and feeding biology of rocky shore crabs on the Cape Peninsula. M. Sc. thesis, University of Cape Town: 167 pp.",
+            "shortTextKey": "taxon_text_8_9226",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2740-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2740-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2740-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2740-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2740-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2740-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2741-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2741-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2741-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Plagusia spinosa",
+            "taxonAuthor": "MacLeay, 1838"
+        },
+        {
+            "taxonLatname": "Plagusia tomentosus",
+            "taxonAuthor": "H. Milne Edwards, 1837"
+        },
+        {
+            "taxonLatname": "Marestia elegans",
+            "taxonAuthor": "Dana, 1852"
+        },
+        {
+            "taxonLatname": "Marestia mawsoni",
+            "taxonAuthor": "Rathbun, 1918"
+        },
+        {
+            "taxonLatname": "Plagusia gaimardi",
+            "taxonAuthor": "H. Milne Edwards, 1853"
+        },
+        {
+            "taxonLatname": "Grapsus (Plagusia) capensis",
+            "taxonAuthor": "De Haan, 1835"
+        },
+        {
+            "taxonLatname": "Plagusia tomentosa",
+            "taxonAuthor": "H. Milne Edwards, 1837"
+        },
+        {
+            "taxonLatname": "Cancer chabrus",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Plagusia chabrus",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Plagusia tomeniosa",
+            "taxonAuthor": "H. Milne Edwards, 1837"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

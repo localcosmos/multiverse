@@ -1,0 +1,174 @@
+{
+    "taxonLatname": "Caffrogobius saldanha",
+    "taxonAuthor": "(Barnard, 1927)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "17cfe6a3-bb74-447b-8cc1-67fa582eece8",
+    "taxonNuid": "00100700300200200100w01u014007",
+    "gbifNubkey": 2376932,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1491-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1491-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1491-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 833,
+    "vernacular": {
+        "en": "Comma-fin goby"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Comma-fin goby",
+            "Commafin goby"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Gobies are a diverse family of small, bottom-dwelling fish, most with a broad, depressed head, dorsal fin separated into anterior spiny and posterior soft-rayed sections and pelvic fins united to form a cup-like disc on which the fish rests when sitting on the bottom. The eyes are usually placed close together on top of the head. Some tropical species are brightly coloured, but temperate ones are generally pale and well camouflaged.</p><p>Although there are over 100 species in southern Africa, few extend to the Western Cape. This species is characterised by its pale body adorned with broken horizontal rows of numerous small black spots. The first dorsal fin has a yellowish margin and bears about three rows of dark stripes, plus a dark grey-blue spot at the rear of the fin (apparently absent in some individuals).</p>",
+            "shortTextKey": "taxon_text_1_8069",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 8 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_8070",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_8071",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Occurs in rock pools, in estuaries and on shallow reefs to a depth of about 8 m. Commonly found sheltering under overhangs on the sand-rock interface. Sits on the bottom, supported by the pelvic fin and with pectoral fins extended for support.</p>",
+            "shortTextKey": "taxon_text_4_8072",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on small invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_8073",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Specific details unknown.</p>",
+            "shortTextKey": "taxon_text_6_8074",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The Bareheaded goby <i>C. nudiceps</i> is similar but darker brown with large brown blotches and a distinct round black spot above the origin of the pelvic fin. The Banded goby <i>C. caffer </i>has about 10 marked vertical bars along the sides the body and the Prison goby <i>C. gilchristi </i>has similar but thinner bars arranged in about 8 pairs.</p>",
+            "shortTextKey": "taxon_text_7_8075",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 330). <br><br>Goren, M (1996). A review of the southern African gobiid fish genus <i>Caffrogobius</i> Smitt, 1900. <i>Special Publications of the JLB Smith Institute of Ichthyology</i>, (57), 1-28.<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 5 (p. 60). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 784).",
+            "shortTextKey": "taxon_text_8_8076",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1491-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1491-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1491-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1491-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1491-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1491-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1492-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1492-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1492-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gobius olivaceus",
+            "taxonAuthor": "Castelnau, 1861"
+        },
+        {
+            "taxonLatname": "Ctenogobius cloatus",
+            "taxonAuthor": "Smith, 1960"
+        },
+        {
+            "taxonLatname": "Monishia saldanha",
+            "taxonAuthor": "(Barnard, 1927)"
+        },
+        {
+            "taxonLatname": "Ctenogobius saldanha",
+            "taxonAuthor": "(Barnard, 1927)"
+        },
+        {
+            "taxonLatname": "Nematogobius saldanha",
+            "taxonAuthor": "(Barnard, 1927)"
+        },
+        {
+            "taxonLatname": "Gobius saldanha",
+            "taxonAuthor": "Barnard, 1927"
+        },
+        {
+            "taxonLatname": "Bathygobius saldanha",
+            "taxonAuthor": "(Barnard, 1927)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

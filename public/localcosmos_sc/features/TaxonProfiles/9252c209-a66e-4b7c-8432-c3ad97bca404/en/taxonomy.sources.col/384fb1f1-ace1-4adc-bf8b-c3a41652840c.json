@@ -1,0 +1,170 @@
+{
+    "taxonLatname": "Dendrofissurella scutellum",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "384fb1f1-ace1-4adc-bf8b-c3a41652840c",
+    "taxonNuid": "00100k00700v002001001004003001",
+    "gbifNubkey": 4357846,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-64-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-64-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-64-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 244,
+    "vernacular": {
+        "en": "Saddled keyhole-limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Saddled keyhole-limpet",
+            "saddle-shaped keyhole limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Amblychilepas scutellum</i></p>",
+            "shortTextKey": "taxon_text_9_2255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell much smaller than body, robust and limpet-like and with an oval hole at its apex, through which the exhalant siphon projects. Shell saddle-shaped when viewed from the side (such that it rocks from end to end when placed on a flat surface) and with fine radiating riblets and concentric growth lines. Colour variable, including cream, pink or brown, may be plain or with radiating rays of darker colour, sometimes attractively marbled.</p><p>Animal much larger than shell, which simply perches on its back. Head projects into an elongate narrow snout with side branches and bears a pair of elongate tentacles at base. A few frilly, branching projections around margin of shell but these modest in number and size. Colour variable, often plain black or dark brown, but can be cream or pale pink (larger, darker, west coast and smaller, more mottled, south coast forms are recognized as separate subspecies).</p>",
+            "shortTextKey": "taxon_text_1_2256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 40 mm in length, expanded animal up to 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_2257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Angola to South Africa.</p><p><u>Local/Regional:</u> Namibia to central KwaZulu-Natal<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common species, seldom seen in the open, but abundant under boulders, particularly in sandy areas. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_2259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on algae, notably the commercially important <i>Gracilaria</i>.</p>",
+            "shortTextKey": "taxon_text_5_2260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied, but members of this family normally have separate sexes (some change sex from male to female with age). Eggs may be laid within thin gelatinous masses or in spherical gelatinous capsules. The young then hatch as late stage planktonic larvae, or in some species at the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_2261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Genetic studies may well show that the two recognized subspecies on the west and south coasts, which show various morphological differences, are in fact distinct species. Often confused with the similar <i>Amblychilepas platyactis</i>, which is similar in overall size and body form and also has a saddle-shaped shell, but that species lacks the elongated forward-directed head and has many more and longer papillae around the margins of the shell. It is also usually red or pink in colour.</p><p>Can also be confused with the smaller keyhole limpet <i>Fissurella mutabilis</i>, but in that species the shell is flat and not saddle-shaped and almost completely covers the animal.</p>",
+            "shortTextKey": "taxon_text_7_2262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 172)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 35).<br><br>McLean, JH & Kilburn, RN (1986). Propodial elaboration in Southern African and Indian Ocean Fissurellidae (Mollusca: Prosobranchia) with descriptions of two new genera and one new species. <i>Contributions in Science, Natural History Museum of Los Angeles County</i>, 379, 1-12.",
+            "shortTextKey": "taxon_text_8_2263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-64-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-64-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-64-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-64-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-64-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-64-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-65-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-65-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-65-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Fissurellidaea scutella",
+            "taxonAuthor": "(Gmelin, 1791)"
+        },
+        {
+            "taxonLatname": "Amblychilepas scutella",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Patella scutellum",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Amblychilepas scutellum",
+            "taxonAuthor": "(Gmelin, 1791)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

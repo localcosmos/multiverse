@@ -1,0 +1,161 @@
+{
+    "taxonLatname": "Mesembryanthemum crystallinum",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8fe6d077-c0a0-4478-9c9f-d7b350044fbd",
+    "taxonNuid": "00600600500d00300300100k",
+    "gbifNubkey": 3084839,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2842-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2842-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2842-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1021,
+    "vernacular": {
+        "en": "Ice plant"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ice plant",
+            "Brack salad",
+            "Common iceplant"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Stress resistant, low-growing annual with succulent stems and large, paddle-shaped leaves that have wavy, often red, margins and are usually folded lengthwise. The distinctive, glistening, bladder-cells on both the stems and leaves resemble ice-crystals, giving the plant its common name. The attractive, daisy-like flowers have a fringe of thin white to pink petals surrounding a tuft of short yellow stamens and appear in spring and early summer. The 5-segmented, star-shaped fruits contain many seeds per cell.</p>",
+            "shortTextKey": "taxon_text_1_9631",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Height typically about 15 cm but can reach 50 cm, with lateral stems typically extending about 20-60 cm, leaves 10 cm or more long and flowers about 25 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9632",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across southern and North Africa and in southern Europe. Also introduced to South America, Australia and USA.</p><p><u>Local/Regional:</u> Namaqualand to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9633",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A hardy species that occurs in dry areas both along the coast and inland, but particularly common adjacent to the coast, as it is very tolerant of salt spray. The flowers are pollinated by insects and close at night.</p><p>The leaves are edible and are eaten like spinach, or can be pickled. They are sold in supermarkets in Japan under the names ice plant or salt leaf. The plant is also used as an ornamental in gardens and is useful in fire prevention (firescaping) and in bioremediation (to extract salt from brack soils). The species also has various potential biomedical applications.</p>",
+            "shortTextKey": "taxon_text_4_9634",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9635",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Annual species that germinate with the first winter rains, glowing to maturity and flowering around November-December.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9636",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Common and familiar species fairly-easy to recognise due crystalline appearance of leaves.</p>",
+            "shortTextKey": "taxon_text_7_9637",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2842-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2842-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2842-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2842-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2842-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2842-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gasoul crystallinum",
+            "taxonAuthor": "(L.) Rothm."
+        },
+        {
+            "taxonLatname": "Mesembryanthemum breve",
+            "taxonAuthor": "L. Bolus"
+        },
+        {
+            "taxonLatname": "Mesembryanthemum glaciale",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Mesembryanthemum crispum",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Cryophytum parvum",
+            "taxonAuthor": "L. Bolus"
+        },
+        {
+            "taxonLatname": "Pentacoilanthus crystallinus",
+            "taxonAuthor": "Rappa & Camarrone"
+        },
+        {
+            "taxonLatname": "Cryophytum crystallinum",
+            "taxonAuthor": "(L.) N. E. Br."
+        },
+        {
+            "taxonLatname": "Perapentacoilanthus crystallinus",
+            "taxonAuthor": "(L.) Rappa & Camarrone"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

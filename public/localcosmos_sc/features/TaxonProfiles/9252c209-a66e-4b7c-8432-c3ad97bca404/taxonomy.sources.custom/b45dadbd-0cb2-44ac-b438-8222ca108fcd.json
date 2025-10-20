@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Platysiphonia intermedia (Grunow)",
+    "taxonAuthor": "M.J. Wynne, 1983",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "b45dadbd-0cb2-44ac-b438-8222ca108fcd",
+    "taxonNuid": "00300200400f001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1406-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1406-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1406-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 808,
+    "vernacular": {
+        "en": "Platysiphonia"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Platysiphonia"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms small, bright-red tufts of thin, branching and gradually tapering filaments a fraction of 1 mm wide. These give off lateral branches of irregular lengths that each arise from a narrow base, widen slightly and then taper to a pointed tip.</p>",
+            "shortTextKey": "taxon_text_1_7844",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Whole structure up to about 100 mm tall and individual filaments less than 0.5 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7845",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Mainly Southern African, but also reported from St Paul Island.</p><p><u>Local/Regional: </u>Namibia to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_7846",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Forms small delicate tufts in intertidal pools and on shallow reefs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_7847",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7848",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia in pairs in lateral filaments.</p>",
+            "shortTextKey": "taxon_text_6_7849",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A smaller species <i>P. delicata</i> (previously called <i>P. miniata) </i>is common in algal turfs and epiphytic on other seaweeds from De Hoop eastwards into KwaZulu-Natal and is also widespread in tropical and subtropical areas worldwide, but does not occur on the west coast.</p>",
+            "shortTextKey": "taxon_text_7_7850",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 491).<br><br>Wynne, MJ (1983). The current status of genera in the Delesseriaceae (Rhodophyta). <i>Botanica Marina</i>, 26, 437-450.",
+            "shortTextKey": "taxon_text_8_7851",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1406-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1406-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1406-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1406-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1406-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1406-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,206 @@
+{
+    "taxonLatname": "Tylos granulatus",
+    "taxonAuthor": "Krauss, 1843",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5dc65e33-c981-41cd-bc3f-30d6e667dd02",
+    "taxonNuid": "00100300a00800b00z001002007",
+    "gbifNubkey": 2205118,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2729-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2729-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2729-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 71,
+    "vernacular": {
+        "en": "Giant beach pill-bug"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Giant beach pill-bug"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, heavily-built, off-white, air-breathing isopod resembling a very large, stout woodlouse. Eyes prominent and black, first antennae minute, second antennae held laterally; pleotelson short and rounded; dorsal surface of body granuate. Found at and above the driftline of exposed sandy beaches along west coast. Rolls up tightly into a ball when disturbed.</p>",
+            "shortTextKey": "taxon_text_1_568",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Unusually large, reaching 50 mm total length.</p>",
+            "shortTextKey": "taxon_text_2_569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to region.</p><p><u>Local/Regional:</u> Northern Namibia to Cape Point.</p>",
+            "shortTextKey": "taxon_text_3_570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An iconic and well-studied species typical of exposed sandy beaches wherever drift kelp is washed ashore. Strictly nocturnal. Adults spend the day buried in deep burrows excavated up to 40 cm below the sand surface and above the high water mark. Emerge before nocturnal low tides and trundle down the beach in search of drift algae. After feeding, return above the high water mark to rebury themselves. Burrowing is achieved by scraping the sand backwards, while at the same time turning the body, thus create a pit-shaped hollow. Once the head is directed downwards the animal continues to burrow down vertically until it reached cool moist sand, where it remains quiescent until the next low tide. Incoming burrows are thus marked by a molehill-like mound, whereas emergent ones are plain round holes flush with the sand surface.</p><p>&nbsp;Since low tide occurs about 50 minutes later each night, the time of emergence is correspondingly delayed on successive nights. Eventually the time of emergence would start to occur after dawn, and then the isopods switch back to emerging in the evening, shortly after dark!</p><p><i>Tylos </i>can reach impressive densities in suitable sites and watching them emerge and feed at night is a dramatic regional wildlife experience. Unfortunately, though, numbers have declined dramatically at some sites and they are no longer found in the vicinity of Cape Town, where much of the early research was undertaken. The causes of these declines are not certain but possible reasons may include disturbance, pollution events, removal of kelp from the beaches or disorientation due to light pollution from land-based sources.</p>",
+            "shortTextKey": "taxon_text_4_571",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2831-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2831-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2831-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2832-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2832-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2832-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2833-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2833-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2833-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed principally on decaying kelp washed up along the drift line but have also been seen taking animal material such as dead insects.</p>",
+            "shortTextKey": "taxon_text_5_572",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2834-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2834-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2834-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As in all isopods the eggs are incubated in a marsupial chamber between the walking legs of females and emerge as fully-formed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_573",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A second smaller and smooth bodied species <i>T. capensis</i>, if found from Cape Point Eastwards to about Port Elizabeth but the ranges of the two species do not overlap. Unlikely to be confused with any other regional isopods due to its large size and unusual habits.</p>",
+            "shortTextKey": "taxon_text_7_574",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Kensley, BF (1974). Aspects of the biology and ecology of the genus <i>Tylos</i> Latreille. <i>Annals of the South African Museum</i> 65 (11): 401-471.<br><br>Marsh, BA, &amp; Branch, GM (1979). Circadian and circatidal rhythms of oxygen consumption in the sandy-beach isopod <i>Tylos granulatus</i> Krauss. <i>Journal of Experimental Marine Biology and Ecology</i>, 37(1), 77-89.<br><br>Odendaal, FJ, Eekhout, S, Brown, AC, &amp; Branch, GM (1999). Aggregations of the sandy-beach isopod, <i>Tylos granulatus</i>: adaptation or incidental-effect? <i>African Zoology</i>, 34(4): 180-189.</p>",
+            "shortTextKey": "taxon_text_8_575",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2729-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2729-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2729-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2729-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2729-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2729-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2727-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2727-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2727-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2726-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2726-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2726-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2830-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2830-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2830-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

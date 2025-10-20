@@ -1,0 +1,238 @@
+{
+    "taxonLatname": "Pomatomus saltatrix",
+    "taxonAuthor": "(Linnaeus, 1766)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5a8a3523-98a2-4e22-a54c-bbe014c862d6",
+    "taxonNuid": "00100700300200200100w03h001001",
+    "gbifNubkey": 5208090,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1502-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1502-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1502-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 424,
+    "vernacular": {
+        "en": "Elf"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Elf",
+            "Greenfish",
+            "Ancho",
+            "Bailey leaf",
+            "Big cinekop",
+            "Big lufer",
+            "Blue fish",
+            "Bluefish",
+            "Boston bluefish",
+            "Choppers",
+            "Fatback",
+            "Horsemackerel",
+            "Jumbos",
+            "Marine piranha",
+            "Razorbacks",
+            "Salmon bluefish",
+            "Shad",
+            "Skipjack",
+            "Skipmackerel",
+            "Snap mackerel",
+            "Snapping mackerel",
+            "Tailor",
+            "Tailor run",
+            "Yellow wing"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Has a confusing variety of common names, including in South Africa where known as Elf in the Cape and as Shad in KwaZulu-Natal. Also know as Bluefish in the USA and as Tailor in Australia and New Zealand.</p>",
+            "shortTextKey": "taxon_text_9_4025",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Robust, oblong, laterally-compressed body with large mouth, lower jaw slightly projecting and bearing very sharp teeth. Hind edge of preoperculum serrate. Two separate dorsal fins, the first small and consisting of only 7–8 short spines, the second longer, with 1 spine and 23–28 rays. Tail powerful and forked.&nbsp;</p><p>Head and body bluish green dorsally, silvery below.</p>",
+            "shortTextKey": "taxon_text_1_4026",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 130 cm total length and a mass of up to 15 kg.</p>",
+            "shortTextKey": "taxon_text_2_4027",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed in subtropical and temperate waters on both sides of the North Atlantic, the Mediterranean and Black Sea, South Africa to Mozambique, Oman, Australia and New Zealand and Malay Peninsula.</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4028",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in coastal waters especially the surf zone, also extending into estuaries as juveniles. A renowned angling fish well known for its fighting abilities (the name saltatrix meaning leaping) and can often be seen leaping from the water in pursuit of prey.</p><p>Fast growing species maturing at a length of about 25 cm, which is achieved after only one year. In winter adults undertake a seasonal migration from the South coast to KwaZulu-Natal, where they spawn. The pelagic larvae are then carried south by the Agulhas Current and spend their first year of life in estuaries or nearshore waters along the south coast. Longevity about 10 years.</p><p>Should be handled with care, as the teeth are razor sharp and the serrated edge of the preoperculum (cheek bone) can also inflict a nasty cut.</p>",
+            "shortTextKey": "taxon_text_4_4029",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Juveniles take a variety of crustaceans, fish and cephalopods. Adults are voracious predators consuming mostly (87%) fish, but also shrimp and squid. May attack shoaling prey in packs creating a ‘feeding frenzy’.</p>",
+            "shortTextKey": "taxon_text_5_4030",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spawning occurs along the east coast from September to December and the eggs are pelagic, drifting southwards with the ocean currents.</p>",
+            "shortTextKey": "taxon_text_6_4031",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The family contains only this one genus and species, although could be superficially confused with a number of similarly-shaped silvery gamefish in other families.</p>",
+            "shortTextKey": "taxon_text_7_4032",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 292).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 226).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 3 (p. 165). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 224).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 587).",
+            "shortTextKey": "taxon_text_8_4033",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1502-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1502-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1502-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1502-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1502-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1502-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Temnodon tubulus",
+            "taxonAuthor": "Saville-Kent, 1893"
+        },
+        {
+            "taxonLatname": "Sparactodon nalnal",
+            "taxonAuthor": "Rochebrune, 1880"
+        },
+        {
+            "taxonLatname": "Chromis epicurorum",
+            "taxonAuthor": "Gronow, 1854"
+        },
+        {
+            "taxonLatname": "Gasterosteus saltatrix",
+            "taxonAuthor": "Linnaeus, 1766"
+        },
+        {
+            "taxonLatname": "Scomer sypterus",
+            "taxonAuthor": "Pallas, 1814"
+        },
+        {
+            "taxonLatname": "Temnodon conidens",
+            "taxonAuthor": "Castelnau, 1861"
+        },
+        {
+            "taxonLatname": "Cheilodipterus saltatrix",
+            "taxonAuthor": "(Linnaeus, 1766)"
+        },
+        {
+            "taxonLatname": "Perca lophar",
+            "taxonAuthor": "Forsskål, 1775"
+        },
+        {
+            "taxonLatname": "Temnodon saltator",
+            "taxonAuthor": "(Linnaeus, 1766)"
+        },
+        {
+            "taxonLatname": "Pomatomus skib",
+            "taxonAuthor": "Lacepède, 1802"
+        },
+        {
+            "taxonLatname": "Lopharis mediterraneus",
+            "taxonAuthor": "Rafinesque, 1810"
+        },
+        {
+            "taxonLatname": "Scomber sypterus",
+            "taxonAuthor": "Pallas, 1814"
+        },
+        {
+            "taxonLatname": "Sypterus pallasii",
+            "taxonAuthor": "Eichwald, 1831"
+        },
+        {
+            "taxonLatname": "Pomatomus pedica",
+            "taxonAuthor": "Whitley, 1931"
+        },
+        {
+            "taxonLatname": "Pomatomix saltatrix",
+            "taxonAuthor": "(Linnaeus, 1766)"
+        },
+        {
+            "taxonLatname": "Cheilodipterus heptacanthus",
+            "taxonAuthor": "Lacepède, 1801"
+        },
+        {
+            "taxonLatname": "Pomatomus saltator",
+            "taxonAuthor": "(Linnaeus, 1766)"
+        },
+        {
+            "taxonLatname": "Gonenion serra",
+            "taxonAuthor": "Rafinesque, 1810"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

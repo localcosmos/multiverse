@@ -1,0 +1,140 @@
+{
+    "name": "Brachiopods (lamp shells)",
+    "description": null,
+    "verboseName": "Brachiopods (lamp shells)",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2018-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2018-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2018-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2020-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2020-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2020-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 2,
+            "modeImages": 3
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Kraussina rubra",
+            "taxonAuthor": "(Pallas, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "85445f23-ce8a-467f-ac39-2a80cc638d05",
+            "taxonNuid": "001004003004009002004001002005",
+            "slug": "kraussina-rubra",
+            "localizedSlug": {
+                "en": "ruby-lamp-shell"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-556-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-556-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-556-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2021-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2021-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2021-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2022-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2022-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2022-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-556-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-556-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-556-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Terebratulina meridionalis",
+            "taxonAuthor": "Jackson, 1952",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3ec4fc20-2ad3-4c96-8fdb-b8679f2ca9b9",
+            "taxonNuid": "00100400300400900300100100100400m",
+            "slug": "terebratulina-meridionalis",
+            "localizedSlug": {
+                "en": "transparent-lamp-shell"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2019-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2019-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2019-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-664-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-664-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-664-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2019-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2019-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2019-1000.webp"
+                }
+            }
+        }
+    ]
+}

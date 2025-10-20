@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Alexandrium catenella (Whedon & Kufoid)",
+    "taxonAuthor": "Balech, 1985",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "c3acabfe-0b3f-487f-a81a-e9abee9e7234",
+    "taxonNuid": "003003001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1251-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1251-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1251-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 740,
+    "vernacular": {
+        "en": "Paralytic red tide dinoflagellate"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Paralytic red tide dinoflagellate"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Gonyaulax catenella</i></p>",
+            "shortTextKey": "taxon_text_9_7231",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>More-or-less spherical unicellular organism only about 25 microns in diameter. When examined microscopically the cells have a finely reticulated surface and are encircled by deeper channels that contain two flagella, one which wraps around the cell and controls rotation and the other which extends behind the cell and controls direction.</p><p>The cells may occur singly, but more often occur in short chains of 2, 4 or 8 cells.</p>",
+            "shortTextKey": "taxon_text_1_7232",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Cells typically only about 25 microns in diameter.</p>",
+            "shortTextKey": "taxon_text_2_7233",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cool-temperate coastal waters on west coast of North America, and in Japan, Australia and South Africa.</p><p><u>Local/Regional: </u>West coast only.</p>",
+            "shortTextKey": "taxon_text_3_7234",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>This species is an important cause of Harmful Algal Blooms (HAB’s) and is associated with Paralytic Shellfish Poisoning, which can be fatal.</p><p>The organism spends most of its life in a resting cyst stage on the sea floor, but emerges when environmental conditions are favourable and produces mobile cells capable of photosynthesis and rapid asexual reproduction forming HABs.</p><p>The cells produce saxitoxin, which is a highly-potent neurotoxin that can cause numbness, incoherence, respiratory paralysis and even death. Humans ingest the toxin primarily by consuming infected shellfish, such as mussels, which filter large volumes of water and concentrate the toxins within their bodies. Blooms of this species are confined to the west coast and occur most often in late summer.&nbsp;</p><p>As with other similar species, the algal blooms may cause de-oxygenation of the water, resulting in mortalities of fish and other organisms, or rock-lobster walk-outs. These occur due to oxygen depletion and are independent of any toxic effects.</p>",
+            "shortTextKey": "taxon_text_4_7235",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7236",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduce by fission.</p>",
+            "shortTextKey": "taxon_text_6_7237",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Distinctive under the microscope, but is only one of several species which cause Harmful Algal Blooms in the region. Some of these are harmless, but others, such as blooms of dinoflagellates of the genus <i>Dinophysis,</i> are responsible for Diarrhetic Shellfish Poisoning, a less severe complaint caused by the toxin okadaic acid.</p>",
+            "shortTextKey": "taxon_text_7_7238",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Pitcher, GC & Calder, D (2000). Harmful algal blooms of the southern Benguela Current: a review and appraisal of monitoring from 1989 to 1997. <i>South African Journal of Marine Science</i>, 22(1), 255-271.<br><br>Pitcher, GC & Louw, DC (2021). Harmful algal blooms of the Benguela eastern boundary upwelling system. <i>Harmful Algae</i>, 102, 101898.",
+            "shortTextKey": "taxon_text_8_7239",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1251-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1251-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1251-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1251-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1251-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1251-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

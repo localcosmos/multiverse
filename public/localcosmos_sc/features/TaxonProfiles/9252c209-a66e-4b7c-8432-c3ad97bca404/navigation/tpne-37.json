@@ -1,0 +1,33 @@
+{
+    "name": "Lobsters",
+    "description": null,
+    "verboseName": "Lobsters",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2092-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2092-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2092-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [],
+    "taxonProfiles": []
+}

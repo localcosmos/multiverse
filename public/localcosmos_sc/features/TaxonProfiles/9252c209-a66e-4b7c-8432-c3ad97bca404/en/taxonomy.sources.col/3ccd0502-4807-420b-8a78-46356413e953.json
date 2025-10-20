@@ -1,0 +1,196 @@
+{
+    "taxonLatname": "Ficinia nodosa",
+    "taxonAuthor": "(Rottb.) Goetgh., Muasya & D.A.Simpson",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3ccd0502-4807-420b-8a78-46356413e953",
+    "taxonNuid": "00600600300a00201701q",
+    "gbifNubkey": 2711622,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2820-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2820-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2820-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1012,
+    "vernacular": {
+        "en": "Knobbly club rush"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Knobbly club rush",
+            "Dune slack sedge"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Scirpus nodosus, Isolepis nodosa</i></p>",
+            "shortTextKey": "taxon_text_9_9548",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tall, grass-like, rhizomatous sedge with rigid, smooth, yellow-green stems that grow up to 1 m tall (more typically about 70 cm). The inflorescence appears as a tight ball of 10-30 dark-brown spikelet borne near the pointed tip of the stems. When in flower (Dec – March) yellow anthers project from each spikelet. Irregularly-shaped dark brown nuts of about 1 mm diameter form in November – May, but flowerheads may persist on the plants throughout the year.</p>",
+            "shortTextKey": "taxon_text_1_9549",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 100 cm tall, more typically 70 cm. Flower spikes 7-20 mm in diameter.</p>",
+            "shortTextKey": "taxon_text_2_9550",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Southern Hemisphere and native to Australia, New Zealand and South Africa.</p><p><u>Local/Regional:</u> Throughout the region.</p>",
+            "shortTextKey": "taxon_text_3_9551",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The taxonomy of the species has a complicated history and it has had several previous names.</p><p>Able to grow in a variety of habitats and under a wide range of soil conditions, salinities, temperatures and pH levels. Widespread in sandy, salty soils and found both inland and along the coast, where it often grows in dense clumps in back-dunes. Controls sand movement on dunes and can be used in dune stabilization projects. Also used in biofiltration systems, especially in saline environments, where it can remove heavy metals, nitrogen and phosphorus from storm water runoffs. Also used for constructing floating wetlands to clean polluted waters.</p>",
+            "shortTextKey": "taxon_text_4_9552",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9553",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Wind pollinated and windborne seeds readily distributed to new sites.</p>",
+            "shortTextKey": "taxon_text_6_9554",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several similar sedges in the region with which this can be confused. The Dune slack sharp-rush <i>Juncus krausii</i> has flowers in longer, more open clusters near the ends of the stems. The Triangular club-rush <i>Schoenoplectus triquetra</i> has similar ball-like sessile flowerheads, but these are borne on triangular stems.</p>",
+            "shortTextKey": "taxon_text_7_9555",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2820-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2820-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2820-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2820-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2820-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2820-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Isolepis holoschoenus",
+            "taxonAuthor": "Melliss"
+        },
+        {
+            "taxonLatname": "Scirpus gracilis",
+            "taxonAuthor": "Rudge"
+        },
+        {
+            "taxonLatname": "Isolepis gracilis",
+            "taxonAuthor": "(Rudge) Sweet"
+        },
+        {
+            "taxonLatname": "Isolepis monocephala",
+            "taxonAuthor": "Steud."
+        },
+        {
+            "taxonLatname": "Scirpus glutinosus",
+            "taxonAuthor": "Banks & Sol. ex Hook.f."
+        },
+        {
+            "taxonLatname": "Scirpus nodosus",
+            "taxonAuthor": "Rottb."
+        },
+        {
+            "taxonLatname": "Scirpus nodosus var. macrostachyus",
+            "taxonAuthor": "Benth."
+        },
+        {
+            "taxonLatname": "Holoschoenus nodosus",
+            "taxonAuthor": "(Rottb.) A.Dietr."
+        },
+        {
+            "taxonLatname": "Scirpus globosus",
+            "taxonAuthor": "Spreng."
+        },
+        {
+            "taxonLatname": "Isolepis nodosa",
+            "taxonAuthor": "(Rottb.) R.Br."
+        },
+        {
+            "taxonLatname": "Fimbristylis schinzii",
+            "taxonAuthor": "Boeckeler"
+        },
+        {
+            "taxonLatname": "Scirpus atropurpureovaginatus",
+            "taxonAuthor": "Boeckeler"
+        },
+        {
+            "taxonLatname": "Ficinia guttata",
+            "taxonAuthor": "Endl."
+        },
+        {
+            "taxonLatname": "Scirpoides nodosa",
+            "taxonAuthor": "(Rottb.) L.C.Br. ex R.T.F.Clifton"
+        },
+        {
+            "taxonLatname": "Fimbristylis textilis",
+            "taxonAuthor": "Roxb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

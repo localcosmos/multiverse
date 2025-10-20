@@ -1,0 +1,162 @@
+{
+    "taxonLatname": "Cyamus boopis",
+    "taxonAuthor": "Lütken, 1870",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "dac31492-b557-4ec7-a3d5-2469eed2f735",
+    "taxonNuid": "00100300a00100b003001002003001002001",
+    "gbifNubkey": 5178023,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-505-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-505-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-505-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 21,
+    "vernacular": {
+        "en": "Humpback-whale louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Humpback-whale louse",
+            "whale-louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cyamids are very unusual parasitic amphipods with strongly flattened, oval bodies. The first pair of legs (gnathopod 1) bears large, powerful nippers and the second pair much smaller ones. The third and fourth pairs of legs are entirely missing and only gills are present on those body segments. Legs 5-7 are powerful, extended laterally and end in large grasping claws for clinging to the skin of their cetacean hosts.</p><p>Several species occur in the region, each distinguished largely by the form of the gills, as well as by associated with particular hosts. In this species the gills each consist of a single elongate ‘sausage’ with a short crescent-shaped accessory gill at its base. This is also the only whale louse association with Humpback whales.</p>",
+            "shortTextKey": "taxon_text_1_127",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 12 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_128",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across North and South Atlantic Ocean, Southern Ocean and New Zealand.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_129",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of several cyamid amphipods that have parasitic relationships with cetaceans, most species being associated with only one, or a small groups of closely-related hosts.</p><p>Whale lice tend to favour areas where they obtain some shelter from water currents, for example around the blow-holes, genital or other body opening, in wounds, around the callosities of right whales and in areas previously infested with whale barnacles (<i>Coronula diadema</i>). The entire life-cycle occurs on the host, with juveniles simply moving from the brood pouch of females directly onto the adjacent skin of the host. Transfer between individual hosts presumably only occurs when they against touch one another.</p>",
+            "shortTextKey": "taxon_text_4_130",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Hyperiids are though feed on algae that settle on the body of the host, but also ingest skin flakes and tissue around wounds. They are not though to cause significant damage to the hosts.</p>",
+            "shortTextKey": "taxon_text_5_131",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females bear paired ventral brood plates that form a marsupial chamber within which the eggs develop into fully formed juveniles.</p>",
+            "shortTextKey": "taxon_text_6_132",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This group is very easily recognised by their compact, flattened bodies, absence of third and fourth pair of legs and grasping posterior limbs, as well of course by their unique associations with cetaceans. Several species of <i>Cyamus </i>and related genera have been reported from the region, each with different form of the gills and associated with different cetacean species. This is the only species found on Humpback whales, whereas, for example, three other species all occur on Southern right whales.</p>",
+            "shortTextKey": "taxon_text_7_133",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch G, Griffiths CL, Branch M & Beckley L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition). Struik Nature, Cape Town (p. 94).<br><br>Iwasa-Arai, T, Freire, AS, Colosio, AC, & Serejo, CS (2017). Ontogenetic development and redescription of the whale louse <i>Cyamus boopis</i> Lütken, 1870 (Crustacea: Amphipoda: Cyamidae), ectoparasite of humpback whale <i>Megaptera novaeangliae</i> (Mammalia: Cetacea: Balaenopteridae). <i>Marine Biodiversity</i>, 47(3): 929-939.<br><br>Leung, YM (1967). An illustrated key to the species of whale-lice (Amphipoda, Cyamidae), ectoparasites of Cetacea, with a guide to the literature. <i>Crustaceana</i>, 12(3), 279-291.",
+            "shortTextKey": "taxon_text_8_134",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-505-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-505-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-505-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-505-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-505-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-505-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-506-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-506-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-506-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cyamus elongatus",
+            "taxonAuthor": "Hiro, 1938"
+        },
+        {
+            "taxonLatname": "Cyamus pacificus",
+            "taxonAuthor": "Lütken, 1873"
+        },
+        {
+            "taxonLatname": "Cyamus suffuses",
+            "taxonAuthor": "Dall, 1872"
+        },
+        {
+            "taxonLatname": "Cyamus ceti",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Charadrius marginatus",
+    "taxonAuthor": "Vieillot, 1818",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4ba95046-24e0-4b95-89b7-dfd93f9ee0cf",
+    "taxonNuid": "00100700300200200400200900300200e",
+    "gbifNubkey": 2480288,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-957-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-957-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-957-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 681,
+    "vernacular": {
+        "en": "White-fronted plover"
+    },
+    "allVernacularNames": {
+        "en": [
+            "White-fronted plover",
+            "White-fronted Plover"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, chubby wader with short, black beak. Male with top of head grey, a dark band on forehead, a narrow, dark line from neck running though eye to beak. Wings and back brown to grey with central tail feathers black. Underside white with a pale brown patch on upper breast. Eyes dark brown, legs and feet grey to green-grey. Female similar, but black band on forehead less obvious to absent.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_6701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 10-11 cm, mass 45-50 g.</p>",
+            "shortTextKey": "taxon_text_2_6702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Sub-Saharan Africa.</p><p><u>Local/Regional:</u> Along coast across whole region, also inland in northern areas.</p>",
+            "shortTextKey": "taxon_text_3_6703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Resident species present year-round and one of the most common of coastal shorebirds, especially in Western Cape. Mostly on beaches, but also estuaries, rocky shore and inland water bodies. Usually resident in pairs or small parties. Forages in intertidal or among kelp wrack both by day and at night, running around and stopping suddenly to peck at an item before continuing on. Prey may be pecked from shallow water, or by jabbing bill into the sand.</p>",
+            "shortTextKey": "taxon_text_4_6704",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on a variety of small gastropods, bivalves, crustaceans, worms and insects.</p>",
+            "shortTextKey": "taxon_text_5_6705",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Solitary nesters and maintain territories which are defended against both neighbouring pairs and other waders. Nest a simple scrape in the sand above the high-water mark, or in dunes. Breeds year round but peak in Western Cape September - November. Eggs 1-3, putty-coloured, sparsely marked with fine brown or black spots and lines. Incubation 27-29 days, fledge after 35-38 days.</p>",
+            "shortTextKey": "taxon_text_6_6706",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Three regional subspecies differ slightly in colour, east coast form paler. Can be confused with Kittlitz’s plover, but that is darker with more striking head markings, including wide black band though eye.</p>",
+            "shortTextKey": "taxon_text_7_6707",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 348). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 403).",
+            "shortTextKey": "taxon_text_8_6708",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-957-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-957-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-957-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-957-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-957-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-957-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

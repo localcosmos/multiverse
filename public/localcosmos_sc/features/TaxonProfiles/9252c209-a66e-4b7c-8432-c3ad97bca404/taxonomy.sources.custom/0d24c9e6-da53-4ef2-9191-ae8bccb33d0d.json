@@ -1,0 +1,265 @@
+{
+    "taxonLatname": "Noctiluca scintillans (Macartney)",
+    "taxonAuthor": "Kofoid & Swezy, 1921",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0d24c9e6-da53-4ef2-9191-ae8bccb33d0d",
+    "taxonNuid": "003006001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1276-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1276-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1276-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 744,
+    "vernacular": {
+        "en": "Red tide"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Red tide"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Noctiluca miliaris</i></p>",
+            "shortTextKey": "taxon_text_9_7267",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large (1 mm), single-celled, more-or-less spherical, gelatinous organism. A network of beaded cytoplasmic strands radiate from a central nucleus, and on one side of the cell is a slight notch bearing a cytostome or ‘mouth’ and an adjacent tentacle used for both locomotion and food capture.</p>",
+            "shortTextKey": "taxon_text_1_7268",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Cell diameter about 1 mm.</p>",
+            "shortTextKey": "taxon_text_2_7269",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2802-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2802-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2802-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2800-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2800-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2800-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2819-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2819-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2819-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Temperate and tropical coastal seas worldwide.</p><p><u>Local/Regional:</u><i> </i>Whole region, but blooms more common on west coast.</p>",
+            "shortTextKey": "taxon_text_3_7270",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Feeds on minute organisms, such as bacteria, copepods and diatoms, which are engulfed by the cytostome.&nbsp;Often also contain a photosynthetic endosymbiont called <i>Pedinomonas noctilucae</i>, thousands of which may live within an individual <i>Noctiluca </i>cell and which may give it a green colour and contribute significantly to its nutrition.</p><p>Blooms occur mainly in the later summer and are most common on the west coast. During blooms the sea surface may be blood red in colour, but the bloom is often restricted to the surface and the water below may remain completely clear. This species is not toxic, but as with all red tides, the bloom may consume all the oxygen in the water and thus result in mortality of marine life.</p><p>As fascinating and well-known feature of this species is that the cells produce luminous blue flashes when disturbed, for example in the breaking waves, or by a boat, dolphin, or swimmer agitating the water. During blooms this may result in spectacular light displays and is an exciting phenomenon to experience!</p>",
+            "shortTextKey": "taxon_text_4_7271",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2809-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2809-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2809-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2808-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2808-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2808-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2810-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2810-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2810-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Predatory and with photosynthetic symbiont.</p>",
+            "shortTextKey": "taxon_text_5_7272",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduces by fission.</p>",
+            "shortTextKey": "taxon_text_6_7273",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easy to distinguish when observed under the microscope, but several other organisms also cause red tides in the region, including the toxic <i>Alexandrium catenella</i> (see that page).</p>",
+            "shortTextKey": "taxon_text_7_7274",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2827-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2827-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2827-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2828-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2828-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2828-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2826-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2826-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2826-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Dela-Cruz, J, Middleton, JH &amp; Suthers, IM (2008). The influence of upwelling, coastal currents and water temperature on the distribution of the red tide dinoflagellate, <i>Noctiluca scintillans</i>, along the east coast of Australia. <i>Hydrobiologia</i>, 598, 59-75.<br><br>Pitcher, GC &amp; Probyn, TA (2016). Suffocating phytoplankton, suffocating waters—red tides and anoxia. <i>Frontiers in Marine Science</i>, 3, 186.</p>",
+            "shortTextKey": "taxon_text_8_7275",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1276-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1276-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1276-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1276-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1276-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1276-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2798-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2798-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2798-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1273-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1273-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1273-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1278-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1278-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1278-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

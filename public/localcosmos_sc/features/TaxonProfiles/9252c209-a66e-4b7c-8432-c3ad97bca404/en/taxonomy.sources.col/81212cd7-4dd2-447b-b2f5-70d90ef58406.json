@@ -1,0 +1,118 @@
+{
+    "taxonLatname": "Pisidia streptocheles",
+    "taxonAuthor": "(Stimpson, 1858)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "81212cd7-4dd2-447b-b2f5-70d90ef58406",
+    "taxonNuid": "00100300a00600200200300400m00c",
+    "gbifNubkey": 6457382,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 977,
+    "vernacular": {
+        "en": "Cape porcelain crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape porcelain crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Porcellana streptocheles</i></p>",
+            "shortTextKey": "taxon_text_9_9263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small sized porcelain crab, generally various shades of red, with the chelae (pincers) usually a darker shade and mottled. Walking legs irregularly banded and also mottled.</p><p>Carapace (hard upper shell) with some sparse setae (hairs) scattered on the surface, with two distinct tufts behind the eyes. Lateral margins (sides) of carapace with four or five spines, while the frontal margin is trilobed, with the middle projection being broadly triangular. Three pairs of walking legs present (as in most anomuran crabs), with a fourth reduced pair hidden underneath the pleon (hind body).</p>",
+            "shortTextKey": "taxon_text_1_9264",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace width up to 6 mm, length up to 6.5 mm.</p>",
+            "shortTextKey": "taxon_text_2_9265",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South African endemic.</p><p><u>Local/Regional:</u> West coast (Namaqualand) to Algoa Bay, intertidal to 90 m.</p>",
+            "shortTextKey": "taxon_text_3_9266",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>This species is usually found on deep- and shallow-water reefs, where these animals can be found on sponges and bryozoans. Like many other members in the porcelain crab family (Porcellanidae) these crabs will readily let go of their chelae that breaks off at a predetermined place as a diversion when they are in danger to fool predators (much like a gecko would let go of its tail). This intentional breaking is also the origin of the name porcelain crab for the family. The pincers can be regrown at a later stage if the escape act was successful. This species is occasionally caught as bycatch on deeper demersal trawls, where they can be commonly along the south coast.</p>",
+            "shortTextKey": "taxon_text_4_9267",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Known to be a filter feeder that uses specialised mouthparts with long setae to trap plankton from the water column. These food particles are then brought to the mouth where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_9268",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically known for this species, though all porcelain crab males transfer a spermatophore to a female, which then is then attached to the ventral side of the female where the eggs are fertilized when spawned and attached underneath the tail where they develop until the larvae are ready to be released into the open water.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9269",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only other porcelain crab from the area, <i>Porcellana africana, </i>is unlikely to be confused with this species, as that species’ body is pubescent, the chelae are strongly flattened, and the inner apex of the merus is not produced into a distinctive, strong, squarely-truncated tooth. At present, <i>P. africana</i> is also only known from shallow waters in Saldanha Bay and hence the distribution of these two species do not overlap.</p>",
+            "shortTextKey": "taxon_text_7_9270",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 112). <br><br>Griffiths CL, Roberts S, Branch GM et al (2018) The porcelain crab <i>Porcellana africana</i> Chace,1956 (Decapoda: Porcellanidae) introduced into Saldanha Bay, South Africa. <i>Bioinvasions Records</i>, 7, 133–142.",
+            "shortTextKey": "taxon_text_8_9271",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Porcellana streptocheles",
+            "taxonAuthor": "Stimpson, 1858"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

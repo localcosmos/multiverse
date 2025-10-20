@@ -1,0 +1,194 @@
+{
+    "taxonLatname": "Drymonema sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "49afafc0-1800-47e0-9d9b-12eaaa64a1a3",
+    "taxonNuid": "001004003002001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1847-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1847-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1847-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 764,
+    "vernacular": {
+        "en": "Pink meanie"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pink meanie"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>This unusual jellyfish belongs to the small and recently-created family Drymonematidae, which contains just the single genus <i>Drymonema</i>.&nbsp; There are three described species, one from the Mediterranean region, and one each from the Atlantic coasts of North and South America. The southern African species depicted here has not yet been named or scientifically described.</p><p>The species can be recognised by its pink colour, fairly flat umbrella, numerous, multi-layered, frilly, petticoat-like oral arms and long trailing marginal tentacles.</p>",
+            "shortTextKey": "taxon_text_1_7448",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 50 mm across disc.</p>",
+            "shortTextKey": "taxon_text_2_7449",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Though to be endemic to west coast of southern Africa.&nbsp;</p><p><u>Local/Regional:</u> West coast.</p>",
+            "shortTextKey": "taxon_text_3_7450",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Little is known about this newly discovered species, which is thought to be endemic to the Benguela region along the west coast of Southern Africa. Other species in the genus are effective predators of other jellyfish and thought to be effective control agents of these species.</p>",
+            "shortTextKey": "taxon_text_4_7451",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Other jellyfish.</p>",
+            "shortTextKey": "taxon_text_5_7452",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown but jellyfish have a dimorphic life cycle, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and males release sperm into the water which are taken in by females to fertilise their eggs. Larvae are released into the water and ultimately settle onto hard surfaces where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_7453",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by the pink colour and numerous pink petticoats.</p>",
+            "shortTextKey": "taxon_text_7_7454",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bayha, KM & Dawson, MN (2010). New family of allomorphic jellyfishes, Drymonematidae (Scyphozoa, Discomedusae), emphasizes evolution in the functional morphology and trophic ecology of gelatinous zooplankton. <i>The Biological Bulletin</i>, 219(3), 249-267.<br><br>Bayha, KM, Graham, WM, Higgins III, JE & Fletcher, HA (2012). Predation potential of the jellyfish <i>Drymonema larsoni</i> Bayha & Dawson (Scyphozoa: Drymonematidae) on the moon jellyfish <i>Aurelia</i> sp. in the northern Gulf of Mexico. <i>Jellyfish Blooms IV: Interactions with humans and fisheries</i>, 189-197.<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome. (p. 83, family entry).",
+            "shortTextKey": "taxon_text_8_7455",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1847-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1847-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1847-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1847-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1847-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1847-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1846-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1846-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1846-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1840-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1840-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1840-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1841-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1841-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1841-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1842-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1842-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1842-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1839-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1839-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1839-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1848-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1848-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1848-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

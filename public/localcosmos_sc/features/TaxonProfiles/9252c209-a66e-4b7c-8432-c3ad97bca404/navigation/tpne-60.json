@@ -1,0 +1,67 @@
+{
+    "name": "Hemichordates (acorn worms)",
+    "description": null,
+    "verboseName": "Hemichordates (acorn worms)",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2449-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2449-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2449-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Balanoglossus capensis",
+            "taxonAuthor": "(Gilchrist, 1908)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0f0a3cd2-cfd0-47f7-b6a2-1f222702160e",
+            "taxonNuid": "00100g001002001005",
+            "slug": "balanoglossus-capensis",
+            "localizedSlug": {
+                "en": "cape-acorn-worm"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2442-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2442-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2442-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2442-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2442-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2442-1000.webp"
+                }
+            }
+        }
+    ]
+}

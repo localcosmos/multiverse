@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Anthopleura michaelseni",
+    "taxonAuthor": "(Pax, 1920)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d9d042a1-5ff2-441f-924b-4bccc3196995",
+    "taxonNuid": "00100800100300100a00100100700w",
+    "gbifNubkey": 2256841,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-448-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-448-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-448-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 84,
+    "vernacular": {
+        "en": "Crevice anemone"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Crevice anemone"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Bunodactis michaelseni</i></p>",
+            "shortTextKey": "taxon_text_9_684",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, attractive species. Column with about 15 rows of adhesive pads to which sand and debris adhere. Pads in regular longitudinal rows, with about 48 pads per row. Column colour very variable, including dark green or brown, orange, pink, blue or grey. Dark stripes usually radiate across the oral disc from the mouth to the bases of the 96 thick tentacles. Tentacles long and tapering, coming in a variety of pale colours, often with a broad longitudinal white stripe running along the length of each, or with irregular white spots.</p>",
+            "shortTextKey": "taxon_text_1_685",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Column diameter up to 55 mm, up to at least 150 mm with tentacles expanded.</p>",
+            "shortTextKey": "taxon_text_2_686",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Namibia and South Africa.</p><p><u>Local/Regional:</u> Southern Namibia to northern KwaZulu-Natal, but more common on Atlantic coast.</p>",
+            "shortTextKey": "taxon_text_3_687",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A striking, large and well-known species that comes in a wide range of bright colours and forms beautiful patterns when open, making it a popular subject for photographers. Regularly found partially buried in sand in rock crevices and sandy pools from mid-shore down to about 10 m depth. Usually occurs singly with column buried in sand and tentacles widely extended across sand surface.</p>",
+            "shortTextKey": "taxon_text_4_688",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A classic wait-and-see predator that occupies low-lying crevices beneath densely colonized reefs and feeds almost entirely on tumbled prey dislodged from adjacent rocks, or swept in by the waves. Tentacles triggered by touch after which stinging cells (nematocysts) inject their target with a paralysing neurotoxin. Prey then guided by tentacles through mouth into digestive cavity.</p><p>&nbsp;The diet is diverse with the most frequently-consumed items being gastropods (67%), barnacles (24%) and bivalves (18%), but also takes various other crustacean groups, echinoderms and even algae.</p>",
+            "shortTextKey": "taxon_text_5_689",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Anemones can reproduce sexually, but can also divide by fission. In sexual reproduction mature gametes are released into the internal cavity (coelenteron) and then spawned through the mouth. The zygote then develops into planktonic planula larva. After development this settles on a substrate and develops into a juvenile anemone.</p>",
+            "shortTextKey": "taxon_text_6_690",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with the Sandy anemone <i>Bunodactis reynaudi,</i> which also has sticky pads on the column, occurs in a wide range of colours and lives in dense colonies in sandy habitats on the same shores. However, <i>A. michaeleni</i> usually occurs singly, has much fewer and longer tentacles than <i>B. reynaudi </i>and has a brightly patterned oral disc.</p><p>There are also two other less common and paler-coloured <i>Anthopeura</i> species in the region. In <i>A. insignis</i> the oral disc lacks a radial pattern of stripes, while <i>A. anneae</i> has only 6-10 rows of widely-spaced sticky pads along the column.</p>",
+            "shortTextKey": "taxon_text_7_691",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Carlgren, O (1938). South African Actiniaria and Zoantharia. <i>Kungliga Svenska Vetenskapsakademiens Handlingar</i>, 17(3), 1–148.<br><br>Jones, G (2008).  A Field Guide to the Marine Animals of the Cape Peninsula. Cape Town, SURG.<br><br>Kruger, LM & Griffiths, CL (1996). Sources of nutrition in sea anemones from the Western Cape, South Africa. <i>South African Journal of Zoology</i>, 31, 110–119.<br><br>Laird, MC (2013). Taxonomy, systematics and biodiversity of South African Actiniaria and Corallimorpharia. PhD Thesis, Department of Zoology, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_692",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-448-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-448-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-448-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-448-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-448-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-448-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Bunodactis michaelseni",
+            "taxonAuthor": "Pax, 1920"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

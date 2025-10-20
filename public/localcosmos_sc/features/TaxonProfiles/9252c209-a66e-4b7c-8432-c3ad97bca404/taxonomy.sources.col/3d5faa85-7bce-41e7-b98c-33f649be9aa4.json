@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Aphelodoris brunnea",
+    "taxonAuthor": "Bergh, 1907",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3d5faa85-7bce-41e7-b98c-33f649be9aa4",
+    "taxonNuid": "00100k00700d003002001001002002002002001003",
+    "gbifNubkey": 7591839,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1498-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1498-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1498-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 839,
+    "vernacular": {
+        "en": "Variable true dorid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Variable true dorid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A medium-sized, variably-coloured rough-bodied dorid. The head is pale with a variable patterning of browns, caramels and blacks. The rhinophores are usually white. The notum is pale, rough textured and has variable patterning. The most common colour morph in False Bay is mainly pale with dark brown streaks and blotches, or, less commonly, pale with brown spots. The most common morph around Algoa Bay, at the eastern end of the species' range, is caramel with darker brown blotches. The gills are white with variable amounts of caramel to dark brown in streaks and blotches. The foot may be transparent with darker blotches. The posterior end of the foot is tapered and as variably coloured as the body.</p>",
+            "shortTextKey": "taxon_text_1_8123",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 45 mm.</p>",
+            "shortTextKey": "taxon_text_2_8124",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> False Bay to Eastern Cape, 1–40 m in depth.</p>",
+            "shortTextKey": "taxon_text_3_8125",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on temperate reefs, relatively common at the eastern end of its range and relatively rare in False Bay.</p>",
+            "shortTextKey": "taxon_text_4_8126",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>May feed on sponges.</p>",
+            "shortTextKey": "taxon_text_5_8127",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. Egg ribbon colour and shape not yet known.</p>",
+            "shortTextKey": "taxon_text_6_8128",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>As the name suggests, this species is quite variable in appearance, however the colour morph that exhibits dark blotches can be confused with the Chocolate-chip true dorid, <i>Aphelodoris</i> sp.1<i>,</i> but is distinguished by its rough body texture and the higher proportion of dark blotches<strong>.</strong></p>",
+            "shortTextKey": "taxon_text_7_8129",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 175).<br><br>Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 66).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 112).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 34).",
+            "shortTextKey": "taxon_text_8_8130",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1498-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1498-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1498-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1498-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1498-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1498-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1500-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1500-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1500-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

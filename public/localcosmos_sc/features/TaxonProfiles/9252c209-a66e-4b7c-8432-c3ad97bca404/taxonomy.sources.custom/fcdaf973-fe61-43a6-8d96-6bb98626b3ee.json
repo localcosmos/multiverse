@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Codium lucasii subsp. capense",
+    "taxonAuthor": "P.C Silva, 1959",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "fcdaf973-fe61-43a6-8d96-6bb98626b3ee",
+    "taxonNuid": "003007001003004",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1311-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1311-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1311-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 757,
+    "vernacular": {
+        "en": "Lucas’ codium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Lucas’ codium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms flat growths consisting of a series of irregular sausage-like lobes that adhere strongly to the substratum. Colour dark green, sometimes brown tinged. Utricles cylindrical and about 1 mm long and 0.1 mm in diameter.</p>",
+            "shortTextKey": "taxon_text_1_7385",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Lobes about 50 mm long and 5 mm thick, colonies up to 100 mm across. &nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7386",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> The species has a widespread distribution including Mozambique, Kenya, Australia and New Zealand, but the subspecies <i>capense</i> is endemic to Southern Africa.</p><p><u>Local/Regional:</u><i> </i>False Bay to<i> </i>Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_7387",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Grows in pools and on rocks in the mid-to low intertidal.</p>",
+            "shortTextKey": "taxon_text_4_7388",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7389",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Can reproduce asexually by fragmentation allowing it to rapidly colonise new areas. Sexual reproduction in this genus is variable and complex and can involve production of parthenogenetically developing ‘swarmer cells’, or separate males and females producing spores from reproductive structures on the surfaces of the utricles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7390",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The flattened growth form is fairly unique among Western Cape species, but similar to the Creeping codium <i>C. prostratum</i> which occurs along the east coast. That species has a more tubular branching body form though.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7391",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 378). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. Scripta Botanica Belgica</i>, 33, 1-294 (p. 76).<br><br>Silva, PC (1959). The genus <i>Codium</i> (Chlorophyta) in South Africa. <i>Journal of South African Botany</i>, 25, 101-165.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 119).",
+            "shortTextKey": "taxon_text_8_7392",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1311-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1311-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1311-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1311-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1311-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1311-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

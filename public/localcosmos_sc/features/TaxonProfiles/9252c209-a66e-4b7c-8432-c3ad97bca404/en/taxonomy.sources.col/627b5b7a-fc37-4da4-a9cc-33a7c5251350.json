@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Caligus mortis",
+    "taxonAuthor": "Kensley, 1970",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "627b5b7a-fc37-4da4-a9cc-33a7c5251350",
+    "taxonNuid": "00100300600e00200800600a04b",
+    "gbifNubkey": 4330557,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-478-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-478-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-478-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 79,
+    "vernacular": {
+        "en": "Fish louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fish louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small parasitic copepods found on the external surfaces of coastal fish. Body length about 2 mm, thorax broadly rounded with short antennae and short one-segmented abdomen bearing pair of short branched appendages (rami). Females larger than males and distinguished by long egg strings projecting from the hind end of the body.</p>",
+            "shortTextKey": "taxon_text_1_640",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 2 mm, excluding antennae and egg strands.</p>",
+            "shortTextKey": "taxon_text_2_641",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Namibia to Jeffreys Bay.</p>",
+            "shortTextKey": "taxon_text_3_642",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on the external surfaces of various coastal fish species including blennies, klipfish and suckerfish. The round, flattened thorax acts like a suction cap helping the mouthparts to grip onto the fish. Usually only a few parasites are found on each fish in the wild, where they probably cause little damage, but they can become serious pests in fish-farms, where large numbers of hosts occur in close proximity, facilitating transmission. Adults can move around on the host.</p>",
+            "shortTextKey": "taxon_text_4_643",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on mucus, epidermal tissue and blood of host fishes, causing open wounds when in high density.</p>",
+            "shortTextKey": "taxon_text_5_644",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs from the eggs strings of females hatch into non-feeding planktonic larvae, which later seek out hosts using chemosensory and mechanosensory cues, Once attached to the host they go though several other stages before becoming adults.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_645",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 300 described species in this genus of which 39 have been reported in South Africa. In reality it is difficult to identify these to species based only on photographic evidence (as here) and detailed microscopic examination is required. However, as many species are restricted to specific hosts, of group of hosts, and <i>C. mortis </i>is the only species commonly found on klipfish of the genus <i>Clinus</i>, we assume that is the species in our images of these fish. &nbsp;</p>",
+            "shortTextKey": "taxon_text_7_646",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Grobler, NJ, Van As, JG, & Olivier, PA (2002). Description of the previously unknown male of <i>Caligus mortis</i> Kensley, 1970 (Copepoda: Caligidae), parasite of intertidal fish from South Africa. <i>Folia parasitologica</i>, 49(2), 131-136.",
+            "shortTextKey": "taxon_text_8_647",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-478-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-478-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-478-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-478-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-478-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-478-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

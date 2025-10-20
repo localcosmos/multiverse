@@ -1,0 +1,253 @@
+{
+    "taxonLatname": "Anachis kraussii",
+    "taxonAuthor": "(G. B. Sowerby I, 1844)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3d61de00-b46e-48a9-baac-d6a8f62ff246",
+    "taxonNuid": "00100k00700300e00200l00601l",
+    "gbifNubkey": 4600535,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-285-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-285-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-285-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 447,
+    "vernacular": {
+        "en": "Waved dove-shell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Waved dove-shell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Columbella kraussii</i></p>",
+            "shortTextKey": "taxon_text_9_4255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, conical shell with a fairly sharp spire a little longer than aperture length and with fairly marked shoulders between whorls. Interior white, outer lip with feeble denticles and a strong oval sinus at the shoulder, columella smooth, lacking pleats.</p><p>Colour and surface texture variable. External surface usually sculptured by 9–11 strong, rounded axial ribs on each whorl (weak in some specimens). Colour typically reddish-brown with white flames, but sometimes plainer brown. Last whorl typically marked with distinctive zig-zag lines of reddish brown (best identification feature).</p>",
+            "shortTextKey": "taxon_text_1_4256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 8 mm long, but most specimens about 5 mm.</p>",
+            "shortTextKey": "taxon_text_2_4257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Northern Cape to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_4258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common among seaweeds and particularly corallines in intertidal pools and reefs, but often overlooked due to small size. Little else is known about biology.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>No species-specific details available, but other species in the family are thought to be omnivorous, consuming carrion, green algae and small sessile animals.</p>",
+            "shortTextKey": "taxon_text_5_4260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No species-specific information, but other members of the family lay single oval or globular capsules that each contain one to many eggs and which may hatch into swimming larvae or directly into crawling young.</p>",
+            "shortTextKey": "taxon_text_6_4261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Variable in colour and texture and one of several similar small conical gastropods found in the area. The flame-like markings on the last whorl and oval sinus on the outer lip are good identification features though.</p>",
+            "shortTextKey": "taxon_text_7_4262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 96).",
+            "shortTextKey": "taxon_text_8_4263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-285-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-285-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-285-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-285-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-285-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-285-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Millers Point - from Bamboo kelp holdfasts <i>Ecklonia maxima</i>;<i> </i>B.Sc. Honours sampling of Anna Roux, Stellenbosch University, Kelp Holdfast Biodiversity Project, PI Dr. Nasreen Peer, NRF-FBIP Grant FBIS22101863331</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1221-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1221-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1221-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Millers Point - from Bamboo kelp holdfasts <i>Ecklonia maxima</i>;<i> </i>B.Sc. Honours sampling of Anna Roux, Stellenbosch University, Kelp Holdfast Biodiversity Project, PI Dr. Nasreen Peer, NRF-FBIP Grant FBIS22101863331</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1223-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1223-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1223-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Millers Point - from Bamboo kelp holdfasts <i>Ecklonia maxima</i>;<i> </i>B.Sc. Honours sampling of Anna Roux, Stellenbosch University, Kelp Holdfast Biodiversity Project, PI Dr. Nasreen Peer, NRF-FBIP Grant FBIS22101863331</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1224-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1224-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1224-1000.webp"
+                }
+            },
+            {
+                "text": "<p>juvenile, De Hoop - from Bamboo kelp holdfasts <i>Ecklonia maxima</i>;<i> </i>PhD sampling of Chaitanya Katharoyan, Stellenbosch University, Kelp Holdfast Biodiversity Project, PI Dr. Nasreen Peer, NRF-FBIP Grant FBIS22101863331</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1230-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1230-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1230-1000.webp"
+                }
+            },
+            {
+                "text": "<p>juvenile, De Hoop - from Bamboo kelp holdfasts <i>Ecklonia maxima</i>;<i> </i>PhD sampling of Chaitanya Katharoyan, Stellenbosch University, Kelp Holdfast Biodiversity Project, PI Dr. Nasreen Peer, NRF-FBIP Grant FBIS22101863331</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1231-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1231-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1231-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Columbella helena",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Columbella kraussii",
+            "taxonAuthor": "G. B. Sowerby I, 1844"
+        },
+        {
+            "taxonLatname": "Pleurotoma (Mangelia) fulgurans",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Columbella (Anachis) io",
+            "taxonAuthor": "Bartsch, 1915"
+        },
+        {
+            "taxonLatname": "Pyrene kraussi",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Columbella kraussi var. albanyana",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Columbella (Anachis) fulminea",
+            "taxonAuthor": "A. Gould, 1860"
+        },
+        {
+            "taxonLatname": "Columbella cerealis",
+            "taxonAuthor": "Reeve, 1859"
+        },
+        {
+            "taxonLatname": "Columbella fulminea",
+            "taxonAuthor": "A. Gould, 1860"
+        },
+        {
+            "taxonLatname": "Anachis kraussi",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Columbella kraussi",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Columbella io",
+            "taxonAuthor": "Bartsch, 1915"
+        },
+        {
+            "taxonLatname": "Pleurotoma fulgurans",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Buccinum cereale",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Anachis kraussii f. io",
+            "taxonAuthor": "Bartsch, 1915"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

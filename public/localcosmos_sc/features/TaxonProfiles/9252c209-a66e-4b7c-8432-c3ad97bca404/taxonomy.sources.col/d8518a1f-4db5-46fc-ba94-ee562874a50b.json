@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Paridotea ungulata",
+    "taxonAuthor": "(Pallas, 1772)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d8518a1f-4db5-46fc-ba94-ee562874a50b",
+    "taxonNuid": "00100300a00800g00800i00d",
+    "gbifNubkey": 2204848,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-616-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-616-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-616-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 67,
+    "vernacular": {
+        "en": "Green weed-louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Green weed-louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, robust, elongated and parallel-sided plain green isopod. Abdominal segments fused and joined to telson to form a ‘pleotelson’. The pleotelson is elongate and more or less parallel–sided, lacks a central keel and has two partial crimp-like ‘sutures’ near base of either side, representing fused segments. The lateral corners project into short, sharp points.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_532",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Reaches 55<strong> </strong>mm length, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_533",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Southern Hemisphere including South America, southern Africa, Australia and New Zealand.</p><p><u>Local/Regional:</u> Namibia to approximately East London.</p>",
+            "shortTextKey": "taxon_text_3_534",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common under boulders and among seaweeds on rocky shores and also in lagoonal areas, where it can be abundant along green seaweeds such as <i>Ulva</i>.</p>",
+            "shortTextKey": "taxon_text_4_535",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding mostly on green seaweeds.</p>",
+            "shortTextKey": "taxon_text_5_536",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods the eggs are retained in a marsupial pouch between the walking legs of females, where they develop into fully-formed young prior to release.</p>",
+            "shortTextKey": "taxon_text_6_537",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other members of this genus in the region, but this is the only one in which the pleotelson is not keeled, but its lateral tips are extended into short points.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_538",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, C L, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 86).<br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 40).",
+            "shortTextKey": "taxon_text_8_539",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-616-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-616-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-616-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-616-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-616-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-616-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Idotea excavata",
+            "taxonAuthor": "Haswell, 1881"
+        },
+        {
+            "taxonLatname": "Idotea edwardsii",
+            "taxonAuthor": "Guérin-Méneville, 1843"
+        },
+        {
+            "taxonLatname": "Paridotea ungulata var. atrovirens",
+            "taxonAuthor": "Collinge, 1918"
+        },
+        {
+            "taxonLatname": "Idotea nitida",
+            "taxonAuthor": "Heller, 1861"
+        },
+        {
+            "taxonLatname": "Idotea affinis",
+            "taxonAuthor": "Milne Edwards, 1840"
+        },
+        {
+            "taxonLatname": "Idotea lalandii",
+            "taxonAuthor": "Milne Edwards, 1840"
+        },
+        {
+            "taxonLatname": "Oniscus ungulata",
+            "taxonAuthor": "Pallas, 1772"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

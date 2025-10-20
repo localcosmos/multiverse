@@ -1,0 +1,148 @@
+{
+    "taxonLatname": "Asparagus lignosus",
+    "taxonAuthor": "Burm.f.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5237480c-78f0-4cda-af1c-243c09543151",
+    "taxonNuid": "00600600300400200a02x",
+    "gbifNubkey": 2768961,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2767-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2767-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2767-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 991,
+    "vernacular": {
+        "en": "Woody asparagus"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Woody asparagus",
+            "Katdoring (‘cat thorn’)"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spindly shrub-like creeper with pale-grey zig-zag branches and a large single recurved thorn at each node along the branches. Leaves occur in stiff, tufts and are cylindrical with sharp tips. Flowers white with a green strip on each sepal and orange anthers. These give rise to large green berries.</p>",
+            "shortTextKey": "taxon_text_1_9381",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Growing to at least 1 m height. Leaves 10-20 mm long.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9382",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Fairly restricted distribution in Southwestern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common both inland and along the coast on both rocky and sandy substrata.</p>",
+            "shortTextKey": "taxon_text_4_9384",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9385",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers October-May. &nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9386",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are many other regional species in this genus of which more then 30 occur in the fynbos region. This species is best recognised by zig-zag stems and unusually long clusters of leaves.</p>",
+            "shortTextKey": "taxon_text_7_9387",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2767-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2767-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2767-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2767-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2767-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2767-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Asparagus africanus var. wrightii",
+            "taxonAuthor": "Baker"
+        },
+        {
+            "taxonLatname": "Asparagus compactus var. nanus",
+            "taxonAuthor": "Pynaert"
+        },
+        {
+            "taxonLatname": "Protasparagus lignosus",
+            "taxonAuthor": "(Burm.f.) Oberm. ex Wijnands"
+        },
+        {
+            "taxonLatname": "Asparagus compactus",
+            "taxonAuthor": "T.M.Salter"
+        },
+        {
+            "taxonLatname": "Protasparagus compactus",
+            "taxonAuthor": "(T.M.Salter) Oberm."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

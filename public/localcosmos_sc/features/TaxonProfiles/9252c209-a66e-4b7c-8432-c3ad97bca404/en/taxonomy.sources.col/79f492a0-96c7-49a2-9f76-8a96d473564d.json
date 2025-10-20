@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Lipkea stephensoni",
+    "taxonAuthor": "Carlgren, 1933",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "79f492a0-96c7-49a2-9f76-8a96d473564d",
+    "taxonNuid": "001008006002002003001002",
+    "gbifNubkey": 2264628,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-808-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-808-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-808-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 7,
+    "vernacular": {
+        "en": "Bell stalked jelly"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bell stalked jelly"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Stauromedusae are a small group of sedentary medusae that are attached ‘upside-down’ to the substratum by an adhesive disc. From the basal disc arises a stalk that spreads out into an umbrella-like oral disc with a central mouth encircled by short arms, which bear clusters of small, knobbed tentacles. There are only about 50 described species worldwide and only 4 in South Africa.</p><p>This unusual species is pale and transparent with white dots. It has a wide funnel- or bell- shaped body with a 4-chambered central mouth. Around the perimeter of the bell are 8 short, flat lobe-like arms with no obvious tentacles.</p>",
+            "shortTextKey": "taxon_text_1_4510",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 8-16 mm across bell.</p>",
+            "shortTextKey": "taxon_text_2_4511",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.&nbsp;</p><p><u>Local/Regional:</u> Still Bay to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_4512",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little-known but interesting upside-down jellyfish recorded from a few mostly photographic records and a handful of actual specimens. Usually seen under boulders in intertidal pools or attached to rocks to a depth of 23 m.</p>",
+            "shortTextKey": "taxon_text_4_4513",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but probably feed on small crustaceans and other small invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_4514",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Unlike most jellyfish Stauromedusae do not have an alternating polyp and medusa lifecycle. Sexually mature medusae release sperm and eggs into the water, which merge to form creeping planula larvae that settle and develop directly into new attached Stauromedusae.</p>",
+            "shortTextKey": "taxon_text_6_4515",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable and the only species in this family in South Africa and only one of 3 globally, all of which are known from one to a very few samples! Almost nothing is thus known about the biology of this strange group.</p>",
+            "shortTextKey": "taxon_text_7_4516",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 50).<br><br>Miranda, LS, Branch, GM, Collins, AG, Hirano, YM, Marques, AC & Griffiths, CL (2017). Stalked jellyfishes (Cnidaria: Staurozoa) of South Africa, with the description of <i>Calvadosia lewisi</i> sp nov. <i>Zootaxa</i>, 4227(3), 369-389.",
+            "shortTextKey": "taxon_text_8_4517",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-808-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-808-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-808-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-808-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-808-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-808-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

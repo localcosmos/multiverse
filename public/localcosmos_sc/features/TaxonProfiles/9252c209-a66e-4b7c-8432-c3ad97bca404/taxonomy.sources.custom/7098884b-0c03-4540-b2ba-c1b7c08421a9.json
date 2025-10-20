@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Mysidopsis zsilaveczi",
+    "taxonAuthor": "Wittmann & Griffiths, 2014",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "7098884b-0c03-4540-b2ba-c1b7c08421a9",
+    "taxonNuid": "001003003001002002",
+    "gbifNubkey": 7363086,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-702-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-702-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-702-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 571,
+    "vernacular": {
+        "en": "Stargazer mysid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Stargazer mysid",
+            "Mysidopsis zsilaveczi"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Robust benthic mysid generally found singly, perched on rocks on shallow reefs. Best identified in the field by the unusual eyes, which usually bear dramatic circular markings centred on the top of the eye, giving the appearance that the animal is staring upwards (in fact crustaceans have compound eyes and there is no pupil or iris, so the eyes are looking in all directions at once!). There is also a characteristic arc-shaped blue spot on the sides of the thorax. The tongue-shaped telson has short, evenly-spaced spines along its sides and two longer ones at tip.<i> </i>Colour is very variable.</p>",
+            "shortTextKey": "taxon_text_1_5625",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to13 mm excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_5626",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic</p><p><u>Local/Regional:</u> Currently know only from False Bay and west coast of the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_5627",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A recently discovered species, first collected by local diver Guido Zsilavesz, after whom the species is named. Found at various sites around the Cape Peninsula and False Bay, sitting on hard substrata among algae, sponges and bryozoans, etc. Reluctant to swim and, when disturbed, moves a short distance then quickly settles again on the bottom.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_5628",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Dissected individuals had remains of small crustaceans in their stomachs, including amphipods, copepods and ostracods; indicating that they are predators on small prey.</p>",
+            "shortTextKey": "taxon_text_5_5629",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As in all mysids the eggs are retained in a marsupial sac until fully developed.</p>",
+            "shortTextKey": "taxon_text_6_5630",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of about 12 regional species in this genus, a morphological key to which is provided by Wittmann and Griffiths (2014), but easily recognized on the field by its unique eyes and blue spot on thorax.</p>",
+            "shortTextKey": "taxon_text_7_5631",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Wittmann, KJ & Griffiths, CL (2014). Description of the 'stargazer mysid' <i>Mysidopsis zsilaveczi</i> sp.nov. (Mysida, Mysidae, Leptomysinae) from the Cape Peninsula, South Africa. <i>Crustaceana</i>, 87 (11-12), 1411-1429.<br><br>Wittmann, KJ & Griffiths, CL (2018). A new species of <i>Mysidopsis</i> Sars,1864 from the Atlantic coast of South Africa, with ¬¬supplementary descriptions of two additional species and notes on colour and diet (Mysida: Mysidae: Leptomysinae: Mysidopsini). <i>Journal of Crustacean Biology</i>, 38(2), 215-234.",
+            "shortTextKey": "taxon_text_8_5632",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-702-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-702-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-702-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-702-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-702-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-702-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-703-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-703-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-703-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

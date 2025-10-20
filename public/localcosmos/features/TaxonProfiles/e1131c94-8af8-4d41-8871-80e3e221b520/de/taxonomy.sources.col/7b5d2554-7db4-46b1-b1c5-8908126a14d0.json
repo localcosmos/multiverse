@@ -1,0 +1,804 @@
+{
+    "taxonLatname": "Acer pseudoplatanus",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+    "taxonNuid": "00600800601d00800102r",
+    "gbifNubkey": 3189870,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 8,
+    "vernacular": {
+        "de": "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn",
+            "Bergahorn"
+        ]
+    },
+    "nodeNames": [
+        "Bergahorn"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:35",
+                        "encodedSpace": "<p>Laubbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "8e667ba6-b3eb-4952-87cd-e286e83da08e",
+                "name": "Abhängiges Merkmal",
+                "type": "TextOnlyFilter",
+                "position": 1,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "8e667ba6-b3eb-4952-87cd-e286e83da08e:37",
+                        "encodedSpace": "<p>Abhängig 1</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:3.0",
+                        "encodedSpace": 3.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:4.0",
+                        "encodedSpace": 4.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            -4.0,
+                            0.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:Wy00LjAsMC4wXQ=="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215",
+                "name": "Blattanordnung",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215:14",
+                        "encodedSpace": "gegenständig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-53-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-53-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-53-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "81cafb57-e0cf-4a9f-b064-afb6925b1c23",
+                "name": "Form des Blattes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "81cafb57-e0cf-4a9f-b064-afb6925b1c23:6",
+                        "encodedSpace": "gelappt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-47-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-47-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-47-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e97b684f-68a5-4507-815c-3b44c72e9c28",
+                "name": "Form des Blattendes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 4,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e97b684f-68a5-4507-815c-3b44c72e9c28:15",
+                        "encodedSpace": "mit Spitze",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-54-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-54-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-54-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "b25adc97-f7c8-4843-bf1a-630acac2fad9",
+                "name": "Form des Blattanfangs",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 5,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "b25adc97-f7c8-4843-bf1a-630acac2fad9:8",
+                        "encodedSpace": "gebuchtet",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-49-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-49-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-49-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e2528f1b-6bd4-47db-834f-d25a2bcb894a",
+                "name": "Form des Blattrandes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 6,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e2528f1b-6bd4-47db-834f-d25a2bcb894a:16",
+                        "encodedSpace": "gezackt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e44a42ba-f451-475b-8ac7-11b04eda2048",
+                "name": "Form der Rinde",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 7,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e44a42ba-f451-475b-8ac7-11b04eda2048:17",
+                        "encodedSpace": "schuppig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-56-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-56-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-56-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "67c06088-bacd-41fb-aaef-9d6b114aaa30",
+                "name": "Farbe des Stammes",
+                "type": "ColorFilter",
+                "position": 8,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "67c06088-bacd-41fb-aaef-9d6b114aaa30:13",
+                        "encodedSpace": [
+                            107,
+                            100,
+                            0,
+                            1.0
+                        ],
+                        "html": "rgba(107,100,0,1.0)",
+                        "gradient": false,
+                        "colorType": "single",
+                        "description": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "<p>Unsere Vorfahren zählten den Bergahorn zu den 'heiteren' Bäumen. Er stand unter anderem für Ruhe, Gelassenheit und Harmonie. Türschwellen aus Ahornholz boten Schutz vor <strong>Hexen</strong> und <strong>Zauberern</strong>. Für die Kelten symbolisierte das weiße Holz eine besondere innere Reinheit. Bei den Griechen war der Bergahorn dem Kriegsgott Ares geweiht. Der botanische Gattungsname Acer ist lateinisch und bedeutet spitz, scharf. Das Wort bezieht sich auf die spitzen Blätter. Der Bergahorn wurde früher ebenso wie der amerikanische Zuckerahorn zur Zuckerherstellung verwendet. Wirtschaftliche Bedeutung erhielt der Ahornsirup vor allem in Not- und Kriegszeiten. <strong>100 Liter Baumsaft</strong> waren nötig um etwa ein Kilogramm Zucker zu gewinnen. Dabei musste sehr sorgsam vorgegangen werden, um ein Verbluten des Baumes zu verhindern.</p>",
+            "shortTextKey": "taxon_text_1_10",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Baum als Lebensraum",
+            "shortText": "<p>Bergahorne sind Lebensraum für viele Vogelarten, Insekten, Pilze und Misteln. Besonders Blattläuse mögen den Baum wegen seines hohen Zuckergehaltes, und dementsprechend auch die Ameisen, die die Blattläuse melken. Auch Vögel und Mäuse ritzen gelegentlich die <span class=\"glossary_link tap\" action=\"glossary\" data-term=\"UmluZGU=\">Rinde</span> an, um an den zuckerhaltigen Frühjahrssaft zu gelangen. Die Samen werden von zahlreichen Tieren gefressen.</p>",
+            "shortTextKey": "taxon_text_3_12",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-95-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-95-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-95-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-99-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-99-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-99-1000.webp"
+                    }
+                }
+            ]
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Schutz",
+            "texts": [
+                {
+                    "taxonTextType": "Waldschutz",
+                    "shortText": "<p>Vor allem im Jugendstadium treten Gefährdungen auf. Neben einer mäßigen Spätfrostgefährdung ist Wildverbiss der wichtigste Gefährdungsfaktor. Auch Fege- und Schälschäden machen dem Bergahorn zu schaffen. Auf vergrasten Flächen leiden die jungen Pflanzen häufig unter Mäusefraß.</p>",
+                    "shortTextKey": "taxon_text_2_11",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": [
+                        {
+                            "text": "",
+                            "altText": "",
+                            "title": "",
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-101-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-101-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-101-1000.webp"
+                            }
+                        },
+                        {
+                            "text": "",
+                            "altText": "",
+                            "title": "",
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-100-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-100-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-100-1000.webp"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Caption</p>",
+                "altText": "Alt text",
+                "title": "Title",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-36-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-36-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-36-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Acer erythrocarpum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer montanum",
+            "taxonAuthor": "Garsault"
+        },
+        {
+            "taxonLatname": "Acer opulifolium",
+            "taxonAuthor": "Thuill. ex Loud."
+        },
+        {
+            "taxonLatname": "Acer quinquelobum",
+            "taxonAuthor": "Gilib."
+        },
+        {
+            "taxonLatname": "Acer villosum",
+            "taxonAuthor": "C. Presl"
+        },
+        {
+            "taxonLatname": "Acer majus",
+            "taxonAuthor": "S. F. Gray"
+        },
+        {
+            "taxonLatname": "Acer melliodorum",
+            "taxonAuthor": "Opiz"
+        },
+        {
+            "taxonLatname": "Acer atropurpureum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer dittrichii",
+            "taxonAuthor": "Opiz"
+        },
+        {
+            "taxonLatname": "Acer euchlorum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer leopoldii",
+            "taxonAuthor": "Hort. ex K. Koch"
+        },
+        {
+            "taxonLatname": "Acer nebrodense",
+            "taxonAuthor": "Tineo ex Pax"
+        },
+        {
+            "taxonLatname": "Acer procerum",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Acer purpureum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer rafinesquianum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer ramosum",
+            "taxonAuthor": "Schwerin"
+        },
+        {
+            "taxonLatname": "Acer worleei",
+            "taxonAuthor": "Hort. ex Dippel"
+        }
+    ],
+    "templateContents": [
+        {
+            "templateName": "Article",
+            "slug": "streams"
+        }
+    ],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [
+        {
+            "relationshipType": {
+                "name": "Similar species",
+                "taxonRole": null,
+                "relatedTaxonRole": null
+            },
+            "relationships": [
+                {
+                    "taxon": {
+                        "taxonLatname": "Acer pseudoplatanus",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+                        "taxonNuid": "00600800601d00800102r",
+                        "gbifNubkey": 3189870,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                            }
+                        },
+                        "shortProfile": "<p>Der Bergahorn, ein mystischer Wächter, verbindet Erde und Kosmos mit seiner erdenden Energie und schützt suchende Seelen. Seine Blätter flüstern Weisheit der Ahnen, während sein Holz Harmonie und Beständigkeit schenkt. In der Stille unter seinen Ästen offenbaren sich Klarheit und tiefe Erkenntnis.</p>",
+                        "hasTaxonProfile": true
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Acer campestre",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "dcb4db1b-d1b7-4135-b997-72d080a59ccb",
+                        "taxonNuid": "00600800601d00800100d",
+                        "gbifNubkey": 3189863,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                            }
+                        },
+                        "shortProfile": "<p>Der Feldahorn wird in spirituellen Traditionen als Symbol für Schutz und Erdung verehrt. Seine Energie soll Klarheit und innere Stärke fördern.</p>",
+                        "hasTaxonProfile": true
+                    },
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "relationshipType": {
+                "name": "Predation",
+                "taxonRole": "Predator",
+                "relatedTaxonRole": "Prey"
+            },
+            "relationships": [
+                {
+                    "taxon": {
+                        "taxonLatname": "Acer",
+                        "taxonAuthor": "",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "bd143912-7a66-4f7f-ad25-c3c16a361273",
+                        "taxonNuid": "00600800601d008001",
+                        "gbifNubkey": 3189834,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Lumbricidae",
+                        "taxonAuthor": null,
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "b5a219e5-9456-470e-a0b8-aead98e1d1af",
+                        "taxonNuid": "001002001005004",
+                        "gbifNubkey": 6103,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "description": "description of eating worms updated"
+                },
+                {
+                    "taxon": {
+                        "taxonLatname": "Turdus merula",
+                        "taxonAuthor": "Linnaeus, 1758",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "5675cbf3-9d3d-4b03-99a1-1b76234244a2",
+                        "taxonNuid": "00100800500p03b00k017",
+                        "gbifNubkey": 2490719,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Acer pseudoplatanus",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+                        "taxonNuid": "00600800601d00800102r",
+                        "gbifNubkey": 3189870,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                            }
+                        },
+                        "shortProfile": "<p>Der Bergahorn, ein mystischer Wächter, verbindet Erde und Kosmos mit seiner erdenden Energie und schützt suchende Seelen. Seine Blätter flüstern Weisheit der Ahnen, während sein Holz Harmonie und Beständigkeit schenkt. In der Stille unter seinen Ästen offenbaren sich Klarheit und tiefe Erkenntnis.</p>",
+                        "hasTaxonProfile": true
+                    },
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "seo": {
+        "title": "Bergahorn - Acer campestre",
+        "metaDescription": "Beschreibung Bergahorn"
+    },
+    "externalMedia": [
+        {
+            "mediaType": "youtube",
+            "mediaCategory": "video",
+            "url": "https://www.youtube.com/watch?v=v5ekOVJ5uzU",
+            "title": "Patchwork Cuttlefish",
+            "author": "Sea Change Project",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        }
+    ],
+    "isFeatured": true
+}

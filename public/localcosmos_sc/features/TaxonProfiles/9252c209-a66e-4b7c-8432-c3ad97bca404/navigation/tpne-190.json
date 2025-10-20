@@ -1,0 +1,391 @@
+{
+    "name": "Cladobranchs",
+    "description": null,
+    "verboseName": "Cladobranchs",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1872-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1872-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1872-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1870-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1870-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1870-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1873-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1873-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1873-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-192",
+            "parentKey": "tpne-190",
+            "name": "Aeolids",
+            "verboseName": "Aeolids",
+            "taxa": [
+                {
+                    "taxonLatname": "Aeolidioidea",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "79252419-6fe9-4e22-a45e-aa2cb1a4e891",
+                    "taxonNuid": "00100k00700d003002001001001001"
+                },
+                {
+                    "taxonLatname": "Fiona",
+                    "taxonAuthor": "Alder & Hancock, 1853",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "12e20a0f-7a37-4b3a-9e78-9fe7cce0ecff",
+                    "taxonNuid": "00100k00700d003002001001001006009001"
+                },
+                {
+                    "taxonLatname": "Caloria",
+                    "taxonAuthor": "Trinchese, 1888",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "f45f0d7f-d079-4535-bd4e-9671fa58e817",
+                    "taxonNuid": "001005002004004"
+                },
+                {
+                    "taxonLatname": "Cratena",
+                    "taxonAuthor": "Bergh, 1864",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "6566f582-a7cc-4bb5-a76d-d12b82057732",
+                    "taxonNuid": "001005002004007"
+                },
+                {
+                    "taxonLatname": "Eubranchus",
+                    "taxonAuthor": "Forbes, 1838",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "07f5f2b9-6bea-4625-8925-389788299b35",
+                    "taxonNuid": "00100500200400c"
+                },
+                {
+                    "taxonLatname": "Flabellina",
+                    "taxonAuthor": "McMurtrie, 1831",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "78a8cac0-da1a-43ba-8bc7-da524211492f",
+                    "taxonNuid": "00100500200400d"
+                },
+                {
+                    "taxonLatname": "Tenellia",
+                    "taxonAuthor": "A. Costa, 1866",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "7ef91f0b-080f-46eb-8a21-24cf0c625841",
+                    "taxonNuid": "00100500200400j"
+                },
+                {
+                    "taxonLatname": "Tenellia",
+                    "taxonAuthor": "A. Costa, 1866",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a0edd27b-44e4-4271-a6aa-5a8dd8924a1c",
+                    "taxonNuid": "00100k00700d00300200100100100600h006"
+                },
+                {
+                    "taxonLatname": "Tergipes",
+                    "taxonAuthor": "Cuvier, 1805",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "f2867443-eb40-4cb7-9c3f-898fdcfc71b9",
+                    "taxonNuid": "00100500200400k"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1874-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1874-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1874-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1875-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1875-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1875-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1880-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1880-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1880-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1874-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1874-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1874-1000.webp"
+                }
+            },
+            "slug": "aeolids"
+        },
+        {
+            "key": "tpne-194",
+            "parentKey": "tpne-190",
+            "name": "Pinstripes & Lacedragons",
+            "verboseName": "Pinstripes & Lacedragons",
+            "taxa": [
+                {
+                    "taxonLatname": "Armina",
+                    "taxonAuthor": "Rafinesque, 1814",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "abda4dbb-8b9a-4b27-984b-4246bb1da5fb",
+                    "taxonNuid": "00100k00700d003002001001001002001001"
+                },
+                {
+                    "taxonLatname": "Dermatobranchus",
+                    "taxonAuthor": "Baba, 1949",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "2de1a82f-2e77-4a01-8944-e8913b4e4ae0",
+                    "taxonNuid": "00100k00700d003002001001001002001003"
+                },
+                {
+                    "taxonLatname": "Tritonia",
+                    "taxonAuthor": "Cuvier, 1797",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "f830591e-6d23-42a9-879b-93a716863b38",
+                    "taxonNuid": "00100500200400m"
+                },
+                {
+                    "taxonLatname": "Marionia",
+                    "taxonAuthor": "Vayssière, 1877",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "571626d6-a088-44bf-a0e1-cc09c0059bf0",
+                    "taxonNuid": "00100500200400e"
+                },
+                {
+                    "taxonLatname": "Candiella",
+                    "taxonAuthor": "J. E. Gray, 1850",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "3f0fea15-52f8-4944-a2a8-472fc38affc0",
+                    "taxonNuid": "001005002004005"
+                },
+                {
+                    "taxonLatname": "Armina",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "6b88007b-7382-448f-9370-83d42e1f0c1e",
+                    "taxonNuid": "001005002004003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1887-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1887-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1887-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1882-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1882-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1882-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1883-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1883-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1883-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1887-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1887-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1887-1000.webp"
+                }
+            },
+            "slug": "pinstripes-lacedragons"
+        },
+        {
+            "key": "tpne-193",
+            "parentKey": "tpne-190",
+            "name": "Dragons",
+            "verboseName": "Dragons",
+            "taxa": [
+                {
+                    "taxonLatname": "Dendronotoidea",
+                    "taxonAuthor": "Odhner, 1934",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "dcb676ab-b435-4073-80dd-eb78f4708e8e",
+                    "taxonNuid": "00100k00700d003002001001001003"
+                },
+                {
+                    "taxonLatname": "Doto",
+                    "taxonAuthor": "Oken, 1815",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "602389cc-2c9f-4e62-8ac5-9443b47a4ebb",
+                    "taxonNuid": "00100500200400b"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1889-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1889-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1889-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1890-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1890-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1890-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1888-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1888-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1888-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1889-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1889-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1889-1000.webp"
+                }
+            },
+            "slug": "dragons"
+        },
+        {
+            "key": "tpne-195",
+            "parentKey": "tpne-190",
+            "name": "Unassigned cladobranchs",
+            "verboseName": "Unassigned cladobranchs",
+            "taxa": [
+                {
+                    "taxonLatname": "Lemindidae",
+                    "taxonAuthor": "R. J. Griffiths, 1985",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9169600b-e20d-465d-9439-55486bc4387e",
+                    "taxonNuid": "00100k00700d00300200100100100a004"
+                },
+                {
+                    "taxonLatname": "Janolidae",
+                    "taxonAuthor": "Pruvot-Fol, 1933",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "873008af-a4f1-4c1c-9bb0-118a48003d2f",
+                    "taxonNuid": "00100k00700d00300200100100100a003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1884-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1884-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1884-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1885-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1885-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1885-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1886-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1886-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1886-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1884-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1884-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1884-1000.webp"
+                }
+            },
+            "slug": "unassigned-cladobranchs"
+        }
+    ],
+    "taxonProfiles": []
+}

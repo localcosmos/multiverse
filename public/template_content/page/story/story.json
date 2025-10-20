@@ -1,0 +1,19 @@
+{
+  "templateName" : "Story",
+  "type": "page",
+  "templatePath" : "/template_content/page/text/text.html",
+  "version" : 1,
+  "contents": {
+    "videos": {
+      "type": "component",
+      "templateName": "Video",
+      "required": false,
+      "allowMultiple": true
+    },
+    "paragraph": {
+      "type": "component",
+      "templateName": "Paragraph",
+      "allowMultiple": true
+    }
+  }
+}

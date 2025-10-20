@@ -1,0 +1,199 @@
+{
+    "taxonLatname": "Aplidium flavolineatum",
+    "taxonAuthor": "(Sluiter, 1898)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b7864c8a-fad7-4e0b-8564-d77512a5f50f",
+    "taxonNuid": "00100700200200100800202i",
+    "gbifNubkey": 2330895,
+    "image": {
+        "text": "<p>Porth Nolloth</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2434-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2434-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2434-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 159,
+    "vernacular": {
+        "en": "Rosette ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Rosette ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Amaroucium flavolineatum</i></p>",
+            "shortTextKey": "taxon_text_9_1415",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms thick rounded cushions that harbour elongate zooids up to 30 mm long. Each oral aperture is circled with a white line that often extends down the side of the elongate thorax, within which the filter-feeding pharynx can be seen in section (left side of image). Zooids arranges in often indistinct groups around communal exhalent openings. Colony colour usually pink, but can be cream or red.</p>",
+            "shortTextKey": "taxon_text_1_1416",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids up to 30 mm, colonies up to 100 mm or more across.</p>",
+            "shortTextKey": "taxon_text_2_1417",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Sodwana Bay.</p>",
+            "shortTextKey": "taxon_text_3_1418",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common intertidally, especially along the whole south coast.</p>",
+            "shortTextKey": "taxon_text_4_1419",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1420",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expanded via asexual reproduction (budding of existing zooids), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1421",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The cushions are much deeper and the zooids much longer that those of <i>Botryllus</i> species, which form similarly-coloured colonies. Can be distinguished from the related <i>A. circulatum</i> by shape, as in that species the colony is raised on a mushroom-like stalk.</p>",
+            "shortTextKey": "taxon_text_7_1422",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group, Hout Bay (p. 196).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 6).",
+            "shortTextKey": "taxon_text_8_1423",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Porth Nolloth</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2434-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2434-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2434-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Porth Nolloth</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2434-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2434-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2434-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Port Nolloth</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2436-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2436-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2436-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Port Nolloth</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2435-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2435-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2435-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-454-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-454-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-454-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-455-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-455-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-455-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Amaroucium astraeoides",
+            "taxonAuthor": "Sluiter, 1898"
+        },
+        {
+            "taxonLatname": "Aplidium flavo-lineatum",
+            "taxonAuthor": "(Sluiter)"
+        },
+        {
+            "taxonLatname": "Amaroucium flavolineatum",
+            "taxonAuthor": "Sluiter, 1898"
+        },
+        {
+            "taxonLatname": "Amaroucium simplex",
+            "taxonAuthor": "Sluiter, 1898"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

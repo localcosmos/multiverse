@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Stelletta agulhana",
+    "taxonAuthor": "Lendenfeld, 1907",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fe596ff4-af25-4d99-8c5d-ee05a500c635",
+    "taxonNuid": "00100t00200100k00100100c004",
+    "gbifNubkey": 2248124,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-794-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-794-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-794-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 647,
+    "vernacular": {
+        "en": "Grey wall sponge"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Grey wall sponge"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best thought of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small opening on the body surface, removing fine particles and ejecting the waste water from one or more usually larger openings called oscula.</p><p>This is a massive, dark-grey sponge that tends to form a ‘wall’ with vertical sides separated from a flat upper surface by a distinct ridge that is marked by a row of fine spicules that protrude from the surface. The texture is firm and the upper surface bears small oscula. The inner flesh is light orange.</p>",
+            "shortTextKey": "taxon_text_1_6395",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to at least 10 cm thick and about 50 cm in length.</p>",
+            "shortTextKey": "taxon_text_2_6396",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Northern Cape to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_6397",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives on rocky reefs from about 2-90 m of water where it forms large growth on both vertical and horizontal surfaces. Sometimes overgrown with seaweeds.</p>",
+            "shortTextKey": "taxon_text_4_6398",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filters small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6399",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take the form of sending out root-like extension from which new individual bud, by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6400",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The Orange wall sponge <i>Trachycladus spinispirulifera</i> also forms large wall-like growths in similar habitats, but as the name suggests, is orange rather than grey.</p>",
+            "shortTextKey": "taxon_text_7_6401",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 22).<br><br>Samaai, T & Gibbons, MJ (2005). Demospongiae taxonomy and biodiversity of the Benguela region on the west coast of South Africa. <i>African Natural History</i>, 1, 1-96. (p. 12).",
+            "shortTextKey": "taxon_text_8_6402",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-794-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-794-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-794-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-794-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-794-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-794-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Stelletta agulhana var. paucistella",
+            "taxonAuthor": "Burton, 1926"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,502 @@
+{
+    "name": "Jellyfish & kin",
+    "description": null,
+    "verboseName": "Jellyfish & kin",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-588-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-588-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-588-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-594-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-594-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-594-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-592-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-592-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-592-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-598-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-598-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-598-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-599-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-599-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-599-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-600-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-600-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-600-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-4",
+            "parentKey": "tpne-1",
+            "name": "Jellyfish",
+            "verboseName": "Jellyfish",
+            "taxa": [
+                {
+                    "taxonLatname": "Cubozoa",
+                    "taxonAuthor": "Werner, 1973",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "8507222e-5360-4c28-a0c5-e97a0c3654f1",
+                    "taxonNuid": "001008002"
+                },
+                {
+                    "taxonLatname": "Scyphozoa",
+                    "taxonAuthor": "Goette, 1887",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6d82e5f6-4d7a-414f-a728-2f4c996b93f5",
+                    "taxonNuid": "001008005"
+                },
+                {
+                    "taxonLatname": "Aequorea",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "a53ea593-b8e1-4858-a38b-c9b1de54bb14",
+                    "taxonNuid": "001004002002001"
+                },
+                {
+                    "taxonLatname": "Drymonema",
+                    "taxonAuthor": "Haeckel, 1880",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "6f74f5ff-d117-4b12-be49-e5b9a04e9b71",
+                    "taxonNuid": "001004003002001"
+                },
+                {
+                    "taxonLatname": "Aurelia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "066f1cee-1a73-489a-bd83-15aee795ed3a",
+                    "taxonNuid": "001004003001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-610-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-610-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-610-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-611-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-611-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-611-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-612-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-612-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-612-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-610-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-610-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-610-1000.webp"
+                }
+            },
+            "slug": "jellyfish"
+        },
+        {
+            "key": "tpne-99",
+            "parentKey": "tpne-1",
+            "name": "Hexacorallia: Anemones, hard corals & zoanthids",
+            "verboseName": "Hexacorallia: Anemones, hard corals & zoanthids",
+            "taxa": [
+                {
+                    "taxonLatname": "Hexacorallia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "dcba7829-c7f7-4e2c-8f02-fd9c00c3a25b",
+                    "taxonNuid": "001008001003"
+                },
+                {
+                    "taxonLatname": "Ceriantheopsis",
+                    "taxonAuthor": "Carlgren, 1912",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9f4582d4-5b39-4b80-ab6e-946e1d8a01b5",
+                    "taxonNuid": "001008001001002002005"
+                },
+                {
+                    "taxonLatname": "Anthostella",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "a579beab-ba56-4a43-83f8-122d32d2b3ac",
+                    "taxonNuid": "001004001001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-827-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-827-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-827-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-829-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-829-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-829-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-830-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-830-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-830-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-827-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-827-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-827-1000.webp"
+                }
+            },
+            "slug": "hexacorallia-anemones-hard-corals-zoanthids"
+        },
+        {
+            "key": "tpne-100",
+            "parentKey": "tpne-1",
+            "name": "Octocorallia: Sea fans, sea pens & soft corals",
+            "verboseName": "Octocorallia: Sea fans, sea pens & soft corals",
+            "taxa": [
+                {
+                    "taxonLatname": "Octocorallia",
+                    "taxonAuthor": "Haeckel, 1866",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "97aab25d-4e86-48d4-bdf0-6b35fd0e7a2c",
+                    "taxonNuid": "001008001005"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-833-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-833-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-833-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-834-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-834-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-834-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-841-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-841-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-841-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-833-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-833-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-833-1000.webp"
+                }
+            },
+            "slug": "octocorallia-sea-fans-sea-pens-soft-corals"
+        },
+        {
+            "key": "tpne-91",
+            "parentKey": "tpne-1",
+            "name": "Ctenophores",
+            "verboseName": "Ctenophores",
+            "taxa": [
+                {
+                    "taxonLatname": "Nuda",
+                    "taxonAuthor": "Chun, 1879",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9693f296-5fc3-4b5b-8938-ab2e73e6fc67",
+                    "taxonNuid": "001009003"
+                },
+                {
+                    "taxonLatname": "Tentaculata",
+                    "taxonAuthor": "Eschscholtz, 1825",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "29cf4a89-515e-4637-8048-7fcf546afc47",
+                    "taxonNuid": "001009006"
+                },
+                {
+                    "taxonLatname": "Hormiphora",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "225e5b60-9ed0-4f3a-ae73-3f1e07772ba2",
+                    "taxonNuid": "00100d001"
+                },
+                {
+                    "taxonLatname": "Leucothea",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "1f608391-5503-4798-93e2-58e04575d747",
+                    "taxonNuid": "00100d002"
+                },
+                {
+                    "taxonLatname": "Coeloplana",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "a2600c32-9016-4f4d-90f2-27bca62c0a11",
+                    "taxonNuid": "00100d003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-604-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-604-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-604-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-605-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-605-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-605-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-606-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-606-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-606-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-604-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-604-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-604-1000.webp"
+                }
+            },
+            "slug": "ctenophores"
+        },
+        {
+            "key": "tpne-5",
+            "parentKey": "tpne-1",
+            "name": "Hydroids & siphonophores",
+            "verboseName": "Hydroids & siphonophores",
+            "taxa": [
+                {
+                    "taxonLatname": "Hydrozoa",
+                    "taxonAuthor": "Owen, 1843",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "42427630-bee8-4152-9269-2f67da5597b8",
+                    "taxonNuid": "001008003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-607-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-607-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-607-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-608-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-608-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-608-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-609-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-609-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-609-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-607-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-607-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-607-1000.webp"
+                }
+            },
+            "slug": "hydroids-siphonophores"
+        },
+        {
+            "key": "tpne-6",
+            "parentKey": "tpne-1",
+            "name": "Stalked jellyfish",
+            "verboseName": "Stalked jellyfish",
+            "taxa": [
+                {
+                    "taxonLatname": "Staurozoa",
+                    "taxonAuthor": "Marques & Collins, 2004",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "f4e7918c-124f-41a2-aeb5-801ae6f38a8b",
+                    "taxonNuid": "001008006"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-613-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-613-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-613-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-806-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-806-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-806-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-807-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-807-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-807-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-613-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-613-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-613-1000.webp"
+                }
+            },
+            "slug": "stalked-jellyfish"
+        }
+    ],
+    "taxonProfiles": []
+}

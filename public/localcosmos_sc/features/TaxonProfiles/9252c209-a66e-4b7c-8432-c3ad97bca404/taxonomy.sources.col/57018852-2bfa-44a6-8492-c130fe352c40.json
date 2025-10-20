@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Amanda armata",
+    "taxonAuthor": "Macnae, 1954",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "57018852-2bfa-44a6-8492-c130fe352c40",
+    "taxonNuid": "00100k00700d003002001001001001003004001",
+    "gbifNubkey": 7553225,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1923-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1923-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1923-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 830,
+    "vernacular": {
+        "en": "Nightsky tentacle aeolid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Nightsky tentacle aeolid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A small pale creamy- to white-bodied aeolid with dark brown opaque white-flecked cerata. The head is white or pale with opaque white and dark speckling. The oral tentacles are translucent white with opaque white spots. The rhinophores are annulate, and translucent white with opaque white speckling. The cerata are arranged in distinct clusters along the notum; the notum also has opaque white speckling. The posterior end of the foot is slender, tapered, and translucent with opaque white speckling.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_8042",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 15 mm.</p>",
+            "shortTextKey": "taxon_text_2_8043",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Atlantic side of the Cape Peninsula and western False Bay, intertidal to 15 m.</p>",
+            "shortTextKey": "taxon_text_3_8044",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found on shallow reefs, may be associated with the Bamboo kelp, <i>Ecklonia maxima.</i>&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_8045",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>This species' food is not yet known.</p>",
+            "shortTextKey": "taxon_text_5_8046",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The species is hermaphrodite. The egg ribbon is likely a small coil of distinct white eggs.</p>",
+            "shortTextKey": "taxon_text_6_8047",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Though the species is relatively cryptic on reef substrates, it cannot be confused with other aeolids, since the dark white-speckled cerata are distinctive.</p>",
+            "shortTextKey": "taxon_text_7_8048",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 125).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 620, 806).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 154).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 95).",
+            "shortTextKey": "taxon_text_8_8049",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1923-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1923-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1923-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1923-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1923-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1923-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

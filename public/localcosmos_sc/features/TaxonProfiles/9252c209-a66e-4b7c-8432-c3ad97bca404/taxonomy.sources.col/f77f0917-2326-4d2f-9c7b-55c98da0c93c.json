@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Sertularella arbuscula",
+    "taxonAuthor": "(Lamouroux, 1816)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f77f0917-2326-4d2f-9c7b-55c98da0c93c",
+    "taxonNuid": "00100800300100200r00100200b",
+    "gbifNubkey": 2268994,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-320-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-320-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-320-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 478,
+    "vernacular": {
+        "en": "Planar hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Planar hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colonial hydroid with stiff, upright, bright-yellow stems, each bearing alternating lateral branches of decreasing length that all lie in a single plane. Larger side-branches may branch again. Both the main stem and side-branches bear polyps on both sides and each of these emerges from a projecting hydrotheca, which when the polyp is retracted is closed by a 4-sided, pyramid-shaped operculum. If present, reproductive individuals (gonothecae) are spindle-shaped and are born singly and often far out from the main stem.</p>",
+            "shortTextKey": "taxon_text_1_4590",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Stems typically 50 mm tall, but up to 300 mm reported, gonothecae about 2 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_4591",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Australia, Southern Africa, Vema Seamount.</p><p><u>Local/Regional:</u> Saldanha Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4592",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Widely distributed on rocky reefs and in sheltered pools although also recorded down to 219 m depth. Always orientated at right angles to the predominant water flow.</p>",
+            "shortTextKey": "taxon_text_4_4593",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on small particles and planktonic organisms in the water.</p>",
+            "shortTextKey": "taxon_text_5_4594",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies spread asexually by putting up new stems from the creeping ‘roots’. There are separate males and females and fertilized eggs develop within the female gonothecae to form planula larvae.</p>",
+            "shortTextKey": "taxon_text_6_4595",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Distinctive stiff, flat appearance is unusual, but easily confused with members of the closely-related genus <i>Thuiaria,</i> which have similar colony form, but the side branches come off in pairs (not alternately to left and right) and the polyps are sunken into the stems.</p><p>Although all existing guides depict and name this species, in reality there are over 20 easily-confused local species in the genus and some of the images depicted on local websites appear to depict species other than <i>S. arbuscula</i>.</p>",
+            "shortTextKey": "taxon_text_7_4596",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 54).<br><br>Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 28).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 58).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 281).",
+            "shortTextKey": "taxon_text_8_4597",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-320-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-320-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-320-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-320-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-320-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-320-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sertularia arbuscula",
+            "taxonAuthor": "Lamouroux, 1816"
+        },
+        {
+            "taxonLatname": "Sertularella arborea",
+            "taxonAuthor": "Kirchenpauer, 1884"
+        },
+        {
+            "taxonLatname": "Sertularella arbuscula var. quinquelaminata",
+            "taxonAuthor": "Leloup, 1934"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

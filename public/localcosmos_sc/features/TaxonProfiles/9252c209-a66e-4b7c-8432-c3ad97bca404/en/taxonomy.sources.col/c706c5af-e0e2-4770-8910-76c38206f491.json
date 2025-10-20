@@ -1,0 +1,66 @@
+{
+    "taxonLatname": "Charybdis (Archias) smithii",
+    "taxonAuthor": "Macleay, 1838",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c706c5af-e0e2-4770-8910-76c38206f491",
+    "taxonNuid": "00100300a00600200500600100p00d00b002001009",
+    "gbifNubkey": null,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 969,
+    "vernacular": {
+        "en": "Smith’s swimming crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Smith’s swimming crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Balasubramanian, CP & Suseelan, C (1998). Natural diet of the deep water crab <i>Charybdis smithii</i> McLeay (Brachyura: Portunidae) of the seas around India. <i>Indian Journal of Fisheries</i>, 45(4), 407-412.<br><br>Balasubramanian, CP & Suseelan, C (2001). Distribution and population structure of deep-water crab <i>Charybdis smithii</i> (Decapoda: Portunidae) in the Arabian Sea and Bay of Bengal. <i>Bulletin of Marine Science</i>, 68(3), 435-449.<br><br>Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 122). <br><br>Emmerson, WD (2016). A Guide to, and Checklist for, the Decapoda of Namibia, South Africa and Mozambique. Newcastle upon Tyne: Cambridge Scholars Publishing. Volumes 1 – 3, 526, 645, 711 pp.<br><br>Losse, GF (1969). Notes on the portunid crab <i>Charybdis edwardsi</i> Leene & Buitendijk, 1949, from the Western Indian Ocean. <i>Journal of Natural History</i>, 3(1), 145-152.",
+            "shortTextKey": "taxon_text_8_9409",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Charybdis (Goniohellenus) edwardsi",
+            "taxonAuthor": "Leene & Buitendijk, 1949"
+        },
+        {
+            "taxonLatname": "Charybdis smithii",
+            "taxonAuthor": "Macleay, 1838"
+        },
+        {
+            "taxonLatname": "Charybdis (Goniohellenus) smithii",
+            "taxonAuthor": "MacLeay, 1838"
+        },
+        {
+            "taxonLatname": "Charybdis edwardsi",
+            "taxonAuthor": "Leene & Buitendijk, 1949"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

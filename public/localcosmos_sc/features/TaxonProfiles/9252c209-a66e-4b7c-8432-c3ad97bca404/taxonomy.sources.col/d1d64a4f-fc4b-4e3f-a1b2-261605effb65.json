@@ -1,0 +1,171 @@
+{
+    "taxonLatname": "Vaughtia fenestrata",
+    "taxonAuthor": "(A. Gould, 1860)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d1d64a4f-fc4b-4e3f-a1b2-261605effb65",
+    "taxonNuid": "00100k00700300e00900100f01k004",
+    "gbifNubkey": 4364345,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-122-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-122-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-122-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 292,
+    "vernacular": {
+        "en": "Fenestrate oyster-drill"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fenestrate oyster-drill"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Ocenebra fenestrata</i></p>",
+            "shortTextKey": "taxon_text_9_2735",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small whelk heavily and attractively ornamented with both bold spiral ridges and transverse ribs, the two intersecting to form a grid-like pattern of raised ridges, the points of intersection being raised as nodules. Siphonal canal short, external colour mottled white and brown, interior colour white to pale purple.</p>",
+            "shortTextKey": "taxon_text_1_2736",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 15 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2737",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_2738",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common and small species usually found on the underside of rocks in the low intertidal, but extends down to at least 37 m. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_2739",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Diet unknown, but members of this family are predatory on various other invertebrates including molluscs, barnacles and worms.</p>",
+            "shortTextKey": "taxon_text_5_2740",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not known for this species, but most related species lay egg cases from which the young emerge as crawling juveniles.</p>",
+            "shortTextKey": "taxon_text_6_2741",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with <i>O. purpuriodes,</i> which has similar external sculpturing, but is distinguished by the purple external stripes and internal colour that gives the species its name.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2742",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 192).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 82 as <i>Ocenebra fenestrata</i>).",
+            "shortTextKey": "taxon_text_8_2743",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-122-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-122-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-122-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-122-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-122-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-122-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cominella fuscopicta",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Peristernia fenestrata",
+            "taxonAuthor": "A. Gould, 1860"
+        },
+        {
+            "taxonLatname": "Fusus gracilis",
+            "taxonAuthor": "F. C. L. Koch, 1845"
+        },
+        {
+            "taxonLatname": "Cominella puncturata",
+            "taxonAuthor": "G. B. Sowerby III, 1886"
+        },
+        {
+            "taxonLatname": "Cominella puncturata var. bipartita",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Tritonalia puncturata",
+            "taxonAuthor": "(G. B. Sowerby III, 1886)"
+        },
+        {
+            "taxonLatname": "Ocenebra fenestrata",
+            "taxonAuthor": "(A. Gould, 1860)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

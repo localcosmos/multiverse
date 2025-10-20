@@ -1,0 +1,185 @@
+{
+    "taxonLatname": "Malva arborea",
+    "taxonAuthor": "(L.) Webb & Berthel.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "31d76577-f9e9-4977-a027-88f6cbba307f",
+    "taxonNuid": "00600600501000600701v006",
+    "gbifNubkey": 3935079,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2839-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2839-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2839-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1019,
+    "vernacular": {
+        "en": "Tree mallow"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tree mallow"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Lavatera arborea,</i> <i>Malva dendromorpha</i></p>",
+            "shortTextKey": "taxon_text_9_9612",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Stout, erect perennial shrub growing from a single woody, greyish stem that gives rise to spreading branches which bear large, 5-8 lobed, velvety leaves shaped like an open palm. The flowers are hibiscus-like and emerge from the leaf axils. The petals are pink to lilac with dark veins and throat and the stamens and branching stigmas branch from a central column. The seed head is a dry capsule.</p>",
+            "shortTextKey": "taxon_text_1_9613",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Grows to 2-3 m height. Leaves up to 20 cm wide. Flowers 30-40 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9614",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Native to Mediterranean region but widely introduced to western USA, South America, Tasmania, New Zealand and Southern Africa.</p><p><u>Local/Regional:</u> Northern, Western and Eastern Cape Provinces, especially along the coast.</p>",
+            "shortTextKey": "taxon_text_3_9615",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Hardy plant able to grow very close to the sea, excreting salt through glands on its leaves. An introduced species in South Africa, where it grows mostly in exposed positions along the coast.</p><p>Used as an ornamental plant in coastal gardens. In Europe the leaves were traditionally used in herbal medicine as a poultice to treat strains and burns.</p>",
+            "shortTextKey": "taxon_text_4_9616",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9617",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers from spring to Autumn. Seeds form inside round, flat capsules.</p>",
+            "shortTextKey": "taxon_text_6_9618",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A fairly-distinctive large shrub. The indigenous Sand rose <i>Anisodontea scabrosa</i> is similar and also common along the coast from Saldanha Bay to KwaZulu-Natal, but is more delicate and has smaller 3-lobed leaves (20-70 mm long) and light to dark pink flowers that lack a dark throat.</p>",
+            "shortTextKey": "taxon_text_7_9619",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2839-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2839-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2839-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2839-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2839-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2839-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2840-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2840-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2840-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Malva umbellata",
+            "taxonAuthor": "Bertero"
+        },
+        {
+            "taxonLatname": "Malva fastuosa",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Lavatera arborea",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Althaea arborea",
+            "taxonAuthor": "(L.) Alef."
+        },
+        {
+            "taxonLatname": "Malva eriocalyx",
+            "taxonAuthor": "Steud."
+        },
+        {
+            "taxonLatname": "Lavatera eriocalyx",
+            "taxonAuthor": "Steud."
+        },
+        {
+            "taxonLatname": "Anthema arborea",
+            "taxonAuthor": "(L.) Medik."
+        },
+        {
+            "taxonLatname": "Malva veneta",
+            "taxonAuthor": "(Mill.) Soldano, Banfi & Galasso"
+        },
+        {
+            "taxonLatname": "Malva dendromorpha",
+            "taxonAuthor": "M. F. Ray"
+        },
+        {
+            "taxonLatname": "Lavatera veneta",
+            "taxonAuthor": "Mill."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

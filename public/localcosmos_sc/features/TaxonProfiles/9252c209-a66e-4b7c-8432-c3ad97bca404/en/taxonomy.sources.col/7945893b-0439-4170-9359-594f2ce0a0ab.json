@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Turbonilla kraussii",
+    "taxonAuthor": "H. Adams & A. Adams, 1853",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7945893b-0439-4170-9359-594f2ce0a0ab",
+    "taxonNuid": "00100k00700d00300300800300403z00n0fh",
+    "gbifNubkey": 11483738,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-139-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-139-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-139-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 308,
+    "vernacular": {
+        "en": "Unicorn pyram"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Unicorn pyram"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shells pure white, small and slender with a sharp apex and elongate, tapering spire of many flat whorls. Each whorl marked by oblique flattened axial ribs that extend right across the whorl from suture to suture. Ribs stop abruptly at the anterior margin of the body whorl. Operculum horny, body transparent white with black eye.</p>",
+            "shortTextKey": "taxon_text_1_2896",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 15 mm in height.</p>",
+            "shortTextKey": "taxon_text_2_2897",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to KwaZulu-Natal north coast<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2898",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little is known about the biology of this small but common species, which lives mostly in crevices on the undersides of rocks in low-shore pools and on shallow reefs. All members of this diverse family are thought to be parasitic, sucking the blood or body fluids of various invertebrate hosts, including other molluscs, polychaete worms and tunicates. Most species are host-specific. During feeding the very long proboscis is extended and attached to the host using a terminal sucker. The mouth lacks a radula, but the jaws are modified into a spike-like stylet that penetrates the skin of the prey. The body fluids are then pumped up the proboscis using the muscular pharynx.</p>",
+            "shortTextKey": "taxon_text_4_2899",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Parasitic on other invertebrates, but the host of this species has not been identified.</p>",
+            "shortTextKey": "taxon_text_5_2900",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Members of this family are hermaphroditic. The spawn consists of a lump of clear jelly often attached to the host. In some species the eggs hatch into free-swimming larvae, but in others they remain in the jelly until they reach the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_2901",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of more than 100 species of this diverse family found in Southern Africa. Many of these are known only from dead shells and very little is known about the biology of the living animals. This species can be distinguished from most others in the family by the very elongate shell and marked axial ribs.</p>",
+            "shortTextKey": "taxon_text_7_2902",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 129).",
+            "shortTextKey": "taxon_text_8_2903",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-139-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-139-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-139-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-139-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-139-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-139-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chemnitzia lactea",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Turbonilla kraussi",
+            "taxonAuthor": "Clessin, 1900"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

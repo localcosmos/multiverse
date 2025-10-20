@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Buellia stellulata",
+    "taxonAuthor": "(Taylor) Mudd",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c3ea9ae6-41bc-4829-9b9a-d8a1007cb3b5",
+    "taxonNuid": "0050030qj00a00100705i",
+    "gbifNubkey": 2609452,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-410-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-410-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-410-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 543,
+    "vernacular": {
+        "en": "Grey disc lichen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Grey disc lichen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Thin white-to-grey crustose lichen, sometimes with bluish tinge. The surface is broken into numerous small blocks, resembling a mosaic, the whole colony having a distinct darker margin. The reproductive apothecia are black and immersed within the thallus, their surface often being slightly convex.</p><p>This large and very complex genus has over 400 species globally and about 100 within the southern African region, so species level identifications should be treated with caution. This identification is based on Wirth (2010) and is influenced largely on habitat – this species being a typically shoreline one.</p>",
+            "shortTextKey": "taxon_text_1_5220",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies up to at least 50 mm in diameter, apothecia 0.4 – 0.5 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_5221",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed across the Northern Hemisphere, also South Africa, Australia and New Zealand.</p><p><u>Local/Regional:</u> Namibia to at least Cape Point (few details).</p>",
+            "shortTextKey": "taxon_text_3_5222",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A fairly common species, but found mostly on rocks along, or adjacent to, the coast. Often adjacent to, or mixed with, other orange lichens of the genera <i>Calloplaca</i><strong> </strong>and <i>Doufourea</i>.</p>",
+            "shortTextKey": "taxon_text_4_5223",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_5224",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies can divide asexually by division. Spores are also produced within the apothecia and can spread to form distant colonies.</p>",
+            "shortTextKey": "taxon_text_6_5225",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The crazed texture and grey-black colouring fairly distinctive to genus level, but there are many similar species in the region.</p>",
+            "shortTextKey": "taxon_text_7_5226",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Wirth, V (2010). Lichens of the Namib Desert: a Guide to their Identification. Klaus Hess Publishers, Gottingen- Windhoek (p. 73).<br><br>Yogesh, J, Xin YW, László L, Young JK & Jae-Seoun, J (2010). Notes on Lichen Genus Buellia De Not. (lichenized Ascomycetes) from South Korea. <i>Mycobiology</i>, 38(1), 65-69.",
+            "shortTextKey": "taxon_text_8_5227",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-410-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-410-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-410-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-410-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-410-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-410-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lecidea spuria var. minutula",
+            "taxonAuthor": "Hepp"
+        },
+        {
+            "taxonLatname": "Buellia stellulata var. tasmanica",
+            "taxonAuthor": "Elix & Kantvilas"
+        },
+        {
+            "taxonLatname": "Lecidea stellulata",
+            "taxonAuthor": "Taylor"
+        },
+        {
+            "taxonLatname": "Lecidea minutula",
+            "taxonAuthor": "(Hepp) Nyl. ex Lamy"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

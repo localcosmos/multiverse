@@ -1,0 +1,186 @@
+{
+    "name": "Periwinkles",
+    "description": null,
+    "verboseName": "Periwinkles",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2134-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2134-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2134-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2135-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2135-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2135-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Eatoniella afronigra",
+            "taxonAuthor": "Ponder & Worsfold, 1994",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e3078778-097f-4b06-b626-adf756eb476e",
+            "taxonNuid": "00100k00700300c003002002001",
+            "slug": "eatoniella-afronigra",
+            "localizedSlug": {
+                "en": "black-dwarf-periwinkle"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-83-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-83-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-83-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-83-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-83-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-83-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tricolia capensis",
+            "taxonAuthor": "(Dunker, 1846)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9d7ec3a0-9057-4918-8ec7-b5c9f4bd50b3",
+            "taxonNuid": "00100k00700v00700100i005001005",
+            "slug": "tricolia-capensis",
+            "localizedSlug": {
+                "en": "pheasant-shell"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-155-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-155-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-155-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-155-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-155-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-155-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tricolia neritina",
+            "taxonAuthor": "(Dunker, 1846)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "16e2e05f-e4f1-4883-bb40-20fb54a53b91",
+            "taxonNuid": "00100k00700v00700100i00500100r",
+            "slug": "tricolia-neritina",
+            "localizedSlug": {
+                "en": "stripy-pheasant-shell"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-156-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-156-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-156-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-156-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-156-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-156-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Afrolittorina knysnaensis",
+            "taxonAuthor": "(R. A. Philippi, 1847)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1f8f2bca-7129-4b58-8b0c-7a1f6aa96466",
+            "taxonNuid": "00100k00700300c007004003001003",
+            "slug": "afrolittorina-knysnaensis",
+            "localizedSlug": {
+                "en": "southern-periwinkle"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-72-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-72-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-72-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2538-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2538-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2538-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-72-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-72-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-72-1000.webp"
+                }
+            }
+        }
+    ]
+}

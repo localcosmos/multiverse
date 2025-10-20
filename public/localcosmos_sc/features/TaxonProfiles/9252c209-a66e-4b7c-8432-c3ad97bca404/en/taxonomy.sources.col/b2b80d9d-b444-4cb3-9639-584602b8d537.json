@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Pseudactinia varia",
+    "taxonAuthor": "Carlgren, 1938",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b2b80d9d-b444-4cb3-9639-584602b8d537",
+    "taxonNuid": "00100800100300100a00100101f004",
+    "gbifNubkey": 2256675,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-638-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-638-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-638-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 99,
+    "vernacular": {
+        "en": "Apricot anemone"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Apricot anemone"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly wide, squat anemone, uniform but variable in colour (as the name suggests). Usually red to pink to pale orange, column smooth, tentacles fairly long, numbering between 72 and 174. Tentacles same colour as column, but often paler, particularly towards tips; generally held extended perpendicular to column. Two rows of globular vesicles immediately beneath the tentacles (vs 3-5 rows in the similar<i> P. flagellifera). </i>Unusual in that it has a weak sphincter and is unable to fully close up when disturbed.</p>",
+            "shortTextKey": "taxon_text_1_826",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Column about 30 mm wide and similar in height, tentacles about 15 mm long.</p>",
+            "shortTextKey": "taxon_text_2_827",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and St Helena Island.</p><p><u>Local/Regional:</u> Cape Columbine to Durban.</p>",
+            "shortTextKey": "taxon_text_3_828",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Primarily intertidal and usually found on the underside of boulders of in shady crevices, but also found at depths up to 47 m. Probably shows the same territorial behaviour as the closely related<i> P. flagellifera </i>(see that entry) but not documented.</p>",
+            "shortTextKey": "taxon_text_4_829",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on a variety of larger invertebrates, which may be captured live or tumble into the tentacles after being displaced by waves or having died of other causes. An analysis of gut contents revealed the diet to consists of 42% gastropods, 23% bivalves, 17% isopods and 12% echinoderms; but as echinoderms were larger they accounted for 56% of the diet by mass.</p>",
+            "shortTextKey": "taxon_text_5_830",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Anemones can reproduce sexually, but releasing sperm and eggs into the water, but can also divide by fission, so where similarly-coloured individuals are found in close proximity the group is probably derived by division of a single founding individual.</p>",
+            "shortTextKey": "taxon_text_6_831",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the closely-related<i> Pseudactinia flagellifera </i>which is also found in much the same habitat. That species, however, grows to a larger size of up to 75 mm diameter, and is usually dirty orange in colour with up to 230 lighter-coloured tentacles, which often end in purple tips. There are also usually 3–5 rows of vesicles beneath the tentacles.</p>",
+            "shortTextKey": "taxon_text_7_832",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Carlgren, O (1938). South African Actiniaria and Zoantharia. <i>Kungliga Svenska Vetenskapsakademiens Handlingar</i>, 17(3), 1–148.<br><br>Kruger, LM &  Griffiths, CL (1996). Sources of nutrition in sea anemones from the Western Cape, South Africa. <i>South African Journal of Zoology</i>, 31, 110–119.<br><br>Laird, MC (2013). Taxonomy, systematics and biodiversity of South African Actiniaria and Corallimorpharia. PhD Thesis, Department of Zoology, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_833",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-638-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-638-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-638-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-638-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-638-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-638-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

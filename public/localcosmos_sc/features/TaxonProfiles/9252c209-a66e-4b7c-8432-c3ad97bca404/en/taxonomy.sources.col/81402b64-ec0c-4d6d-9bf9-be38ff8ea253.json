@@ -1,0 +1,162 @@
+{
+    "taxonLatname": "Doto coronata",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "81402b64-ec0c-4d6d-9bf9-be38ff8ea253",
+    "taxonNuid": "00100k00700d00300200100100100300300200r",
+    "gbifNubkey": 5190041,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1770-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1770-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1770-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 868,
+    "vernacular": {
+        "en": "Crowned grapedragon"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Crowned grapedragon",
+            "coronate doto",
+            "crown doto",
+            "crowned doto"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Doris coronata</i> Gmelin, 1791: unaccepted (original combination); <i>Doto costae</i> Trinchese, 1881: unaccepted (dubious synonym); <i>Doto forbesii</i> Deshayes, 1853: unaccepted; <i>Doto splendida</i> Trinchese, 1881: unaccepted (dubious synonym); Crowned doto</p>",
+            "shortTextKey": "taxon_text_9_8383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A tiny to small white-bodied cladobranch with lateral appendages covered with numerous short red- to pink-tipped spherical tubercles. The rhinophores are smooth, translucent, and have opaque white speckling towards the tips. The rhinophoral sheaths are cylindrical or flared, and may have opaque white speckling, and pink spots on their rims. The head is white with dark pink or red speckling. The centre of the notum has pink or red spots and stripes.</p>",
+            "shortTextKey": "taxon_text_1_8384",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body up to 15 mm.</p>",
+            "shortTextKey": "taxon_text_2_8385",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> North Atlantic, South Africa.</p><p><u>Local/Regional:</u> False Bay to the Knysna Lagoon, intertidal to 28 m.</p>",
+            "shortTextKey": "taxon_text_3_8386",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Seldomly seen due to its small size, but frequently observed on sponges.</p>",
+            "shortTextKey": "taxon_text_4_8387",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>This species feeds on hydroids.</p>",
+            "shortTextKey": "taxon_text_5_8388",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. The egg mass is a white zigzag ribbon, often laid on hydroid colonies.</p>",
+            "shortTextKey": "taxon_text_6_8389",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species can be confused with several species of <i>Doto</i>, but it is distinguished by its pink- to red-tipped lateral appendages. It is distinguished from the African crowned grapedragon, <i>Doto africoronata</i>, by the dark spots or streaks on its head and the shorter, more numerous tubercles on its lateral appendages.</p>",
+            "shortTextKey": "taxon_text_7_8390",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 106).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 496).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 144).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 69).",
+            "shortTextKey": "taxon_text_8_8391",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1770-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1770-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1770-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1770-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1770-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1770-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Doto splendida",
+            "taxonAuthor": "Trinchese, 1881"
+        },
+        {
+            "taxonLatname": "Doris coronata",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Doto forbesii",
+            "taxonAuthor": "Deshayes, 1853"
+        },
+        {
+            "taxonLatname": "Doto costae",
+            "taxonAuthor": "Trinchese, 1881"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,160 @@
+{
+    "taxonLatname": "Eubalaena australis",
+    "taxonAuthor": "(Desmoulins, 1822)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b4dad352-3fc6-4501-97e5-7249b9ecfcfa",
+    "taxonNuid": "001007003002002004004002001004001001002001",
+    "gbifNubkey": 2440332,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-275-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-275-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-275-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 437,
+    "vernacular": {
+        "en": "Southern right whale"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Southern right whale",
+            "Southern Right Whale"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>The only member of this family in the region and easily recognized by the large, yellowish-white, wart-like callosities on the head; the long, arching mouth that begins above the eye and the complete absence of a dorsal fin. Also lacks the throat grooves seen in other large regional baleen whales.</p><p>Colour black above, rarely with white or grey patches or streaks. A white blaze on the underside is of variable size and may extend up the sides. Some 3–4% of young are born white, but these darken with age.</p><p>Area-depending by far the most common whale seen from the shore in this region and even when seen from a distance can usually be recognised by its habits of lolling lazily at the surface and by the characteristic V-shaped blow.</p>",
+            "shortTextKey": "taxon_text_1_4156",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Maximum length of 14–15 m and mass of 47 tonnes. Males marginally larger than females.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_4157",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed in Southern Hemisphere from the Antarctic to about 20°S, extending slightly further north in the cold waters of the Benguela (another closely-related species occurs in the Northern Hemisphere).</p><p><u>Local/Regional:</u> Southern Angola to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4158",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Spend the summer in the Antarctic, where they fatten up on copepods and krill. Migrate to warmer waters in winter and spring to breed. In South Africa most abundant in shallow, sandy bays along the south and southeast coast between June and November, reaching maximum densities in September to October.</p><p>Usually seen fairly close inshore, singly or in small groups, the most common group being a cow-calf pair. Although females give birth to and raise their young along the coast, they feed very little feed over this period, a remarkable feat, considering that that they are suckling young at the same time.</p><p>Southern right whales were extensively exploited for centuries, as their large size, slow swimming speeds, inshore habits and good quality oil and baleen, plus the fact that they float when killed, all made them the ‘right’ whales to hunt! Over 100&nbsp;000 are thought to have been killed globally between 1770–1840 and by 1920 the global population had been reduced to an estimated 300 individuals, but even then, the species was only given complete protection in 1935. Between 1979 (when census counts were started) and 1997 the South African population recovered at over 7% per year to reach 3&nbsp;100. That is still, however, only 10–14 % of the estimated original population size, an indication of how common these magnificent creatures must once have been.</p><p>Feed by swimming forward with the mouth open and taking large volumes of water and prey. The mouth is then closed and the water expelled though over 200 enormous comb-like baleen plates, each over 2 m long that hang from the upper jaw and the food swallowed. The amount of food eaten is enormous and during the feeding season each whale has to eat about 1500 kg of tiny prey each day in order to survive through the non-feeding period. Even more remarkable is the fact that the prey are so small (one of the greatest size differences between predator and prey in the entire animal kingdom).</p><p>Placid whales that spend much of their time lolling at the surface. Often roll on their sides to show the broad, paddle-shaped flippers above the water. May also show the head above the surface (‘spyhopping’), slap the tail or flipper on the surface or breach, sometimes several times in succession.</p>",
+            "shortTextKey": "taxon_text_4_4159",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds almost exclusively on small crustaceans, such as copepods, krill and euphasiids. One study indicates that individuals S of 40°S took mostly krill, while to the north of 40°S they fed almost entirely on copepods, those in between taking a mixture of copepods and euphasiids.</p>",
+            "shortTextKey": "taxon_text_5_4160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females usually give birth to their first young when they are about 8 years old. The gestation period is about 12 months and the size at birth 4.5–6 m and 900 kg, size of calf being correlated to that of the mother. Calving takes place from June to November with a peak in late August. The calf grows at a rapid rate of about 2.5 cm per day and is ready to accompany its mother on the annual migration south after about 6 months, when it reaches a size of 8 m. Subsequent calves are born at intervals of usually 3 years.</p><p>Male Southern Right whales are among the best endowed of all mammals, having a penis up to 2.7 m long and testes with a combined volume of up to 198 litres.</p>",
+            "shortTextKey": "taxon_text_6_4161",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other regional whales due to the callosities on the head, lack of a dorsal fin and arched mouth.</p>",
+            "shortTextKey": "taxon_text_7_4162",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashton, N & Ashton, B (2012). Watching Whales and Dolphins in Southern Africa. Struik Nature, Cape Town (p. 74). <br><br>Best, PB (2007). Whales and Dolphins of the Southern African Subregion. Cambridge University Press (p. 29).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 364).<br><br>Cockcroft, V & Joyce, P (1998). Whale Watch: A Guide to Whales and other Marine Mammals of Southern Africa. Struik Publishers, Cape Town (p. 50).",
+            "shortTextKey": "taxon_text_8_4163",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-275-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-275-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-275-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-275-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-275-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-275-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Balaena antarctica",
+            "taxonAuthor": "Lesson, 1828"
+        },
+        {
+            "taxonLatname": "Hunterus temminckii",
+            "taxonAuthor": "Gray, 1864"
+        },
+        {
+            "taxonLatname": "Balaena australis",
+            "taxonAuthor": "Desmoulins, 1822"
+        },
+        {
+            "taxonLatname": "Balaena glacialis australis",
+            "taxonAuthor": "Desmoulins, 1822"
+        },
+        {
+            "taxonLatname": "Balaena antipodarum",
+            "taxonAuthor": "Gray, 1843"
+        },
+        {
+            "taxonLatname": "Eubalaena glacialis australis",
+            "taxonAuthor": "(Desmoulins, 1822)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

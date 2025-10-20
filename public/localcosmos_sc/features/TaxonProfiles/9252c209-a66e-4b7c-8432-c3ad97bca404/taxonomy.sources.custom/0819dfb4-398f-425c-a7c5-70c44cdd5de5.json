@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Griffithsia confervoides",
+    "taxonAuthor": "Suhr, 1840",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0819dfb4-398f-425c-a7c5-70c44cdd5de5",
+    "taxonNuid": "00300200400a001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1378-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1378-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1378-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 792,
+    "vernacular": {
+        "en": "Knobbed sausages"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Knobbed sausages"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms small cushions comprised of upright filaments, each composed of a branching chain of very large, elongate, sausage-shaped cells. Around the base of the terminal cell on each branch are a cluster of tetrasporangia at different stages of development. Colour bright, transparent pink.</p>",
+            "shortTextKey": "taxon_text_1_7700",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small species forming cushions about 20-40 mm across and 20 mm tall. Individual cells about 2 mm long.</p>",
+            "shortTextKey": "taxon_text_2_7701",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa and Antarctica. Also reported from Mozambique, but that record is considered suspect,</p><p><u>Local/Regional:</u><i> </i>Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7702",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Small, but very distinctive species found in algal turfs in rockpools, low in the intertidal or on shallow reefs.</p>",
+            "shortTextKey": "taxon_text_4_7703",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7704",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetraspores borne externally around the tips of the branches. There are separate male and female clumps.</p>",
+            "shortTextKey": "taxon_text_6_7705",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Small and hence easily missed, but unmistakable when examined closely.</p>",
+            "shortTextKey": "taxon_text_7_7706",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 433).",
+            "shortTextKey": "taxon_text_8_7707",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1378-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1378-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1378-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1378-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1378-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1378-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

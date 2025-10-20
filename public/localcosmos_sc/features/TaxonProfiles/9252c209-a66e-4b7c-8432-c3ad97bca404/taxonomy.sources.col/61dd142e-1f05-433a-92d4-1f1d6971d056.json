@@ -1,0 +1,230 @@
+{
+    "taxonLatname": "Clinus agilis",
+    "taxonAuthor": "Smith, 1931",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "61dd142e-1f05-433a-92d4-1f1d6971d056",
+    "taxonNuid": "00100700300200200100w017008002",
+    "gbifNubkey": 2380324,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2272-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2272-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2272-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 356,
+    "vernacular": {
+        "en": "Agile klipfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Agile klipfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Klipfishes of the family Clinidae are small, elongate, laterally-compressed, bottom-dwelling fishes with a single dorsal fin stretching head to tail. The pelvic fin is inserted in front of the pectoral fin and consists of just 2–3 elongate rays (and one concealed spine) and the tail is rounded. All species are viviparous and the males have a prominent intromittent organ just behind the anus. The group is particularly common and diverse in intertidal and shallow water systems along the southern and western coasts of South Africa and together these make up the continent’s largest group of endemic fish species.</p><p>This relatively slender species has a low dorsal fin with 32-38 spines, followed by only 2-4 rays (the lowest number of any <i>Clinus </i>species). The first few spines are not raised into a crest, but there is a distinct notch between spines 3 and 4. There are small, simple cirri at the tips of the first 15 or so spines, but these are not obvious. Pigmentation extends onto the dorsal fin membranes except between the last few rays, where there is a distinct clear window. The tail membrane is also clear. There is a small cirrus above the eye that resembles a raised hand with the fingers extended.</p><p>Body colour is variable, as with most clinids, but most commonly speckled white or pale green or brown, with about 7 darker vertical bars, these often alternately darker and lighter. Eye colour divided into segments of white and dark and often marked oblique white lines from eye across cheek.</p>",
+            "shortTextKey": "taxon_text_1_3346",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3031-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3031-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3031-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3032-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3032-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3032-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 10 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3347",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to False Bay, but primarily a west coast species.</p>",
+            "shortTextKey": "taxon_text_3_3348",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common species in intertidal rock pools on the west coast, also in estuaries.</p>",
+            "shortTextKey": "taxon_text_4_3349",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3028-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3028-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3028-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Has a more restricted diet than many other clinids, with only three groups of prey – amphipods, isopods and polychaetes (in that order) – making up significant components of the diet.</p>",
+            "shortTextKey": "taxon_text_5_3350",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>All clinids are livebearers, males copulating with females and fertilizing the eggs internally with their intromittent organs. Juveniles develop inside the females’ ovaries and in most species the live young are born in spring, have a short planktonic life then settle on the bottom.</p><p>In this species females mature at the unusually small size of about 45–60 mm and males at an even smaller 40–50 mm and gonad mass peaks in spring and early summer (Aug - Nov). Average number of mature embryos was found to be 31 with a maximum of 192 and young were born at average size of 15 mm.</p>",
+            "shortTextKey": "taxon_text_6_3351",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>small juvenile</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3029-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3029-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3029-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>small juvenile</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3030-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3030-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3030-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of the most common klipfish on the west coast and best identified by the low dorsal fin, which both lacks a crest and has an unusually low number of fin rays.</p>",
+            "shortTextKey": "taxon_text_7_3352",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bennett, B, Griffiths, CL & Penrith, ML (1983). The diets of littoral fish from the Cape Peninsula. <i>African Zoology</i>, 18(4), 343-352.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 328).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 391). <br><br>Prochazka, K (1994). The reproductive biology of intertidal klipfish (Perciformes: Clinidae) in South Africa. <i>African Zoology</i>, 29(4), 244-251.<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 762).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 58).",
+            "shortTextKey": "taxon_text_8_3353",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2272-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2272-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2272-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2272-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2272-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2272-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2273-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2273-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2273-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3027-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3027-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3027-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-864-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-864-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-864-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ophthalmolophus anne",
+            "taxonAuthor": "Smith, 1948"
+        },
+        {
+            "taxonLatname": "Clinus anne",
+            "taxonAuthor": "(Smith, 1948)"
+        },
+        {
+            "taxonLatname": "Ophthalmolophus agilis",
+            "taxonAuthor": "(Smith, 1931)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

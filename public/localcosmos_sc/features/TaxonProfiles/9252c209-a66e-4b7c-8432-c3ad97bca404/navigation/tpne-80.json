@@ -1,0 +1,1050 @@
+{
+    "name": "Fishes",
+    "description": null,
+    "verboseName": "Fishes",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1246-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1246-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1246-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1332-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1332-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1332-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1337-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1337-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1337-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1590-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1590-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1590-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1591-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1591-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1591-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 5,
+            "minImages": 3,
+            "modeImages": 5
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-136",
+            "parentKey": "tpne-80",
+            "name": "Klipfishes, Blennies & Scorpionfish",
+            "verboseName": "Klipfishes, Blennies & Scorpionfish",
+            "taxa": [],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1247-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1247-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1247-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1699-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1699-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1699-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1288-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1288-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1288-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1701-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1701-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1701-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1702-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1702-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1702-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1247-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1247-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1247-1000.webp"
+                }
+            },
+            "slug": "klipfishes-blennies-scorpionfish"
+        },
+        {
+            "key": "tpne-139",
+            "parentKey": "tpne-80",
+            "name": "Seabreams",
+            "verboseName": "Seabreams",
+            "taxa": [
+                {
+                    "taxonLatname": "Sparidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "3c2b6c95-3d40-453c-a0d8-f997b98ef42f",
+                    "taxonNuid": "00100700300200200100w040"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1333-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1333-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1333-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1400-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1400-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1400-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1401-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1401-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1401-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1333-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1333-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1333-1000.webp"
+                }
+            },
+            "slug": "seabreams"
+        },
+        {
+            "key": "tpne-141",
+            "parentKey": "tpne-80",
+            "name": "Fingerfins, Galjoen, Jut- and Knifejaws",
+            "verboseName": "Fingerfins, Galjoen, Jut- and Knifejaws",
+            "taxa": [
+                {
+                    "taxonLatname": "Cheilodactylus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1b33ac31-63c2-43ae-be8a-400bd463cd47",
+                    "taxonNuid": "00100700300200200100w011001"
+                },
+                {
+                    "taxonLatname": "Chirodactylus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "46303b4e-82bd-43f0-9eb0-fbfabbcb7ca9",
+                    "taxonNuid": "00100700300200200100w011002"
+                },
+                {
+                    "taxonLatname": "Oplegnathus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9980cf33-fa8c-4151-aff1-b77e0c2bc5bd",
+                    "taxonNuid": "00100700300200200100w02y001"
+                },
+                {
+                    "taxonLatname": "Parascorpis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "ffec6b19-58b2-485e-ae82-5eafe25b772c",
+                    "taxonNuid": "00100700300200200100w031001"
+                },
+                {
+                    "taxonLatname": "Dichistius",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "2eb9c3aa-5966-4c88-b9a8-5f192920dec9",
+                    "taxonNuid": "00100700300200200100w01d001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1391-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1391-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1391-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1422-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1422-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1422-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1418-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1418-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1418-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1391-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1391-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1391-1000.webp"
+                }
+            },
+            "slug": "fingerfins-galjoen-jut-and-knifejaws"
+        },
+        {
+            "key": "tpne-140",
+            "parentKey": "tpne-80",
+            "name": "Kob, Rockcod, Grunters & Baardman",
+            "verboseName": "Kob, Rockcod, Grunters & Baardman",
+            "taxa": [
+                {
+                    "taxonLatname": "Argyrosomus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e4d66d0d-64b7-4b22-be13-ae59da063e2b",
+                    "taxonNuid": "00100700300200200100w03s002"
+                },
+                {
+                    "taxonLatname": "Pomadasys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "62190f36-7ffd-4a5a-bf25-58d6b378e1ec",
+                    "taxonNuid": "00100700300200200100w01w00g"
+                },
+                {
+                    "taxonLatname": "Umbrina",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "f097da28-a8aa-4ab1-892f-7d65ff52faae",
+                    "taxonNuid": "00100700300200200100w03s01u"
+                },
+                {
+                    "taxonLatname": "Epinephelus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5637624a-1c62-4bcb-89f3-fa06ef0119b0",
+                    "taxonNuid": "00100700300200200100w03x00s"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1585-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1585-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1585-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1496-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1496-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1496-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1466-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1466-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1466-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1499-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1499-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1499-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1585-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1585-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1585-1000.webp"
+                }
+            },
+            "slug": "kob-rockcod-grunters-baardman"
+        },
+        {
+            "key": "tpne-142",
+            "parentKey": "tpne-80",
+            "name": "Clingfishes & Gobies",
+            "verboseName": "Clingfishes & Gobies",
+            "taxa": [],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1339-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1339-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1339-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1345-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1345-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1345-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1634-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1634-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1634-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1344-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1344-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1344-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1635-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1635-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1635-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1339-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1339-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1339-1000.webp"
+                }
+            },
+            "slug": "clingfishes-gobies"
+        },
+        {
+            "key": "tpne-147",
+            "parentKey": "tpne-80",
+            "name": "Kingfishes, Mackerel & Snoek",
+            "verboseName": "Kingfishes, Mackerel & Snoek",
+            "taxa": [
+                {
+                    "taxonLatname": "Lichia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5811a8c9-7462-4a0e-8da3-1186ee443b3d",
+                    "taxonNuid": "00100700300200200100w00p00d"
+                },
+                {
+                    "taxonLatname": "Seriola",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "20f1a1cf-3a79-4b67-9321-656384ca5eb3",
+                    "taxonNuid": "00100700300200200100w00p00p"
+                },
+                {
+                    "taxonLatname": "Pomatomus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "8f82971d-b0cc-479b-89a5-1927d41877d5",
+                    "taxonNuid": "00100700300200200100w03h001"
+                },
+                {
+                    "taxonLatname": "Scomber",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "b61ba74a-a528-44d9-b544-607badbc9f20",
+                    "taxonNuid": "00100700300200200100w03t00d"
+                },
+                {
+                    "taxonLatname": "Thyrsites",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "15c93c08-4856-4d01-9e9b-a1bf0242f8b5",
+                    "taxonNuid": "00100700300200200100w01r00d"
+                },
+                {
+                    "taxonLatname": "Trachurus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "954669ae-686d-41d3-84ba-b07f2e4f0a00",
+                    "taxonNuid": "00100700300200200100w00p00s"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1503-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1503-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1503-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1531-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1531-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1531-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1532-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1532-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1532-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1503-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1503-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1503-1000.webp"
+                }
+            },
+            "slug": "kingfishes-mackerel-snoek"
+        },
+        {
+            "key": "tpne-145",
+            "parentKey": "tpne-80",
+            "name": "Mullets, Sardines & Anchovies",
+            "verboseName": "Mullets, Sardines & Anchovies",
+            "taxa": [
+                {
+                    "taxonLatname": "Sardinops",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6edd9e69-56a0-4fff-bba2-f7ced091e379",
+                    "taxonNuid": "00100700300200200100d002018"
+                },
+                {
+                    "taxonLatname": "Chelon",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6aee3c55-83c1-4efd-8f72-ddb1801d65ad",
+                    "taxonNuid": "00100700300200200100q001005"
+                },
+                {
+                    "taxonLatname": "Gonorynchus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5d791557-a9c3-4a99-a84c-6dcf35e80612",
+                    "taxonNuid": "00100700300200200100l002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1340-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1340-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1340-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1567-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1567-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1567-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1578-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1578-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1578-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1340-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1340-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1340-1000.webp"
+                }
+            },
+            "slug": "mullets-sardines-anchovies"
+        },
+        {
+            "key": "tpne-143",
+            "parentKey": "tpne-80",
+            "name": "Snakelet & Brotulas",
+            "verboseName": "Snakelet & Brotulas",
+            "taxa": [
+                {
+                    "taxonLatname": "Halidesmus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e7511e4f-1583-4283-80fd-eb4f597f5629",
+                    "taxonNuid": "00100700300200200100w03l009"
+                },
+                {
+                    "taxonLatname": "Bidenichthys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "89eb2927-5acc-499a-80c7-f6844d085758",
+                    "taxonNuid": "00100700300200200100t002006"
+                },
+                {
+                    "taxonLatname": "Dermatopsoides",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a49e901f-df33-4aaa-a98e-6ef387408c3b",
+                    "taxonNuid": "00100700300200200100t00200h"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1316-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1316-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1316-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1330-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1330-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1330-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1331-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1331-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1331-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1316-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1316-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1316-1000.webp"
+                }
+            },
+            "slug": "snakelet-brotulas"
+        },
+        {
+            "key": "tpne-157",
+            "parentKey": "tpne-80",
+            "name": "Gurnards, Horse- & Catfishes",
+            "verboseName": "Gurnards, Horse- & Catfishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Chelidonichthys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d9b23ec7-e6e6-410b-a244-170ef53e220a",
+                    "taxonNuid": "001007003002002001013010003"
+                },
+                {
+                    "taxonLatname": "Congiopodus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "465178f9-978a-475c-b180-b17162144a60",
+                    "taxonNuid": "001007003002002001013009002"
+                },
+                {
+                    "taxonLatname": "Galeichthys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6d442c99-15af-4751-aabd-a037a417f7be",
+                    "taxonNuid": "00100700300200200101400500f"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1564-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1564-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1564-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1565-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1565-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1565-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1786-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1786-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1786-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1564-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1564-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1564-1000.webp"
+                }
+            },
+            "slug": "gurnards-horse-catfishes"
+        },
+        {
+            "key": "tpne-144",
+            "parentKey": "tpne-80",
+            "name": "Soles & Tonguefishes",
+            "verboseName": "Soles & Tonguefishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Heteromycteris",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "09791675-12c7-4e6c-b4de-6c225c199ea0",
+                    "taxonNuid": "00100700300200200100y00b00d"
+                },
+                {
+                    "taxonLatname": "Solea",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6890fa62-f95e-4af6-ae9f-67f210a2f6ed",
+                    "taxonNuid": "00100700300200200100y00b00p"
+                },
+                {
+                    "taxonLatname": "Cynoglossus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "dd78f425-c3d9-4eea-aed0-2cce9f0c84f6",
+                    "taxonNuid": "00100700300200200100y005001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1327-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1327-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1327-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1322-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1322-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1322-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1319-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1319-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1319-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1327-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1327-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1327-1000.webp"
+                }
+            },
+            "slug": "soles-tonguefishes"
+        },
+        {
+            "key": "tpne-148",
+            "parentKey": "tpne-80",
+            "name": "Toad-, Puffer- & Porcupinefishes",
+            "verboseName": "Toad-, Puffer- & Porcupinefishes",
+            "taxa": [],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1272-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1272-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1272-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1265-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1265-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1265-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1271-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1271-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1271-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1272-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1272-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1272-1000.webp"
+                }
+            },
+            "slug": "toad-puffer-porcupinefishes"
+        },
+        {
+            "key": "tpne-146",
+            "parentKey": "tpne-80",
+            "name": "Elongated fish",
+            "verboseName": "Elongated fish",
+            "taxa": [
+                {
+                    "taxonLatname": "Fistularia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "3d1273f2-330c-4206-8c42-2ce398d5e622",
+                    "taxonNuid": "001007003002002001018003001"
+                },
+                {
+                    "taxonLatname": "Syngnathus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "cfbb58e5-9689-4111-897c-e7b48cc4e189",
+                    "taxonNuid": "00100700300200200101800501i"
+                },
+                {
+                    "taxonLatname": "Ophisurus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "df9bd5ac-aa2e-4e74-81fa-c46bd1807735",
+                    "taxonNuid": "00100700300200200100400d017"
+                },
+                {
+                    "taxonLatname": "Halidesmus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e7511e4f-1583-4283-80fd-eb4f597f5629",
+                    "taxonNuid": "00100700300200200100w03l009"
+                },
+                {
+                    "taxonLatname": "Gonorynchus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5d791557-a9c3-4a99-a84c-6dcf35e80612",
+                    "taxonNuid": "00100700300200200100l002001"
+                },
+                {
+                    "taxonLatname": "Agnatha",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "4969c34f-1bfc-4bc5-a63e-e2b080d06e78",
+                    "taxonNuid": "001007003001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1555-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1555-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1555-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1557-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1557-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1557-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1560-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1560-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1560-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1555-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1555-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1555-1000.webp"
+                }
+            },
+            "slug": "elongated-fish"
+        },
+        {
+            "key": "tpne-156",
+            "parentKey": "tpne-80",
+            "name": "Disc-shaped fish",
+            "verboseName": "Disc-shaped fish",
+            "taxa": [
+                {
+                    "taxonLatname": "Mola",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "cc4d8f49-bc25-4387-9954-fbfca97cbcca",
+                    "taxonNuid": "001007003002002001019004002"
+                },
+                {
+                    "taxonLatname": "Zeus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "34d7644a-c38e-4115-9fad-0d68a478ee3e",
+                    "taxonNuid": "00100700300200200101a005002"
+                },
+                {
+                    "taxonLatname": "Monocentris",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "bf319fc0-64be-4b33-9768-b134fa40f2e8",
+                    "taxonNuid": "00100700300200200100a006002"
+                },
+                {
+                    "taxonLatname": "Chaetodon",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a206ae87-6f1f-4ad5-8141-82fc5d75cedc",
+                    "taxonNuid": "00100700300200200100w00x002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1566-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1566-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1566-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1569-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1569-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1569-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1570-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1570-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1570-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1566-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1566-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1566-1000.webp"
+                }
+            },
+            "slug": "disc-shaped-fish"
+        }
+    ],
+    "taxonProfiles": []
+}

@@ -1,0 +1,80 @@
+[
+    {
+        "taxonLatname": "Wartelia gonotheca",
+        "taxonAuthor": "Giard, 1878",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "94440d21-d3b4-45b8-8dce-e3def04a04af",
+        "taxonNuid": "00100200205200100400200500300b002007",
+        "gbifNubkey": 2325110,
+        "image": null,
+        "shortProfile": null,
+        "nameType": "scientific",
+        "name": "Wartelia gonotheca Giard, 1878",
+        "isPreferredName": false,
+        "acceptedNameUuid": "a0e0c2ef-89c0-4c35-a4e4-e828ef19245b",
+        "hasTaxonProfile": false
+    },
+    {
+        "taxonLatname": "Watersipora subtorquata",
+        "taxonAuthor": "(d'Orbigny, 1852)",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "0452ee1b-67f2-4646-9202-2b346662e447",
+        "taxonNuid": "00100500100100b00x00500400b",
+        "gbifNubkey": 1005677,
+        "image": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-408-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-408-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-408-1000.webp"
+            }
+        },
+        "shortProfile": null,
+        "nameType": "scientific",
+        "name": "Watersipora subtorquata (d'Orbigny, 1852)",
+        "isPreferredName": true,
+        "acceptedNameUuid": "0452ee1b-67f2-4646-9202-2b346662e447",
+        "hasTaxonProfile": true
+    },
+    {
+        "taxonLatname": "Watersipora edmondsoni",
+        "taxonAuthor": "Soule & Soule, 1968",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "eebc8e6a-d4e0-40c9-8b3c-f5be82ca8366",
+        "taxonNuid": "00100500100100b00x00500400b",
+        "gbifNubkey": 1005673,
+        "image": null,
+        "shortProfile": null,
+        "nameType": "scientific",
+        "name": "Watersipora edmondsoni Soule & Soule, 1968",
+        "isPreferredName": false,
+        "acceptedNameUuid": "0452ee1b-67f2-4646-9202-2b346662e447",
+        "hasTaxonProfile": false
+    },
+    {
+        "taxonLatname": "Weltneria spinosa",
+        "taxonAuthor": "Berndt, 1907",
+        "taxonSource": "taxonomy.sources.custom",
+        "nameUuid": "1f4351fb-3d45-4e18-90b7-82def21dc593",
+        "taxonNuid": "001003001002002001",
+        "gbifNubkey": 6467492,
+        "image": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-698-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-698-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-698-1000.webp"
+            }
+        },
+        "shortProfile": "",
+        "nameType": "scientific",
+        "name": "Weltneria spinosa Berndt, 1907",
+        "isPreferredName": true,
+        "acceptedNameUuid": "1f4351fb-3d45-4e18-90b7-82def21dc593",
+        "hasTaxonProfile": true
+    }
+]

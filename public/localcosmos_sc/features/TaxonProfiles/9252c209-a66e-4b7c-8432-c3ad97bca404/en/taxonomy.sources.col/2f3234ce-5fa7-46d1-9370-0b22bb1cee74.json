@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Menipea triseriata",
+    "taxonAuthor": "Busk, 1852",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2f3234ce-5fa7-46d1-9370-0b22bb1cee74",
+    "taxonNuid": "00100500100100b00700300k00m",
+    "gbifNubkey": 1008017,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-399-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-399-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-399-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 536,
+    "vernacular": {
+        "en": "Spiral bush bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spiral bush bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony upright and bushy with flat branches that bifurcate regularly and are usually arranged in a distinct spiral pattern. Colour light yellow to orange, with zooids showing up as dark spots within the zooecia.</p><p>Examined closely, the individual zooecia are less than 1 mm long, elongate-rectangular and arranged usually 3 abreast (2 at tips). Each individual has a very large, oval opening about 70% of total length and four tiny short stubby teeth near the orifice. Some lateral zooecia have a single minute avicularium on the outer distal corner and another frontal one at the basal end. Others have a pair of tiny frontal avicularia. (The long, curved distal spines present in several related species are absent).</p>",
+            "shortTextKey": "taxon_text_1_5150",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 4 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_5151",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: </u>Endemic to South Africa.</p><p><u>Local/Regional:</u> Lambert’s Bay to East London.</p>",
+            "shortTextKey": "taxon_text_3_5152",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on rocky substrata, especially in shaded areas, often among sponges and other bryozoans. Depth range intertidal to 100 m. Fed on by the Cape silvertip nudibranch <i>Antiopella capensis.</i></p>",
+            "shortTextKey": "taxon_text_4_5153",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5154",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The colony is hermaphrodite, but individual zooids male or female. Colonies expand by budding new zooecia at the tips. New colonies arise from sexual reproduction.</p>",
+            "shortTextKey": "taxon_text_6_5155",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The spiral branching pattern is fairly diagnostic, but there are a number of other common species that form similar yellow to orange branching bushes. Microscopic examination of the zooecia is needed to distinguish these with certainty. The Curled bush bryozoan <i>Menipea crispa</i> has incurving branches and the Bonsai bush bryozoan <i>Bicellariella</i> <i>bonsai </i>drooping ones (like a bonsai willow bush), but both species have long, curved spines extending from the distal tips of each zooecium. The Fan-shaped bryozoan <i>Bugulina flabellata</i> lack these spines, but has 3-5 rows of zooecia along each branch and bears prominent rounded reproductive bodies (ovicells).</p>",
+            "shortTextKey": "taxon_text_7_5156",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 138).<br><br>Day, JH (1969). A Guide to marine Life on South African Shores. AA Balkema, Cape Town. (p. 128).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 21).",
+            "shortTextKey": "taxon_text_8_5157",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-399-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-399-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-399-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-399-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-399-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-399-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-400-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-400-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-400-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

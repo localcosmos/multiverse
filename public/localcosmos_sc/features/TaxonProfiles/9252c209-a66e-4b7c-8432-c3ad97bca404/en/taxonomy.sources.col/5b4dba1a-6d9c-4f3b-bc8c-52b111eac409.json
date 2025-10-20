@@ -1,0 +1,179 @@
+{
+    "taxonLatname": "Cheilodactylus fasciatus",
+    "taxonAuthor": "Lacepède, 1803",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5b4dba1a-6d9c-4f3b-bc8c-52b111eac409",
+    "taxonNuid": "00100700300200200100w011001002",
+    "gbifNubkey": 2392114,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1390-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1390-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1390-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 377,
+    "vernacular": {
+        "en": "Redfingers"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Redfingers"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Laterally flattened and elongate-oval with thick lips, single continuous dorsal fin and forked tail fin. Pectoral fin red with the lower few rays elongated and free (hence name) - these being used as support the body when resting on the bottom. Body yellowish, densely marked with irregular dark red and brown spots and with staggered brown vertical bars but these are broken at the lateral line. Colouring extends onto dorsal and tail fin.</p>",
+            "shortTextKey": "taxon_text_1_3556",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 30 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3557",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Northern Namibia to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3558",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found singly and common in tide pools and shallow reefs to a depth of about 25 m. Often sits on the bottom using the thickened free lower pectoral rays as support. When disturbed usually swims lazily a few meters then settles again.</p>",
+            "shortTextKey": "taxon_text_4_3559",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A predator, feeding mostly on benthic invertebrates such as worms, crustaceans and gastropods.</p>",
+            "shortTextKey": "taxon_text_5_3560",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown, but eggs probably develop in plankton, as the extremely compressed postlarvae (‘paperfish’) are found offshore, sheltering under floating objects.</p>",
+            "shortTextKey": "taxon_text_6_3561",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Similar in body shape and habits to the Barred fingerfin <i>C. pixi, </i>but that species tends to occur in deeper waters and has five broad and vertical bars that continue through the lateral line. Also similar in body shape and habits to the Twotone fingerfin <i>Chirodactylus brachydactylus</i> (note the confusingly similar but different genus name), but that species has a quite different colour pattern, being brown with a large silvery patch across the side of the head and shoulder and five white dots along the lateral line.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_3562",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 316).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 323).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 4 (p. 83). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 228).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 667).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 49).",
+            "shortTextKey": "taxon_text_8_3563",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1390-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1390-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1390-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1390-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1390-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1390-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1343-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1343-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1343-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2879-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2879-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2879-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1611-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1611-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1611-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1389-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1389-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1389-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cheilodactylus multiradiatus",
+            "taxonAuthor": "Castelnau, 1861"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

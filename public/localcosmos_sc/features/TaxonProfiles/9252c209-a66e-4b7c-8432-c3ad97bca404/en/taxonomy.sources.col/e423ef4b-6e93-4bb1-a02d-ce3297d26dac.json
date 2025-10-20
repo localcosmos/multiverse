@@ -1,0 +1,247 @@
+{
+    "taxonLatname": "Coscinasterias calamaria",
+    "taxonAuthor": "(Gray, 1840)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e423ef4b-6e93-4bb1-a02d-ce3297d26dac",
+    "taxonNuid": "00100c00100100100400100200100c003",
+    "gbifNubkey": 2273822,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2315-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2315-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2315-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 185,
+    "vernacular": {
+        "en": "Many-armed sea-star"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Many-armed sea-star"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Asterias calamaria</i></p>",
+            "shortTextKey": "taxon_text_9_1675",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly large and normally has between 8 and 10 arms, but as it often reproduces by division (‘fissipary’), only some of these are fully developed, while others remain greatly reduced. Colour mottled mauve and purple, body and arms covered in pointed spines.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_1676",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Diameter typically about up to about 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_1677",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Mostly known from Australia and New Zealand and not reported in earlier books on South African echinoderms, but is now quite common in False Bay, to which it might have been accidentally introduced in recent decades.</p><p><u>Local/Regional:</u> Saldanha Bay to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_1678",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Quite commonly seen intertidally and on shallow reefs in the southwestern Cape and very distinctive due to its many-armed body and the unequal length of the arms.</p>",
+            "shortTextKey": "taxon_text_4_1679",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2935-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2935-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2935-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2934-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2934-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2934-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on a variety of invertebrates, particularly mussels, by extruding the stomach though the mouth and plastering it over the prey. The diet of this species has not been studied in South Africa though and we have repeatedly seen and documented it taking other echinoderms.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1680",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>Predating on a crinoid feather-star.</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2932-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2932-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2932-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2933-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2933-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2933-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and although sexual reproduction certainly occurs, with sperm and eggs being released to form planktonic larvae, this species appear to reproduce mainly by division (‘fissipary’). Adults tear themselves into two and then each half regenerates a set of replacement arms, but overall arm number can still vary considerably. Australian populations have between 7 and 14 arms and intertidal specimens and those with more food available tended to divide more often, while deeper water ones and those with less food tended to opt for sexual reproduction.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1681",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be mistaken for any other species, but is similar in colour and texture to the larger five-armed Spiny starfish <i>Marthasterias africana</i>.</p>",
+            "shortTextKey": "taxon_text_7_1682",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Branch, G, Griffiths, CL, Branch, M &amp; Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 226).<br><br>Crump, RG &amp; Barker, MF (1985). Sexual and asexual reproduction in geographically separated populations of the fissiparous asteroid <i>Coscinasterias calamaria</i> (Gray). <i>Journal of Experimental Marine Biology and Ecology</i>, 88(2), 109-127.<br><br>Waters, J &amp; Roy, M (2003). Global phylogeography of the fissiparous sea-star genus <i>Coscinasterias</i>. <i>Marine Biology</i>, 142(1), 185-191.</p>",
+            "shortTextKey": "taxon_text_8_1683",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2315-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2315-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2315-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2315-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2315-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2315-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2491-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2491-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2491-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-503-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-503-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-503-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-502-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-502-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-502-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Stolasterias calamaria",
+            "taxonAuthor": "(Gray, 1840)"
+        },
+        {
+            "taxonLatname": "Asteracanthion jehennesi",
+            "taxonAuthor": "Valenciennes (MS) in Perrier, 1875"
+        },
+        {
+            "taxonLatname": "Coscinasterias jehennesi",
+            "taxonAuthor": "(Valenciennes (MS) in Perrier, 1875)"
+        },
+        {
+            "taxonLatname": "Asterias (Stolasterias) calamaria",
+            "taxonAuthor": "Gray, 1840"
+        },
+        {
+            "taxonLatname": "Asterias jehennesi",
+            "taxonAuthor": "Valenciennes (MS) in Perrier, 1875"
+        },
+        {
+            "taxonLatname": "Asteracanthion calamaria",
+            "taxonAuthor": "(Gray, 1840)"
+        },
+        {
+            "taxonLatname": "Coscinasterias (Stolasterias) calamaria",
+            "taxonAuthor": "(Gray, 1840)"
+        },
+        {
+            "taxonLatname": "Asterias calamaria",
+            "taxonAuthor": "Gray, 1840"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

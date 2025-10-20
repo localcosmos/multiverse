@@ -1,0 +1,194 @@
+{
+    "taxonLatname": "Chrysaora agulhensis",
+    "taxonAuthor": "Ras, Neethling, Engelbrecht, Morandini, Bayha, Skrypzeck & Gibbons, 2020",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "65086ab7-d564-4c5a-887e-2863bc198ced",
+    "taxonNuid": "001008005002002003001003",
+    "gbifNubkey": 10719084,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-847-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-847-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-847-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 493,
+    "vernacular": {
+        "en": "Agulhas compass jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Agulhas compass jellyfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized, smooth, thick, saucer-shaped bell typically off-white in base colour and with numerous opaque white spots. There are 16 darker triangular markings radiating around margins of the bell, but these do not reach its apex, which remains as an open circle. Radiating triangles vary greatly in extent and darkness and can be just outlines, or partially or fully filled with pigment.</p><p>Eight equally-spaced notches around margin of the bell each bear a dark, flattened, ribbon-like, primary tentacle with 2 smaller secondary tentacles occurring between each pair of primaries, giving a total of 24 tentacles.</p><p>Four frilly, cream oral arms project from the underside and are spiral proximally, becoming linear distally.</p>",
+            "shortTextKey": "taxon_text_1_4740",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 350 mm bell diameter.</p>",
+            "shortTextKey": "taxon_text_2_4741",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.&nbsp;</p><p><u>Local/Regional:</u> Cape Peninsula to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_4742",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The most common jellyfish from the Cape Peninsula eastwards. Often brought into shallow waters and experienced by divers, also found stranded in very large numbers. Remarkably, despite this, the species was only very recently described and little is known about its biology.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4743",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like many other jellyfish thought to feed primarily on zooplankton.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_4744",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Have a dimorphic life cycle, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and males release sperm into the water which are taken in by females to fertilise their eggs. Larvae are released into the water and ultimately settle onto hard surfaces where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_4745",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the closely related <i>C. fulgida</i>, but that species grows larger, has a pink to orange bell (with similar maroon triangles and markings), has cylindrical rather than flattened, dark tentacles and is primarily a West Coast species.</p><p>A third species, <i>C. africana</i>, is found in Namibia, but does not extend to the Western Cape. It is generally paler and has more (up to 48) flattened marginal tentacles all of the same dark colour.</p>",
+            "shortTextKey": "taxon_text_7_4746",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.<br><br>Ras, V, Neethling, S, Englebrecht, A, Morandina, AC, Bayha, KM, Skrypzech, H & Gibbons, MJ (2020). There are three species of <i>Chrysaora</i> (Scyphozoa: Discomedusae) in the Benguela upwelling ecosystem, not two. <i>Zootaxa</i>, 4778, 401-438.",
+            "shortTextKey": "taxon_text_8_4747",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-847-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-847-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-847-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-845-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-845-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-845-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-844-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-844-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-844-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-846-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-846-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-846-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-847-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-847-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-847-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-339-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-339-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-339-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-337-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-337-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-337-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-338-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-338-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-338-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

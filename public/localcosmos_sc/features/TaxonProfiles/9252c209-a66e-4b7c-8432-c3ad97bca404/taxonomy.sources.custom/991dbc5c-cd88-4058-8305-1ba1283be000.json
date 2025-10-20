@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Chondria capensis (Harvey)",
+    "taxonAuthor": "Askenasy, 1888",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "991dbc5c-cd88-4058-8305-1ba1283be000",
+    "taxonNuid": "003002004009002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1367-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1367-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1367-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 782,
+    "vernacular": {
+        "en": "Cape chondria"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape chondria"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Emerges from a small base and divides into well-spaced, stiff, erect, cylindrical axes which are each tapered at both ends. End branchlets are conspicuously terminally swollen or spindle-shaped, often numerous and crowded and bear prominent apical tufts of branched filaments. Colour dark purplish-brown.</p>",
+            "shortTextKey": "taxon_text_1_7610",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Clumps up to 300 mm tall, axes about 3 mm in diameter.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7611",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_7612",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on low intertidal and in shallow sublittoral of exposed rocky shores. Often occurs together with <i>Hypnea spicifera</i>.</p>",
+            "shortTextKey": "taxon_text_4_7613",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7614",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia immersed in the terminal branches.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7615",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easy to identify due to the swollen terminal branches with their bunches of apical hairs.</p>",
+            "shortTextKey": "taxon_text_7_7616",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 408). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 517).",
+            "shortTextKey": "taxon_text_8_7617",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1367-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1367-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1367-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1367-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1367-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1367-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

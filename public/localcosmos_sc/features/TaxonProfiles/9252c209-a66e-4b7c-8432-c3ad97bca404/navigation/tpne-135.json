@@ -1,0 +1,937 @@
+{
+    "name": "Hydroids",
+    "description": null,
+    "verboseName": "Hydroids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1114-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1114-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1114-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1115-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1115-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1115-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1117-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1117-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1117-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Amphisbetia operculata",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "09186057-8940-4e52-a8e4-5d7dce10af46",
+            "taxonNuid": "00100800300100200r00200200o",
+            "slug": "amphisbetia-operculata",
+            "localizedSlug": {
+                "en": "wiry-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-313-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-313-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-313-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-313-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-313-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-313-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Corhiza scotiae",
+            "taxonAuthor": "(Ritchie, 1907)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2422436b-a11a-4041-9bb1-e361ae6b0576",
+            "taxonNuid": "00100800300100200q002007008",
+            "slug": "corhiza-scotiae",
+            "localizedSlug": {
+                "en": "fine-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1121-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1121-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1121-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1122-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1122-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1122-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1123-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1123-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1123-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1124-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1124-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1124-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1125-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1125-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1125-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1121-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1121-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1121-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Macrorhynchia filamentosa",
+            "taxonAuthor": "(Lamarck, 1816)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2e20b76f-ea22-4abd-903b-3632a236e42d",
+            "taxonNuid": "00100800300100200q001008009",
+            "slug": "macrorhynchia-filamentosa",
+            "localizedSlug": {
+                "en": "smokey-feather-hydroid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2870-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2870-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2870-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2868-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2868-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2868-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2869-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2869-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2869-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2002-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2002-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2002-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-315-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-315-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-315-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2870-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2870-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2870-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Obelia dichotoma",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4d447a89-d978-411c-9c91-c25010368338",
+            "taxonNuid": "001008003001002005007003",
+            "slug": "obelia-dichotoma",
+            "localizedSlug": {
+                "en": "thin-walled-obelia"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-316-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-316-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-316-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-316-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-316-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-316-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Orthopyxis integra",
+            "taxonAuthor": "(MacGillivray, 1842)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "72166896-a0f3-4cb1-8bc8-e9b0dfee688a",
+            "taxonNuid": "00100800300100200500800e",
+            "slug": "orthopyxis-integra",
+            "localizedSlug": {
+                "en": "wine-glass-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-317-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-317-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-317-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-317-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-317-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-317-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Plumularia setacea",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1a809047-a503-4635-9b9a-694d18d40463",
+            "taxonNuid": "00100800300100200q006008020",
+            "slug": "plumularia-setacea",
+            "localizedSlug": {
+                "en": "plumed-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-318-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-318-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-318-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-319-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-319-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-319-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-318-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-318-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-318-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sertularella arbuscula",
+            "taxonAuthor": "(Lamouroux, 1816)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f77f0917-2326-4d2f-9c7b-55c98da0c93c",
+            "taxonNuid": "00100800300100200r00100200b",
+            "slug": "sertularella-arbuscula",
+            "localizedSlug": {
+                "en": "planar-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-320-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-320-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-320-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-320-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-320-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-320-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thuiaria articulata",
+            "taxonAuthor": "(Pallas, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f8b15300-6ef8-4946-ad64-2e310063dac8",
+            "taxonNuid": "00100800300100200r00200p008",
+            "slug": "thuiaria-articulata",
+            "localizedSlug": {
+                "en": "jointed-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-321-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-321-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-321-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-322-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-322-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-322-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-321-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-321-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-321-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Candelabrum capensis",
+            "taxonAuthor": "(Manton, 1940)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7539e8e8-829c-4ceb-87a8-8ded7ce985aa",
+            "taxonNuid": "001008003001001001004001005",
+            "slug": "candelabrum-capensis",
+            "localizedSlug": {
+                "en": "gnomes-hat-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-326-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-326-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-326-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-327-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-327-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-327-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-326-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-326-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-326-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ectopleura crocea",
+            "taxonAuthor": "(Agassiz, 1862)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f96287d1-c473-4074-9470-03a830024042",
+            "taxonNuid": "00100800300100100100f003007",
+            "slug": "ectopleura-crocea",
+            "localizedSlug": {
+                "en": "pink-mouthed-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-328-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-328-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-328-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-328-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-328-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-328-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hydractinia altispina",
+            "taxonAuthor": "Millard, 1955",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "bca794dd-a913-47a9-a884-ec15c1aa54b2",
+            "taxonNuid": "00100800300100100400c007003",
+            "slug": "hydractinia-altispina",
+            "localizedSlug": {
+                "en": "high-spined-commensal-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1186-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1186-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1186-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-329-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-329-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-329-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1186-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1186-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1186-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hydrocorella africana",
+            "taxonAuthor": "Stechow, 1921",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a7d36e57-733c-464f-b43e-8b014e4efc9b",
+            "taxonNuid": "00100800300100100400c009001",
+            "slug": "hydrocorella-africana",
+            "localizedSlug": {
+                "en": "long-ridged-shell-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1161-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1161-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1161-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1162-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1162-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1162-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1159-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1159-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1159-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Top left: Section through colony skeleton showing calcareous process and contracted hydranths</p><p>Top right: Gastrozooids</p><p>Bottom: colony with processes, completely covering shell previously inhabited by a hermit crab</p><p>Scale bar units in mm.</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1160-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1160-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1160-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1161-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1161-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1161-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Porpita porpita",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c29d480a-18ac-454a-92c1-aa72c84b9dc5",
+            "taxonNuid": "00100800300100100300a001001",
+            "slug": "porpita-porpita",
+            "localizedSlug": {
+                "en": "blue-button"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-331-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-331-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-331-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-331-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-331-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-331-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Solanderia procumbens",
+            "taxonAuthor": "(Carter, 1873)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c7b3bddc-a78e-4d42-b4d7-7c1f980edc56",
+            "taxonNuid": "00100800300100100300e001006",
+            "slug": "solanderia-procumbens",
+            "localizedSlug": {
+                "en": "grey-sea-fan-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-332-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-332-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-332-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-332-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-332-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-332-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Staurocladia vallentini",
+            "taxonAuthor": "(Browne, 1902)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0cd30760-1219-4a5b-9b17-e9f8a345209d",
+            "taxonNuid": "00100800300100100300300300b",
+            "slug": "staurocladia-vallentini",
+            "localizedSlug": {
+                "en": "solitary-creeping-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1118-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1118-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1118-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1119-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1119-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1119-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-333-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-333-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-333-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1118-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1118-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1118-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Stylaster nobilis",
+            "taxonAuthor": "(Saville Kent, 1871)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "96bad693-01d0-4d03-85c2-a3cd04affcf0",
+            "taxonNuid": "00100800300100100400q00w021",
+            "slug": "stylaster-nobilis",
+            "localizedSlug": {
+                "en": "noble-coral-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-878-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-878-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-878-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-878-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-878-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-878-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Velella velella",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "dec55bfe-a0fe-46d5-93e8-6a4cb1de7327",
+            "taxonNuid": "00100800300100100300a002001",
+            "slug": "velella-velella",
+            "localizedSlug": {
+                "en": "by-the-wind-sailor"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-335-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-335-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-335-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-335-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-335-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-335-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Zyzzyzus warreni",
+            "taxonAuthor": "Calder, 1988",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "305764da-a0e3-4522-a58a-3a60ed2efa65",
+            "taxonNuid": "00100800300100100100f008007",
+            "slug": "zyzzyzus-warreni",
+            "localizedSlug": {
+                "en": "tubular-sponge-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-336-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-336-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-336-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1126-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1126-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1126-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-336-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-336-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-336-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Candelabrum tentaculatum",
+            "taxonAuthor": "(Millard, 1966)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "f50b7b83-0075-49e4-93fd-79c480b69ae8",
+            "taxonNuid": "001004002001001001",
+            "slug": "candelabrum-tentaculatum",
+            "localizedSlug": {
+                "en": "dreadlocks-hydroid"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-734-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-734-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-734-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-734-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-734-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-734-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eudendrium spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "9faaeb54-2fea-44ab-80e3-5e33312701ee",
+            "taxonNuid": "001004002001002001",
+            "slug": "eudendrium-spp",
+            "localizedSlug": {
+                "en": "bushy-hydroids"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-735-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-735-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-735-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-735-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-735-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-735-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aglaophenia pluma",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0d8471df-a6ee-412e-b2d2-97a00ea5cfb1",
+            "taxonNuid": "00100800300100200q00100101f",
+            "slug": "aglaophenia-pluma",
+            "localizedSlug": {
+                "en": "toothed-feather-hydroid"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-311-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-311-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-311-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-312-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-312-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-312-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-311-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-311-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-311-1000.webp"
+                }
+            }
+        }
+    ]
+}

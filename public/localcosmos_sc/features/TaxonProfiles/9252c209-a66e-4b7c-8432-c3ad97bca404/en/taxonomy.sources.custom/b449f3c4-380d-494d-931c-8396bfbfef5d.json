@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Mazzaella capensis (J.Agardh)",
+    "taxonAuthor": "Fredericq, 1993",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "b449f3c4-380d-494d-931c-8396bfbfef5d",
+    "taxonNuid": "003002005006001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1385-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1385-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1385-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 799,
+    "vernacular": {
+        "en": "Spotted mazzaella"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spotted mazzaella"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Iridaea capensis</i></p>",
+            "shortTextKey": "taxon_text_9_7762",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly large and common species attached by a tiny, simple holdfast and short stipe. This expands into wide, leathery, tough, brown to greenish strap-like blades which have undulating margins and when mature are covered in dark spots. They are not slippery.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_7763",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades up to about 500 mm tall, but more typically 300 mm.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7764",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_7765",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common species found on intertidal rocks in the mid- to low shore, all along the west coast.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_7766",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7767",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Often found together with Slippery orbits <i>Pachymenia orbitosa,</i> with which it can be confused, but the black spots are characteristic and&nbsp; is not slippery to the touch.</p>",
+            "shortTextKey": "taxon_text_7_7769",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 392). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 353).",
+            "shortTextKey": "taxon_text_8_7770",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1385-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1385-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1385-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1385-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1385-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1385-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

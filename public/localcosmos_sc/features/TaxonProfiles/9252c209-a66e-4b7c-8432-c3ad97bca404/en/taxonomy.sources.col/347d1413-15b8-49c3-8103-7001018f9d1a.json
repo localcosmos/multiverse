@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Cypraeovula castanea",
+    "taxonAuthor": "(E. T. Higgins, 1868)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "347d1413-15b8-49c3-8103-7001018f9d1a",
+    "taxonNuid": "00100k00700300c004001002001005",
+    "gbifNubkey": 5856698,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 257,
+    "vernacular": {
+        "en": "Papillate cowrie"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Papillate cowrie"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cypraea castanea, Cypraea verhoefi</i></p>",
+            "shortTextKey": "taxon_text_9_2385",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cowries are among the best known and most easily identified of all molluscs and are characterized by their glossy, egg-like shells, and the narrow, parallel-sided aperture that runs the full length of the flattened ventral surface of the shell and which is usually toothed on one or both margins. In live animals the mantle, which itself can be dramatically coloured and textured, completely covers the shell, so it can be difficult to match images of live animals with those of dead shells (indeed some species are known only from dead shells). Although often thought of as a primarily tropical group, a wide diversity of endemic cowries are found in the cooler waters off South Africa.</p><p>The shell of this species is globular, with a pale pink ground-colour overlaid with chestnut-brown patches. The underside is off-white with an unusually wide and slightly curved aperture. The outer lip has19-25 fine, widely-spaced light orange or brown teeth, while the inner lip has 19-22 weak denticles which only extend onto the lower surface at the extreme anterior end of the aperture, The live animal is fairly distinctive as the mantle is pale pink with numerous black spots and has many large finger-like papillae, which lack the spotted pattern. The broad siphon has a lobed margin, and the tentacles are yellow to pink.</p>",
+            "shortTextKey": "taxon_text_1_2386",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell 29-51 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2387",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_2388",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Uncommon and poorly known, but live animals fairly easily recognised by the enlarged papillae extending from the mantle. Misidentified previously as <i>C. verhoefi.</i></p>",
+            "shortTextKey": "taxon_text_4_2389",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown.</p>",
+            "shortTextKey": "taxon_text_5_2390",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not known for this species, but related species lay egg capsules among sedentary invertebrates, such as sponges or bryozoans, on the reef. Each capsule contained one fertilized egg along with many nurse cells, which the embryo consumes during its development into a shelled juvenile.</p>",
+            "shortTextKey": "taxon_text_6_2391",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Identification of local species in the genus is difficult due to extreme variation in shell size, colour and ornamentation within species, as well as of the colour of the mantle in live animals. When alive this species can be fairly reliably identified though by the enlarged papillae on the mantle. The shell is best identified by the wide, curved aperture and pattern of teeth (see Liltved book for images and details).</p>",
+            "shortTextKey": "taxon_text_7_2392",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Liltved, WR (2000). Cowries and their Relatives of Southern Africa. (second edition). Gordon Verhoef, Seacomber Publications (p. 50 , as <i>Cypraea verhoefi</i>, see also p. 222 for more details).",
+            "shortTextKey": "taxon_text_8_2393",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cypraea castanea",
+            "taxonAuthor": "(E. T. Higgins, 1868)"
+        },
+        {
+            "taxonLatname": "Luponia castanea",
+            "taxonAuthor": "E. T. Higgins, 1868"
+        },
+        {
+            "taxonLatname": "Cypraea verhoefi",
+            "taxonAuthor": "C. M. Burgess, 1982"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

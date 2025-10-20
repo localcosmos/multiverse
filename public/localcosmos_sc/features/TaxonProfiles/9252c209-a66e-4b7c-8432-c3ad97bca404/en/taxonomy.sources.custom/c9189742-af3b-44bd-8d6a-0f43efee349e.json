@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Caulerpa holmesiana",
+    "taxonAuthor": "G.Murray, 1891",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "c9189742-af3b-44bd-8d6a-0f43efee349e",
+    "taxonNuid": "003007001002002",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1301-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1301-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1301-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 747,
+    "vernacular": {
+        "en": "Feathery caulerpa"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Feathery caulerpa"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Upright, dark-green fronts emerge from a horizontal annulated stolon with root-like rhizoids that anchor it to the bottom. Each frond has a basal section which is annulated and upper section that bears many fine lateral branches, like a flight-feather.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_7295",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Feather-like fronds 300 mm tall. Lateral branches about 7 mm long.</p>",
+            "shortTextKey": "taxon_text_2_7296",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u><i> </i>Cape Point to<i> </i>Eastern Cape. &nbsp;</p>",
+            "shortTextKey": "taxon_text_3_7297",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common on shallow reefs, where it may form extensive clumps that cover large areas of reef and tend to accumulate sand. Members of this genus are unusual in that they have very large multinucleate cells. Most regional species are more tropical and only a few penetrate into the cooler waters of the Western Cape.</p>",
+            "shortTextKey": "taxon_text_4_7298",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7299",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Usually reproduce asexually by fragmentation of the clump.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7300",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several similar feathery species in this genus, but these occur mostly in warmer waters further to the east.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7301",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 376). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 123).",
+            "shortTextKey": "taxon_text_8_7302",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1301-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1301-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1301-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1301-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1301-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1301-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

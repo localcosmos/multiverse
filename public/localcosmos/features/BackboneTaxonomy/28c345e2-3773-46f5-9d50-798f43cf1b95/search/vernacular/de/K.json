@@ -1,0 +1,41 @@
+[
+    {
+        "taxonLatname": "Pinus hartwegii",
+        "taxonAuthor": "Roezl",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "3abf9848-60d6-445b-b406-2634a8440bd7",
+        "taxonNuid": "006008007001005008014",
+        "gbifNubkey": 5285141,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Kiefer Syno",
+        "isPreferredName": true,
+        "acceptedNameUuid": "3abf9848-60d6-445b-b406-2634a8440bd7"
+    },
+    {
+        "taxonLatname": "Pinus sylvestris",
+        "taxonAuthor": "L.",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "30d9bad8-2d96-4fed-a732-30e08b071572",
+        "taxonNuid": "00600800700100500802s",
+        "gbifNubkey": 5285637,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-65-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-65-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-65-1000.webp"
+            }
+        },
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "vernacular",
+        "name": "Kiefer",
+        "isPreferredName": false,
+        "acceptedNameUuid": "30d9bad8-2d96-4fed-a732-30e08b071572"
+    }
+]

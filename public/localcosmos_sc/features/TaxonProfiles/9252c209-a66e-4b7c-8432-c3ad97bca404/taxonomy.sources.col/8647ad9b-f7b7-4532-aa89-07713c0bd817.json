@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Chaperiopsis multifida",
+    "taxonAuthor": "(Busk, 1884)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8647ad9b-f7b7-4532-aa89-07713c0bd817",
+    "taxonNuid": "00100500100100b00800400500v",
+    "gbifNubkey": 1010148,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-382-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-382-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-382-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 528,
+    "vernacular": {
+        "en": "Antlered false-coral bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Antlered false-coral bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Chaperia multifida</i></p>",
+            "shortTextKey": "taxon_text_9_5481",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony consists of a series of hard, solid, upright, calcified and brittle interconnected plates that are coloured maroon to purple.</p><p>When viewed closely the individual zooecia are hexagonal with a large oval aperture and are strongly ornamented with a pair of large stalked avicularia, a pair of anterior spines and a characteristic large, antler-like structure that grows over and hides much of the surface of the zooid and give the colony its furry appearance.</p>",
+            "shortTextKey": "taxon_text_1_5482",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less then 1 mm long, colonies up to 15 cm across.</p>",
+            "shortTextKey": "taxon_text_2_5483",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and St Helena Island. Records from New Zealand have bifurcating spines at distal end of zooecia and represent a distinct species.</p><p><u>Local/Regional:</u> Saldanha Bay to Durban.</p>",
+            "shortTextKey": "taxon_text_3_5484",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on rocky substrata in gullies and the sides of deep rock pools and on reefs to a depth of about 375 m. Often mingles with other sedentary invertebrates, such as sponges, other bryozoans and soft corals. Very little other species-specific information available.</p>",
+            "shortTextKey": "taxon_text_4_5485",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5486",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by budding new zooids around the margins. &nbsp;New colonies formed by sexual reproduction, fertilized eggs being released into the water column to disperse and establish new colonies.</p>",
+            "shortTextKey": "taxon_text_6_5487",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p><i>Chaperia</i> species form similar brittle, calcified and folded colonies, but these are orange to red and lack the large antler-like projections found in <i>Chaperiopsis.</i></p>",
+            "shortTextKey": "taxon_text_7_5488",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 140).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 14).<br><br>Florence, W (2018). Phylum Bryozoa In: Atkinson LJ and Sink KJ (eds) Field Guide to the Ofshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 227-243. (p. 241).",
+            "shortTextKey": "taxon_text_8_5489",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-382-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-382-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-382-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-382-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-382-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-382-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-383-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-383-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-383-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

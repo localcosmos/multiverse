@@ -1,0 +1,197 @@
+{
+    "taxonLatname": "Blennioclinus brachycephalus",
+    "taxonAuthor": "(Valenciennes, 1836)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1196fb33-0683-4b71-8cc7-b9a25a6f0071",
+    "taxonNuid": "00100700300200200100w017001001",
+    "gbifNubkey": 5209307,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1670-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1670-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1670-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 351,
+    "vernacular": {
+        "en": "Lace klipfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Lace klipfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Clinus brachycephalus</i></p>",
+            "shortTextKey": "taxon_text_9_3295",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Klipfishes of the family Clinidae are small, elongate, laterally compressed, bottom-dwelling fishes with a single dorsal fin stretching head to tail. The pelvic fin is inserted in front of the pectoral fin and consists of just 2–3 elongate rays (and one concealed spine) and the tail is rounded. All species are viviparous and the males have a prominent intromittent organ just behind the anus. The group is particularly common and diverse in intertidal and shallow water systems along the southern and western coasts of South Africa and together these make up the continent’s largest group of endemic fish species.</p><p>This small, somewhat compressed species has a very short, blunt head with large eyes and no cirri above the eyes. The dorsal fin has 26–30 spines and 8–11 rays, the first few spines being slightly elevated and bearing small terminal cirri and with a slight notch between these and later spines. There is a more distinct notch between the last dorsal spine and the rays (distinguishing this genus from <i>Clinus</i>), the rays are also longer than the spines and hence raised to form a rounded crest. The pelvic fin has 3 rays.</p><p>Colour is variable, but often very attractively mottled in reds, pinks, greens and browns. There are generally a series of darker broken vertical bars along the sides and a large, round ocellus above the pectoral fin, this usually being green or blue centrally with a red ring. The eyes are red. Fins also brightly coloured, the pelvic fin especially with bright red bars and the anal fin with striking red and blue patches.</p>",
+            "shortTextKey": "taxon_text_1_3296",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 15 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3297",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_3298",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found in shallow waters generally less than 10 m depth. Usually associated with areas densely covered with algae, amongst which it is well camouflaged. Relies on concealment and readily approached underwater.</p>",
+            "shortTextKey": "taxon_text_4_3299",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mainly on amphipods, followed by polychaete worms, isopods and tanaids.</p>",
+            "shortTextKey": "taxon_text_5_3300",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Species-specific details unknown, but all clinids are livebearers, males copulating with females and fertilizing the eggs internally with their intromittent organs. Juveniles develop inside the females’ ovaries and in most species the live young are born in spring, have a short planktonic life then settle on the bottom. &nbsp;</p>",
+            "shortTextKey": "taxon_text_6_3301",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Very attractive and brightly coloured species best identified by the combination of the short, blunt head, large ocellus above the pelvic fin, deep notch between the spines and rays on the dorsal fin and brightly coloured pelvic and anal fins. There is one other species in the genus<i> B. stella</i>, but this only occurs from Algoa Bay eastwards.</p>",
+            "shortTextKey": "taxon_text_7_3302",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bennett, B, Griffiths, CL & Penrith, ML (1983). The diets of littoral fish from the Cape Peninsula. <i>African Zoology</i>, 18(4), 343-352.<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 385). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 759).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 56).",
+            "shortTextKey": "taxon_text_8_3303",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1670-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1670-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1670-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1670-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1670-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1670-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1663-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1663-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1663-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1664-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1664-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1664-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1666-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1666-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1666-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1668-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1668-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1668-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-184-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-184-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-184-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clinus brachycephalus",
+            "taxonAuthor": "Valenciennes, 1836"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

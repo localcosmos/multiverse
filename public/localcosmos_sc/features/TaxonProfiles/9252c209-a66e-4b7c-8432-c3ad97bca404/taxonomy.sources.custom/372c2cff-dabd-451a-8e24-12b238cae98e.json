@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Desmarestia herbacea subsp. firma (C. Agardh)",
+    "taxonAuthor": "A.F.Peters, E.C.Yang, F.C.Küpper & Prud'Homme van Reine, 2014",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "372c2cff-dabd-451a-8e24-12b238cae98e",
+    "taxonNuid": "003001007001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1005-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1005-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1005-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 692,
+    "vernacular": {
+        "en": "Acid weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Acid weed"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tall, narrow central frond arises from a small disc-like holdfast and gives off lateral spear-like branches, all in a single plane. Each lateral branch arises from a narrow base and has finely-serrated margins. Colour uniform light yellowish-brown, darkening with age.</p>",
+            "shortTextKey": "taxon_text_1_6800",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large, reaching 100 cm in height, fronds about 3 cm wide.</p>",
+            "shortTextKey": "taxon_text_2_6801",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Chile and Southern Africa.</p><p><u>Local/Regional:</u><i><u> </u></i>Namibia to Betty‘s Bay.</p>",
+            "shortTextKey": "taxon_text_3_6802",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common understorey species in kelp beds,<i> </i>where it ranges from sublittoral fringe to 25 m depth. Well-known for its ability to secrete sulphuric acid to deter herbivores. When stranded on rocks burns distinctive pale shadows into rock surfaces which often attracts interest. &nbsp;</p>",
+            "shortTextKey": "taxon_text_4_6803",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6804",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating generations of the large spore-producing sporophytes and small filamentous separate male and female gametophytes.</p>",
+            "shortTextKey": "taxon_text_6_6805",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large size and unusual branching pattern of fronds are good identification features.</p>",
+            "shortTextKey": "taxon_text_7_6806",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ (1982). The life history of <i>Desmarestia firma</i> (C. Ag.) Skottsb.(Phaeophyceae, Desmarestiales). <i><i>Phycologia</i></i>, 21(3), 316-322.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 384). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 175).",
+            "shortTextKey": "taxon_text_8_6807",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1005-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1005-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1005-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1005-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1005-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1005-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2731-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2731-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2731-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2730-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2730-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2730-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Botryoglossum platycarpum (Turner)",
+    "taxonAuthor": "Kützing, 1843",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0db69276-ece5-44f1-9834-ae61984913ff",
+    "taxonNuid": "003002004003001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1351-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1351-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1351-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 769,
+    "vernacular": {
+        "en": "Botryoglossum"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Botryoglossum"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Long, narrow, dark, branching stipe emerges from a root-like holdfast and gives rise to neat, transparent, red blades which fan out. Blades have rippled margins and have a prominent midrib and microscopic venation in the apices.</p>",
+            "shortTextKey": "taxon_text_1_7493",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 300 mm tall. Blades about 15 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_7494",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_7495",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Attached to rocks from low water mark downwards. Often associated with kelp beds.</p>",
+            "shortTextKey": "taxon_text_4_7496",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7497",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetrasporangia small and circular and found in small proliferations on the thallus margins or midrib.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7498",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p><i>Neuroglossum</i> is similar, but lacks microscopic venations at apices of blades, which often have lateral leaflets.</p>",
+            "shortTextKey": "taxon_text_7_7499",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 396). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 467).",
+            "shortTextKey": "taxon_text_8_7500",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1351-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1351-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1351-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1351-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1351-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1351-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

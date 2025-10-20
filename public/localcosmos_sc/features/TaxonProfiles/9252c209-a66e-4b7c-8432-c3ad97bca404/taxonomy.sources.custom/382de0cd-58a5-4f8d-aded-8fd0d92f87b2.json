@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Hormiphora sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "382de0cd-58a5-4f8d-aded-8fd0d92f87b2",
+    "taxonNuid": "00100d001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-739-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-739-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-739-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 604,
+    "vernacular": {
+        "en": "Pear-shaped sea-gooseberry"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pear-shaped sea-gooseberry",
+            "Hormiphora sp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Transparent and pear-shaped pelagic species, slightly broader at the one end and with two trailing tentacles at the other end that bear short, club-shaped side-branches. There are eight equal ciliary rows that each run for about 75% of body length.</p><p>There are no formally described species from this genus reported from South Africa so it is not possible to allocate a species name to regional images.</p>",
+            "shortTextKey": "taxon_text_1_5975",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 30 mm long.</p>",
+            "shortTextKey": "taxon_text_2_5976",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> There are 17 described species in this genus, which occurs worldwide.</p><p><u>Local/Regional:</u> Photographic records from False Bay to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_5977",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Known only from a few photographic records and has not yet been described or named, so very little known about biology. Hyperiid amphipods sometimes seen associated with this species, as seen in image below.</p>",
+            "shortTextKey": "taxon_text_4_5978",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on small planktonic organisms captured by the tentacles, which lack stinging cells (as found in cnidarians), but are instead armed with adhesive cells (colloblasts) with which to ensnare small prey.</p>",
+            "shortTextKey": "taxon_text_5_5979",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Almost all ctenophores are hermaphroditic and shed eggs and sperm into the water where fertilization takes place, leading to development of free-swimming larvae which gradually adopt the adult form.</p>",
+            "shortTextKey": "taxon_text_6_5980",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Similar to Sea-gooseberies <i>Pleurobranchia</i> sp., from which they are distinguished by body shape, <i>Hormiphora</i> being wider at the one end like a pear, while <i>Pleurobranchia </i>are round to oval but symmetrical in shape.</p>",
+            "shortTextKey": "taxon_text_7_5981",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 54).<br><br>Gibbons, MJ, Haddock, SH, Matsumoto, GI & Foster, C (2021). Records of ctenophores from South Africa. <i>PeerJ</i>, 9, e10697.",
+            "shortTextKey": "taxon_text_8_5982",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-739-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-739-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-739-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-739-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-739-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-739-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

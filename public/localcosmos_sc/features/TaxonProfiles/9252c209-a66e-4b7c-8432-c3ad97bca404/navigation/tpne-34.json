@@ -1,0 +1,189 @@
+{
+    "name": "Lobsters & shrimps",
+    "description": null,
+    "verboseName": "Lobsters & shrimps",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1072-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1072-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1072-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2091-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2091-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2091-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1099-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1099-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1099-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-39",
+            "parentKey": "tpne-34",
+            "name": "Burrowing shrimps",
+            "verboseName": "Burrowing shrimps",
+            "taxa": [
+                {
+                    "taxonLatname": "Axiidae",
+                    "taxonAuthor": "Huxley, 1879",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d41b4fda-4511-48f0-bece-ce2b5f8de193",
+                    "taxonNuid": "00100300a006002004002"
+                },
+                {
+                    "taxonLatname": "Gebiidea",
+                    "taxonAuthor": "de Saint Laurent, 1979",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "505b2346-4796-4fe8-b040-54b8b26d45b8",
+                    "taxonNuid": "00100300a006002007"
+                },
+                {
+                    "taxonLatname": "Kraussillichirus",
+                    "taxonAuthor": "Poore, Dworschak, Robles, Mantelatto & Felder, 2019",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d03a931a-e0c0-4258-b407-2dfe4dd0c57f",
+                    "taxonNuid": "00100300a00600200400600b"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1100-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1100-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1100-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1100-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1100-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1100-1000.webp"
+                }
+            },
+            "slug": "burrowing-shrimps"
+        },
+        {
+            "key": "tpne-37",
+            "parentKey": "tpne-34",
+            "name": "Lobsters",
+            "verboseName": "Lobsters",
+            "taxa": [
+                {
+                    "taxonLatname": "Achelata",
+                    "taxonAuthor": "Scholtz & Richter, 1995",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6bfeed40-ae26-411d-9cc8-ea2b92dd5668",
+                    "taxonNuid": "00100300a006002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2092-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2092-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2092-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2092-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2092-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2092-1000.webp"
+                }
+            },
+            "slug": "lobsters"
+        },
+        {
+            "key": "tpne-38",
+            "parentKey": "tpne-34",
+            "name": "Shrimps",
+            "verboseName": "Shrimps",
+            "taxa": [
+                {
+                    "taxonLatname": "Caridea",
+                    "taxonAuthor": "Dana, 1852",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "fa08811f-49af-49d0-af49-6c45be5bafb5",
+                    "taxonNuid": "00100300a006002006"
+                },
+                {
+                    "taxonLatname": "Dendrobranchiata",
+                    "taxonAuthor": "Spence Bate, 1888",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "4513771d-c472-4511-a27f-4adcad3e4045",
+                    "taxonNuid": "00100300a006001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1057-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1057-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1057-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1057-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1057-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1057-1000.webp"
+                }
+            },
+            "slug": "shrimps"
+        }
+    ],
+    "taxonProfiles": []
+}

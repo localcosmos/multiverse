@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Curio corymbifer",
+    "taxonAuthor": "(DC.) Eggli",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "afcb94ad-3ca4-4c50-8937-e97d273fffac",
+    "taxonNuid": "006006005004003001092007",
+    "gbifNubkey": 10090698,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2783-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2783-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2783-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1002,
+    "vernacular": {
+        "en": "Sweet ragwort"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sweet ragwort"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Senecio corymbifer, Senecio sarcoides.</i></p>",
+            "shortTextKey": "taxon_text_9_9456",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Distinctive succulent shrub with erect stems. The thick, cylindrical, tapering leaves are light transparent-green to blue-green and have a waxy covering. They are grooved above and encircle the tips of the branches. The inflorescences poke above the leaves and divide into several flower heads each on short stalks. The compound flowers are yellow and the ray florets (‘petals’) tend to bend downwards. They develop into fluffy seeds.</p>",
+            "shortTextKey": "taxon_text_1_9457",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Can reach 2 m but typically about 1 m. Leaves up to 60 mm long, flowers about 20 m across.</p>",
+            "shortTextKey": "taxon_text_2_9458",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Southern Namibia to South Coast also Eswatini.</p>",
+            "shortTextKey": "taxon_text_3_9459",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On rocky soil close to the coast and also some way inland, not much else known.</p>",
+            "shortTextKey": "taxon_text_4_9460",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9461",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to October.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9462",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are numerous species in this diverse genus of which about 50 occur in the fynbos region but this species is fairly distinctive due to its elongate succulent leaves and clustered, branching flowerheads.</p>",
+            "shortTextKey": "taxon_text_7_9463",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2783-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2783-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2783-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2783-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2783-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2783-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Senecio succulentus",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Senecio phonolithicus",
+            "taxonAuthor": "Dinter"
+        },
+        {
+            "taxonLatname": "Senecio corymbifer",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Senecio sarcoides",
+            "taxonAuthor": "C. Jeffrey"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

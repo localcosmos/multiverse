@@ -1,0 +1,183 @@
+{
+    "taxonLatname": "Notomegabalanus algicola",
+    "taxonAuthor": "Pilsbry, 1916",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "fd10ebf3-5bda-42d2-af84-0949de28b377",
+    "taxonNuid": "001003001004006001",
+    "gbifNubkey": 4335562,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-971-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-971-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-971-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 563,
+    "vernacular": {
+        "en": "White dwarf barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "White dwarf barnacle",
+            "Notomegabalanus algicola"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Balanus algicola</i></p>",
+            "shortTextKey": "taxon_text_9_5534",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small white or faintly pink-striped species with six ridged shell plates in the circle and with a calcareous base (best seen when removed from the substratum, or as a white scar on rock where dead animals have broken off). The radii of the shell plates (flat white flanges extending laterally from upper margins of shell plates) bear characteristic transverse canals that distinguish this from other similar species.</p>",
+            "shortTextKey": "taxon_text_1_5535",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small – shell diameter up to only about 5 mm.</p>",
+            "shortTextKey": "taxon_text_2_5536",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa, but has been introduced to New Zealand and Australia via shipping.</p><p><u>Local/Regional:</u> Northern Cape to central KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_5537",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Most commonly found on mussel shells or rocks in the lower intertidal or on floating objects such as buoys and ships hulls. Extremely fast growing, reaching maturity in a few weeks, and can cause a serious problem as a fouling organism on marine structures.</p>",
+            "shortTextKey": "taxon_text_4_5538",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like all barnacles feeds on small living and non-living organic particles filtered from the water column.</p>",
+            "shortTextKey": "taxon_text_5_5539",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Almost all barnacles are hermaphroditic, but cross-fertilisation is the rule and the penis of one individual is extended out of the body and into an adjacent individual to transfer sperm. As each animal is permanently attached to the rock the number of potential mates is limited by the length of the penis, which can be up to 3-times the diameter of the shell (relatively the longest of any animal group). The eggs are initially brooded in the mantle cavity and larvae later released. These swim and feed in the water column and go though several stages until ready to settle. Larvae are chemically attracted to older individuals, encouraging the formation of closely–packed colonies.</p>",
+            "shortTextKey": "taxon_text_6_5540",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with several other small white barnacles in the region, but readily distinguished from other regional species by the horizontal canals on the flanges of the shell plates. &nbsp;</p>",
+            "shortTextKey": "taxon_text_7_5541",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 82)",
+            "shortTextKey": "taxon_text_8_5542",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-971-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-971-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-971-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-971-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-971-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-971-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-969-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-969-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-969-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-694-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-694-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-694-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-970-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-970-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-970-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Nauplius larva under the microscope - magnification about 150x.</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-972-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-972-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-972-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

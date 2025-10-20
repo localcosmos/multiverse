@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Nautilocorystes ocellatus",
+    "taxonAuthor": "(Gray, 1831)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "cd1bf6fd-dcdd-4e59-b55c-38df0d9115de",
+    "taxonNuid": "00100300a00600200500600100p009001002",
+    "gbifNubkey": 4307484,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2745-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2745-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2745-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 975,
+    "vernacular": {
+        "en": "Four-spot masked crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Four-spot masked crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Nautilocorystes octodentatus, Nautilocorystes ocellata</i></p>",
+            "shortTextKey": "taxon_text_9_9245",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized crab, carapace (hard upper shell) pale orange, with four distinctive grey blotches, each surrounded by a thin red line.</p><p>Carapace longer than broad, lateral margins (sides) with four sharp teeth. Antennae distinctive, almost as long as body. Chelae (pincers) have granules, with a sharp spine on inner margin of carpus (wrist). Legs, short and stout for burying in sand, tips of legs flat.</p>",
+            "shortTextKey": "taxon_text_1_9246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace length up to 35 mm.</p>",
+            "shortTextKey": "taxon_text_2_9247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa, Namibia.</p><p><u>Local/Regional:</u> Algoa Bay to Namibia, intertidal to 82 m (some reports up to 200 m from Namibia).</p>",
+            "shortTextKey": "taxon_text_3_9248",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Mostly found in sheltered sandbanks where it digs backwards, with its eyes and long antennae sticking out. Antennae specialised and forms a tube of interlocking hairs, through which the crab draws water in, enabling it to take in oxygen while completely burrowed. Have been observed to inhabit oxygen-deficient habitats.</p>",
+            "shortTextKey": "taxon_text_4_9249",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not specifically known, but likely filter feeds water drawn in through the tube formed by the antennae.</p>",
+            "shortTextKey": "taxon_text_5_9250",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically known, though males likely transfer a spermatophore to a female, which then is then attached to the ventral side of the female where the eggs are fertilized when spawned and attached underneath the tail where they develop until the larvae are ready to be released into the open water.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9251",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The four grey blotches with red lining around makes the species unmistakable.</p>",
+            "shortTextKey": "taxon_text_7_9252",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 132).",
+            "shortTextKey": "taxon_text_8_9253",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2745-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2745-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2745-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2745-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2745-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2745-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Nautilocorystes ocellatus",
+            "taxonAuthor": "H. Milne Edwards, 1837"
+        },
+        {
+            "taxonLatname": "Corystes (Dicera) octodentata",
+            "taxonAuthor": "De Haan, 1833"
+        },
+        {
+            "taxonLatname": "Nautilocorystes ocellata",
+            "taxonAuthor": "(Gray, 1831)"
+        },
+        {
+            "taxonLatname": "Corystes (Dicera) 8-dentata",
+            "taxonAuthor": "De Haan, 1833"
+        },
+        {
+            "taxonLatname": "Corystes ocellata",
+            "taxonAuthor": "Gray, 1831"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

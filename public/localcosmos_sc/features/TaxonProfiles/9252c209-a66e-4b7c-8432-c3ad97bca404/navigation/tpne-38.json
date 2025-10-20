@@ -1,0 +1,143 @@
+{
+    "name": "Shrimps",
+    "description": null,
+    "verboseName": "Shrimps",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1057-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1057-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1057-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 0,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Hippolyte catagrapha",
+            "taxonAuthor": "d'Udekem d'Acoz, 2007",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "156ed024-cb0f-48f9-9ad3-a9351c4a4db2",
+            "taxonNuid": "00100300a006002006001004008006",
+            "slug": "hippolyte-catagrapha",
+            "localizedSlug": {
+                "en": "feather-star-shrimp"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2771-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2771-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2771-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2774-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2774-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2774-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2773-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2773-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2773-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2772-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2772-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2772-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2771-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2771-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2771-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hippolyte kraussiana",
+            "taxonAuthor": "(Stimpson, 1860)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9b59aeef-bac9-44b6-8e81-36107bd2e1df",
+            "taxonNuid": "00100300a00600200600100400800h",
+            "slug": "hippolyte-kraussiana",
+            "localizedSlug": {
+                "en": "broken-backed-shrimp"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2732-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2732-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2732-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2732-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2732-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2732-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Synalpheus tumidomanus",
+            "taxonAuthor": "(Paul'son, 1875)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "39f531d7-8e9b-4b23-bf72-9f2f61431c61",
+            "taxonNuid": "00100300a00600200600100101904e",
+            "slug": "synalpheus-tumidomanus",
+            "localizedSlug": {
+                "en": null
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

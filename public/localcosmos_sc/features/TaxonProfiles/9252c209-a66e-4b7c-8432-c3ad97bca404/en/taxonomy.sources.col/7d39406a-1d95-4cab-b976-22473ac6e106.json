@@ -1,0 +1,170 @@
+{
+    "taxonLatname": "Conus algoensis",
+    "taxonAuthor": "G. B. Sowerby I, 1834",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7d39406a-1d95-4cab-b976-22473ac6e106",
+    "taxonNuid": "00100k00700300e00300e00600w",
+    "gbifNubkey": 9480974,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-105-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-105-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-105-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 278,
+    "vernacular": {
+        "en": "Algoa cone"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Algoa cone",
+            "algoa cone"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cone shells are a diverse and very distinctive group, easily recognized by the smooth, strongly conical shape of the shell, with its short spire, elongate, narrow aperture and thin, smooth outer lip. The outer lip is never toothed or pleated, as in other more-or less-conical groups, such as olive shells and marginellas. Although cones are most diverse in tropical seas, a few species extend into the cooler waters of the Western Cape.</p><p>This species has a moderately extended spire with slight steps between the whorls. The cleaned shell (as depicted in most guides) is generally off-white with chocolate flame-like markings, but in life this is covered with a yellow-brown semi-transparent outer layer (periostracum). Body dark brown with white eyestalks. There are several regional colour variants.</p>",
+            "shortTextKey": "taxon_text_1_2596",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 50 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2597",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_2598",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Has a limited distribution, but nevertheless exhibits local variation within this narrow range, resulting in the recognition of three sub-species which may or may not be genetically distinct.</p><p>Fairly commonly found in sandy pools or under boulders in the intertidal and occurs down to over 50 m depth, usually singly.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2599",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All cones are predators, feeding on worms, mollusks or, in the case of some larger species, even on fish. They have a specialised feeding method in which a powerful nerve toxin is secreted by a poison gland and is fed into a hollow harpoon-like radula tooth, which is stabbed into the prey. Some larger fish-eating species can inflict a painful of even dangerous sting and should not be handled, but smaller worm – eating forms are not considered dangerous. This species feeds on small polychaete worms.</p>",
+            "shortTextKey": "taxon_text_5_2600",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The egg cases are purse-shaped with a wide unstalked base. One to three crawling young emerge form each egg case.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2601",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Few other cone shells occur in the cooler waters of the south Western Cape, of which the most common is the Elongate Cone <i>C. mozambicus</i> (which confusingly does not occur in Mozambique). That species has a much narrower, more elongate shell with a more pointed spire and is usually pale yellowish-brown with darker (or lighter) flames or spots. The Variable cone <i>C. tinianus</i> takes over as the most common species east of Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_7_2602",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 202)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 122).",
+            "shortTextKey": "taxon_text_8_2603",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-105-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-105-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-105-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-105-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-105-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-105-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2275-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2275-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2275-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Conus jaspideus",
+            "taxonAuthor": "Kiener, 1846"
+        },
+        {
+            "taxonLatname": "Conus (Sciteconus) algoensis",
+            "taxonAuthor": "G. B. Sowerby I, 1834"
+        },
+        {
+            "taxonLatname": "Dendroconus algoensis",
+            "taxonAuthor": "(G. B. Sowerby I, 1834)"
+        },
+        {
+            "taxonLatname": "Conus danieli",
+            "taxonAuthor": "Crosse, 1858"
+        },
+        {
+            "taxonLatname": "Sciteconus algoensis",
+            "taxonAuthor": "(G. B. Sowerby I, 1834)"
+        },
+        {
+            "taxonLatname": "Sciteconus algoensis algoensis",
+            "taxonAuthor": "(G. B. Sowerby I, 1834)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

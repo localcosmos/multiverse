@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Kellia rotunda",
+    "taxonAuthor": "(Deshayes, 1856)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1581c9d8-379f-406f-b90b-d6cab43c52bf",
+    "taxonNuid": "00100k00200100100200300400100300m00q",
+    "gbifNubkey": 5794516,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-554-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-554-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-554-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 107,
+    "vernacular": {
+        "en": "Dwarf rotund clam"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dwarf rotund clam"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Erycina rotunda</i></p>",
+            "shortTextKey": "taxon_text_9_905",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, almost perfectly round, fat, glossy-white clam. When seen alive the foot is elongate and mobile. This group is poorly studied and taxonomy needs revision (may be incorrectly named and also may be more than one local species represented!).&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_906",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small, shell length up to 11 mm.</p>",
+            "shortTextKey": "taxon_text_2_907",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u><i> </i>Originally described from Bass Strait, Australia and subsequently reported from South Africa, but unlikely these represent the same species. The local form is thus probably endemic to South Africa and would then need to be re-described under a new name.</p><p><u>Local/Regional:</u> Table Bay to East London.</p>",
+            "shortTextKey": "taxon_text_3_908",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A nestling species, usually found singly or in small groups on the underside of boulders, in dead barnacle shells, or in crevices in intertidal rocks.</p>",
+            "shortTextKey": "taxon_text_4_909",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Very little is known about the feeding biology of this species, but almost all bivalves are filter-feeders, sucking in seawater and removing fine particulate material from it by passing the water though their enlarged sieve-like gills.</p>",
+            "shortTextKey": "taxon_text_5_910",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Has not been investigated for this species, but all members of this family are protandrous hermaphrodites - starting life as males and later changing to become females. Eggs are brooded within the mantle cavity, usually around the gills. In some species these are released as late-stage larvae, while in other species they are released only at the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_911",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with another small roundish species <i>Lasaea turtoni,</i> which also occurs in similar habitats. However, that species is smaller (up to 5 mm), usually found in groups and is more oval with a pink to red tinged shell.</p>",
+            "shortTextKey": "taxon_text_7_912",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 154).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 175).",
+            "shortTextKey": "taxon_text_8_913",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-554-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-554-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-554-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-554-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-554-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-554-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Erycina rotunda",
+            "taxonAuthor": "Deshayes, 1856"
+        },
+        {
+            "taxonLatname": "Tellimya rotunda",
+            "taxonAuthor": "(Deshayes, 1856)"
+        },
+        {
+            "taxonLatname": "Marikellia rotunda",
+            "taxonAuthor": "(Deshayes, 1856)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

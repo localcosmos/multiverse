@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Cerebratulus fuscus",
+    "taxonAuthor": "(McIntosh, 1874)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c34ce2b7-d58f-47f1-9383-6c7c63ff17b7",
+    "taxonNuid": "00100n00e00100600c014",
+    "gbifNubkey": 2507767,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-491-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-491-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-491-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 132,
+    "vernacular": {
+        "en": "Beach ribbon worm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beach ribbon worm",
+            "brown ribbon worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Nemertines are soft-bodied, flattened, unsegmented worms that are best known for the ability of species to vary enormously in length. When observed alive they can become extremely elongated, but when collected or disturbed they contract and adopt a much shorter and thicker shape. The South African fauna is poorly studied and many species doubtless remain undescribed.</p><p>Nemertines occur both on rocky habitats and burrowing into soft sediments. This species is the only common nemertine found on exposed sandy beaches in the region and is plain yellowish-white with a pointed head and no other body markings. Unlike many rocky shore species it does not change its body shape much and is typically 2-3 mm in width and 20-40 mm long.</p>",
+            "shortTextKey": "taxon_text_1_1146",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 70 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_1147",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed in Europe and North America, as well as in Southern Africa.</p><p><u>Local/Regional:</u> Distributed across whole region.</p>",
+            "shortTextKey": "taxon_text_3_1148",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found burrowing in the sand of exposed sandy beaches across the region. There are no gills or other respiratory organs and gas exchange takes place across the extensive body surface. There are very few other distinctive features and the supposed broad global distribution is suspicious. Genetic studies may eventually reveal that the Southern African form is taxonomically distinct from that found in the northern hemisphere.</p>",
+            "shortTextKey": "taxon_text_4_1149",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All nemertines are predatory and shoot out an elongate proboscis from a special cavity just above the mouth to capture prey, which consists of other small invertebrates, such as polychaetes, bivalves or crustaceans. The specific feeding preferences of this and indeed most other South African species are not known.</p>",
+            "shortTextKey": "taxon_text_5_1150",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and eggs and sperm are shed into the water. Some species guard the eggs, but reproductive behaviour is not known for South African species. Can also regenerate broken pieces. In some species body fragmentation is routine and even broken sections from near the tail can re-grow full bodies.</p>",
+            "shortTextKey": "taxon_text_6_1151",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Best recognized by its habitat and is the only species reported from exposed sandy beaches in the region.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1152",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 62)<br><br>Wheeler, JFG (1940). Some nemerteans from South Africa and a note on <i>Lineus corrugatus</i> M'Intosh. <i>Zoological Journal of the Linnean Society</i>, 41(276), 20-49.",
+            "shortTextKey": "taxon_text_8_1153",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-491-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-491-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-491-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-491-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-491-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-491-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cerebratulus maculosus",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Micrura fusca",
+            "taxonAuthor": "McIntosh, 1874"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

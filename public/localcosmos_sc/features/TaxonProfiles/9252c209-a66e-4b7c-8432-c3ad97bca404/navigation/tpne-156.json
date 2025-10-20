@@ -1,0 +1,236 @@
+{
+    "name": "Disc-shaped fish",
+    "description": null,
+    "verboseName": "Disc-shaped fish",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1566-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1566-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1566-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1569-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1569-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1569-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1570-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1570-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1570-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Chaetodon marleyi",
+            "taxonAuthor": "Regan, 1921",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "76d32a3c-5ad3-4e7a-8a27-a3c6e95ec3cf",
+            "taxonNuid": "00100700300200200100w00x002015",
+            "slug": "chaetodon-marleyi",
+            "localizedSlug": {
+                "en": "doublesash-butterflyfish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1485-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1485-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1485-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1486-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1486-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1486-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1485-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1485-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1485-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Mola mola",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "aa285d1c-6259-4a7b-bf65-a0ef65a40036",
+            "taxonNuid": "001007003002002001019004002001",
+            "slug": "mola-mola",
+            "localizedSlug": {
+                "en": "ocean-sunfish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1568-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1568-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1568-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-269-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-269-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-269-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1568-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1568-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1568-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Monocentris japonica",
+            "taxonAuthor": "(Houttuyn, 1782)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "56d47b64-aae4-4e16-8337-1b567fb19076",
+            "taxonNuid": "00100700300200200100a006002001",
+            "slug": "monocentris-japonica",
+            "localizedSlug": {
+                "en": "pineapplefish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-270-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-270-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-270-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-270-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-270-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-270-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Zeus faber",
+            "taxonAuthor": "Linnaeus, 1758",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "dbfbdaad-ed98-4444-83f6-65205e6c3a4c",
+            "taxonNuid": "00100700300200200101a005002002",
+            "slug": "zeus-faber",
+            "localizedSlug": {
+                "en": "john-dory"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1453-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1453-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1453-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1455-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1455-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1455-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1454-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1454-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1454-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1452-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1452-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1452-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1453-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1453-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1453-1000.webp"
+                }
+            }
+        }
+    ]
+}

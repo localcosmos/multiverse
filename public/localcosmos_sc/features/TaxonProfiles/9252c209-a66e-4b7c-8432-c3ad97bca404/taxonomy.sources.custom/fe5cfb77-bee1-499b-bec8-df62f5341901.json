@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Haliclona sp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "fe5cfb77-bee1-499b-bec8-df62f5341901",
+    "taxonNuid": "00100e001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-786-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-786-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-786-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 639,
+    "vernacular": {
+        "en": "Grey-fluff sponge"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Grey-fluff sponge"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best thought of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small opening on the body surface, removing fine particles and ejecting the waste water from one or more larger openings called oscula.</p><p>This very fragile species forms soft, fluffy bluish-grey amorphous sheets coating the undersides of rocks in the mid-intertidal, where it can be very common. It frequently overgrows other sedentary invertebrates, such as mussels or slipper limpets, and covers foliose seaweeds. The surface is lumpy and thrown into numerous small bumps and folds and the oscula are small and not obvious. The texture is very soft and the colony breaks up easily if touched. Although common the species appears to be undescribed.</p>",
+            "shortTextKey": "taxon_text_1_6323",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Sheet up to 50 cm across but only about 10 mm thick.</p>",
+            "shortTextKey": "taxon_text_2_6324",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Appears to be endemic to South Africa.&nbsp;</p><p><u>Local/Regional:</u> West coast of South Africa. Currently only know from Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_3_6325",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>This fragile species is easily overlooked as it has few distinguishing features and breaks up very easily when handled, so is hard to examine or collect. Indeed many observers fail to recognise that it is an organism and not just sediment on the rocks!</p>",
+            "shortTextKey": "taxon_text_4_6326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take the form of sending out root-like extension from which new individual bud, by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The amorphous form of this species and its fragile texture are fairly easy to recognise, but the species appears to be undescribed.</p>",
+            "shortTextKey": "taxon_text_7_6329",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "N/A",
+            "shortTextKey": "taxon_text_8_6330",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-786-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-786-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-786-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-786-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-786-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-786-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

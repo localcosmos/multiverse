@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Anisakis pegreffii",
+    "taxonAuthor": "Campana-Rouget & Biocca, 1955",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "187b2f4f-8bd2-48cf-aee9-f87269ce7c58",
+    "taxonNuid": "00100l002001007006001001002001001004",
+    "gbifNubkey": 4346647,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-447-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-447-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-447-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 131,
+    "vernacular": {
+        "en": "Snoek roundworm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Snoek roundworm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Nematodes are an extremely diverse phylum of mostly small, slender and elongate worms. The body tapers at both ends and is covered by a tough cuticle, but is otherwise fairly featureless unless examined under a high-powered microscope. Although nematodes are abundant across all habitats and include a wide diversity of both free-living and parasitic forms, identification is difficult and the group remains un-noticed by most people.</p>",
+            "shortTextKey": "taxon_text_1_1136",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 20 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_1137",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> North Atlantic Ocean, Australia and South Africa.</p><p><u>Local/Regional:</u> Namibia to about Knysna.</p>",
+            "shortTextKey": "taxon_text_3_1138",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found free-living in the body cavity of snoek and present in almost every individual examined. Numbers of nematodes per fish was highest in Summer and Autumn and increased rapidly with snoek length, averaging over 100 per host and exceeding 1000 in some larger fish.</p><p>Some anisakid nematodes that establish in the muscle tissue of host fish can cause strong allergic reactions in humans who eat raw or undercooked fish and this is the case for the species that parasitizes snoek in New Zealand, for example. In South Africa though, the parasites are confined to the body cavity, so are not normally eaten. Workers in the fishing and seafood industries still remain at risk though, since prolonged and repeated contact exposure to the parasites can cause allergic reactions.</p>",
+            "shortTextKey": "taxon_text_4_1139",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Parasitic on hosts.</p>",
+            "shortTextKey": "taxon_text_5_1140",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Anisakid nematodes have complex life cycles including a variety of hosts. Eggs hatch in seawater and the larvae are eaten by planktonic crustaceans, such as euphausids. The infected crustaceans are then eaten by fish, such as snoek, where they burrow through the gut wall and establish in the body cavity or flesh. The fish in turn are eaten by marine mammals, such as seals, or by sharks, where the adult worms mate in the intestine and release eggs that pass back into the sea along with the host’s faeces.</p>",
+            "shortTextKey": "taxon_text_6_1141",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Parasitic nematode worms have few external features that can be used for morphological identification and are best identified by the host in which they occur. This is the main nematode parasitic on snoek.</p>",
+            "shortTextKey": "taxon_text_7_1142",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Nieuwenhuizen, N, Lopata, AL, Jeebhay, MF, De'Broski, RH, Robins, TG & Brombacher, F (2006). Exposure to the fish parasite <i>Anisakis</i> causes allergic airway hyper-reactivity and dermatitis. <i>Journal of Allergy and Clinical Immunology</i>, 117(5), 1098-11.<br><br>Nunkoo, MAI, Reed, CC & Kerwath, SE (2016). Community ecology of the metazoan parasites of snoek <i>Thyrsites atun</i> (Euphrasen, 1791)(Perciformes: Gempylidae) off South Africa. <i>African Journal of Marine Science</i>, 38(3), 363-371.",
+            "shortTextKey": "taxon_text_8_1143",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-447-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-447-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-447-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-447-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-447-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-447-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Anisakis simplex_a",
+            "taxonAuthor": "of Nascetti, Paggi, Orecchia, Smith, Matticucci & Bullini, 1986"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

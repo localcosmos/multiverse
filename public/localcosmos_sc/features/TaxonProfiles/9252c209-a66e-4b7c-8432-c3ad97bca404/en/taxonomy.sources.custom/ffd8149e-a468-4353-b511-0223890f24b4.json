@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Placophora binderi (J. Agardh)",
+    "taxonAuthor": "J. Agardh, 1863",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "ffd8149e-a468-4353-b511-0223890f24b4",
+    "taxonNuid": "00300200400e001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1404-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1404-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1404-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 807,
+    "vernacular": {
+        "en": "Codium crust"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Codium crust"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Epiphytic, mostly on <i>Codium </i>spp., where it forms dark red-brown, flat crusts with lobed margins and attached by root-like rhizoids. Small sausage-like reproductive filaments project from upper surface, especially around the edges, and are about 0.5 mm long.</p>",
+            "shortTextKey": "taxon_text_1_7835",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Patches can be several cm in diameter and are less than 0.5 mm in thickness.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa, Mozambique, Japan, Australia, New Zealand, Indonesia, Peru and Tristan da Cunha.</p><p><u>Local/Regional:</u><i> </i>Cape Peninsula to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common epiphyte on the surfaces of various <i>Codium</i> species, where is can cover much of the lower branches of the host. Also recorded from <i>Zonaria</i> and on the tests of the ascidian <i>Pyura stolonifera</i>.</p>",
+            "shortTextKey": "taxon_text_4_7838",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproductive structures borne on short, free, sausage-like filaments on the upper surface.</p>",
+            "shortTextKey": "taxon_text_6_7840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The related <i>P. monocarpa</i> is a common epiphyte on the Sea bamboo <i>Ecklonia maxima</i> and apart from having a different host can be distinguished by the longer dorsal filaments, which are up to 5-10 mm long, giving it a velvety appearance.</p>",
+            "shortTextKey": "taxon_text_7_7841",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 378 – noted under <i>Codium platylocium</i>). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33, 1-294.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 542).",
+            "shortTextKey": "taxon_text_8_7842",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1404-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1404-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1404-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1404-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1404-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1404-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,191 @@
+{
+    "taxonLatname": "Pseudobranchiomma longa",
+    "taxonAuthor": "(Kinberg, 1866)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7c16f7aa-89d7-494c-a697-ea37f99bad07",
+    "taxonNuid": "00100200205200100200200300t004",
+    "gbifNubkey": 4811294,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1044-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1044-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1044-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 228,
+    "vernacular": {
+        "en": "Feather-duster worm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Feather-duster worm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Sabellastarte longa</i></p>",
+            "shortTextKey": "taxon_text_9_2095",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Often-seen, large, conspicuous worm common in rock pools and on rocky reefs from the mid-intertidal downwards. Body fat and sausage-like, enclosed in a soft, muddy, parchment-like tube. Head with two prominent spiral crowns of feeding appendages that are of uniform colour, but can be white, yellow, red or purple.</p>",
+            "shortTextKey": "taxon_text_1_2096",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body up to 120 mm long,<strong> </strong>crown about 50 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_2097",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Regional endemic.</p><p><u>Local/Regional:</u> South Africa, Mozambique and Madagascar.</p>",
+            "shortTextKey": "taxon_text_3_2098",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A distinctive and well-known species commonly found in intertidal pools and gullies and on shallow reefs. The tube usually extends into a crack or under a boulder and the spectacular crown of feeding tentacles is extended into the water to intercept food particles. Snaps back into its tube rapidly at the slightest disturbance. Rejected food particles are used to construct the tube.</p>",
+            "shortTextKey": "taxon_text_4_2099",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter-feeder, removing and consuming particulate material from the water passing thought the crown of tentacles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_2100",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>A variety of modes of reproduction occur in this group and most species can reproduce both asexually by ‘budding’ off smaller individuals, and sexually.&nbsp;</p><p>In this species asexual reproduction is known to occur, the posterior part of the animal breaking off and generating a new body. Sexual reproduction also occurs with eggs and sperm being released directly into the water column, where they develop into planktonic larvae. &nbsp;</p>",
+            "shortTextKey": "taxon_text_6_2101",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other related fanworms in the region, but this species is easily recognised by its large size, plus the uniform colour and spiral shape of the tentacular crown.</p>",
+            "shortTextKey": "taxon_text_7_2102",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 74).<br><br>Day, JH (1967). A Monograph on the Polychaeta of Southern Africa. British Museum (Natural History), London, Part 2. (p. 771).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group Press, Cape Town. (p. 76).",
+            "shortTextKey": "taxon_text_8_2103",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1044-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1044-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1044-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1044-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1044-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1044-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1043-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1043-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1043-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1045-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1045-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1045-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1042-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1042-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1042-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-46-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-46-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-46-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Sabellastarte longa",
+            "taxonAuthor": "(Kinberg, 1866)"
+        },
+        {
+            "taxonLatname": "Sabella longa",
+            "taxonAuthor": "Kinberg, 1866"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": true
+}

@@ -1,0 +1,140 @@
+{
+    "taxonLatname": "Lagenorhynchus obscurus",
+    "taxonAuthor": "(Gray, 1828)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7be0f987-14c7-4440-b862-d69aa0bcf267",
+    "taxonNuid": "001007003002002004004002001004002001007006",
+    "gbifNubkey": 5220077,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-276-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-276-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-276-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 438,
+    "vernacular": {
+        "en": "Dusky dolphin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Dusky dolphin",
+            "Dusky Dolphin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly small, but quite stout dolphin with gently sloping forehead extending almost to the jaw, giving it a very short beak. Dorsal fin relatively tall and curves backwards into a pointed tip. There are 26–32 slender, conical teeth in the upper jaw and 24–31 in the lower jaw.</p><p>Colour pattern complex and distinctive. Back black, belly white and large grey patch running from the upper beak backwards along the sides, with a second, branched patch running from in front of dorsal fin backwards towards tail. Dorsal fin two-toned, black in front, but becoming grey posteriorly. Flippers pale with dark edges.</p>",
+            "shortTextKey": "taxon_text_1_4166",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium-sized with maximum length of about 2 m and mass of 90 kg.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_4167",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed in temperate waters of the Southern Hemisphere, including both coasts of South America, Southern Africa, Australia, New Zealand and various oceanic islands.</p><p><u>Local/Regional:</u> Only on the west coast, from southern Angola to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_4168",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found mostly in shallow waters and bays on the west coast. Mean group size observed in South African waters 35, but can occur in groups of several hundred individuals and very ‘tourist friendly’, often riding the bow waves of boats and making spectacular leaps clear of the water.</p><p>Vocal and make a variety of different clicks and whistles.</p>",
+            "shortTextKey": "taxon_text_4_4169",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on a wide variety of both fish and cephalopods with lantern fish and hatchet fish making up the bulk of the diet in this region.</p>",
+            "shortTextKey": "taxon_text_5_4170",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little studies in South Africa, but elsewhere have a promiscuous mating system in which both males and females mate with multiple partners and mating appears to also take place for reasons other than reproduction (possible to strengthen social bonds).</p><p>Form mating groups of a single female and about 10 males. Males then pursue the female until only the strongest is left and claims the female.</p><p>Females start reproducing at an age of 6–7 years and gestation period lasts about 12 months, followed by lactation lasting another 12 months. Calving interval thought to average about 28 months. Calves born at a length of about 81–90 cm. Females with calves tend to gather in nursery areas in shallow water.</p>",
+            "shortTextKey": "taxon_text_6_4171",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other local dolphins due to the distinctive colour pattern<i>. </i>May occur with Heaviside’s dolphin, but that species has a broadly-triangular dorsal fin, not a recurved one.</p>",
+            "shortTextKey": "taxon_text_7_4172",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashton, N & Ashton, B (2012). Watching Whales and Dolphins in Southern Africa. Struik Nature, Cape Town (p. 102). <br><br>Best, PB (2007). Whales and Dolphins of the Southern African Subregion. Cambridge University Press (p. 228).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 368).<br><br>Cockcroft, V & Joyce, P (1998). Whale Watch: A Guide to Whales and other Marine Mammals of Southern Africa. Struik Publishers, Cape Town (p. 84).",
+            "shortTextKey": "taxon_text_8_4173",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-276-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-276-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-276-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-276-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-276-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-276-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Delphinus obscurus",
+            "taxonAuthor": "Gray, 1828"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

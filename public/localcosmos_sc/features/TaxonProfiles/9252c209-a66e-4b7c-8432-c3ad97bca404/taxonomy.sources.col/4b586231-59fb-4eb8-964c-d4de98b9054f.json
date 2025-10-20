@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Phalacrocorax capensis",
+    "taxonAuthor": "(Sparrman, 1788)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4b586231-59fb-4eb8-964c-d4de98b9054f",
+    "taxonNuid": "001007003002002004002014003003004",
+    "gbifNubkey": 2481899,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-920-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-920-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-920-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 659,
+    "vernacular": {
+        "en": "Cape cormorant"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape cormorant",
+            "Cape Cormorant"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized cormorant, entirely blue-black apart from distinctive large orange-yellow patch of bare skin around bill and throat. Head without crest, bill black. Eyes turquoise blue with greenish eye-ring. Legs and feet black.</p>",
+            "shortTextKey": "taxon_text_1_6503",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 61-64 cm, wingspan 110 cm, mass about 1300 g for males, 1100 g for females, sexes otherwise alike.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6504",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa - from Angola to Mozambique.</p><p><u>Local/Regional:</u> Mostly from Namibia to Eastern Cape, less common on east coast.</p>",
+            "shortTextKey": "taxon_text_3_6505",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The most common cormorant along the west coast, seldom venturing inland, or more than 20 km offshore. Roosts in large flocks that can number many thousands. Leave the colonies to feed in large flocks that fly rapidly (up to 75 km per h) low over water, often in extended V-formations, each bird gaining lift from the one in front and hence conserving energy. Often seen following shoals of pelagic fish, birds leap-frogging from the back of the group to the feeding area as the fish move forward. Settle on the sea and then plunge-diving to capture prey by pursuit-diving. &nbsp;Unusually among cormorants rests at sea between foraging bouts, the ability to do so being linked to denser plumage and greater buoyancy.</p>",
+            "shortTextKey": "taxon_text_4_6506",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds primarily on pelagic shoaling fish, especially pilchard, anchovy and horse mackerel, but also other fish and crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_6507",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonial nesters, often in large colonies of closely adjacent nests. Nest constructed by female from material brought by male, comprising a loose pile of sticks, feathers, dried seaweed and various other natural and human debris. Eggs 1-4, pale bluish-or greenish white. Incubated equally by both sexes, incubation time 22-23 days. Chicks leave nest after about 5 weeks, but remain dependent on adults for several more weeks.</p>",
+            "shortTextKey": "taxon_text_6_6508",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Bank cormorant is larger and bulkier and lacks orange skin around bill. Crowned cormorant smaller, has crest on head, red eye and longer tail.</p>",
+            "shortTextKey": "taxon_text_7_6509",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 354). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 579).",
+            "shortTextKey": "taxon_text_8_6510",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-920-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-920-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-920-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-920-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-920-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-920-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-921-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-921-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-921-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

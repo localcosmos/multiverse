@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Jordaaniella dubia",
+    "taxonAuthor": "(Haw.) H. E. K. Hartmann",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "042f1ed4-0460-44ff-8770-76cebb020d67",
+    "taxonNuid": "00600600500d00300401l004",
+    "gbifNubkey": 3706704,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2990-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2990-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2990-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1060,
+    "vernacular": {
+        "en": "Strandveld dunefig"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Strandveld dunefig"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling succulent with prostrate stems that are orange in colour and have long internodes. Leaves spindle-shaped and borne in finger-like bunches, dark green, often becoming red towards the tips. &nbsp;Flowers only open during the day, solitary and with several series of long, bright-yellow petals surrounding a yellow centre.</p>",
+            "shortTextKey": "taxon_text_1_9979",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants typically about 50 cm across, flowers 30-40 mm in diameter.</p>",
+            "shortTextKey": "taxon_text_2_9980",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Restricted to coastal sands in the Western Cape from about Lambert’s Bay to Mossel Bay.</p>",
+            "shortTextKey": "taxon_text_3_9981",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Tolerant of dry, windy conditions. Common in coastal sands in the Western Cape, where can form attractive displays in otherwise bare areas. Easy to propagate from seed and a popular groundcover for coastal gardens.</p>",
+            "shortTextKey": "taxon_text_4_9982",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9983",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers May to September. &nbsp;Pollinated by bees, wasps and butterflies. Fruit a rounded 10-25 segmented capsule.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9984",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only surviving species in the genus and fairly distinctive. The closely-related <i>J. anemoniflora </i>has larger white to pink flowers and is extinct in the wild, although still available in cultivation as a garden plant.</p>",
+            "shortTextKey": "taxon_text_7_9985",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2990-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2990-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2990-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2990-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2990-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2990-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cephalophyllum pittenii",
+            "taxonAuthor": "L. Bolus"
+        },
+        {
+            "taxonLatname": "Mesembryanthemum procumbens",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Mesembryanthemum albertiniense",
+            "taxonAuthor": "L. Bolus"
+        },
+        {
+            "taxonLatname": "Mesembryanthemum dubium",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Cephalophyllum vanputtenii",
+            "taxonAuthor": "L. Bolus"
+        },
+        {
+            "taxonLatname": "Cephalophyllum procumbens",
+            "taxonAuthor": "(Haw.) Schwantes"
+        },
+        {
+            "taxonLatname": "Cephalophyllum albertiniense",
+            "taxonAuthor": "(L. Bolus) Schwantes"
+        },
+        {
+            "taxonLatname": "Cephalophyllum dubium",
+            "taxonAuthor": "(Haw.) L. Bolus"
+        },
+        {
+            "taxonLatname": "Cephalophyllum watermeyeri",
+            "taxonAuthor": "L. Bolus"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

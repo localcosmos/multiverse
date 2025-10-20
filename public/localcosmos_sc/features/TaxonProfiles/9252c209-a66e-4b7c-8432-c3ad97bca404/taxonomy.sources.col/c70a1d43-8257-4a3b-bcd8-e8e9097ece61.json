@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Zeuxoides helleri",
+    "taxonAuthor": "Sieg, 1980",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c70a1d43-8257-4a3b-bcd8-e8e9097ece61",
+    "taxonNuid": "00100300a00d003003001003001003003",
+    "gbifNubkey": 2228703,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-300-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-300-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-300-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 463,
+    "vernacular": {
+        "en": "Slender tanaid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Slender tanaid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Anatanais gracilis</i></p>",
+            "shortTextKey": "taxon_text_9_4417",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, pale tanaid with a smooth, triangular carapace, cylindrical body and short, stout antennae that have a single, short flagellum. First pair of limbs robust and bearing equal-sized strongly-chelate (crab-like) claws. Abdomen consisting of six segments and ending in a fairly short pair of branched uropods.</p>",
+            "shortTextKey": "taxon_text_1_4418",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 7 mm, but typically less than 5 mm.</p>",
+            "shortTextKey": "taxon_text_2_4419",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa (specimens reported from New Zealand under this name have recently been described as separate new species).</p><p><u>Local/Regional:</u> Lambert’s Bay to Durban.</p>",
+            "shortTextKey": "taxon_text_3_4420",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Regional tanaids have been very poorly studied and<strong> </strong>very little is known about the biology of this, or indeed any other regional species. They are common amongst algae and sessile invertebrates in the intertidal and on shallow reefs, where they live in mucous tubes. They are often overlooked because of their small size and slender bodies, which allow them to pass though the nets and sieves used by most collectors to wash benthic samples.</p>",
+            "shortTextKey": "taxon_text_4_4421",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not well known, but presumed to feed on detritus and small organisms grasped by the sturdy chelae.</p>",
+            "shortTextKey": "taxon_text_5_4422",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As in all tanaids the eggs are brooded in a marsupial chamber ventrally between the legs of the female and released as manca larvae.</p>",
+            "shortTextKey": "taxon_text_6_4423",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common of several similar small tanaids found in the intertidal. Members of the common related genus <i>Tanais</i> can be distinguished by having five rather than six abdominal segments.</p>",
+            "shortTextKey": "taxon_text_7_4424",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 94, as <i>Anatanais gracilis</i>).<br><br>Barnard, KH (1954). South African Pycnogonida. <i>Annals of the South African Museum</i>, 41, 81-158 (p. 152).",
+            "shortTextKey": "taxon_text_8_4425",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-300-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-300-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-300-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-300-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-300-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-300-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tanais gracilis",
+            "taxonAuthor": "Heller, 1865"
+        },
+        {
+            "taxonLatname": "Anatanais gracilis",
+            "taxonAuthor": "(Heller, 1865)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

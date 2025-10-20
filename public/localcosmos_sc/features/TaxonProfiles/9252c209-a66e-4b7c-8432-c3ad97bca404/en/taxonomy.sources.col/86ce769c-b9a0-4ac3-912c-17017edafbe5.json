@@ -1,0 +1,198 @@
+{
+    "taxonLatname": "Forskalia edwardsii",
+    "taxonAuthor": "Kölliker, 1853",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "86ce769c-b9a0-4ac3-912c-17017edafbe5",
+    "taxonNuid": "001008003001003003005001003",
+    "gbifNubkey": 8122503,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1149-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1149-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1149-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 481,
+    "vernacular": {
+        "en": "Net siphonophore"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Net jelly",
+            "Net siphonophore"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Strange-looking, pelagic, colonial hydrozoan formed of a large transparent float and group of swimming bells at the anterior end, from which extends a long, jelly-like column containing rows of clumped zooids (cormids). Each of these clumps contains zooids specialized for different functions, such as capturing food, reproduction, or protection of the colony.</p><p>The cormids are generally reddish in colour and trail thin tentacles armed with stinging cells.</p>",
+            "shortTextKey": "taxon_text_1_4620",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colony may be 1 m or more long when extended.</p>",
+            "shortTextKey": "taxon_text_2_4621",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan in tropical and temperate waters, from surface to 2 500 m depth.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_4622",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Drifts and swims sluggishly in open water with the trailing ‘tail’ hanging behind the swimming bells to capture planktonic organisms that come into contact with the extended tentacles.</p><p>The tentacles can inflict a painful sting, so contact with skin should be avoided.</p>",
+            "shortTextKey": "taxon_text_4_4623",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed passively by trolling for planktonic organisms using the extended ‘long-line’ of stinging tentacles. Prey mostly on small planktonic crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_4624",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>New colonies are established via the release of medusae.</p>",
+            "shortTextKey": "taxon_text_6_4625",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only genus in the family and overall transparent sausage-like shape and leading float and swimming bells are unmistakable.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_4626",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 62).",
+            "shortTextKey": "taxon_text_8_4627",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1149-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1149-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1149-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1149-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1149-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1149-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1148-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1148-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1148-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1145-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1145-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1145-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1146-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1146-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1146-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1147-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1147-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1147-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-324-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-324-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-324-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Forskalia misakiensis",
+            "taxonAuthor": "Kawamura, 1954"
+        },
+        {
+            "taxonLatname": "Stephanomia atlantica",
+            "taxonAuthor": "Fewkes, 1882"
+        },
+        {
+            "taxonLatname": "Stephanomia prolifera",
+            "taxonAuthor": "Milne Edwards, 1841"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

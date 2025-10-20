@@ -1,0 +1,190 @@
+{
+    "taxonLatname": "Bonisa nakaza",
+    "taxonAuthor": "Gosliner, 1981",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "45d28d8d-a5d1-4f58-be43-4f395fd9a870",
+    "taxonNuid": "00100k00700d00300200100100100a003002001",
+    "gbifNubkey": 4360187,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1535-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1535-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1535-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 842,
+    "vernacular": {
+        "en": "Gasflame nudibranch"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Gasflame nudibranch",
+            "gas flame nudibranch"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A medium- to large-sized white-bodied cladobranch densely covered with variably-coloured lateral appendages. The rhinophores have smooth bases and perfoliate tips, and are separated by a low caruncle (rhinophoral crest) with ridged edges. There are four distinct colour morphs: the blue gasflame has yellow-tipped rhinophores and blue-tipped yellow lateral appendages that may have pale bases; the orange gasflame has orange-tipped rhinophores and lateral appendages; the salmon gasflame has pale rhinophores and pale-tipped lateral appendages with dark bases, dark bases sometimes with a yellowish upper band; and the black gasflame has blue-tipped yellow rhinophores and dark, blue-tipped lateral appendages. All colour morphs have a tapered transparent or pale foot with a central opaque white stripe. Mostly white juveniles can sometimes be found. Individuals at the eastern end of the range tend to have a pinkish tinge to their coloration.</p>",
+            "shortTextKey": "taxon_text_1_8150",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_8151",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Southern West Coast to Wild Coast, intertidal to 93 m.</p>",
+            "shortTextKey": "taxon_text_3_8152",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A relatively common species, usually found on temperate reefs crawling over sponges, crinoids, bryozoans etc. Eggs are often laid in a tangle on the Multicoloured sea fan (<i>Melithaea rubra</i>). This species is always a highlight for divers as it has a striking appearance.</p>",
+            "shortTextKey": "taxon_text_4_8153",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>This species feeds on bryozoans.</p>",
+            "shortTextKey": "taxon_text_5_8154",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. The egg ribbon is narrow, convoluted and white, and is often laid around sea fans or other projecting structures.</p>",
+            "shortTextKey": "taxon_text_6_8155",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The salmon morph of <i>B. nakaza</i> can be confused with the two species of Silvertip flame, <i>Antiopella capensis</i> and <i>Antiopella longidentata</i>, but otherwise the species is unmistakable. It is distinguished from the silvertips by the low caruncle and by the gradual transition in colour between the bases and tips of the lateral appendages.</p>",
+            "shortTextKey": "taxon_text_7_8156",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 208). <br><br>Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 112).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 512, 791).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 150).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 82).",
+            "shortTextKey": "taxon_text_8_8157",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1535-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1535-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1535-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1535-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1535-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1535-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1539-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1539-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1539-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1536-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1536-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1536-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1537-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1537-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1537-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2433-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2433-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2433-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1538-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1538-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1538-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Janolus nakaza",
+            "taxonAuthor": "(Gosliner, 1981)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

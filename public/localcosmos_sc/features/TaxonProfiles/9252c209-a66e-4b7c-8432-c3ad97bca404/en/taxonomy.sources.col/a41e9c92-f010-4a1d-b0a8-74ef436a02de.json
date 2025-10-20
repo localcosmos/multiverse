@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ceriantheopsis austroafricanus",
+    "taxonAuthor": "Molodtsova, Griffiths & Acuña, 2011",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a41e9c92-f010-4a1d-b0a8-74ef436a02de",
+    "taxonNuid": "001008001001002002005002",
+    "gbifNubkey": 7376824,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-492-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-492-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-492-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 89,
+    "vernacular": {
+        "en": "Tube anemone"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tube anemone"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Easily recognized by the long, wormlike body and habit of living freely in a long mucous tube buried in soft sediment, into which the animal quickly withdraws if disturbed. The tentacles are comprised of two distinct groups, an inner circle of shorter tentacles and an outer one of much more elongate, slender and tapering ones. Colour varies from white to yellow, orange, blue or purple.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 15 cm in body length<i>. </i>Tubes may extend up to 1m into the sediment.</p>",
+            "shortTextKey": "taxon_text_2_731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Known only from the Cape Peninsula, but almost certainly more widespread<i>. </i>Specimens collected from Knysna almost certainly represent a different and undescribed species.</p>",
+            "shortTextKey": "taxon_text_3_732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Not strictly anemones, but belong to another related class, Ceriantharia. Lack an adhesive foot and live freely in long mucous tubes deeply buried in soft sediments. Withdraw instantly if disturbed and hence seldom collected using conventional trawls, dredges of grabs. Thus probably much more common and diverse than reported to date. The few samples that exist were extracted by divers manually digging up specimens – an extremely taxing process, as they can withdraw up to 1m down into the sediment!</p>",
+            "shortTextKey": "taxon_text_4_733",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>No specific information available, but certainly predatory.</p>",
+            "shortTextKey": "taxon_text_5_734",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No details known, but assumed to reproduce sexually. Fission has not been observed to our knowledge.</p>",
+            "shortTextKey": "taxon_text_6_735",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unmistakable in appearance and habits and unlikely to be confused with any other regional species. To date the only described cerianthid in the region, although it is highly likely that there are other undescribed species present. Photographic observations span a wide range of depths and habitats unlikely to all be occupied by just this one described species.</p>",
+            "shortTextKey": "taxon_text_7_736",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 24)<br><br>Molodtsova, T, Griffiths, CF & Acuña FH (2011). A new species of shallow-water cerianthid (Cnidaria: Anthozoa) from the South Africa with remarks on the genus <i>Ceriantheopsis</i>. <i>African Natural History</i>, 7, 1-8.",
+            "shortTextKey": "taxon_text_8_737",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-492-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-492-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-492-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-492-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-492-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-492-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

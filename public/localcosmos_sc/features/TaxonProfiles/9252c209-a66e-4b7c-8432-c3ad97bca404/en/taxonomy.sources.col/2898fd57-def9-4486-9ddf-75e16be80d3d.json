@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Zaluzianskya villosa",
+    "taxonAuthor": "(Thunb.) F. W. Schmidt",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2898fd57-def9-4486-9ddf-75e16be80d3d",
+    "taxonNuid": "00600600500w00m00500w01k",
+    "gbifNubkey": 3741355,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2974-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2974-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2974-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1051,
+    "vernacular": {
+        "en": "Drumsticks"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Drumsticks"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, dainty annual which branches from the base. The upright stems bear backward-pointing hairs and blunt, hairy, lance-shaped leaves. The attractive flowers are borne on branching spikes that extend up above the leaves. Each flower has five flat, white-to-mauve, heart-shaped petals arranged around a central yellow star that leads into a deep throat fringed by hairs and containing two stamens.</p>",
+            "shortTextKey": "taxon_text_1_9897",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Stems 60-300 mm long; flowers up to 10 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9898",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Coastal regions in the S.W. Cape from about Saldanha Bay to Pearly Beach. Also inland in Namaqualand and Karoo.</p>",
+            "shortTextKey": "taxon_text_3_9899",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The long-tubed flowers in this genus are mostly strongly-scented and pollinated at night by hawk-moths, but in this species the flowers are open during the day, are not scented and are pollinated by long-proboscis bee-flies. The yellow star in the centre changes to pink after pollination and this is though to be a signal to the flies that nectar is no longer available!</p><p>Can be grown from seed and used as an ornamental in coastal gardens.</p>",
+            "shortTextKey": "taxon_text_4_9900",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9901",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to November.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9902",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are over 50 species in this genus in South Africa, of which at least 17 species occur in the fynbos region. The mini-drumsticks <i>Z. parviflora</i> has minute flowers that are cream with a yellow centre. The Sandvelt drumsticks <i>Z. affinis</i> has scented white flowers that close during the day and open at might to attract pollinating moths.</p>",
+            "shortTextKey": "taxon_text_7_9903",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2974-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2974-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2974-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2974-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2974-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2974-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Zaluzianskya selaginoides",
+            "taxonAuthor": "(Thunb.) Walp."
+        },
+        {
+            "taxonLatname": "Herpestis selaginoides",
+            "taxonAuthor": "(Thunb.) Steud."
+        },
+        {
+            "taxonLatname": "Erinus villosus",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Nycterinia selaginoides",
+            "taxonAuthor": "(Thunb.) Benth."
+        },
+        {
+            "taxonLatname": "Erinus selaginoides",
+            "taxonAuthor": "Thunb."
+        },
+        {
+            "taxonLatname": "Nycterinia africana",
+            "taxonAuthor": "D. Don"
+        },
+        {
+            "taxonLatname": "Erinus africanus",
+            "taxonAuthor": "L."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

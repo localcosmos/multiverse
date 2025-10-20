@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Polycera sp. 2",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "eb327488-ee91-45ad-8a9a-c1e9dc79e293",
+    "taxonNuid": "00100500200400i002",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1961-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1961-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1961-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 907,
+    "vernacular": {
+        "en": "Beaded crowned dorid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beaded crowned dorid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Fourline nudibranch, previously misidentified as the European species <i>Polycera quadrilineata</i></p>",
+            "shortTextKey": "taxon_text_9_8725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A small slender dorid with a white body and variable numbers of black stripes. Characteristic yellow tubercles are randomly scattered over the body and foot. The head has six or more bright yellow cephalic tentacles, usually with pale tips. The rhinophores are black and bulbous with pale or yellow tips. The notum usually has paired yellow stripes at the central margin and often has a black outline around the genital pore. The gills are black with yellow central branches. A pair of bright yellow extrabranchial papillae flanks the gills. The posterior end of the foot is usually white with a bright yellow central stripe, but may have several black stripes and yellow tubercles.</p>",
+            "shortTextKey": "taxon_text_1_8726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_8727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> False Bay to southern KwaZulu-Natal, intertidal to 25 m in depth.</p>",
+            "shortTextKey": "taxon_text_3_8728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually seen on reefs, especially on bryozoans. Not much else known on the biology of this undescribed species.</p>",
+            "shortTextKey": "taxon_text_4_8729",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on bryozoans of the genus <i>Bugula</i>.</p>",
+            "shortTextKey": "taxon_text_5_8730",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. The egg ribbon is a wavy loose white rosette.</p>",
+            "shortTextKey": "taxon_text_6_8731",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of three undescribed species of <i>Polycera</i> found in the Great African Seaforest. This species can be confused with most other species of <i>Polycera</i> found in the region, but is distinguished by its single pair of extrabranchial papillae, and the presence of yellow tubercles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_8732",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 210). <br><br>Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 97).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 198, 795).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 140).<br><br>Zsilavecz, G (2007). Nudibranchs of the Cape Peninsula and False Bay. Southern Underwater Research Group, Cape Town (p. 58).",
+            "shortTextKey": "taxon_text_8_8733",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1961-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1961-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1961-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1961-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1961-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1961-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1962-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1962-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1962-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

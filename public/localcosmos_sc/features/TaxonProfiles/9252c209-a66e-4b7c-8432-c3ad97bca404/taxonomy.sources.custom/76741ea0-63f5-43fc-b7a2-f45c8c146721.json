@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Hypnea ecklonii",
+    "taxonAuthor": "Suhr, 1836",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "76741ea0-63f5-43fc-b7a2-f45c8c146721",
+    "taxonNuid": "003002005005001",
+    "gbifNubkey": 2668300,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1382-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1382-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1382-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 796,
+    "vernacular": {
+        "en": "Straight-tipped hypnea"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Straight-tipped hypnea"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Usually found attached to other large sublittoral algae, especially kelps, to which it is attached by a small root-like structure. Colour dark red.&nbsp;Main axis thin and round and runs from base to tip, bearing numerous lateral branches, which in turn bear shorter laterals. Tips of branches not hooked.</p>",
+            "shortTextKey": "taxon_text_1_7736",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Clumps typically about 200 mm tall.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7737",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern African endemic.</p><p><u>Local/Regional:</u><i> </i>Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_7738",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Poorly documented species most often recorded attached to drift algae cast up on shore. Epiphytic of other algae especially the Sea bamboo <i>Ecklonia maxima</i>.</p><p>Like other species in this group has potential as a source for the extraction of carrageenan, a chemical used in the food industry as a gelling and thickening agent.</p>",
+            "shortTextKey": "taxon_text_4_7739",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7740",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spore producing structures (tetrasporangia) near tips of branches.</p>",
+            "shortTextKey": "taxon_text_6_7741",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This genus contains about 8 regional species, some of which are very difficult to tell apart. Although these have been partially resolved in a genetic study by Johnson (see references) that work did not record <i>H. ecklonii </i>and appears not to have been formally published. Also sometimes confused with Flaccid kelp weed <i>Carpoblepharis flaccida</i>, which has a similar overall structure and is also epiphytic on kelp, but that species has a flattened main axis and more-regular and flattened side-branches and is purplish-brown in colour.</p>",
+            "shortTextKey": "taxon_text_7_7742",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 406). <br><br>Johnson, VJ (2018). Molecular systematics of the genus <i>Hypnea</i> (Rhodophyta) in South Africa, with the description of a new genus, <i>Tenebris</i> (Cystocloniaceae, Rhodophyta). Unpublished Masters Dissertation, Department of Biological Sciences, University of Cape Town.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 331).",
+            "shortTextKey": "taxon_text_8_7743",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1382-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1382-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1382-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1382-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1382-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1382-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

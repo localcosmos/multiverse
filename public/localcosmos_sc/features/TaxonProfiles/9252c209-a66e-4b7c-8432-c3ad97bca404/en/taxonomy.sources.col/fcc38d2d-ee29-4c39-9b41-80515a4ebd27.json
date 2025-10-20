@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Bidenichthys capensis",
+    "taxonAuthor": "Barnard, 1934",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "fcc38d2d-ee29-4c39-9b41-80515a4ebd27",
+    "taxonNuid": "00100700300200200100t002006002",
+    "gbifNubkey": 2346361,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-256-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-256-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-256-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 417,
+    "vernacular": {
+        "en": "Freetail brotula"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Freetail brotula"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, elongate, cryptic fish with a large, rounded head, tiny eyes, two pairs of nostrils and an elongate, tapering body. Pelvic fin consisting of a single elongate ray. Dorsal and anal fins elongate, delicate and not joined to the tail (as in many other brotulas), they are also used for locomotion using a fluid, undulating action. Whole body light yellow in colour, belly paler.</p>",
+            "shortTextKey": "taxon_text_1_3956",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 9 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3957",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to East London.</p>",
+            "shortTextKey": "taxon_text_3_3958",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Cryptic, benthic species. Found under rocks on shallow reefs or burrowing freely in sand. Rarely seen, but probably much more common than&nbsp; thought, due to its very cryptic habits. Very little is known about the habits of either this, or any other members of this family, most of which are known from only a handful of specimens and some of which remain undescribed.</p>",
+            "shortTextKey": "taxon_text_4_3959",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but probably small invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_3960",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No details known, but males of this family possess hardened pseudoclaspers, indicating that fertilization is internal and that they give birth to live young (viviparous).</p>",
+            "shortTextKey": "taxon_text_6_3961",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be distinguished from the Lesser orange brotula <i>Dermatopsoides talboti</i>, which has similar habits and occurs in the same sites, by the yellow not orange colour and much larger head and mouth. However, all members of this family are very poorly known and there may well be more undescribed species in the region. Any observations should be recorded.</p>",
+            "shortTextKey": "taxon_text_7_3962",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 2 (p. 267). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 354).",
+            "shortTextKey": "taxon_text_8_3963",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-256-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-256-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-256-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-256-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-256-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-256-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

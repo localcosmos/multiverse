@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Amaryllis macrophthalma",
+    "taxonAuthor": "Haswell, 1879",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5620dd3f-68bf-40e3-aa14-abacc866ee21",
+    "taxonNuid": "00100300a001001002002003002001001008",
+    "gbifNubkey": 5717264,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-440-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-440-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-440-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 9,
+    "vernacular": {
+        "en": "Pocket amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pocket amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sturdy and hard-bodied with elongate protective side plates. Antennae of equal length. Eyes pale and vertically elongated. Second pair of legs (gnathopod 2) lack nippers. Side plate of third abdominal segment upturned, with a small hooked ‘pocket’ above corner, from which common name is derived. &nbsp;Colour usually banded red and white, often with blue side plates.</p>",
+            "shortTextKey": "taxon_text_1_5452",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 10 mm excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_5453",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Southern Hemisphere, including southern Africa, Australia and New Zealand</p><p><u>Local/Regional:</u> Mozambique to Namibia</p>",
+            "shortTextKey": "taxon_text_3_5454",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common under intertidal boulders and in seaweed holdfasts, etc.</p>",
+            "shortTextKey": "taxon_text_4_5455",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to be a scavenger of seaweeds.</p>",
+            "shortTextKey": "taxon_text_5_5456",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods, the eggs are retained within a marsupial chamber between the walking legs of the female, where they develop into fully-formed juveniles prior to release.</p>",
+            "shortTextKey": "taxon_text_6_5457",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only representative of this genus in the region. The upturned pocket on abdominal side plate and colour make this species easy to recognize when fresh, although there are several other similarly-shaped species in Family Lysianassidae.</p>",
+            "shortTextKey": "taxon_text_7_5458",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town.<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>.",
+            "shortTextKey": "taxon_text_8_5459",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-440-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-440-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-440-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-440-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-440-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-440-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Amaryllis macrophthalmus",
+            "taxonAuthor": "Haswell, 1879"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

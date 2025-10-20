@@ -1,0 +1,49 @@
+{
+    "taxonLatname": "Pterygosquilla capensis",
+    "taxonAuthor": "Manning, 1969",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a4a21e05-f0ff-4ce0-9040-fac094c59291",
+    "taxonNuid": "001003003002002001",
+    "gbifNubkey": 6465512,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 957,
+    "vernacular": {
+        "en": "Cape mantis shrimp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape mantis shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Brokensha, RM, Landschoff, J & Griffiths, CL (2022). Review of the South African and Mozambican stomatopod fauna. M.S. thesis, University of Cape Town, Cape Town, South Africa.<br><br>Griffiths, CL & Blaine, MJ (1988). Distribution, population structure and biology of stomatopod Crustacea off the west coast of South Africa. <i>South African Journal of Marine Science</i>, 7(1), 45–50.<br><br>Manning, RB (1969). Notes on some stomatopod Crustacea from southern Africa. <i>Smithsonian Contributions to Zoology</i>, 1, 1–17.",
+            "shortTextKey": "taxon_text_8_9160",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

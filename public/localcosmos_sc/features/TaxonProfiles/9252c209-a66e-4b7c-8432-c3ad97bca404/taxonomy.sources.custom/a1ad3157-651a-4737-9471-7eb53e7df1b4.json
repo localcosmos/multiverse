@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Dermestes maculatus",
+    "taxonAuthor": "De Geer, 1774",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "a1ad3157-651a-4737-9471-7eb53e7df1b4",
+    "taxonNuid": "001003002001004001",
+    "gbifNubkey": 1095863,
+    "image": {
+        "text": "<p>Larvae</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-732-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-732-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-732-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 598,
+    "vernacular": {
+        "en": "Hide Beetle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hide Beetle",
+            "Dermestes maculatus"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Adult beetle oval and black, with patch of white hairs of sides of thorax. Antennae end in a three-segmented club and can be folded back against the body. Ends of elytra serrated and inner corners end in a pointed spike. Underside of body largely white. Perhaps best identified by its association with the rotted carcasses of dead animals, especially birds and mammals.</p><p>Very distinctive larvae seen more often than adults and are dark brown, covered in long reddish-brown hairs. End of the abdomen bears a pair of conspicuous curved, horn-like projects called urogomphi.</p>",
+            "shortTextKey": "taxon_text_1_5915",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Adults 5-10 mm, depending of amount of food available to larvae. &nbsp;Larvae up to about 20 mm.</p>",
+            "shortTextKey": "taxon_text_2_5916",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan and found on all continents except Antarctica.</p><p><u>Local/Regional:</u> Entire region, both inland and along coast.</p>",
+            "shortTextKey": "taxon_text_3_5917",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in terrestrial habitats where associated mainly with the carcasses of dead animals that have decomposed for some time, particularly those of mammals and birds. The age and stage of development of larvae can be used to estimate time of death, including the bodies of murder victims!&nbsp; Adult beetles generally arrive 5-20 days after death and larval development takes 5-7 weeks, depending on temperature. Also can be pest of stored animal products, such as dog food, dried fish, bacon, etc.</p><p>On the seashore, larvae are commonly found scavenging on sandy beaches along the west coast, especially in the vicinity of seal and bird colonies, where dead animals are regularly cast ashore. Adults usually seen only on well decomposed and dried bodies cast up along on the driftline.</p>",
+            "shortTextKey": "taxon_text_4_5918",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on well-decomposed carrion, on the seashore especially dead seals and seabirds.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_5919",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females lay eggs in crevices on the food material.<strong> </strong>Larval development normally takes 5-7 weeks, depending on temperature and food available. When ready to pupate the larvae construct an oval pupation chamber on a solid surface, such as bone or wood. Adults live for 4-6 months and disperse to search for new food items by flying.</p>",
+            "shortTextKey": "taxon_text_6_5920",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are about 85 regional species of dermestid beetles, but the white hairs of this species are fairly distinctive and it is by far the most common species found on the seashore.</p>",
+            "shortTextKey": "taxon_text_7_5921",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Picker, MD, Griffiths, CL & Weaving, A (2019). Field Guide to Insects of South Africa. Third Edition. Struik Nature, Cape Town, 527 pp. (p. 264)",
+            "shortTextKey": "taxon_text_8_5922",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Larvae</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-732-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-732-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-732-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Larvae</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-732-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-732-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-732-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-731-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-731-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-731-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

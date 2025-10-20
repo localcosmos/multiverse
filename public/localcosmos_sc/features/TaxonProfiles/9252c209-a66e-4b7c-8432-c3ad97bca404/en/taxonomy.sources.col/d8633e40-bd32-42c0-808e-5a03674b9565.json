@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Fucellia capensis",
+    "taxonAuthor": "(Schiner, 1868)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d8633e40-bd32-42c0-808e-5a03674b9565",
+    "taxonNuid": "00100300900800o03g009",
+    "gbifNubkey": 1573726,
+    "image": {
+        "text": "<p>Larvae</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2796-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2796-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2796-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 46,
+    "vernacular": {
+        "en": "Striped kelp fly"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Striped kelp fly"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Rather non-descript dark-grey fly with four indistinct longitudinal stripes along thorax. Wings light brown. Best identified by its close association with kelps washed up on sandy beaches and distinguished from the other common kelp fly in the region (<i>Coelopa africana</i>) by the longitudinal stripes on its thorax.</p>",
+            "shortTextKey": "taxon_text_1_343",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 6-7 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_344",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> shoreline of Western Cape northwards to Namibia.</p>",
+            "shortTextKey": "taxon_text_3_345",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Closely associated with kelp wrack, where it breeds in large numbers, sometimes reaching nuisance levels. Prefer deep drifts of wrack, where moisture levels remain high. Larvae are often washed out of the kelp at high spring tides and are much sought after as food by gulls, ibises and other coastal birds.</p>",
+            "shortTextKey": "taxon_text_4_346",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Adults probably fed on mucus exuded by kelps and larvae feed on piles of rotting kelp.</p>",
+            "shortTextKey": "taxon_text_5_347",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are laid single on drift kelp and hatch within 24-32 hours. There are three larval stages, which together take about 14 days to complete. Larvae eat about 1.5 times their body weight in kelp each day. The papal stage then lasts another 9 -14 days, so the new generation of adults emerge almost exactly one month after the eggs were laid. The pupae are buoyant and may be washed up along the driftline in large numbers.</p>",
+            "shortTextKey": "taxon_text_6_348",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with and occur together with another kelp fly<i> Coelopa africana, </i>but that species has a plain black thorax without longitudinal stripes.</p>",
+            "shortTextKey": "taxon_text_7_349",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Picker, MD, Griffiths, CL & Weaving, A (2019). Field Guide to Insects of South Africa. Third Edition. Struik Nature, Cape Town, 527 pp. (p. 350).<br><br>Stenton-Dozey, J & Griffiths, CL (1980). Growth, consumption and respiration by larvae of the kelp-fly Fucellia capensis. <i>South African Journal of Zoology</i>, 15, 280-283.",
+            "shortTextKey": "taxon_text_8_350",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Larvae</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2796-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2796-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2796-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Larvae</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2796-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2796-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2796-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-531-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-531-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-531-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Fucellia baltica",
+            "taxonAuthor": "Lyneborg, 1965"
+        },
+        {
+            "taxonLatname": "Myopina capensis",
+            "taxonAuthor": "Schiner, 1868"
+        },
+        {
+            "taxonLatname": "Fucellia setulosa",
+            "taxonAuthor": "Stein, 1908"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

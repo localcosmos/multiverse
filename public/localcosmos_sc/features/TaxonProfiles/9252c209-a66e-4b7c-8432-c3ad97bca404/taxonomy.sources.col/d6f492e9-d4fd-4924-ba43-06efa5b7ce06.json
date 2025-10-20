@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Eunicella albicans",
+    "taxonAuthor": "(Kölliker, 1865)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d6f492e9-d4fd-4924-ba43-06efa5b7ce06",
+    "taxonNuid": "00100800100400m002001",
+    "gbifNubkey": 2263950,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-354-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-354-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-354-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 507,
+    "vernacular": {
+        "en": "Whip fan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Whip fan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sea fans are characterized by having a stiff inner skeleton made of a horn-like protein called gorgonin. This is covered by an often brightly-pigmented layer of living tissue from which small, retractable polyps emerge. Each polyp has 8 pinnate (feathery) tentacles.</p><p>This species is easily identified by its characteristic very long, whip-like, tapering branches. These are flattened towards the base, have few branches and are arranged more or less in a flat plane. Colour orange to red, appearing paler when the polyps are expanded.</p>",
+            "shortTextKey": "taxon_text_1_4870",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies up to 700 mm tall, branches 3-5 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_4871",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Atlantic coast of Cape Peninsula to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_4872",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On rocky reefs in depth of about 10-30 m and usually orientated across the prevailing current. As with other larger seafans thought to be very slow-growing and large individuals may be many decades old.</p><p>These and other large seafans host a variety of smaller species, such as basket stars, spider and sponge crabs, brittle stars, gastropods, etc. Cat sharks also regularly attach their egg cases to the stems of large seafans. This species is also fed upon by the Whipfan lacedragon nudibranch <i>Candiella</i> (undescribed species) which perfectly matches it in colour.</p>",
+            "shortTextKey": "taxon_text_4_4873",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Use the tentacles to capture small planktonic organisms from the water column.</p>",
+            "shortTextKey": "taxon_text_5_4874",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies spread by budding new polyps from the tips and broken fragments can develop into new colonies if deposited in suitable habitats. Details of sexual reproduction are unknown for this species, but other sea-fans have separate male and female colonies and release sperm and eggs into the water. These merge to form planktonic larvae which settle and grow into new colonies.</p>",
+            "shortTextKey": "taxon_text_6_4875",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The long whip-like branches are distinctive, but a number of other large orange and red seafans occur in the region that have different shapes and branching patterns, for example <i>E. tricoronata</i> has sinuous branches and <i>Leptogorgonia palma </i>is profusely and repeatedly branched<i>.</i></p>",
+            "shortTextKey": "taxon_text_7_4876",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 32).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 48).<br><br>Velimerov, B (1971). Beitrag zur Systematik der sudafrikanischen Gorgonarien. <i>Zoologischer Anzeiger</i>, 187(3/4), 266-273.<br><br>Williams, GC (1992). The Alcyonacea of southern Africa. Gorgonian octocorals (Coelenterata, Anthozoa). <i>Annals of the South African Museum</i>, 101(8), 181-296. (p. 218).",
+            "shortTextKey": "taxon_text_8_4877",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-354-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-354-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-354-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-354-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-354-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-354-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gorgonia albicans",
+            "taxonAuthor": "Kölliker, 1865"
+        },
+        {
+            "taxonLatname": "Eunicella alba",
+            "taxonAuthor": "(Esper, 1792)"
+        },
+        {
+            "taxonLatname": "Gorgonia palma var. alba",
+            "taxonAuthor": "Esper, 1792"
+        },
+        {
+            "taxonLatname": "Platygorgia albicans",
+            "taxonAuthor": "(Kölliker, 1865)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

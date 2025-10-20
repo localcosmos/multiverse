@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Pneophyllum coronatum (Rosanoff)",
+    "taxonAuthor": "Penrose, 1994",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "c8771ee7-a967-4793-a0c4-5e04123fefa8",
+    "taxonNuid": "003002001007001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1210-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1210-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1210-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 730,
+    "vernacular": {
+        "en": "Crowned kelp coralline crust"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Crowned kelp coralline crust"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Thin, roundish, flat, pink plants firmly attached to the stipes and holdfasts of the kelp <i>Ecklonia maxima.</i> Surface smooth and may be marked with paler scribbles, becomes bleached when exposed to the sun (as in lower part of photograph below). Margins wavy and when adjacent plants meet they usually remain flat, but may overgrow one another.</p>",
+            "shortTextKey": "taxon_text_1_7142",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Less than 0.05 mm thick and typically about 30 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7143",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Australia and South Africa.</p><p><u>Local/Regional:</u> Known only from Western Cape.</p>",
+            "shortTextKey": "taxon_text_3_7144",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Forms thin, roundish colonies on the stipes and holdfasts of the kelp <i>Ecklonia maxima</i> and can be very common, covering much of stipe surface.</p>",
+            "shortTextKey": "taxon_text_4_7145",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7146",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproductive conceptacles occur all over the thallus surface except for a narrow marginal area.</p>",
+            "shortTextKey": "taxon_text_6_7147",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several similar encrusting coralline species found in this habitat. The closely related <i>P. keatsii</i> occurs in the same habitat but is purple-ish in colour, thicker (0.18 mm) and has long robust filaments emerging from the tetrasporangial conceptacles.</p>",
+            "shortTextKey": "taxon_text_7_7148",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Chamberlain, YM (1994). <i>Pneophyllum coronatum</i> (Rosanoff) D. Penrose comb. nov., <i>P. keatsii</i> sp. nov., <i>Spongites discoideus</i> (Foslie) D. Penrose et Woelkerling and <i>S. impar</i> (Foslie) Y. Chamberlain comb. nov.(Rhodophyta, Corallinaceae) from South Africa. <i>Phycologia</i>, 33(3), 141-157.",
+            "shortTextKey": "taxon_text_8_7149",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1210-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1210-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1210-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1210-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1210-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1210-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

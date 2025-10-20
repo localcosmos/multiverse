@@ -1,0 +1,173 @@
+{
+    "taxonLatname": "Lichia amia",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "56043382-2726-4dbe-b629-71fb8bbc3ac1",
+    "taxonNuid": "00100700300200200100w00p00d001",
+    "gbifNubkey": 2391092,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-211-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-211-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-211-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 375,
+    "vernacular": {
+        "en": "Leerfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Leerfish",
+            "Garrick",
+            "Pampano"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>This diverse family includes a wide variety of mostly larger, powerful, predatory species including various regional species of kingfish, queenfish, trevallies, pompanos, etc., many of which are of commercial importance. However, the family is much more diverse in more tropical waters, with only a few representatives in the Western Cape.</p><p>The Leerfish can be recognized by its powerful, strongly laterally compressed, silvery-green body, pointed head, large mouth, and elongate forked tail. The anterior sections of both the dorsal and anal fins project into matching pointed lobes. The dark lateral line is characteristic, curving upwards over the pectoral fin and then down again behind it. &nbsp;</p><p>Juveniles are yellow with 6–7 black vertical stripes across the hind portion of the body.</p>",
+            "shortTextKey": "taxon_text_1_3536",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 150 cm total length and a mass of up to 32 kg.</p>",
+            "shortTextKey": "taxon_text_2_3537",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed from Europe and the Mediterranean and along the west coast of Africa, around Southern Africa to Mozambique.</p><p><u>Local/Regional:</u> Whole region from Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_3538",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Adults found close to the shore in clear water, both in estuaries and in the open sea; juveniles mostly in estuaries. Voracious predators of shoaling fish. Adults may migrate considerable distances, some moving up the east coast along with the sardine run.</p><p>Fast growing and reach sexual maturity at about 75–80 cm (at age only 3–4 years), reaching 90–150 cm by age 5–9 years.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_3539",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small juveniles feed on mysids, shrimps and small fish and can swallow prey up to 70% of their own length!<strong> </strong>Large juveniles feed mostly on estuarine fish such as sardines and mullet. Adults exclusively piscivorous and feed on shoaling fish, sometimes hunting in packs and causing prey to jump wildly out of the water.</p>",
+            "shortTextKey": "taxon_text_5_3540",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most adults spawn along the KwaZulu-Natal coast from September to November.</p>",
+            "shortTextKey": "taxon_text_6_3541",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of only a few large inshore carangids in the region and can be recognised by the very compressed body and unusual shape of the lateral line.</p>",
+            "shortTextKey": "taxon_text_7_3542",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 312).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 308).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 4 (p. 54). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 652).",
+            "shortTextKey": "taxon_text_8_3543",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-211-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-211-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-211-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-211-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-211-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-211-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Centronotus vadigo",
+            "taxonAuthor": "Lacepède, 1801"
+        },
+        {
+            "taxonLatname": "Caesiomorus amia",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Porthmeus argenteus",
+            "taxonAuthor": "Valenciennes, 1833"
+        },
+        {
+            "taxonLatname": "Scomber amia",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Hypachantus amia",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Scomber flexuosus",
+            "taxonAuthor": "Lichtenstein, 1823"
+        },
+        {
+            "taxonLatname": "Hypacantus amia",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Campogramma vadigo",
+            "taxonAuthor": "(Lacepède, 1801)"
+        },
+        {
+            "taxonLatname": "Caranx amia",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

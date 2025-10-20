@@ -1,0 +1,204 @@
+{
+    "taxonLatname": "Marginella rosea",
+    "taxonAuthor": "Lamarck, 1822",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "18137706-dd4d-45cf-a69b-bfccc8bc856b",
+    "taxonNuid": "00100k00700300e00l004004007065",
+    "gbifNubkey": 5727508,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2216-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2216-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2216-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 284,
+    "vernacular": {
+        "en": "Pinch-lipped marginella"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pinch-lipped marginella",
+            "pinch-kipped marginella"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As a group marginellids are fairly distinctive. They have a smooth, glossy shell with an elongate, narrow aperture and a correspondingly short spire. The outer lip is thickened (unlike in cone shells for example) and the inner lip bears a series of distinctive ridges or pleats. There is no operculum and in live specimens the broad foot is often brightly patterned. Species identification in much more complicated, as there are a large number of often localized species (over 60 in South Africa), many with similar colour patterns. Only a few of the more distinctive and common species are treated in this guide.</p><p>This species is one of the most common on the Cape Peninsula and is best recognized by a distinctive concavity in the inner margin of the outer lip near ‘shoulder’ level, but this is unfortunately never visible in images of live animals! Otherwise, it is identified by the attractive pink and brown (‘rosy’) flares that run longitudinally and spirally around the shell. The foot is off-white with bright white patches and red spots.</p>",
+            "shortTextKey": "taxon_text_1_2656",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell typically 18-29 mm long.</p>",
+            "shortTextKey": "taxon_text_2_2657",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Restricted distribution between Saldanha Bay and Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_2658",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Quite common low in the intertidal and in shallow water, usually under boulders or in sandy pools. Crawls rapidly along with the siphon held upright and the enlarged and beautifully patterned foot extended.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2659",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Predatory, feeding on other gastropods. Details unknown for this species, but related species immobilize their prey with a poison gland, envelop the victim in the foot and drag it beneath the sand surface for consumption.</p>",
+            "shortTextKey": "taxon_text_5_2660",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Members of the group lay domed or lens-shaped egg capsules that are attached to rocks of shells. Each capsule contains a single embryo.</p>",
+            "shortTextKey": "taxon_text_6_2661",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are many similar species in this group, and this one is best recognized by the distinctive notch in the outer lip, after which the common name is derived. There are several other similarly-coloured species in the region though and thus identifications made without examining the shell should be treated with caution. Distinguished from the larger <i>M. nebulosa</i> by pinker and more intricate colour pattern, smaller size and occurrence in the intertidal.</p>",
+            "shortTextKey": "taxon_text_7_2662",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 200)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 114).<br><br>Veldsman, SG (2019). Taxonomic review of the genus <i>Marginella</i>: dividing the African coast into marine provinces and Sub-Provinces. PhD Thesis. University of Pretoria, Pretoria, South Africa.",
+            "shortTextKey": "taxon_text_8_2663",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2216-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2216-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2216-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2216-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2216-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2216-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2249-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2249-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2249-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2252-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2252-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2252-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2220-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2220-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2220-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2217-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2217-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2217-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2219-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2219-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2219-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-113-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-113-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-113-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Roseamarginella rosea",
+            "taxonAuthor": "(Lamarck, 1822)"
+        },
+        {
+            "taxonLatname": "Marginella (Roseamarginella) rosea",
+            "taxonAuthor": "Lamarck, 1822"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

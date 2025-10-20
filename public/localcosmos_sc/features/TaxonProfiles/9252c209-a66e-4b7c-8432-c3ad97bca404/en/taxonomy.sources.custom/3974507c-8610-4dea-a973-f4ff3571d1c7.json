@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Chamberlainium natalense (Foslie)",
+    "taxonAuthor": "Puckree-Padua, Haywood, P. W. Gabrielson & Maneveldt, 2020",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "3974507c-8610-4dea-a973-f4ff3571d1c7",
+    "taxonNuid": "003002001003003",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1188-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1188-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1188-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 720,
+    "vernacular": {
+        "en": "Natal coralline crust"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Natal coralline crust"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Spongites yendoi</i></p>",
+            "shortTextKey": "taxon_text_9_7051",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms thin, continuous sheets in which individuals merge without forming distinct contact ridges, so appears as a single individual. Sheets have a rough texture, but lack distinct knobs. Characteristically associated with the gardening limpet <i>Scutellastra cochlear</i>. Colour pinkish-purple in shady areas, but can fade to chalky-grey or white in the sun.</p><p>The taxonomy of this entity is complex. The original name <i>Spongites yendoi</i> remains as a valid species and was described from Japan, but the South African form was recognised as a separate species in 2020.</p>",
+            "shortTextKey": "taxon_text_1_7052",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically only about 0.5 mm thick, but can spread over large areas of rock, with individuals indistinct.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7053",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u><i>&nbsp;</i> Cape Peninsula to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_7054",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Forms extensive sheets in the lower intertidal associated with the gardening limpet <i>Scutellastra cochlear</i>, growing both on the backs of the limpets and on the rock between them. The limpets feed both on the coralline and on several species of small algae that form narrow gardens around the limpet.</p>",
+            "shortTextKey": "taxon_text_4_7055",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7056",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Conceptacles low-domed with a single pore.</p>",
+            "shortTextKey": "taxon_text_6_7057",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several local cryptic species in this genus, each with different textures and distributions (see references below).&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7058",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 418). <br><br>Puckree-Padua, CA, Gabrielson, PW & Maneveldt, GW (2021). DNA sequencing reveals three new species of<i> Chamberlainium</i> (Corallinales, Rhodophyta) from South Africa, all formerly passing under <i>Spongites yendoi</i>. <i>Botanica Marina</i>, 64(1), 19-40.<br><br>Puckree-Padua, CA, Gabrielson, PW & Maneveldt, GW (2022). <i>Chamberlainium</i> (Corallinales, Rhodophyta) in South Africa, an exemplar for the study of coralline algae, description of <i>C. tenue</i> sp. nov., biogeography of the genus, and species keys. <i>South African Journal of Botany</i>, 150, 178-193.<br><br>Puckree-Padua, CA, Haywood, A, Gabrielson, PW & Maneveldt, GW (2020). Reassignment of some South African species to Chamberlainium, with a comment about the recognition of families of Corallinales (Rhodophyta). <i>Phycologia</i>, 59(6), 464-496.",
+            "shortTextKey": "taxon_text_8_7059",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1188-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1188-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1188-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1188-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1188-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1188-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

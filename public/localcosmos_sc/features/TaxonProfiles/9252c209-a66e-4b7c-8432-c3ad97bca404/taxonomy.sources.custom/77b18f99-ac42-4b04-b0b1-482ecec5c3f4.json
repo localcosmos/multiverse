@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Dictyota naevosa (Suhr)",
+    "taxonAuthor": "Montagne, 1840",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "77b18f99-ac42-4b04-b0b1-482ecec5c3f4",
+    "taxonNuid": "003001008001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1006-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1006-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1006-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 693,
+    "vernacular": {
+        "en": "Spotted dictyota"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spotted dictyota"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Erect thallus emerging from a holdfast of matted rhizoids branches dichotomously several times, final fronds about 1 cm wide and pale brown to yellowish-brown, often with a bluish tinge. Oval reproductive sori form dark marks on both surfaces of fronds, each elongate-oval, about 1.5 mm long and often with hair-tufts.</p>",
+            "shortTextKey": "taxon_text_1_6809",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Forms fairly large tufts, typically about 35 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_6810",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread with records from South Africa, Canary Islands, Senegal, Japan, Australia.</p><p><u>Local/Regional:</u><i> </i>False Bay to KwaZulu-Natal</p>",
+            "shortTextKey": "taxon_text_3_6811",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common in lowshore pools and on shallow reefs on wave-exposed coasts.</p>",
+            "shortTextKey": "taxon_text_4_6812",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6813",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating generations of similar looking spore-producing sporophytes and separate male and female gametophytes.</p>",
+            "shortTextKey": "taxon_text_6_6814",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several regional species in the genus. <i>D. liturata</i> has a similar range but narrower fronds with much more extensive branching.</p>",
+            "shortTextKey": "taxon_text_7_6815",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 382). <br><br>De Clerck, O, Bolton, JJ, Anderson, RJ & Coppejans, E (2005). Guide to the seaweeds of KwaZulu-Natal. <i>Scripta Botanica Belgica</i>, 33: 1-294 (p. 106).<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 169).",
+            "shortTextKey": "taxon_text_8_6816",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1006-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1006-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1006-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1006-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1006-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1006-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

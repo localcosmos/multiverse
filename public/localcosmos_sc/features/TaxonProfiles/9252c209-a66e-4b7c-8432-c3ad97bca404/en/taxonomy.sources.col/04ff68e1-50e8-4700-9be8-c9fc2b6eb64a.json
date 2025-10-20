@@ -1,0 +1,151 @@
+{
+    "taxonLatname": "Cotula discolor",
+    "taxonAuthor": "(DC.) J. C. Manning & Mucina",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "04ff68e1-50e8-4700-9be8-c9fc2b6eb64a",
+    "taxonNuid": "00600600500400300108i00f",
+    "gbifNubkey": 9449093,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2782-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2782-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2782-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1001,
+    "vernacular": {
+        "en": "Beach buttons"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beach buttons"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Previously misidentified as Cotula sericea.</i></p>",
+            "shortTextKey": "taxon_text_9_9447",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Creeping perennial herb with finely divided fern-like leaves. Flower heads are small yellow buttons borne on a branching stem. The flower heads have a narrow outer rim of very short petals.</p>",
+            "shortTextKey": "taxon_text_1_9448",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants about 20 cm tall but occur in creeping mats at least 1 m across, leaves about 60 mm and flowers about 8 mm across.</p>",
+            "shortTextKey": "taxon_text_2_9449",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa. Naturalised in New Zealand.</p><p><u>Local/Regional:</u> Along the coasts of Cape Provinces.</p>",
+            "shortTextKey": "taxon_text_3_9450",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fast-growing evergreen species found along the coast extending almost down to high water mark. The button-like flowers are borne on long stalks that extend above the leaves. Until recently confused with the inland <i>C. sericia,</i> but in 2013 the coastal form was separated off and given a separate name.</p><p>Has been introduced to New Zealand.</p>",
+            "shortTextKey": "taxon_text_4_9451",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic</p>",
+            "shortTextKey": "taxon_text_5_9452",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers mainly in autumn and winter.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9453",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are some 50 species in this genus, of which about 20 occur in the fynbos region, so species level identification can be difficult. The seashore habits of this species and the deeply divided, fern-like leaves are the best traits for identification.</p>",
+            "shortTextKey": "taxon_text_7_9454",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2782-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2782-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2782-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2782-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2782-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2782-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cenia discolor",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Cenia pectinata",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Cotula mariae",
+            "taxonAuthor": "K. Bremer & Humphries"
+        },
+        {
+            "taxonLatname": "Cotula sericea var. discolor",
+            "taxonAuthor": "(DC.) Harv."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

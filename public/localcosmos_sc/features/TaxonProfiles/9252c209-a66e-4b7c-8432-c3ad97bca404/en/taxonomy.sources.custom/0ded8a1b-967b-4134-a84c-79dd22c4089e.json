@@ -1,0 +1,165 @@
+{
+    "taxonLatname": "Janthina spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0ded8a1b-967b-4134-a84c-79dd22c4089e",
+    "taxonNuid": "001005002001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2203-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2203-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2203-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 591,
+    "vernacular": {
+        "en": "Bubble-raft shells"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Bubble-raft shells",
+            "Janthina spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Several similar species occur in the region and are difficult to identify from photographs, which tend not to show taxonomically important features, such as the aperture shape. The genus is thus presented here as a group.</p><p>Easily identified to genus by their thin, very fragile, violet, globular shells and their unique habit of floating upside-down on the sea-surface beneath a raft of mucus-coated bubbles. Operculum absent, body blue to violet.</p>",
+            "shortTextKey": "taxon_text_1_5835",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 34 mm long.</p>",
+            "shortTextKey": "taxon_text_2_5836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> World-wide in temperate seas.</p><p><u>Local/Regional:</u> Whole region, but more common on Indian Ocean coast.</p>",
+            "shortTextKey": "taxon_text_3_5837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A remarkable group of planktonic gastropods that spend their entire lives floating beneath the surface of the ocean, hanging beneath a raft of mucus-covered bubbles secrete by the foot. Frequently washed ashore after storms. The shell is unusually reverse countershaded, because of its upside down position in the water column. It is thus darker on the upward-facing aperture side, disguising it against the dark ocean when viewed from above, but paler on the spire side, making it less visible against the bright sky when viewed from below!</p>",
+            "shortTextKey": "taxon_text_4_5838",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Predators, feeding on pelagic hydroids such as the Bluebottle <i>Physalia physalis</i>, the Blue button <i>Porpita porpita</i> and the By-the-wind sailor <i>Velella velella</i>.</p>",
+            "shortTextKey": "taxon_text_5_5839",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Protandrous hermaphrodites, starting adult life as males and later changing to become females. Most species lay pear-shaped eggs capsules and attach these to the underside of the float. A single float may carry up to 400 egg cases of varying ages and these become darker as they mature towards the distal end of the float. There may be 75-7500 larvae per egg case (depending on species) and these hatch into planktonic larvae. The largest species <i>J. janthina</i> is an exception in this regard, as it broods the young within the ovary and does not lay egg cases.</p>",
+            "shortTextKey": "taxon_text_6_5840",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several related species that occur on the same shores. The large <i>J. janthina</i> has a squarish, dark aperture, while <i>J. globulosa </i>has an elongate, pear–shaped aperture and <i>J. pallida</i> a very pale shell that is only purple anteriorly. In <i>J. exigua</i> the shell is ornamented with fine ridges that form a v-shaped notch in the aperture where they meet.&nbsp;&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_5841",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 188)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 79).",
+            "shortTextKey": "taxon_text_8_5842",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2203-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2203-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2203-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2203-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2203-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2203-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2201-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2201-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2201-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2165-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2165-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2165-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-724-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-724-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-724-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

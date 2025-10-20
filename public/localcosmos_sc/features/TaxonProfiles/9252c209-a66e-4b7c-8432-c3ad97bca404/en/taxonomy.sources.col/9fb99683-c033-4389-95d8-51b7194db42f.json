@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Sphaeramene polytylotos",
+    "taxonAuthor": "Barnard, 1914",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9fb99683-c033-4389-95d8-51b7194db42f",
+    "taxonNuid": "00100300a00800e00400402q003",
+    "gbifNubkey": 2207063,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-653-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-653-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-653-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 176,
+    "vernacular": {
+        "en": "Button-tuberculed isopod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Button-tuberculed isopod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Distinctive species, in that the dorsal surface of the entire body is covered in large, flat-topped, almost button-like tubercles arranged in transverse rows across each body segment.</p><p>The pleotelson is also tuberculate, but different in the two sexes. In males it is enlarged and terminates in an unusual keyhole-shaped notch, but in females the margins are entire. In both sexes the uropods are unusual in that the inner branch, which bears a row of dorsal tubercles, is slightly forked at its tip, whereas the outer branch is smooth and ends in an outwardly-curved point.</p>",
+            "shortTextKey": "taxon_text_1_1586",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 17 mm excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_1587",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Lüderitz in Namibia to Plettenerg Bay.</p>",
+            "shortTextKey": "taxon_text_3_1588",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found among mussels and barnacles on rocky shores, but also common among reefs of the Cape reef worm, <i>Gunnarea gaimardi</i>.</p>",
+            "shortTextKey": "taxon_text_4_1589",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Thought to feed on filamentous and green algae and possibly other organic debris that collects in the habitat.</p>",
+            "shortTextKey": "taxon_text_5_1590",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods the eggs are retained within a marsupial pouch between the walking legs of females and hatch into fully-developed juveniles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1591",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are two described species in this genus from South Africa and these were separated by Kensley (1976) primarily by the form of the male pleotelson, but this was based on an error, as he mistakenly depicted the female of <i>S. microtylotos</i> as a male and thus stated that species to lack the keyhole-like notch at the end of the pleotelson. Now that we have found males (see that entry) we find that the male pleotelsons of both species are similar.</p><p>The species do still differ in the size and form of dorsal tubercles, which are much larger and more flat-topped in <i>S. polytylotos</i> and smaller and more conical in <i>S. microtylotos</i>. The distinction between these species is thus retained, although this should be confirmed by genetic analysis, as there is considerable variation on dorsal ornamentation between individuals.</p><p>Note that males of <i>Parisocladus</i> also show keyhole-shaped openings in the pleotelson, the function of which remains unknown. <i>Parisocladus </i>lack rows of dorsal tubercles on the thorax though.</p>",
+            "shortTextKey": "taxon_text_7_1592",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1914). Contributions to the crustacean fauna of South Africa. 3. Additions to the marine Isopoda, with notes on some previously incompletely known species. <i>Annals of the South African Museum</i>, 10, 325–442.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 92). <br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 112).",
+            "shortTextKey": "taxon_text_8_1593",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-653-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-653-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-653-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-653-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-653-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-653-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

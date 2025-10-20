@@ -1,0 +1,181 @@
+{
+    "taxonLatname": "Pelagia noctiluca",
+    "taxonAuthor": "(Forsskål, 1775)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "61cd2681-4692-44cb-84bb-5b376b4ae3cf",
+    "taxonNuid": "001008005002002003003004",
+    "gbifNubkey": 2264423,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1130-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1130-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1130-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 495,
+    "vernacular": {
+        "en": "Night-light jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Night-light jellyfish",
+            "mauve stinger",
+            "night-light jellyfish",
+            "phosphorescent jellyfish",
+            "pink jellyfish",
+            "purple jellyfish",
+            "purplestripped jelly"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly small species with a thin, hemispherical bell that is characteristically covered in small warts, is rough to the touch and (unusually) bears stinging cells on the bell surface. There are eight notches around the bell margin, each bearing a long, hollow, usually strongly-pigmented tentacle. Four long, frilly arms hang from the mouth area.</p><p>Colour variable, but often tinged with pink, purple or light brown. The pink to purple gonads are usually clearly visible though the bell.</p>",
+            "shortTextKey": "taxon_text_1_4760",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 100 mm bell diameter.</p>",
+            "shortTextKey": "taxon_text_2_4761",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> North Atlantic and Mediterranean, extending all down the west coast of Africa to South Africa. There are also reports from the Indian Ocean, Australia and New Zealand, but these may well represent different species within a closely-related complex and the true <i>P. noctiluca</i> is suspected to be an exclusively Atlantic form.</p><p><u>Local/Regional:</u> Namibia to about East London.</p>",
+            "shortTextKey": "taxon_text_3_4762",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in coastal waters where it may undergo seasonal blooms. Well known for its ability to emit light when disturbed.</p><p>Inflicts a painful sting and should not be handled, as even the bell bears nematocysts and these can remain active even after stranding. Stings can be painful and last 1-2 weeks, but are not normally dangerous.</p><p>Adults typically live for about 9 months.</p>",
+            "shortTextKey": "taxon_text_4_4763",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like many other jellyfish thought to feed primarily on a variety of small zooplankton, including fish larvae.</p>",
+            "shortTextKey": "taxon_text_5_4764",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Has an unusual reproductive system in that the bottom-dwelling polyp stage found in almost all other jellies, including others in this family, has been suppressed. Each medusa is either male or female and males and both sexes release gametes into the water which develop into planula larvae, which develop (via an ephyra stage resembling the usual benthic polyp) directly into tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_4765",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily identified by the unusual warts on the bell surface.</p>",
+            "shortTextKey": "taxon_text_7_4766",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gershwin, L & Gibbons, M (2009). <i>Carybdea branchi</i>, sp. nov., a new box jellyfish (Cnidaria: Cubozoa) from South Africa. <i>Zootaxa</i>, 2088, 41–50.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 52 as <i>C. robsoni</i>).",
+            "shortTextKey": "taxon_text_8_4767",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1130-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1130-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1130-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1130-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1130-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1130-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1128-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1128-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1128-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1129-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1129-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1129-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pelagia neglecta",
+            "taxonAuthor": "Vanhöffen, 1888"
+        },
+        {
+            "taxonLatname": "Pelagia parthenopensis",
+            "taxonAuthor": "Lesson, 1843"
+        },
+        {
+            "taxonLatname": "Pelagia rosacea",
+            "taxonAuthor": "Stiasny, 1914"
+        },
+        {
+            "taxonLatname": "Pelagia perla",
+            "taxonAuthor": "(Slabber, 1781)"
+        },
+        {
+            "taxonLatname": "Pelagia purpuroviolacea",
+            "taxonAuthor": "Stiasny, 1914"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

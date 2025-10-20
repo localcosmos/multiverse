@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Hydrocorella africana",
+    "taxonAuthor": "Stechow, 1921",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a7d36e57-733c-464f-b43e-8b014e4efc9b",
+    "taxonNuid": "00100800300100100400c009001",
+    "gbifNubkey": 2265850,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1161-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1161-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1161-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 486,
+    "vernacular": {
+        "en": "Long-ridged shell hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Long-ridged shell hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Unusual calcified hydroid that grows on the surfaces of gastropod shells, both while they are still alive and when subsequently occupied by hermit crabs. The colony starts as a thin, hard, chalky-white calcareous crust, but later develops complex ridges, elongate spines and fluted processes that extend well beyond the original shell and render the host shells virtually unidentifiable.</p><p>The feeding polyps are creamy white and have 5-12 tentacles, of which one or two are typically longer than the others. The reproductive individuals bear ball-like sporosacs and male and females occur on separate colonies.</p>",
+            "shortTextKey": "taxon_text_1_4670",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Polyps about 3 mm, colonies several cm across, completely covering host shells<i>.</i></p>",
+            "shortTextKey": "taxon_text_2_4671",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Orange River to Durban.</p>",
+            "shortTextKey": "taxon_text_3_4672",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Instantly recognizable species that is common on a wide range of both living gastropod shell and shells occupies by hermits. Initially fairly smooth, but later strongly spiked and ridged and may provide additional protection to the host.</p>",
+            "shortTextKey": "taxon_text_4_4673",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not studied, but presumed to feed on small particles and planktonic organisms in the water surrounding the host shell, perhaps also particles released by the feeding activities of the host.</p>",
+            "shortTextKey": "taxon_text_5_4674",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Male and female reproductive individuals (gonozooids) borne on different colonies, smaller than feeding individuals (about 0.5 mm in length), have rudimentary tentacles and bear several sporosacs. Female sporosacs each bear a single egg which develops<i> in situ </i>into a planula larva.</p>",
+            "shortTextKey": "taxon_text_6_4675",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by the calcareous skeleton, especially where this develops large external processes. Several other hydroid species also found on the surfaces of gastropod shells (for example <i>Hydractinia altispina</i> on the whelk<i> Nucella squamosa</i>), but these lack a calcareous skeleton and are usually restricted to a single gastropod host.</p>",
+            "shortTextKey": "taxon_text_7_4676",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 25).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 58).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 116).",
+            "shortTextKey": "taxon_text_8_4677",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1161-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1161-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1161-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1161-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1161-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1161-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1162-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1162-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1162-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1159-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1159-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1159-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Top left: Section through colony skeleton showing calcareous process and contracted hydranths</p><p>Top right: Gastrozooids</p><p>Bottom: colony with processes, completely covering shell previously inhabited by a hermit crab</p><p>Scale bar units in mm.</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1160-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1160-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1160-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

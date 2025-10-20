@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Aldisa sp. 1",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0384fb8f-dccf-4431-9e60-fd2137ddc829",
+    "taxonNuid": "001005002004001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1471-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1471-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1471-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 828,
+    "vernacular": {
+        "en": "Clouded toothy dorid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Clouded toothy dorid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A small, oval-bodied, pale-coloured dorid with an orange warty surface. The head is pale orange and warty with slightly darker rhinophores. The body has indistinct darker blotches and a broad marginal band of opaque white spots. The gills are small and pale orange. The posterior end of the foot is rounded and warty.</p>",
+            "shortTextKey": "taxon_text_1_8024",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 30 mm.</p>",
+            "shortTextKey": "taxon_text_2_8025",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> Western False Bay, probably endemic, 22–30 m in depth.</p>",
+            "shortTextKey": "taxon_text_3_8026",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Rarely seen, though has been found on rocky reefs.</p>",
+            "shortTextKey": "taxon_text_4_8027",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not yet known for this species.</p>",
+            "shortTextKey": "taxon_text_5_8028",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic.</p>",
+            "shortTextKey": "taxon_text_6_8029",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species can be confused with the Blotchy tentacled dorid, <i>Geitodoris capensis</i>, but is distinguished by the white-spotted marginal band.</p>",
+            "shortTextKey": "taxon_text_7_8030",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 118).",
+            "shortTextKey": "taxon_text_8_8031",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1471-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1471-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1471-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1471-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1471-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1471-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Mysidopsis major",
+    "taxonAuthor": "(Zimmer, 1928)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ad2e197c-de51-43cf-a01c-2f68ccfc9754",
+    "taxonNuid": "00100300a00b00202o00v",
+    "gbifNubkey": 2221199,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-576-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-576-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-576-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 74,
+    "vernacular": {
+        "en": "Kelp mysid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Kelp mysid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Paramysidopsis major</i></p>",
+            "shortTextKey": "taxon_text_9_594",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Mysids are small, often transparent shrimps in which the legs lack nippers. The abdomen ends in a tail fan formed of an elongate central telson and a single pair of large, branched uropods.<strong> </strong>A characteristic small round statocyst or balancing organ, is found at the base of the inner ranch of the uropod.<i> </i>In this species the apex of the telson is broadly rounded and lines by series of marginal spines which become longer towards the apex.</p><p>Mysids can be either benthic or free-swimming and this species characteristically forms large swarms in shallow water, particularly associated with kelp beds.</p>",
+            "shortTextKey": "taxon_text_1_595",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 12<strong> </strong>mm, excluding antennae/tentacles etc.</p>",
+            "shortTextKey": "taxon_text_2_596",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa and Namibia.</p><p><u>Local/Regional:</u> Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_597",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Occur in dense swarms in and around kelp-beds where they create an important food resource for fish and other predators.</p>",
+            "shortTextKey": "taxon_text_4_598",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Mysids are mostly filter feeders, creating a feeding current by beating the abdominal appendages and feeding on algae, detritus and zooplankton in the water column.</p>",
+            "shortTextKey": "taxon_text_5_599",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females have a conspicuous ventral brood pouch in which the eggs are brooded until they have developed fully into the adult form.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_600",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are numerous species in this and related genera in the region and these are distinguished mostly by details of the shape and spination of the uropods and telson. The habits of this particular species are unusual though and help identify it.</p>",
+            "shortTextKey": "taxon_text_7_601",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Wooldridge, TH (1988). A new species of <i>Mysidopsis</i> (Mysidacea) from coastal waters of Southern Africa and a key to the known species from the subcontinent. <i>Annals of the South African Museum</i>, 98 (4), 93-103.",
+            "shortTextKey": "taxon_text_8_602",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-576-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-576-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-576-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-576-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-576-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-576-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

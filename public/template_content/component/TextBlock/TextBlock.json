@@ -1,0 +1,18 @@
+{
+  "templateName" : "TextBlock",
+  "type": "component",
+  "version": 1,
+  "identifierContent": "text",
+  "contents": {
+    "text": {
+      "type": "text",
+      "widget": "Textarea",
+      "format": "layoutable-full",
+      "required": true
+    },
+    "image": {
+      "type": "image",
+      "required": false
+    }
+  }
+}

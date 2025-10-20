@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Galathea labidolepta",
+    "taxonAuthor": "Stimpson, 1858",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a03ae256-eac6-459a-a5bf-0963b20946a3",
+    "taxonNuid": "00100300a006002002003001006029",
+    "gbifNubkey": 5716675,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2738-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2738-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2738-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 971,
+    "vernacular": {
+        "en": "Blue-spotted squat lobster"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Blue-spotted squat lobster"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Galathea intermedia</i></p>",
+            "shortTextKey": "taxon_text_9_9209",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Squat lobsters are anomuran crabs which have four pairs of visible pereiopods (walking legs), with a fifth reduced pair, usually hidden under the carapace (hard upper shell) or in the gill chamber.<strong> </strong>Squat lobsters<strong> </strong>superficially resemble true lobsters as they also hold their tails curled beneath their bodies, however squat lobsters are dorsoventrally flattened (from top to bottom) and are typically much smaller than true lobsters.</p><p>The Blue-spotted squat lobster is characterised by the carapace being roughly as long as it is broad, with 1–2 pairs of epigastric (just below the base of the rostrum) spines and mostly uninterrupted transverse ridges, while the lateral margins (the sides) each have 7 spines. The rostrum is broad with 4 deeply incised teeth on the sides.</p><p>The overall brick-red-orange colouration and blue (occasionally white) spots is characteristic. The pleon (hind body) is a lighter orange, often mottled, while the tail is white. Eyes generally green, while pincers and walking legs are orange with some mottling at the bases.</p>",
+            "shortTextKey": "taxon_text_1_9210",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to 7 mm.</p>",
+            "shortTextKey": "taxon_text_2_9211",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Durban Bay, 19–135 m.</p>",
+            "shortTextKey": "taxon_text_3_9212",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Lives on rocky reefs and consolidated habitats. Rarely encountered by divers as the species generally occurs deeper than the normal diving depth (though it was described from shallow-waters in Simon’s Town). Have been observed on coralline algae, sponges and hiding in shells such as empty barnacles.</p>",
+            "shortTextKey": "taxon_text_4_9213",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not specifically known for this species, though most species in the genus are scavengers.</p>",
+            "shortTextKey": "taxon_text_5_9214",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>All squat lobsters are gonochoric (separate sexes with males and females), with no hermaphrodites known currently. Males transfer a spermatophore to a female, which then is then attached to the ventral side of the female where the eggs are fertilized when spawned and attached underneath the tail where they develop until the larvae are ready to be released into the open water. Larvae are planktotrophic.</p>",
+            "shortTextKey": "taxon_text_6_9215",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species is the only squat lobster known from the Great African Seaforest and can hence not be confused with any others.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9216",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Botha, TPA (2024). A taxonomic revision of the squat lobsters (Anomura: Chirostyloidea and Galatheoidea) of South Africa. PhD thesis, University of Cape Town.<br><br>Botha, TPA, Griffiths, CL, Atkinson, LJ & Macpherson, E (2025). The Galatheidae (Anomura: Galatheoidea) of South Africa, with a description of a new species. <i>Zootaxa</i>, 5661(3), 330-350.<br><br>Macpherson, E & Robainas-Barcia, A (2015). Species of the genus <i>Galathea</i> Fabricius, 1793 (Crustacea, Decapoda, Galatheidae) from the Indian and Pacific Oceans, with descriptions of 92 species. <i>Zootaxa</i>, 3913, 1 – 335.",
+            "shortTextKey": "taxon_text_8_9217",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2738-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2738-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2738-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2738-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2738-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2738-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2739-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2739-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2739-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

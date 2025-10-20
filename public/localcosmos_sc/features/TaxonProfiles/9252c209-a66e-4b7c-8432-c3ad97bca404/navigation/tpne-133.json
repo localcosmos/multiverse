@@ -1,0 +1,511 @@
+{
+    "name": "True whelks",
+    "description": null,
+    "verboseName": "True whelks",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2251-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2251-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2251-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1166-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1166-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1166-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1169-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1169-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1169-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 1,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Argobuccinum pustulosum",
+            "taxonAuthor": "([Lightfoot], 1786)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2fcdc115-1745-44a9-9b2a-c9d87650c292",
+            "taxonNuid": "00100k00700300c00c004001001",
+            "slug": "argobuccinum-pustulosum",
+            "localizedSlug": {
+                "en": "pustular-triton"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1164-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1164-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1164-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1163-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1163-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1163-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1165-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1165-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1165-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-73-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-73-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-73-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1164-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1164-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1164-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Charonia lampas",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f578132e-9dde-4690-9a55-e82e6fa9c319",
+            "taxonNuid": "00100k00700300c00c003001002",
+            "slug": "charonia-lampas",
+            "localizedSlug": {
+                "en": "pink-lady"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2250-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2250-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2250-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-77-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-77-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-77-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2367-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2367-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2367-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1218-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1218-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1218-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1219-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1219-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1219-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2250-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2250-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2250-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Monoplex parthenopeus",
+            "taxonAuthor": "(Salis Marschlins, 1793)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "19da9cc8-b3bd-4c84-99c2-59becc6c0e94",
+            "taxonNuid": "00100k00700300c00c00400m00t",
+            "slug": "monoplex-parthenopeus",
+            "localizedSlug": {
+                "en": "giant-hairy-triton"
+            },
+            "images": [
+                {
+                    "text": "<p>Specimen from False Bay, Muizenberg</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1167-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1167-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1167-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Specimen from Zavora, Mozambique</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1179-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1179-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1179-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Specimen from Zavora, Mozambique</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1180-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1180-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1180-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "<p>Specimen from False Bay, Muizenberg</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1167-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1167-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1167-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Africofusus ocelliferus",
+            "taxonAuthor": "(Lamarck, 1816)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c149e0df-c549-4d7a-bb50-19e86266a6f2",
+            "taxonNuid": "00100k00700300e00200y003001004",
+            "slug": "africofusus-ocelliferus",
+            "localizedSlug": {
+                "en": "long-siphoned-whelk"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1172-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1172-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1172-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1170-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1170-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1170-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1171-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1171-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1171-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2269-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2269-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2269-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1172-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1172-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1172-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Lugubrilaria lugubris",
+            "taxonAuthor": "(A. Adams & Reeve, 1847)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "96c3bb53-e8ea-4339-9fd7-573f7e923c13",
+            "taxonNuid": "00100k00700300e00200y00200e002",
+            "slug": "lugubrilaria-lugubris",
+            "localizedSlug": {
+                "en": "short-siphoned-whelk"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-110-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-110-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-110-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-110-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-110-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-110-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Vaughtia fenestrata",
+            "taxonAuthor": "(A. Gould, 1860)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d1d64a4f-fc4b-4e3f-a1b2-261605effb65",
+            "taxonNuid": "00100k00700300e00900100f01k004",
+            "slug": "vaughtia-fenestrata",
+            "localizedSlug": {
+                "en": "fenestrate-oyster-drill"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-122-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-122-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-122-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-122-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-122-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-122-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Vaughtia purpuroides",
+            "taxonAuthor": "(Reeve, 1845)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "1acdb32e-c2a6-4c1a-a017-7503966b56d7",
+            "taxonNuid": "00100k00700300e00900100f01k00a",
+            "slug": "vaughtia-purpuroides",
+            "localizedSlug": {
+                "en": "purple-gridded-oyster-drill"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-123-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-123-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-123-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-123-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-123-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-123-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cabestana africana",
+            "taxonAuthor": "(A. Adams, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d1740531-f5fd-45dc-bb6b-4ee0219c1d7e",
+            "taxonNuid": "00100k00700300c00c004004001",
+            "slug": "cabestana-africana",
+            "localizedSlug": {
+                "en": "furry-ridged-triton"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1227-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1227-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1227-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2347-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2347-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2347-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1225-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1225-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1225-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1226-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1226-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1226-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1227-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1227-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1227-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ranella gemmifera",
+            "taxonAuthor": "(Euthyme, 1889)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c46a5562-fbd5-444e-bd82-9616072349ef",
+            "taxonNuid": "00100k00700300c00c007006004",
+            "slug": "ranella-gemmifera",
+            "localizedSlug": {
+                "en": "beaded-triton"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1228-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1228-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1228-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1229-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1229-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1229-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1228-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1228-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1228-1000.webp"
+                }
+            }
+        }
+    ]
+}

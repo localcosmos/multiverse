@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Aurelia spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "28215e3d-6534-4b30-b8e8-e123799f1df6",
+    "taxonNuid": "001004003001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-736-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-736-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-736-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 603,
+    "vernacular": {
+        "en": "Moon jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Moon jellyfish",
+            "Aurelia spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Delicate, saucer-shaped, transparent bell thickened towards the center. Eight equally-spaced notches present in the margin of the bell, which has a large number of short tentacles along its margin. Four frilly oral arms project from the underside. Four pigmented gonads are visible though the transparent bell. &nbsp;</p><p>The genus contains at least 25 described and many other undescribed forms. Many species are very similar to one another and accurate species-level identifications are difficult, so the group is only dealt with at genus level here.</p>",
+            "shortTextKey": "taxon_text_1_5965",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Bell up to about 400 mm across, but usually much smaller.</p>",
+            "shortTextKey": "taxon_text_2_5966",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Genus common in coastal waters globally.&nbsp;</p><p><u>Local/Regional:</u> Previously thought to be absent from South Africa, but this un-named species recently reported from SW Cape.</p>",
+            "shortTextKey": "taxon_text_3_5967",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually in coastal waters. Can become very common in some parts of the world and interfere with fishing operations by clogging and damaging fishing nets. Do not have dangerous stings.</p>",
+            "shortTextKey": "taxon_text_4_5968",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like many other jellyfish feed primarily on zooplankton. These may include the larvae of commercially important fish.</p>",
+            "shortTextKey": "taxon_text_5_5969",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Have a dimorphic life cycle, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and males release strings of sperm into the water which are sucked in by females to fertilise their eggs. Larvae are released into the water and ultimately settle onto hard surfaces where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_5970",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily recognised by the delicate transparent bell with its many marginal tentacles, as well as the opaque gonads.</p>",
+            "shortTextKey": "taxon_text_7_5971",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.",
+            "shortTextKey": "taxon_text_8_5972",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-736-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-736-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-736-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-736-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-736-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-736-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-737-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-737-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-737-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,179 @@
+{
+    "taxonLatname": "Galeichthys feliceps",
+    "taxonAuthor": "Valenciennes, 1840",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "73446d51-ebaa-44ec-9f00-2af1e85f3829",
+    "taxonNuid": "00100700300200200101400500f002",
+    "gbifNubkey": 2345208,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1787-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1787-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1787-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 428,
+    "vernacular": {
+        "en": "White sea-catfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "White sea-catfish",
+            "Barber",
+            "Barbel",
+            "Catfish",
+            "White baggar",
+            "White barbel",
+            "White seacatfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Distinctive scale-less species, most easily recognized by the two prominent barbels on the upper jaw and four on the lower jaw. The first dorsal and pectoral fins both bear a large serrate and venomous spine anteriorly. Tail deeply forked, with pointed tips. Colour plain greenish-brown with pure white belly.</p>",
+            "shortTextKey": "taxon_text_1_4066",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 42 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_4067",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Namibia to about East London.</p>",
+            "shortTextKey": "taxon_text_3_4068",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Benthic species, mostly found inshore on sand of shallow reefs and in estuaries, but extends to at least 102 m depth. The strong, serrated spines on the pectoral and dorsal fins are venomous and can inflict painful wounds, so fish should not be handled unnecessarily. Has unusual mouth-brooding habits (see details below). Mostly nocturnal and tends to shelter in caves and crevices by day.</p>",
+            "shortTextKey": "taxon_text_4_4069",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Juveniles are primarily scavengers, using their barbels to detect prey. Adults feed on a variety of crustaceans, polychaete worms and molluscs, as well as on other fish.</p>",
+            "shortTextKey": "taxon_text_5_4070",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females mature at 24 cm, males at 26 cm and spawning occurs mainly from September – December. As in other sea-catfish the eggs are extremely large (15–16 mm in diameter) and are mouth-brooded by the males. Each brood consists of an average of only 49 eggs and the male does not feed for the entire 3–4 month incubation period, over which times they may lose up to 24% of their total body weight.</p>",
+            "shortTextKey": "taxon_text_6_4071",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily recognised and few related species in the region. The Black sea-catfish <i>G. ater</i> is darker, has a tail fin with rounded tips and a darker, speckled belly.</p>",
+            "shortTextKey": "taxon_text_7_4072",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 112).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 2 (p. 192). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 218).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 212).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 47).",
+            "shortTextKey": "taxon_text_8_4073",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1787-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1787-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1787-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1787-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1787-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1787-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-267-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-267-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-267-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pimelodus peronii",
+            "taxonAuthor": "Valenciennes, 1840"
+        },
+        {
+            "taxonLatname": "Arius feliceps",
+            "taxonAuthor": "(Valenciennes, 1840)"
+        },
+        {
+            "taxonLatname": "Tachysurus feliceps",
+            "taxonAuthor": "(Valenciennes, 1840)"
+        },
+        {
+            "taxonLatname": "Bagrus capensis",
+            "taxonAuthor": "Smith, 1840"
+        },
+        {
+            "taxonLatname": "Bagrus feliceps",
+            "taxonAuthor": "(Valenciennes, 1840)"
+        },
+        {
+            "taxonLatname": "Pimelodus fossor",
+            "taxonAuthor": "Lichtenstein, 1823"
+        },
+        {
+            "taxonLatname": "Galeichthys ocellatus",
+            "taxonAuthor": "Gilchrist & Thompson, 1916"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

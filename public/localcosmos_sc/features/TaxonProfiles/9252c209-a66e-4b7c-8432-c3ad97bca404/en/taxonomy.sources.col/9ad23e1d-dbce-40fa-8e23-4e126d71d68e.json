@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Trididemnum cerebriforme",
+    "taxonAuthor": "Hartmeyer, 1913",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9ad23e1d-dbce-40fa-8e23-4e126d71d68e",
+    "taxonNuid": "001007002002001003009008",
+    "gbifNubkey": 2329900,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-669-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-669-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-669-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 155,
+    "vernacular": {
+        "en": "Brain ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Brain ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A very common colonial species forming thin, opaque encrustations on rocks, shells and other surfaces. The surface layer of the colony is densely packed with microscopic, star-shaped and protective spicules, such that the zooids beneath cannot be seen without dissection. As a result this and other didemnids are frequently mis-identified as sponges.</p><p>Colonies may be flat, or thrown into folds that fancifully represent those on the surface of the brain (hence name). The small, star-shaped inhalant siphons are evenly distributed and protrude slightly. The exhalent siphons of individual zooids pump into a common internal cavity, the water from this then existing the colony though much larger, more widely-spaced, smooth-edged and elevated openings (which can be confused with the oscula of sponges). Colour usually white, but may be grey or pinkish.</p>",
+            "shortTextKey": "taxon_text_1_1376",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooids minute (1 mm), but colonies up to about 100 mm across.</p>",
+            "shortTextKey": "taxon_text_2_1377",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widely distributed across Pacific and Indian Oceans.</p><p><u>Local/Regional:</u> About Saldanha Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_1378",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Little is known about the biology of this species other than that it is common, widely distributed and protected from predation by the internal spicules.</p>",
+            "shortTextKey": "taxon_text_4_1379",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1380",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expanded via asexual reproduction (budding of existing zooids), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1381",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The detailed taxonomy of this group is very confused (see Monniot reference below) and although the species was first described from South Africa, specimens from other regions may in fact represent other similar species. This is the most common of a number of very similar species in this and the closely-related genus <i>Didemnum </i>and which are extremely difficult to distinguish without microscopic examination.</p>",
+            "shortTextKey": "taxon_text_7_1382",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 250).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 39).",
+            "shortTextKey": "taxon_text_8_1383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-669-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-669-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-669-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-669-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-669-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-669-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Trididemnum luderitzi",
+            "taxonAuthor": "Michaelsen, 1919"
+        },
+        {
+            "taxonLatname": "Trididemnum africanum",
+            "taxonAuthor": "Michaelsen, 1915"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

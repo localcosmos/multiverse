@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Sycon spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "50b60796-7d24-406f-bf5e-21e0451d7862",
+    "taxonNuid": "00100e003",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1078-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1078-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1078-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 649,
+    "vernacular": {
+        "en": "Pineapple sponges"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pineapple sponges"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best though of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small opening on the body surface, removing fine particles and ejecting the waste water from one of more larger openings called oscula.</p><p>This genus belongs to the class Calcaria, which are characterized by having elongate calcium carbonate spicules, and has a distinctive vase-like shape with a prominent ring of stiff, elongate spicules surrounding the single terminal osculum, the whole organism resembling a small, white pineapple!</p><p>There are several local species and these are difficult to distinguish from photographs, so the group is treated at genus level here.</p>",
+            "shortTextKey": "taxon_text_1_6413",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 50 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_6414",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> There are over 100 species in this genus, which is found worldwide.&nbsp;</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_6415",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found singly or in small groups of separate individuals. Fairy common on vertical rock-faces or in gullies and pools, often attached to, or among, other benthic invertebrates, such as hydroids or bryozoans, or among algae.</p>",
+            "shortTextKey": "taxon_text_4_6416",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6417",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take to form of sending out root-like extension from which new individual bud, or by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6418",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Members of this genus are fairly easy to identify by the prominent crown of erect spicules around the aperture. Branching sponges of the genus <i>Leucosolenia </i>are also small, white and tubular, but the oscula lack spiky spicules. They are also colonial, with many branches emerging from a common base.</p>",
+            "shortTextKey": "taxon_text_7_6419",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 14). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 22).",
+            "shortTextKey": "taxon_text_8_6420",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1078-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1078-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1078-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1078-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1078-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1078-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1079-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1079-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1079-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-796-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-796-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-796-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

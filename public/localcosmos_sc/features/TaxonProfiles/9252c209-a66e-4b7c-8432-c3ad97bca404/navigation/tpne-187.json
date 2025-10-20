@@ -1,0 +1,411 @@
+{
+    "name": "Spiky & iridescent red algae",
+    "description": null,
+    "verboseName": "Spiky & iridescent red algae",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1881-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1881-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1881-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2717-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2717-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2717-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Caulacanthus ustulatus (Turner)",
+            "taxonAuthor": "Kützing, 1843",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "baf046ea-ae7c-43c1-8cd9-ad277dba69dc",
+            "taxonNuid": "003002005002001",
+            "slug": "caulacanthus-ustulatus-turner",
+            "localizedSlug": {
+                "en": "spiky-turf-weed"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1358-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1358-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1358-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1359-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1359-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1359-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1358-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1358-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1358-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Champia compressa",
+            "taxonAuthor": "Harvey, 1838",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "8597005f-ca1f-47c0-8d17-eb7cd5cb4388",
+            "taxonNuid": "003002006001001",
+            "slug": "champia-compressa",
+            "localizedSlug": {
+                "en": "compressed-champia"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1364-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1364-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1364-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2206-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2206-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2206-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2205-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2205-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2205-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2204-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2204-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2204-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1364-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1364-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1364-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Champia lumbricalis (Linnaeus)",
+            "taxonAuthor": "Desvaux, 1809",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "ea2357e5-0b13-4901-8e28-de8bc9727dff",
+            "taxonNuid": "003002006001002",
+            "slug": "champia-lumbricalis-linnaeus",
+            "localizedSlug": {
+                "en": "earthworm-champia"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1365-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1365-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1365-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1365-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1365-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1365-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chylocladia capensis",
+            "taxonAuthor": "Harvey, 1849",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "e8bd63e3-d7be-413b-a8ca-8531961cfc4e",
+            "taxonNuid": "003002006002001",
+            "slug": "chylocladia-capensis",
+            "localizedSlug": {
+                "en": "chylocladia"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1876-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1876-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1876-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1877-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1877-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1877-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1878-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1878-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1878-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1879-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1879-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1879-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1876-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1876-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1876-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hypnea ecklonii",
+            "taxonAuthor": "Suhr, 1836",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "76741ea0-63f5-43fc-b7a2-f45c8c146721",
+            "taxonNuid": "003002005005001",
+            "slug": "hypnea-ecklonii",
+            "localizedSlug": {
+                "en": "straight-tipped-hypnea"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1382-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1382-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1382-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1382-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1382-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1382-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Hypnea spicifera (Suhr)",
+            "taxonAuthor": "Harvey, 1847",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "a94c93f7-f7b6-4462-bf30-0957aa3e5f36",
+            "taxonNuid": "003002005005002",
+            "slug": "hypnea-spicifera-suhr",
+            "localizedSlug": {
+                "en": "green-tips"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1383-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1383-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1383-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1383-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1383-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1383-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Plocamium beckeri F. Schmitz ex",
+            "taxonAuthor": "Simons, 1964",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "d1ee3b27-db83-41e3-9912-9ab9890fd39c",
+            "taxonNuid": "00300200c001001",
+            "slug": "plocamium-beckeri-f-schmitz-ex",
+            "localizedSlug": {
+                "en": "beckers-plocamium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1407-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1407-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1407-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1407-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1407-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1407-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Plocamium corallorhiza (Turner)",
+            "taxonAuthor": "Hooker f. & Harvey, 1845",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "b4a9d049-ce67-4ec5-9c36-cae267958f00",
+            "taxonNuid": "00300200c001002",
+            "slug": "plocamium-corallorhiza-turner",
+            "localizedSlug": {
+                "en": "coral-plocamium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1408-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1408-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1408-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1408-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1408-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1408-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Plocamium suhrii",
+            "taxonAuthor": "Kützing, 1849",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "a243bec6-1fbc-42ef-80ee-eff50fd619da",
+            "taxonNuid": "00300200c001003",
+            "slug": "plocamium-suhrii",
+            "localizedSlug": {
+                "en": "suhrs-plocamium"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1428-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1428-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1428-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1428-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1428-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1428-1000.webp"
+                }
+            }
+        }
+    ]
+}

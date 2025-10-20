@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Cymbula granatina",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f8ac46fa-77f9-4a3a-97da-571e2c735cd1",
+    "taxonNuid": "00100k00700m002002002006",
+    "gbifNubkey": 5857994,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-127-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-127-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-127-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 296,
+    "vernacular": {
+        "en": "Granite limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Granite limpet",
+            "granite limpet",
+            "sandpaper limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Patella granatina</i></p>",
+            "shortTextKey": "taxon_text_9_2775",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell cap-shaped, large, moderately tall and heavy. Outer surface grayish, usually marked with distinctive granite-like chevron or zig-zag patterns and with about 15 major radiating ribs that project moderately beyond the margin, the posterior 5 ribs being stronger than the others. Outer surface often heavily eroded though and colour pattern then lost. Inner surface of shell with narrow black margin and chocolate-brown to black centre, separated by a broad white or brown/yellow mottled band. Juveniles much flatter and attractively flecked with radiating rows of iridescent green spots.</p>",
+            "shortTextKey": "taxon_text_1_2776",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell large, up to 80 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2777",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Northern Namibia to about Danger Point.</p>",
+            "shortTextKey": "taxon_text_3_2778",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A large and often common species that is a characteristic resident of the mid to low intertidal zone. Most abundant along the west coast, where it attains spectacular densities, especially in sheltered bays. Occupies a home scar when the tide is out and when wetted ranges up to about 75 cm away from the home scar to graze on algae and diatoms.</p><p>Grows more slowly and lives longer than the similar and co-occurring <i>C. oculus</i>, attaining 35 mm in the first year and reaching maximum size after about 7-8 years, which is also the calculated life-expectancy.</p>",
+            "shortTextKey": "taxon_text_4_2779",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on a variety of algae, as well as on diatoms. The vast congregations often found in sheltered bays along the west coast appear to subsist mostly on drift algae that accumulate in these sites.</p>",
+            "shortTextKey": "taxon_text_5_2780",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and has an exceptionally large gonad that can account for 50% of the flesh weight when mature. The sex ratio is 82 females per 100 males. Spawning takes place once a year, gonads reaching peak maturity in May, with spawning taking place in June. Fecundity is the greatest of all regional species examined at 4-5.5 million eggs per female. Broadcast spawner, fertilization and larval development taking place in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_2781",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Most easily confused with the Goat’s eye limpet <i>C. oculus</i> which has a similar shell shape and habitat. However, <i>C. oculus</i> is most common on the south coast, has more even and fewer ribs and lacks the zig-zag exterior patterning. The interior of the shell also has a broad black margin and a white/cream centre.</p>",
+            "shortTextKey": "taxon_text_7_2782",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, GM (1971). The ecology of <i>Patella</i> Linnaeus from the Cape Peninsula, South Africa I. Zonation, movements and feeding. <i>African Zoology</i>, 6(1), 1-38.<br><br>Branch, GM (1974). The ecology of <i>Patella</i> Linnaeus from the Cape Peninsula, South Africa. 2. Reproductive cycles. <i>Transactions of the Royal Society of South Africa</i>, 41(2), 111-160.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 168).",
+            "shortTextKey": "taxon_text_8_2783",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-127-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-127-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-127-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-127-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-127-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-127-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-128-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-128-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-128-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Patella granatina",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Patella chlorosticta",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Patella septemradiata",
+            "taxonAuthor": "Fischer von Waldheim, 1807"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

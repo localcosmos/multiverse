@@ -1,0 +1,175 @@
+{
+    "taxonLatname": "Heteromycteris capensis",
+    "taxonAuthor": "Kaup, 1858",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f8a85d4b-90ac-4ed9-93d6-b6f5291cbbe4",
+    "taxonNuid": "00100700300200200100y00b00d001",
+    "gbifNubkey": 2410231,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1324-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1324-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1324-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 422,
+    "vernacular": {
+        "en": "Cape sole"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape sole",
+            "Sole"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Soles (and the related flounders) are easily recognized as a group, as they have become extremely flattened and lie on their left sides, often partially buried in sediment. The eye from the lower, unpigmented, side of the body has migrated to the upper side, which is typically cryptically patterned. Identification to species level is difficult, as there are about 50 regional species and colour patterns are both extremely variable within species and can quickly change in the same individual to match the background.</p><p>This species completely lacks a pectoral fin and has a distinctively hooked snout that curves over the mouth. The dorsal and anal fins are separated from the tail fin. Colour variable, but usually grayish-brown with distinctive small dark specks; sometimes there are also three vague larger dark spots along the lateral line.</p>",
+            "shortTextKey": "taxon_text_1_4006",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small, up to only about 15 cm.</p>",
+            "shortTextKey": "taxon_text_2_4007",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia and South Africa.</p><p><u>Local/Regional:</u> Namibia to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_4008",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common in shallow waters to a depth of about 25 m. Juveniles abundant in estuaries. Lies on its side, often shallowly buried in sand, with just the eyes protruding. If disturbed swims on its side with an undulating movement, usually moving only a short distance before burying again in the sand.</p>",
+            "shortTextKey": "taxon_text_4_4009",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Details unknown, but probably an ambush predator of small benthic invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_4010",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Spawning peaks in summer. Juveniles mostly in estuaries or shallow protected sandy areas.</p>",
+            "shortTextKey": "taxon_text_6_4011",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The lack of a pectoral fin and hooked snout are useful identification features, as is the speckled colour pattern. Can be confused with the Blackhanded sole <i>Solea turbynei</i> which is similar in size and habits, but has a distinctive short, round, black pectoral fin. The East coast sole <i>Austroglossus pectoralis</i> grows much larger (60 cm) and also has a dark pectoral fin, but this is elongate and pointed.</p>",
+            "shortTextKey": "taxon_text_7_4012",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 336).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 438).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 236).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 871).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 72).",
+            "shortTextKey": "taxon_text_8_4013",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1324-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1324-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1324-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1324-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1324-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1324-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2410-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2410-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2410-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1323-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1323-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1323-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2603-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2603-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2603-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-261-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-261-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-261-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,153 @@
+{
+    "taxonLatname": "Electra pilosa",
+    "taxonAuthor": "(Linnaeus, 1767)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d372a574-9abd-449d-b5b0-27869fb968d7",
+    "taxonNuid": "00100500100100h00100200c00m",
+    "gbifNubkey": 4984866,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-384-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-384-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-384-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 529,
+    "vernacular": {
+        "en": "Hairy lace bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hairy lace bryozoan",
+            "hairy sea-mat"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Electra verticellata</i></p>",
+            "shortTextKey": "taxon_text_9_5079",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony a flat, cream, elongate sheet growing on and around the fronds of various algae. On narrow-bladed algae, such as Strap caulerpa (<i>Caulerpa filiformis</i>) often completely enclose the algal frond. Colonies formed of regularly-arranged, transverse rows of zooids, and appears ‘hairy’.</p><p>Examined closely, the individual zooecia are about 1 mm long and elongate with a narrow base from which they expand distally. Surfaces of zooecia perforated by round pores. The dark opening is flanked by one very long, tapering spine and four short spines. The long hair-like spines may be broken off in wave-exposed colonies.</p>",
+            "shortTextKey": "taxon_text_1_5080",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 5-10 cm long.</p>",
+            "shortTextKey": "taxon_text_2_5081",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Europe, but also found in South Africa and in Australia and New Zealand (where considered introduced). It is debatable whether the South Africa form is native, introduced, or represents an undescribed species.</p><p><u>Local/Regional:</u> Port Nolloth to Durban, but mostly on west coast.</p>",
+            "shortTextKey": "taxon_text_3_5082",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly on the blades of various algae, sometimes completely covering and obscuring the blades of narrow-bladed species. Specimens on different substrata vary considerably in form and this complicates both identification and global taxonomy of the species.</p>",
+            "shortTextKey": "taxon_text_4_5083",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5084",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The colony is hermaphrodite, but individual zooids male or female. Colonies expand by budding new zooecia along the margin. New colonies arise from sexual reproduction, with males liberating sperm into the water which is gathered by females to internally fertilise their up to 30 eggs, which they then release into the plankton. In Europe larvae are present year-round, suggesting a long larval duration. Larvae use olfactory cues to find suitable substrata and settle mostly in summer to found new colonies.</p>",
+            "shortTextKey": "taxon_text_6_5085",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the Membranous lace animal <i>Jellyella tuberculata</i> which forms similar rounded, white colonies on algae, but mostly on the red alga <i>Epymenia obtusa</i>. The structure and arrangement of the zooecia also differs, those of <i>J. tuberculata</i> being hexagonal, arranges in concentric circles and lacking elongated spines. Could also be confused with Rustic lace animal <i>Membranipora rustica</i>, but that only occurs on kelps, has elongate, rectangular zooecia in alternating rows (like a brick wall) and lacks spines.</p>",
+            "shortTextKey": "taxon_text_7_5086",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 136).<br><br>Day, JH (1969). A Guide to marine Life on South African Shores. AA Balkema, Cape Town. (p. 127).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 11).",
+            "shortTextKey": "taxon_text_8_5087",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-384-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-384-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-384-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-384-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-384-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-384-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-385-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-385-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-385-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

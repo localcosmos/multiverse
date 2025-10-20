@@ -1,0 +1,225 @@
+{
+    "taxonLatname": "Epinephelus marginatus",
+    "taxonAuthor": "(Lowe, 1834)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0523a26a-4c09-4c7d-83fa-b960361a79f7",
+    "taxonNuid": "00100700300200200100w03x00s01i",
+    "gbifNubkey": 2388507,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1579-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1579-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1579-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 852,
+    "vernacular": {
+        "en": "Yellowbelly rockcod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Yellowbelly rockcod",
+            "Duskey grouper",
+            "Dusky grouper",
+            "Dusky perch",
+            "Dusky sea perch",
+            "Seabass",
+            "Yellowbelly grouper"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Numerous species of this family occur in the warmer waters along the east coast of south Africa, but this is one of very few which extend to the Western Cape.</p><p>A robust fish with a large mouth and eye and a brown body that fades to paler golden-yellow ventrally and is speckled with numerous white spots and blotches. The dark-brown dorsal, anal and tail fins often have white edges.</p>",
+            "shortTextKey": "taxon_text_1_8240",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Reaches up to 1.2 m cm total length, but fish found in the Western Cape are typically much smaller at no more than about 50 cm.</p>",
+            "shortTextKey": "taxon_text_2_8241",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Europe and the Mediterranean, along the Atlantic coast of South America and down the west coast of Africa to Angola, but absent in Namibia and along the west coast of South Africa, re-appearing from Cape Point eastwards.</p><p><u>Local/Regional:</u> Cape Peninsula to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_8242",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on rocky reefs from the shore to at least 200 m depth. Younger fish generally more inshore than larger ones and juveniles may occur in rock pools. Tend to be resident at single sites, which makes them vulnerable to overfishing. May live up to 50 years.</p>",
+            "shortTextKey": "taxon_text_4_8243",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Generalist predator feeding on larger bottom-dwelling invertebrates, such as crabs and octopus, as well as fish. The proportion of fish in the diet increases in larger individuals.</p>",
+            "shortTextKey": "taxon_text_5_8244",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>First mature as females at an age of 6-8 and a body length of about 44-53 cm, then change sex to become males at age 15-17 years and a length of 80-87 cm. Spawn in spring and summer.</p>",
+            "shortTextKey": "taxon_text_6_8245",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large body size, big mouth and colour pattern are fairly distinctive and this is the only rockcod found in the cooler waters off the Western Cape.</p>",
+            "shortTextKey": "taxon_text_7_8246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 280). <br><br>Heemstra, P & Heemstra, E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 169).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 5 (p. 62).",
+            "shortTextKey": "taxon_text_8_8247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1579-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1579-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1579-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1579-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1579-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1579-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1580-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1580-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1580-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1582-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1582-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1582-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1583-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1583-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1583-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1584-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1584-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1584-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Perca gigas",
+            "taxonAuthor": "Brünnich, 1768"
+        },
+        {
+            "taxonLatname": "Serranus cernioides",
+            "taxonAuthor": "de Brito Capello, 1867"
+        },
+        {
+            "taxonLatname": "Cernua gigas",
+            "taxonAuthor": "Costa, 1849"
+        },
+        {
+            "taxonLatname": "Holocentrus gigas",
+            "taxonAuthor": "(Brünnich, 1768)"
+        },
+        {
+            "taxonLatname": "Serranus gigas",
+            "taxonAuthor": "(Brünnich, 1768)"
+        },
+        {
+            "taxonLatname": "Cerna gigas",
+            "taxonAuthor": "(Brünnich, 1768)"
+        },
+        {
+            "taxonLatname": "Epinephelus gigas",
+            "taxonAuthor": "(Brünnich, 1768)"
+        },
+        {
+            "taxonLatname": "Serranus marginatus",
+            "taxonAuthor": "Lowe, 1834"
+        },
+        {
+            "taxonLatname": "Serranus aspersus",
+            "taxonAuthor": "Jenyns, 1840"
+        },
+        {
+            "taxonLatname": "Serranus fimbriatus",
+            "taxonAuthor": "Lowe, 1838"
+        },
+        {
+            "taxonLatname": "Epinephelus brachysoma",
+            "taxonAuthor": "Cope, 1871"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

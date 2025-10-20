@@ -1,0 +1,171 @@
+{
+    "taxonLatname": "Parablennius cornutus",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "202bdcd4-e4b2-47a7-b193-7cbe985385e7",
+    "taxonNuid": "00100700300200200100w00i016001",
+    "gbifNubkey": 2395743,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1293-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1293-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1293-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 369,
+    "vernacular": {
+        "en": "Horned blenny"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Horned blenny"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Blennies are a diverse group of small, elongate, benthic fish that lack scales and usually have a blunt face with eyes placed close together high on the head and a prominent cirrus above each. The dorsal fin runs almost the full body length and is separated into an anterior spined section and a posterior rayed section. The pelvic fins are placed far forward, anterior to the bases of pectoral fins, and are reduced to one spine and a few rays.</p><p>Blennies are usually found sitting propped up on their pelvic fins in tide pools or on shallow reefs and sand and are very diverse and abundant on more tropical shores, with only a few species extending in the Western Cape.</p><p>This species has a prominent orange-red cirrus above each eye consisting of a central elongate tapering filament, from the base of which several other filaments emerge. In males the cirrus is larger than in females and it can be bright red. &nbsp;Head large and very blunt with large mouth bearing thick lips. Body mottles brown with fleshy fins (specially pectorals) and numerous dark spots, typically arranged into about 5-6 dark bars.</p>",
+            "shortTextKey": "taxon_text_1_3476",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 15 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3477",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Northern Namibia to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3478",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Typically found under rocks or hiding in cracks and crevices and occurs from the intertidal to depths of about 20 m.&nbsp;Cryptic and skittish, so not often seen.</p>",
+            "shortTextKey": "taxon_text_4_3479",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown at species level, but blennies typically feed on small invertebrates, possibly also algae.</p>",
+            "shortTextKey": "taxon_text_5_3480",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sticky, translucent eggs are laid attached to the substratum by a filamentous pad. Juveniles are planktonic and often found in shallow coastal waters.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_3481",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Few other blennies occur in the region and can be distinguished by the form of the cirri. The Maned blenny <i>Scarletta emarginata</i> has a distinctive mane-like row of cirri on the top of the head, in addition to those above the eyes.&nbsp;The Two-eyed blenny <i>Chalaroderma ocellata has</i> white cirri that have a central stalk and distal branches. That species also has a distinct eye spot just behind the actual eye (hence two-eyed).</p><p>Blennies can also be confused with klipfishes and triplefins, which have similar habits and reduced pelvic fins, but these families have more elongate faces.</p>",
+            "shortTextKey": "taxon_text_7_3482",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 230).<br><br>Levy, A, Von der Heyden, S, Floeter, SR, Bernardi, G & Almada, VC (2013). Phylogeny of <i>Parablennius</i> Miranda Ribeiro, 1915 reveals a paraphyletic genus and recent Indo-Pacific diversification from an Atlantic ancestor. <i>Molecular Phylogenetics and Evolution</i>, 67(1), 1-8.<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 752).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 53).",
+            "shortTextKey": "taxon_text_8_3483",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1293-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1293-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1293-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1293-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1293-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1293-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-204-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-204-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-204-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-205-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-205-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-205-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Pictiblennius cornutus",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Blennius grandicornis",
+            "taxonAuthor": "Valenciennes, 1836"
+        },
+        {
+            "taxonLatname": "Blennius scullyi",
+            "taxonAuthor": "Gilchrist & Thompson, 1908"
+        },
+        {
+            "taxonLatname": "Blennius cornutus",
+            "taxonAuthor": "Linnaeus, 1758"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

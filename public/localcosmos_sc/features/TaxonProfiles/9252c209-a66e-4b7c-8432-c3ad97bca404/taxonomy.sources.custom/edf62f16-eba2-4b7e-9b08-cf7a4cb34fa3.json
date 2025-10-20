@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Calliostoma ornatum",
+    "taxonAuthor": "(Lamarck, 1822)",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "edf62f16-eba2-4b7e-9b08-cf7a4cb34fa3",
+    "taxonNuid": "001005002003001001",
+    "gbifNubkey": 4358485,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-726-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-726-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-726-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 593,
+    "vernacular": {
+        "en": "Ornate topshell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ornate topshell",
+            "Calliostoma ornatum"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Well-known and very attractive ‘top-shaped’ shell, the base sharply separated from the conical upper section by an acute angle. &nbsp;Apex comes to a sharp point. Umbilicus closed. Each whorl marked with fine spiral ridges of which 2-3 are markedly stronger. Colour red to violet, often with lines of light blotches around the lower whorls. Aperture smoothly rounded and lacking an internal tooth. Operculum round, horny and flexible. Head and foot bright orange; there are distinct eyes at the bases of the long, orange tentacles.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_5855",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 20 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_5856",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to about East London<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_5857",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>The commonest of several <i>Calliostoma </i>species found in the region and the only one extending a far west as False Bay. Usually found singly in the low intertidal, but extends down to 50 m depth. Habits poorly known but often found on seafans, on which it might feed.</p>",
+            "shortTextKey": "taxon_text_4_5858",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but may feed on seafans, with which it often seems to be associated.</p>",
+            "shortTextKey": "taxon_text_5_5859",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied, but other members of this genus have separate sexes and lay their eggs in a sheet or ribbon of jelly, the eggs lacking a planktonic swimming stage, but rather hatching only when the young have reached the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_5860",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several other similar <i>Calliostoma</i> species occur along the Eastern Cape and KwaZulu-Natal coasts, but this is the only common species in the Western Cape. The similarly top-shaped and mottled red members of the genus <i>Clanculus </i>have a distinctly open umbilicus and a strong tooth in the aperture.</p>",
+            "shortTextKey": "taxon_text_7_5861",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 174).<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 39).",
+            "shortTextKey": "taxon_text_8_5862",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-726-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-726-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-726-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-726-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-726-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-726-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

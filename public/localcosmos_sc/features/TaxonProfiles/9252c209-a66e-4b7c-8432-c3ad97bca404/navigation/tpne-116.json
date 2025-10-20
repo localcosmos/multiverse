@@ -1,0 +1,306 @@
+{
+    "name": "Whelks",
+    "description": null,
+    "verboseName": "Whelks",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3025-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3025-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3025-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1105-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1105-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1105-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3026-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3026-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3026-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 1,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-121",
+            "parentKey": "tpne-116",
+            "name": "Dogwhelks & Dove shells",
+            "verboseName": "Dogwhelks & Dove shells",
+            "taxa": [
+                {
+                    "taxonLatname": "Nassarius",
+                    "taxonAuthor": "Duméril, 1805",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c5f64af1-552e-4047-8080-4647aabdea5b",
+                    "taxonNuid": "00100k00700300e00201a006008"
+                },
+                {
+                    "taxonLatname": "Nucella",
+                    "taxonAuthor": "Röding, 1798",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "621deac3-5da1-4d51-814d-f229867759ac",
+                    "taxonNuid": "00100k00700300e00900100f012"
+                },
+                {
+                    "taxonLatname": "Trochia",
+                    "taxonAuthor": "Swainson, 1840",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "ef2d3a67-97bd-43c2-8ade-9e4677d817eb",
+                    "taxonNuid": "00100k00700300e00900100f01g"
+                },
+                {
+                    "taxonLatname": "Vexillum",
+                    "taxonAuthor": "Röding, 1798",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "ea5ebef6-8f7c-4220-8bfb-7caf08339fe7",
+                    "taxonNuid": "00100k00700300e00k00200p"
+                },
+                {
+                    "taxonLatname": "Mitrella",
+                    "taxonAuthor": "Risso, 1826",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1b75addc-80c4-4d03-bdfb-9f34a05cdbdf",
+                    "taxonNuid": "00100k00700300e00200l01g"
+                },
+                {
+                    "taxonLatname": "Demoulia",
+                    "taxonAuthor": "Gray, 1838",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d92d8c16-f0fc-409e-a724-4ecbb9d7520f",
+                    "taxonNuid": "00100k00700300e00201a006005"
+                },
+                {
+                    "taxonLatname": "Anachis",
+                    "taxonAuthor": "H. Adams & A. Adams, 1853",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9f6c35b6-7d86-4af3-a087-73137a05faab",
+                    "taxonNuid": "00100k00700300e00200l006"
+                },
+                {
+                    "taxonLatname": "Alcira",
+                    "taxonAuthor": "H. Adams, 1861",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "49ce84bd-6e4a-4c4a-b4da-0986b6236bcd",
+                    "taxonNuid": "00100k00700300e00200l003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1106-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1106-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1106-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1189-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1189-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1189-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1203-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1203-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1203-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1106-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1106-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1106-1000.webp"
+                }
+            },
+            "slug": "dogwhelks-dove-shells"
+        },
+        {
+            "key": "tpne-133",
+            "parentKey": "tpne-116",
+            "name": "True whelks",
+            "verboseName": "True whelks",
+            "taxa": [
+                {
+                    "taxonLatname": "Argobuccinum",
+                    "taxonAuthor": "Herrmannsen, 1846",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "b5506b0c-4298-4414-85b6-274c1a86a46d",
+                    "taxonNuid": "00100k00700300c00c004001"
+                },
+                {
+                    "taxonLatname": "Charonia",
+                    "taxonAuthor": "Gistel, 1847",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "bee216ce-2f44-4b3c-9522-ad602f609e15",
+                    "taxonNuid": "00100k00700300c00c003001"
+                },
+                {
+                    "taxonLatname": "Monoplex",
+                    "taxonAuthor": "G. Perry, 1810",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c3a9b392-d742-4c68-9c31-4bccf303fd8a",
+                    "taxonNuid": "00100k00700300c00c00400m"
+                },
+                {
+                    "taxonLatname": "Vaughtia",
+                    "taxonAuthor": "Houart, 1995",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1d6fef4b-c69a-41aa-93e4-8ba6e64a5d7c",
+                    "taxonNuid": "00100k00700300e00900100f01k"
+                },
+                {
+                    "taxonLatname": "Africofusus",
+                    "taxonAuthor": "Vermeij & M. A. Snyder, 2018",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5d49284f-b48c-4d69-803d-64c21403a0c4",
+                    "taxonNuid": "00100k00700300e00200y003001"
+                },
+                {
+                    "taxonLatname": "Lugubrilaria",
+                    "taxonAuthor": "M. A. Snyder, Vermeij & Lyons, 2012",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9146d2b1-7e35-491a-b2ce-891aee0065c8",
+                    "taxonNuid": "00100k00700300e00200y00200e"
+                },
+                {
+                    "taxonLatname": "Ranella",
+                    "taxonAuthor": "Lamarck, 1816",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "638f761f-5f73-44df-9876-9fbe219a6e4e",
+                    "taxonNuid": "00100k00700300c00c007006"
+                },
+                {
+                    "taxonLatname": "Cabestana",
+                    "taxonAuthor": "Röding, 1798",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "891eb57a-02fa-4904-ba37-66a71d4ccb9f",
+                    "taxonNuid": "00100k00700300c00c004004"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2251-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2251-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2251-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1166-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1166-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1166-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1169-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1169-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1169-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2251-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2251-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2251-1000.webp"
+                }
+            },
+            "slug": "true-whelks"
+        },
+        {
+            "key": "tpne-130",
+            "parentKey": "tpne-116",
+            "name": "Burnupenas",
+            "verboseName": "Burnupenas",
+            "taxa": [
+                {
+                    "taxonLatname": "Burnupena",
+                    "taxonAuthor": "Iredale, 1918",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "4ee94bce-6abd-49b5-9774-8f96afe40db0",
+                    "taxonNuid": "00100k00700300e00200f"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2140-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2140-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2140-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2140-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2140-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2140-1000.webp"
+                }
+            },
+            "slug": "burnupenas"
+        }
+    ],
+    "taxonProfiles": []
+}

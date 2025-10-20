@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Phoronopsis albomaculata",
+    "taxonAuthor": "Gilchrist, 1907",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7556a1c2-7b5d-4fb6-93cf-b4386e6a29c0",
+    "taxonNuid": "00100q003001",
+    "gbifNubkey": 2269654,
+    "image": {
+        "text": "<p>redrawn from Gilchrist (1907)</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2445-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2445-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2445-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 135,
+    "vernacular": {
+        "en": "Gilchrist’s phoronid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Gilchrist’s phoronid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Phoronids are a small phylum containing only two genera and about 12 species worldwide. They are un-segmented, worm-like animals with a cylindrical body that lacks appendages, other than a characteristic anterior, horseshoe-shaped ring of filter-feeding tentacles called the lophophore and a bulbous ampulla at the posterior end. The gut is U-shaped and the anus is situated at the anterior end, just outside the ring of tentacles.</p><p>This species lives single in a tube made of sand grains and shells attached to the surface of a rock, from which it extends a single circular crown consisting of a row of longer outer and another of shorter inner tentacles. The body is yellowish and the tentacles transparent but each decorated at intervals with elongated white spots.</p>",
+            "shortTextKey": "taxon_text_1_1176",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>About 20 mm body length, span of tentacles 8 mm.</p>",
+            "shortTextKey": "taxon_text_2_1177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Rare but widespread, having been reported from South Africa, Ivory Coast, Madagascar, Hawaii, Australia, Costa Rica and Panama.</p><p><u>Local/Regional:</u> Known only from Gilchrist’s original record from False Bay and has never been found or photographed again in South African waters.</p>",
+            "shortTextKey": "taxon_text_3_1178",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Phoronids live in chitinous tubes in either sediments or in cavities in hard substrata, such as rocks or shells. They are anchored into the tube by the swollen bulb at the posterior end of the body (the ampulla). Other than being able to retract rapidly when disturbed, they are slow moving. The lophophore can be jettisoned and regenerated, so specimens lacking lophophores are common in benthic samples.</p><p>Some smaller species form extensive colonies, but larger species (such as this one) are normally solitary. The South African specimens were found emerging from holes in limestone rocks that had been collected to decorate an aquarium. &nbsp;</p>",
+            "shortTextKey": "taxon_text_4_1179",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All phoronids are suspension feeders, using the ciliated lophophore to gather fine particles from the water and propel these back to the central mouth.</p>",
+            "shortTextKey": "taxon_text_5_1180",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Most phoronids can reproduce both sexually and asexually, by either budding or fission. Different species show a diversity of modes of sexual reproduction – some are hermaphrodite and others have separate sexes; some brood the young around the lophophore and other have planktonic larvae.</p>",
+            "shortTextKey": "taxon_text_6_1181",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is one of only two phoronids known from South Africa, the other being <i>Phoronis hippocrepia</i>, which has a colourless lophophore with all tentacles the same length. The tiny<i> Phoronis ovalis </i>has also been reported burrowing into the shells of mussels and other molluscs in Namibia.</p><p>In the field could easily be confused with fanworms, which are much more common and have superficially similar crowns of feeding tentacles. However, fanworms are segmented and have lateral appendages (parapodia) on each body segment. Their anus is also at the hind end whereas in phoronids it is at the anterior end.</p>",
+            "shortTextKey": "taxon_text_7_1182",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Dean, HK, Sibaja-Cordero, JA & Cortés, J (2010). Occurrence of the Phoronid <i>Phoronopsis albomaculata</i> in Cocos Island, Costa Rica. Pacific Science</i>, 64(3), 459-462.<br><br>Gilchrist, JDF (1907). New forms of the Hemichordata from South Africa. <i>Transactions of the South African Philosophical Society</i>, 17(1), 151-176.",
+            "shortTextKey": "taxon_text_8_1183",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>redrawn from Gilchrist (1907)</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2445-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2445-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2445-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>redrawn from Gilchrist (1907)</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2445-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2445-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2445-1000.webp"
+                }
+            },
+            {
+                "text": "<p><i>Phoronis hippocrepia </i>redrawn from Gilchrist (1907)&nbsp;</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2446-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2446-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2446-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

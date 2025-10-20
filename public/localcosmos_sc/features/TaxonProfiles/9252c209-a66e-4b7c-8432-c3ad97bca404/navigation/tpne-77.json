@@ -1,0 +1,355 @@
+{
+    "name": "Fishes, Sharks & Rays",
+    "description": null,
+    "verboseName": "Fishes, Sharks & Rays",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1243-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1243-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1243-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1244-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1244-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1244-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1245-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1245-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1245-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1607-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1607-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1607-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1609-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1609-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1609-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 5,
+            "minImages": 3,
+            "modeImages": 5
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-80",
+            "parentKey": "tpne-77",
+            "name": "Fishes",
+            "verboseName": "Fishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Actinopterygii",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "85398b06-5cf0-4d30-a05b-e06963f7febc",
+                    "taxonNuid": "001007003002002001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1246-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1246-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1246-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1332-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1332-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1332-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1337-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1337-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1337-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1590-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1590-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1590-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1591-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1591-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1591-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1246-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1246-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1246-1000.webp"
+                }
+            },
+            "slug": "fishes"
+        },
+        {
+            "key": "tpne-78",
+            "parentKey": "tpne-77",
+            "name": "Sharks & Chimaera",
+            "verboseName": "Sharks & Chimaera",
+            "taxa": [
+                {
+                    "taxonLatname": "Carcharhiniformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a112c5d3-7ec4-4af1-9414-024e9d7c4215",
+                    "taxonNuid": "001007003002001001001"
+                },
+                {
+                    "taxonLatname": "Lamniformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "f851f849-ed74-4179-b416-1ae9e3eec3c1",
+                    "taxonNuid": "001007003002001001004"
+                },
+                {
+                    "taxonLatname": "Heterodontiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "caf07553-a3ac-4edb-872d-61c2f1d762ca",
+                    "taxonNuid": "001007003002001001002"
+                },
+                {
+                    "taxonLatname": "Hexanchiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "f46968dd-b689-477d-bebc-b916adb14ac7",
+                    "taxonNuid": "001007003002001001003"
+                },
+                {
+                    "taxonLatname": "Orectolobiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "b534b565-9f3d-419b-a25c-ee4c78bbb018",
+                    "taxonNuid": "001007003002001001006"
+                },
+                {
+                    "taxonLatname": "Pristiophoriformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e20666e8-9385-4658-95e4-47eab1f1e254",
+                    "taxonNuid": "001007003002001001007"
+                },
+                {
+                    "taxonLatname": "Squaliformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6ef7c89b-5a03-49d5-b365-0437bb2b9ade",
+                    "taxonNuid": "00100700300200100100a"
+                },
+                {
+                    "taxonLatname": "Squatiniformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "2a0d2b1b-1190-4f50-a8b6-ebd62d0359ab",
+                    "taxonNuid": "00100700300200100100b"
+                },
+                {
+                    "taxonLatname": "Callorhinchus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "8f3be321-7e34-4312-b928-1ab8c4b78280",
+                    "taxonNuid": "001007003002001002001001001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1249-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1249-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1249-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1626-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1626-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1626-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2904-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2904-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2904-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1606-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1606-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1606-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1249-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1249-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1249-1000.webp"
+                }
+            },
+            "slug": "sharks-chimaera"
+        },
+        {
+            "key": "tpne-79",
+            "parentKey": "tpne-77",
+            "name": "Rays",
+            "verboseName": "Rays",
+            "taxa": [
+                {
+                    "taxonLatname": "Myliobatiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "b61a75c5-379e-4f03-a3e4-37b0c38b7618",
+                    "taxonNuid": "001007003002001001005"
+                },
+                {
+                    "taxonLatname": "Rajiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "91f72ea6-d15d-4c5e-a3f3-11f09c1317b1",
+                    "taxonNuid": "001007003002001001008"
+                },
+                {
+                    "taxonLatname": "Rhinopristiformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "fdaf1bcb-8ffe-42f5-a3e0-20f2323b1efc",
+                    "taxonNuid": "001007003002001001009"
+                },
+                {
+                    "taxonLatname": "Torpediniformes",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e1356f2e-3fc7-49a5-9095-08eb5d161a86",
+                    "taxonNuid": "00100700300200100100c"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1250-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1250-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1250-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1604-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1604-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1604-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1605-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1605-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1605-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1250-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1250-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1250-1000.webp"
+                }
+            },
+            "slug": "rays"
+        }
+    ],
+    "taxonProfiles": []
+}

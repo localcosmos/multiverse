@@ -1,0 +1,178 @@
+{
+    "taxonLatname": "Glyptidotea lichtensteini",
+    "taxonAuthor": "(Krauss, 1843)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "409d8617-a9bd-4ea3-91b0-861c82d8f9fd",
+    "taxonNuid": "00100300a00800g00800b001",
+    "gbifNubkey": 2204836,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-532-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-532-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-532-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 56,
+    "vernacular": {
+        "en": "Keeled isopod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Keeled isopod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Idotea lichtensteini</i></p>",
+            "shortTextKey": "taxon_text_9_432",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Body elongate, flattened and parallel-sided with a strong keel along the back that ends in a forward-directed spike (rostrum) on the head. Abdominal segments fused with telson to form a ‘pleotelson’. Pleotelson elongate, slightly tapering, with three partial crimp-like ‘sutures’ near base of either side (representing fused abdominal segments), distal margin slightly concave. Colouration strongly blotched in purples, pinks and browns.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_433",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Reaches 40<strong> </strong>mm length, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_434",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to region.</p><p><u>Local/Regional:</u> Lüderitz in Namibia to Transkei coast.</p>",
+            "shortTextKey": "taxon_text_3_435",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common under intertidal boulders, usually singly or in small groups. Details of biology unknown.</p>",
+            "shortTextKey": "taxon_text_4_436",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to be herbivorous, like most other members of this family.</p>",
+            "shortTextKey": "taxon_text_5_437",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods, the eggs are retained in a marsupial pouch between the walking legs of females, where they develop into fully-formed young prior to release.</p>",
+            "shortTextKey": "taxon_text_6_438",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "<p>Mating pair.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2941-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2941-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2941-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only representative of this genus and unlikely to be confused with any other regional isopods due to unusual keeled body.</p>",
+            "shortTextKey": "taxon_text_7_439",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, C L, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 86).<br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 37).",
+            "shortTextKey": "taxon_text_8_440",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-532-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-532-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-532-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-532-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-532-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-532-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2942-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2942-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2942-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2943-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2943-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2943-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Idotea lichtensteini",
+            "taxonAuthor": "Krauss, 1843"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

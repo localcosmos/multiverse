@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Aplidium circulatum",
+    "taxonAuthor": "(Hartmeyer, 1912)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "411ee074-7510-47a7-9c1d-cb35f7c206de",
+    "taxonNuid": "001007002002001008002014",
+    "gbifNubkey": 2330853,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-453-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-453-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-453-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 158,
+    "vernacular": {
+        "en": "Mushroom ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Mushroom ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Amaroucium circulatum</i></p>",
+            "shortTextKey": "taxon_text_9_1405",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very distinctive colonial species, the head being hemispherical and attached to the top of a thick stalk that narrows towards the base, the whole colony resembles a white mushroom in both shape and colour. The tunic may be encrusted with sand and the elongated zooids are arranged in circles around common exhalent siphons.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_1406",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids up to 15 mm long, colonies up to 100 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_1407",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa</p><p><u>Local/Regional:</u> False Bay to Jeffrey's Bay.</p>",
+            "shortTextKey": "taxon_text_3_1408",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found attached to shallow reefs in 8-12 m depth, usually in small groups of colonies. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_1409",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeders, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1410",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand and grow via asexual reproduction (budding of existing zooids), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1411",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The mushroom like shape of the colony is distinctive. Otherwise structure and arrangement of the zooids is similar to that in the closely-related <i>A. flavolineatum. </i>The two species also differ in colour (white here and pink in <i>A. flavolineatum).</i></p>",
+            "shortTextKey": "taxon_text_7_1412",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group, Hout Bay (p. 196).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 3).",
+            "shortTextKey": "taxon_text_8_1413",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-453-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-453-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-453-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-453-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-453-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-453-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Amaroucium circulatum",
+            "taxonAuthor": "Hartmeyer, 1912"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Eriocephalus racemosus",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ebec8327-5520-488b-83b5-52e2ca80d26b",
+    "taxonNuid": "0060060050040030010br00q",
+    "gbifNubkey": 3130115,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1006,
+    "vernacular": {
+        "en": "Coast wild rosemary"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coast wild rosemary"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dense, erect coastal shrub with silvery or greyish, elongate, pointed leaves that are slightly curled upwards and lie opposite and alternate along the stems. They smell of thyme. Flowers borne in hanging groups on long stems and lack petals. Fruit elliptical and very wooly.</p>",
+            "shortTextKey": "taxon_text_1_9493",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 150 cm.</p>",
+            "shortTextKey": "taxon_text_2_9494",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Namaqualand to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_9495",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Coastal species common on sandy dunes in dryer areas.</p><p>Brandy-based infusions used in traditional medicine as a diuretic. Also used as a source of essential oils for perfumes and has antimicrobial properties.</p><p>The fluff surrounding the seeds is a sought-after nesting material for birds such as the Karoo prinia, but the birds reject the seeds when collecting fluff so play a limited role in seed dispersal.</p>",
+            "shortTextKey": "taxon_text_4_9496",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9497",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to September.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9498",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related Wild rosemary <i>E. africanus</i> occurs in the same region, but also extends much further inland. It can be distinguished by the presence of conspicuous white petals on the flowers that are absent in <i>E. racemosus</i>.</p>",
+            "shortTextKey": "taxon_text_7_9499",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Eriocephalus affinis",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Eriocephalus spicatus",
+            "taxonAuthor": "Burm. ex DC."
+        },
+        {
+            "taxonLatname": "Eriocephalus simplicifolius",
+            "taxonAuthor": "Salisb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

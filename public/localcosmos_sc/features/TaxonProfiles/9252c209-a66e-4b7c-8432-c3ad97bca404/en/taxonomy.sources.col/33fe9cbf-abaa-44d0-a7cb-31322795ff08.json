@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Rhizostoma luteum",
+    "taxonAuthor": "(Quoy & Gaimard, 1827)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "33fe9cbf-abaa-44d0-a7cb-31322795ff08",
+    "taxonNuid": "001008005002001002004001003001",
+    "gbifNubkey": 5185452,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-349-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-349-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-349-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 502,
+    "vernacular": {
+        "en": "Giant jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Giant jellyfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very large, dome-shaped bell with thick, translucent jelly, firm to the touch. Margin of bell lacks tentacles, but is ornamanted with numerous scallops.</p><p>No central primary mouth opening, but instead four pairs of thick oral-arms hang beneath the bell and are equipped with numerous small mouthlets along their edges. Long, club-shaped terminal appendages hang from the ends of the oral arms and can be twice their lenght, but are often lost or damaged, particularly in specimens found on the shore.</p><p>Colour translucent with margins of bell and oral arms often white.</p>",
+            "shortTextKey": "taxon_text_1_4830",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 600 mm bell diameter.</p>",
+            "shortTextKey": "taxon_text_2_4831",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Mediterranean and down west coast of Africa to Angola, absent in Namibia, but found again in Western Cape of South Africa.&nbsp;</p><p><u>Local/Regional:</u> West Coast to Agulhas Bank.</p>",
+            "shortTextKey": "taxon_text_3_4832",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very large species and often washed ashore on beaches, where eagerly consumed by plough shell <i>Bullia</i> spp. (see that page). Stranded specimens often contain hyperiid amphipods that feed on their internal organs. Despite its large size, little is known about the biology of this species.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4833",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not documented for this species, but like many other jellyfish thought to feed primarily on zooplankton.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_4834",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Have a dimorphic life cycle, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and males release sperm into the water which are taken in by females to fertilise their eggs. Larvae are released into the water and ultimately settle onto hard surfaces where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_4835",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large size and lack of marginal tentacles distinguish this from most other jellyfish, but there has been some confusion in previous guides as to the species identification (see refs below).</p>",
+            "shortTextKey": "taxon_text_7_4836",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50, as <i>R. cf pulma</i>).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 50, misidentified as <i>Chrysaora</i> sp.).<br><br>Kienberger, K, Riera-Buch, M, Schönemann, AM, Bartsch, V, Halbauer, R & Prieto, L (2018). First description of the life cycle of the jellyfish <i>Rhizostoma luteum</i> (Scyphozoa: Rhizostomeae).<i>PloS one</i>, 13(8), e0202093.",
+            "shortTextKey": "taxon_text_8_4837",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-349-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-349-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-349-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-349-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-349-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-349-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Orythia luteum",
+            "taxonAuthor": "Quoy & Gaimard, 1827"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Thalasseus bergii",
+    "taxonAuthor": "(M. H. K. Lichtenstein, 1823)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "bdb6033a-35fc-4271-b359-5dbe7bbbf1ac",
+    "taxonNuid": "00100700300200200400200900a00l004",
+    "gbifNubkey": 5789283,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-955-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-955-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-955-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 680,
+    "vernacular": {
+        "en": "Swift tern"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Swift tern",
+            "Great Crested Tern",
+            "Greater Crested Tern",
+            "Swift Tern"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Relatively large tern with grey upper parts and white underparts. Easily identified by the long, pointed, uniformly yellow bill and shaggy black crest on the head. Eyes dark brown, legs and feet black.</p>",
+            "shortTextKey": "taxon_text_1_6692",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 46-50 cm, wingspan 90-115 cm, mass 380-395 g, sexes alike.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6693",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread around the coasts of the Atlantic, Indian and Pacific Oceans (several regional subspecies recognised).</p><p><u>Local/Regional:</u> Along the coast across region, not inland.</p>",
+            "shortTextKey": "taxon_text_3_6694",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common in nearshore marine environments, estuaries and lagoons. May be solitary, or in flocks of up to several hundred birds. Roosts or rests on beaches, rocky shores or saltworks, sometimes perching on artificial structures such as bridges, boats and harbour buildings.</p><p>Forages by plunge diving or dipping, but does not penetrate beyond top 1 m of water. Usually feeds within 10 km of land. Food usually swallowed in flight.</p>",
+            "shortTextKey": "taxon_text_4_6695",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mainly on small pelagic shoaling fish, particularly anchovy and sardine. May also scavenge discards from commercial fishing operations.</p>",
+            "shortTextKey": "taxon_text_5_6696",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogamous and may retain pair bond between years. Colonial nesters, often with other seabirds, particularly Hartlaub’s gulls. Nest a shallow scrape in sand or flat, open ground, often unlined. Breeding season in Western Cape mostly January to April, eggs usually 1-2 cream or pale pink or blue, spotted and streaked with brown or mauve. Incubation 21-30 days. Chicks fledge at 38-40 days, older chick forming creches, adults locating their young by voice. Chicks remain dependent on adults till they are about four months old.</p>",
+            "shortTextKey": "taxon_text_6_6697",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The yellow bill is distinctive. Several other tern species are found in the region, but have red or black bills.</p>",
+            "shortTextKey": "taxon_text_7_6698",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 352). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 453).",
+            "shortTextKey": "taxon_text_8_6699",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-955-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-955-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-955-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-955-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-955-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-955-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-956-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-956-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-956-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

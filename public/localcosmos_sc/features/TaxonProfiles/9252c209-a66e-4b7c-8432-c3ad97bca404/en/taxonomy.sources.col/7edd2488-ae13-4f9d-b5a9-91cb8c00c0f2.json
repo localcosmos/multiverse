@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Motacilla capensis",
+    "taxonAuthor": "Linnaeus, 1766",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7edd2488-ae13-4f9d-b5a9-91cb8c00c0f2",
+    "taxonNuid": "00100700300200200400200q01u005003",
+    "gbifNubkey": 2490296,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-923-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-923-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-923-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 661,
+    "vernacular": {
+        "en": "Cape wagtail"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape wagtail",
+            "Cape Wagtail"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, mostly grey with a white throat, a white brow above the eye and a distinctive dark triangular bib on the upper chest. Wings darker grey with white edges to feathers. Tail long and dark with white margins and characteristically wagged up and down as the bird walks. Beak, eyes and legs black. One of few passerine (perching) birds regularly found on the seashore.</p>",
+            "shortTextKey": "taxon_text_1_6521",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 20 cm, mass 20 g, sexes alike.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6522",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Eastern and southern Africa, with three regional subspecies.</p><p><u>Local/Regional:</u> Widespread throughout South Africa, both inland and on the coast, rare in Namibia and north-western parts of South Africa.</p>",
+            "shortTextKey": "taxon_text_3_6523",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common resident, found almost anywhere there is open ground next to water, including in parks and gardens and along both rocky and sandy coasts. Particularly abundant on coastlines where kelp wrack is abundant, being attracted by abundant kelp-flies. Walks purposefully along the ground while wagging the tail, periodically darting forward to capture prey; may also fly up to hawk insects in flight. Roots as night in trees, often communally.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_6524",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds almost entirely on insects, especially flies, but also various other groups. Prey may be captured alive, or scavenged when already dead, as when washed up on the driftline, fallen to the ground under lights, or picked from radiator grills of vehicles. On the seashore also take beach hoppers (Amphipoda), small crabs and other crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_6525",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogamous, retaining the same mate in successive seasons and territorial in the breeding season, chasing away other birds and attacking reflections in mirrors, hub-caps, etc. &nbsp;Nest a deep bowl of grasses, roots, weeds etc. lined with hair, wool or feathers. Either concealed in vegetation on ground, often on steep banks, or in bushes, creepers or hedges, in cavities in human structures, etc. May construct several nests before choosing one, or re-use old nests in successive years. Eggs usually 2-4, grey to yellowish, streaked or spotted with browns or greys at broad end. In Western Cape mostly laid in July-November. Incubation time 13-14 days, fledglings leave nest after 14-18 days, but continue to be fed by adults up to 20-25 days. Adults with newly-fledged young may feign injury to distract predators.</p>",
+            "shortTextKey": "taxon_text_6_6526",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Mountain and Pied wagtails somewhat similar, but have white bellies and are scarce or absent in South Western Cape and not found on the seashore.</p>",
+            "shortTextKey": "taxon_text_7_6527",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 348). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 1091).",
+            "shortTextKey": "taxon_text_8_6528",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-923-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-923-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-923-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-923-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-923-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-923-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,132 @@
+{
+    "taxonLatname": "Cyclichthys orbicularis",
+    "taxonAuthor": "(Bloch, 1785)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "69b7625b-cab0-4786-93df-8e432c6eeb55",
+    "taxonNuid": "001007003002002001019003003002",
+    "gbifNubkey": 2406514,
+    "image": null,
+    "shortProfile": null,
+    "taxonProfileId": 758,
+    "vernacular": {
+        "en": "Birdbeak burrfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Birdbeak burrfish",
+            "Ballonfish",
+            "Orbicular Burrfish",
+            "Orbicular burrfish",
+            "Porcupinefish",
+            "Rounded porcupinefish",
+            "Spiny blaasop"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, slow-moving fish able to inflate the body to deter predators by swallowing water (or air) to form an almost spherical ball. Mouth small and teeth fused into single sharp upper and lower dental plates (hence the family name Diodontidae). Pelvic fins absent and dorsal and anal fins both placed far back near tail fin. Body surface armoured with shortish, pointed spines, those on the head permanently erect. No spines on peduncle of tail.</p><p>Colour mottled brown or grey with black spots on back and sides. Transverse bands of faint brown on all fins.</p>",
+            "shortTextKey": "taxon_text_1_7403",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 30 cm, but more typically 15 cm.</p>",
+            "shortTextKey": "taxon_text_2_7404",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Wide-spread across Indo-Pacific including Red Sea and Persian Gulf.</p><p><u>Local/Regional:</u> False Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_7405",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually solitary and seen around reefs at depth 15-170 m. Mostly nocturnal and sleep during the day. Juveniles are pelagic and are often found cast ashore on the driftline.</p>",
+            "shortTextKey": "taxon_text_4_7406",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on a range of invertebrate prey, including urchins, gastropods and crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_7407",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are buoyant and larvae are pelagic.</p>",
+            "shortTextKey": "taxon_text_6_7408",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Family unmistakable and the only species in the genus found in the temperate waters of the Western Cape. Porcupine fish (<i>Diodon</i> spp.) are similar in body shape, but have much longer, more-pointed spines</p>",
+            "shortTextKey": "taxon_text_7_7409",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 284). <br><br>Doi, H, Ishibashi, T & Sakai, H (2015). Spawning and rearing of a porcupine puffer <i>Cyclichthys orbicularis</i> (Diodontidae, Tetraodontiformes) in captivity. <i>Aquaculture Science</i>, 63(2), 207–212.<br><br>Heemstra, P & Heemstra, E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 455).<br><br>Lee, WC, Kim, JB, Kim, HC, Bae, SE, Ryu, JH & Kim, JK (2014). New Record of the Birdbeak Burrfish <i>Cyclichthys orbicularis</i> (Pisces: Diodontidae), in Korea. <i>Fisheries and Aquatic Sciences</i>, 17(4), 491–496.",
+            "shortTextKey": "taxon_text_8_7410",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Diodon caeruleus",
+            "taxonAuthor": "Quoy & Gaimard, 1824"
+        },
+        {
+            "taxonLatname": "Atinga orbicularis coeruleus",
+            "taxonAuthor": "Le Danois, 1959"
+        },
+        {
+            "taxonLatname": "Diodon orbicularis",
+            "taxonAuthor": "Bloch, 1785"
+        },
+        {
+            "taxonLatname": "Chilomycterus parcomaculatus",
+            "taxonAuthor": "von Bonde, 1923"
+        },
+        {
+            "taxonLatname": "Chilomycterus orbicularis",
+            "taxonAuthor": "(Bloch, 1785)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

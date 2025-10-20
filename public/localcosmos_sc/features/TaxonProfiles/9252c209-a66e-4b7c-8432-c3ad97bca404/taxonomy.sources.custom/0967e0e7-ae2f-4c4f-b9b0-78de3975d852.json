@@ -1,0 +1,165 @@
+{
+    "taxonLatname": "Conchoderma auritum",
+    "taxonAuthor": "(Linnaeus, 1767)",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "0967e0e7-ae2f-4c4f-b9b0-78de3975d852",
+    "taxonNuid": "001003001004004001",
+    "gbifNubkey": 2113865,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-912-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-912-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-912-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 556,
+    "vernacular": {
+        "en": "Rabbit-ear barnacle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Rabbit-ear barnacle",
+            "Conchoderma auritum"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Easily identified by the distinctive fleshy ear-like siphons that project backwards from the ‘head’ and after which the common name is derived. The shell plates are greatly reduced, especially in adults, giving a fleshy appearance. Colour normally purplish-brown, but younger individuals marked with indistinct cream and sometimes purple patches.</p>",
+            "shortTextKey": "taxon_text_1_5351",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 100 mm total length, including stalk.</p>",
+            "shortTextKey": "taxon_text_2_5352",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Found worldwide.</p><p><u>Local/Regional:</u> Across entire region.</p>",
+            "shortTextKey": "taxon_text_3_5353",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Goose barnacles are typically found on passively-floating objects but this species (and genus) is unusual in that it settles on moving objects. These would originally have been turtles, whales and other marine vertebrates, but now they are most commonly found on ships’ hulls. They rely on the movement of the host to generate a feeding current and filter food passively from the passing water. The ‘ears’ can be used to moderate the amount of water passing over the feeding appendages, allowing the barnacle to continue to feed even when the host is moving rapidly though the water.</p>",
+            "shortTextKey": "taxon_text_4_5354",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All barnacles are filter-feeders, extending their feathery feeding appendages though the aperture and combing these through the water to capture floating particles. This species has particularly stout feeding appendages - probably an adaptation for feeding in strong currently and for consuming larger planktonic organisms.</p>",
+            "shortTextKey": "taxon_text_5_5355",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Barnacles are hermaphroditic, but prefer to cross-fertilise. Larvae are released into the water and seek out other suitable floating objects on which to settle.</p>",
+            "shortTextKey": "taxon_text_6_5356",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Members of the genus <i>Conchoderma</i> are unlikely to be mistaken for other goose barnacles in the region due to their reduced shell plates and earlike projections on the ‘head’. Another similar species <i>C. virgatum</i> is also quite common on both marine animals and ships across the region, but can be distinguished by having less distinct ‘ears’ and 6 black or purple stripes extending down the length of the body and onto the stalk (see image below).</p>",
+            "shortTextKey": "taxon_text_7_5357",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Best, PB (1971). Stalked Barnacles <i>Conchoderma auritum</i> on an elephant seal: occurrence of elephant seals on South African coast. <i>African Zoology</i>, 6(2), 181–185.<br><br>Biccard, A (2012). Taxonomy, systematics and biogeography of South African Cirripedia (Thoracica). Master's thesis, Department of Zoology, University of Cape Town.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p80)",
+            "shortTextKey": "taxon_text_8_5358",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-912-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-912-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-912-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-912-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-912-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-912-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-913-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-913-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-913-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-426-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-426-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-426-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-427-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-427-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-427-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

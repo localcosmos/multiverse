@@ -1,0 +1,140 @@
+{
+    "taxonLatname": "Plegadis falcinellus",
+    "taxonAuthor": "(Linnaeus, 1766)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "38f4cde2-b794-4941-9b54-ac75c0ce37f6",
+    "taxonNuid": "00100700300200200400200r005002009002",
+    "gbifNubkey": 2480773,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-943-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-943-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-943-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 669,
+    "vernacular": {
+        "en": "Glossy ibis"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Glossy ibis",
+            "Glossy Ibis"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Relatively small and slender for an ibis, with long neck and legs and very long, relatively pale grey-brown, downwardly-curved bill. Head and neck chestnut brown with a narrow white band running from base of bill around the eyes and across the forehead. Wings dark glossy green. Legs and feet olive grey.</p>",
+            "shortTextKey": "taxon_text_1_6593",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 49-66 cm, mass 600-650 g, sexes alike in colour, male slightly larger than female.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6594",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across the Americas, Eurasia, Africa and Australasia.</p><p><u>Local/Regional:</u> Found mostly inland and only reported from Western Cape since the 1940‘s.</p>",
+            "shortTextKey": "taxon_text_3_6595",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Mostly found along the margins of rivers, lakes, wetlands and estuaries, but also forms mixed groups with other ibis species feeding on drift seaweeds along the coastline. Mostly diurnal, walking slowly and deliberately and probing into the mud or wrack for live food with the long beak.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_6596",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Takes a wide variety of adult and larval insects, crustaceans and worms, as well as occasional vertebrates. Commonly seen feeding on invertebrates associated with drift kelp on marine beaches in Western Cape where probably taking kelp flies and their larvae and small crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_6597",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Nest colonially, often with nests scattered among those of other herons, cormorants and ibises. Nest a small platform of reeds and sticks lined with leaves and grass. In Western Cape nest September to November. Eggs 2-4 deep greenish blue. Incubation alternating between both sexes, duration 20-23 days. Young leave the nest to form creches at about 14 days and can fly and feed themselves after about 42 days.</p>",
+            "shortTextKey": "taxon_text_6_6598",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with Hadeda Ibis, but that species is larger, with a much heavier build and shorter, more robust legs and bill. It also has a grey head and neck and a narrow white stripe under the ears.</p>",
+            "shortTextKey": "taxon_text_7_6599",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 607).",
+            "shortTextKey": "taxon_text_8_6600",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-943-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-943-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-943-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-943-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-943-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-943-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Plegadis falcinellus falcinellus",
+            "taxonAuthor": "(Linnaeus, 1766)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

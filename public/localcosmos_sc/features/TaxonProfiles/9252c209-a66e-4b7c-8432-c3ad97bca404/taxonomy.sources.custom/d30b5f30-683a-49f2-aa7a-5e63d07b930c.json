@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Scytosiphon lomentaria (Lyngbye)",
+    "taxonAuthor": "Link, 1833",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "d30b5f30-683a-49f2-aa7a-5e63d07b930c",
+    "taxonNuid": "00300100l001",
+    "gbifNubkey": 5422803,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1038-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1038-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1038-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 708,
+    "vernacular": {
+        "en": "Sausage skins"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sausage skins"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Scytosiphon simplicissima (</i>or<i> simlicissimus)</i></p>",
+            "shortTextKey": "taxon_text_9_6943",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms flaccid, hollow, unbranched tubes emerging from a small disc-like holdfast. Tubes constricted at regular intervals and have a gas-filled central cavity.</p>",
+            "shortTextKey": "taxon_text_1_6944",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length reported to reach 1 m, but typically much shorter at about 150 mm. Tubes about 3-5 mm wide.</p>",
+            "shortTextKey": "taxon_text_2_6945",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in temperate seas worldwide.</p><p><u>Local/Regional:</u><i> </i>Namibia to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_6946",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Typically found attached to rocks in high-shore rockpools. Edible species that is cultured for human consumption in China and Japan and has been shown to have strong anti-oxidant properties.</p>",
+            "shortTextKey": "taxon_text_4_6947",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6948",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Has a biphasic life cycle alternating between the erect gametophyte (depicted) and a small prostrate sporophyte. The erect gametophyte is seasonal in spring and early summer.</p>",
+            "shortTextKey": "taxon_text_6_6949",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>May be confused with <i>Ulva intestinalis,</i> which has a similar form and habitat but is green and not brown.</p>",
+            "shortTextKey": "taxon_text_7_6950",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 390). <br><br>Kuda, T, Tsunekawa, M, Hishi, T & Araki, Y (2005). Antioxidant properties of driedkayamo-nori', a brown alga <i>Scytosiphon lomentaria</i> (Scytosiphonales, Phaeophyceae). <i>Food Chemistry</i>, 89(4), 617-622.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 185 as <i>S. simplicissima</i>).",
+            "shortTextKey": "taxon_text_8_6951",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1038-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1038-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1038-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1038-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1038-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1038-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

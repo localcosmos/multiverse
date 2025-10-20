@@ -1,0 +1,191 @@
+{
+    "taxonLatname": "Platydromia spongiosa",
+    "taxonAuthor": "(Stimpson, 1858)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d8498707-b2a3-47a6-b43c-a19bc40d8b75",
+    "taxonNuid": "00100300a00600200500400200200200z001",
+    "gbifNubkey": 5973112,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2757-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2757-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2757-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 984,
+    "vernacular": {
+        "en": "Cryptic sponge crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cryptic sponge crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cryptodromiopsis spongiosa, Cryptodromia micronyx</i></p>",
+            "shortTextKey": "taxon_text_9_9326",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium-sized crab, carapace (hard upper shell) yellow, cream or reddish, while finger and thumb of cheliped (pincer) is crimson with white tips. Carapace covered in short, dense coat of hair (setae), similar to a sponge texture. Carapace broader than long, with short rounded frontal lobes. Anterolateral margin (front corner) with 4 rounded projections. Chelipeds and walking legs are knobbed. The fifth leg is bent upwards and is longer and more slender than the fourth leg.</p>",
+            "shortTextKey": "taxon_text_1_9327",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 25 mm in width.</p>",
+            "shortTextKey": "taxon_text_2_9328",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic, except for a record in Indonesia, which should be revisited.</p><p><u>Local/Regional:</u> From Namibian border to Coffee Bay.</p>",
+            "shortTextKey": "taxon_text_3_9329",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly found under subtidal rocks as well as deeper waters, observed carrying a cloak of sponge or ascidian. These objects are often carefully trimmed to fit the crab and are occasionally larger than the crab, offering protection (often through chemical defense) and camouflage. These animals often exhibit nocturnal habits, though they are also frequently encountered during the day.</p>",
+            "shortTextKey": "taxon_text_4_9330",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Scavenger, eating dead animals they come across.</p>",
+            "shortTextKey": "taxon_text_5_9331",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically known for this species, but generally for this group sexes are separate,<strong> </strong>with females storing sperm in chitin-lined spermathecae, though this is not retained after moulting. Very little is known regarding reproduction of the group, though sperm and eggs meet externally in an abdominal chamber. Ovigerous females carry eggs below the abdomen until the larvae hatch.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9332",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This species is somewhat similar to the Cloaked sponge crab (<i>Pseudodromia latens</i>), though <i>P. latens</i> can almost fully retract into the ascidian it carries on its back. Moreover, <i>P. spongiosa</i> has broader limbs and a rostrum ending in a single projection, as opposed to slender limbs and a rostrum with two projections.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_9333",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Barnard, KH (1950). Descriptive Catalogue of South African Decapod Crustacea. <i>Annals of the South African Museum</i>, 38, 1–824.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 132). <br><br>McLay, CL (2019). Podotreme reproduction: occurrence of sperm plaque in sponge crabs (Decapoda: Brachyura: Dromiidae). <i>Journal of Crustacean Biology</i>, 39(1), 82-87.",
+            "shortTextKey": "taxon_text_8_9334",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2757-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2757-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2757-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2757-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2757-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2757-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2758-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2758-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2758-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2760-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2760-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2760-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Platydromia depressa",
+            "taxonAuthor": "Brocchi, 1877"
+        },
+        {
+            "taxonLatname": "Dromidia spongiosa var. stimpsonii",
+            "taxonAuthor": "Miers, 1884"
+        },
+        {
+            "taxonLatname": "Cryptodromia micronyx",
+            "taxonAuthor": "Stebbing, 1920"
+        },
+        {
+            "taxonLatname": "Pseudodromia inermis",
+            "taxonAuthor": "Macpherson, 1988"
+        },
+        {
+            "taxonLatname": "Dromidia spongiosa",
+            "taxonAuthor": "Stimpson, 1858"
+        },
+        {
+            "taxonLatname": "Cryptodromiopsis spongiosa",
+            "taxonAuthor": "(Stimpson, 1858)"
+        },
+        {
+            "taxonLatname": "Parasphaerodromia subglobosa",
+            "taxonAuthor": "Spiridonov, 1992"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

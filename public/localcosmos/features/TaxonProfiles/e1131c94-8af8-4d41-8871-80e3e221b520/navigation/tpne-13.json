@@ -1,0 +1,82 @@
+{
+    "name": null,
+    "description": "Die Rosengewächse (Rosaceae) sind eine Pflanzenfamilie in der Ordnung der Rosenartigen (Rosales) innerhalb der Kerneudikotyledonen. Die etwa 3000 Arten sind fast weltweit verbreitet, mit Schwerpunkt auf der Nordhalbkugel. Zur Familie gehören neben den namensgebenden, als Zierpflanzen genutzten Rosen (Rosa) auch viele bekannte Obstarten wie Apfel, Birne, Brombeeren, Erdbeeren und Himbeere sowie das Steinobst mit Kirschen, Zwetschge, Pflaume, Aprikose (auch Marille oder Malete), Pfirsich, Mandel und anderen.",
+    "verboseName": "Rosales",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-16",
+            "parentKey": "tpne-13",
+            "name": "Mehlbeeren",
+            "verboseName": "Mehlbeeren",
+            "taxa": [
+                {
+                    "taxonLatname": "Sorbus",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6f2dfd44-2186-4eee-a183-9381ac889f30",
+                    "taxonNuid": "00600800601b00702u"
+                },
+                {
+                    "taxonLatname": "Diadema",
+                    "taxonAuthor": "Gray, 1825",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "182efe87-1d0d-40bb-99ba-d9a27651955b",
+                    "taxonNuid": "001001001001001001"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "mehlbeeren"
+        }
+    ],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Prunus avium",
+            "taxonAuthor": "(L.) L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3869ccdb-d917-4f07-b506-90597fb057c9",
+            "taxonNuid": "00600800601b00702c00l",
+            "slug": "prunus-avium",
+            "localizedSlug": {
+                "de": "wildkirsche"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-45-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-45-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-45-1000.webp"
+                }
+            }
+        }
+    ]
+}

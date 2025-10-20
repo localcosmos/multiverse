@@ -1,0 +1,99 @@
+{
+    "name": "Seifenbaumartige",
+    "description": null,
+    "verboseName": "Seifenbaumartige",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Acer campestre",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "dcb4db1b-d1b7-4135-b997-72d080a59ccb",
+            "taxonNuid": "00600800601d00800100d",
+            "slug": "acer-campestre",
+            "localizedSlug": {
+                "de": "feldahorn"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Acer pseudoplatanus",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+            "taxonNuid": "00600800601d00800102r",
+            "slug": "acer-pseudoplatanus",
+            "localizedSlug": {
+                "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+            },
+            "images": [
+                {
+                    "text": "<p>Caption</p>",
+                    "altText": "Alt text",
+                    "title": "Title",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                }
+            }
+        }
+    ]
+}

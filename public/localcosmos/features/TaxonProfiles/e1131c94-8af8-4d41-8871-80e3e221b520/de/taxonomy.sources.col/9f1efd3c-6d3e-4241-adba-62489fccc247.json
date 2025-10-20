@@ -1,0 +1,218 @@
+{
+    "taxonLatname": "Pseudotsuga menziesii",
+    "taxonAuthor": "(Mirb.) Franco",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9f1efd3c-6d3e-4241-adba-62489fccc247",
+    "taxonNuid": "00600800700100500a003",
+    "gbifNubkey": 2685796,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-66-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-66-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-66-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 19,
+    "vernacular": {
+        "de": "Douglasie"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Douglasie",
+            "Douglasfichte",
+            "Douglasie",
+            "Douglastanne"
+        ]
+    },
+    "nodeNames": [
+        "Douglasie"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:36",
+                        "encodedSpace": "<p>Nadelbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:1.0",
+                        "encodedSpace": 1.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:2.0",
+                        "encodedSpace": 2.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            0.0,
+                            5.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:WzAuMCw1LjBd"
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "Die Douglasie ist nach dem schottischen Botaniker David Doglas (1799-1834) benannt. Er brachte den Baum 1827 von einer Expedition nach Nordamerika mit nach England. Die Douglasie ist also kein in Bayern heimischer Baum, sondern wird im Rahmen der bayerischen Forstwirtschaft angebaut.",
+            "shortTextKey": "taxon_text_1_33",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Schutz",
+            "texts": [
+                {
+                    "taxonTextType": "Waldschutz",
+                    "shortText": "Als nicht einheimische Baumart ist die Douglasie derzeit durch Schadorganismen in Bayern vergleichsweise wenig bedroht. Es können zwar Buchdrucker und Kupferstecher sowie der Furchenflügelige Fichtenborkenkäfer auftreten, diese sind jedoch an der Douglasie bisher wenig bedeutsam.",
+                    "shortTextKey": "taxon_text_2_34",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-66-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-66-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-66-1000.webp"
+            }
+        },
+        "taxonProfileImages": [],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-66-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-66-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-66-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

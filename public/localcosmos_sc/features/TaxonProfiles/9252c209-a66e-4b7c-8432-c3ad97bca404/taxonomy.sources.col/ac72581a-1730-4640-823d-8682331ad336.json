@@ -1,0 +1,207 @@
+{
+    "taxonLatname": "Pachymetopon blochii",
+    "taxonAuthor": "(Valenciennes, 1830)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ac72581a-1730-4640-823d-8682331ad336",
+    "taxonNuid": "00100700300200200100w04000k002",
+    "gbifNubkey": 2392589,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1516-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1516-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1516-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 397,
+    "vernacular": {
+        "en": "Cape seabream"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape seabream",
+            "Hottentot",
+            "Hottentot seabream"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Seabreams of the family Sparidae are particularly well represented in South Africa and include many important recreational and commercial fisheries species. They are laterally compressed, with a single continuous dorsal fin and forked tail. Most species are diurnal and form shoals on shallow temperate reefs (although some larger species are territorial and/or extend to 450 m depth). Many species change sex as they grow.</p><p>This species is plain and unremarkable in shape and colour. The eye is not enlarged, the mouth fairly small and the colour uniform dark bronze-grey to brown in with a paler underside and dusky fins.</p>",
+            "shortTextKey": "taxon_text_1_3756",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 54 cm total length and a mass of up to 3 kg.</p>",
+            "shortTextKey": "taxon_text_2_3757",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa</p><p><u>Local/Regional:</u> Angola to Eastern Cape, but uncommon east of Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_3758",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Probably the most common fish found over inshore reefs along the west coast and often seen in small shoals milling about in kelp beds and over shallow reefs to a depth of about 55 m. Lend to be resident at a particular site.</p>",
+            "shortTextKey": "taxon_text_4_3759",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Omnivorous, feeding on algae and on wide range of benthic invertebrates, including various crustaceans, worms, hydroids, mollusks, ascidians and sometimes other fish. Larger individuals feed mostly on algae.</p>",
+            "shortTextKey": "taxon_text_5_3760",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reach sexual maturity at about 22 cm, which equates to an age of 5 years. Spawn year-round but with peaks in late autumn and summer.</p>",
+            "shortTextKey": "taxon_text_6_3761",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the two other <i>Pachymetopon</i> species in the region. The Blue hottentot is plumper, has a larger eye and the body is streaked with blue, especially on the head. The Bronze bream <i>P. grande</i> is also plumper with a smaller head and is bronze brown with a blue tinge on head. The anterior part of the operculum also lacks scales.</p>",
+            "shortTextKey": "taxon_text_7_3762",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 294).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 229).<br><br>Pulfrich, A & Griffiths, CL (1988). Growth, sexual maturity and reproduction in the hottentot <i>Pachymetopon blochii</i> (Val.). <i>South African Journal of Marine Science</i>, 7(1), 25-36.<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 588).",
+            "shortTextKey": "taxon_text_8_3763",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1516-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1516-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1516-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1516-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1516-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1516-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1517-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1517-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1517-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2885-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2885-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2885-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2886-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2886-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2886-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1518-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1518-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1518-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1515-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1515-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1515-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cantharus castelnaui",
+            "taxonAuthor": "Bleeker, 1859"
+        },
+        {
+            "taxonLatname": "Caranthus blochii",
+            "taxonAuthor": "(Valenciennes, 1830)"
+        },
+        {
+            "taxonLatname": "Pachymetopon canescens",
+            "taxonAuthor": "Norman, 1935"
+        },
+        {
+            "taxonLatname": "Cantharus castelnau",
+            "taxonAuthor": "Bleeker, 1859"
+        },
+        {
+            "taxonLatname": "Cantharus blochii",
+            "taxonAuthor": "Valenciennes, 1830"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

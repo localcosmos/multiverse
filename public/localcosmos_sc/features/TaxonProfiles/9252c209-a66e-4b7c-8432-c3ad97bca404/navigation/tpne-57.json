@@ -1,0 +1,379 @@
+{
+    "name": "Sea urchins",
+    "description": null,
+    "verboseName": "Sea urchins",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2524-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2524-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2524-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2514-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2514-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2514-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2523-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2523-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2523-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2302-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2302-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2302-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 12,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Echinocardium cordatum",
+            "taxonAuthor": "(Pennant, 1777)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4565fa0f-12ef-4a02-b7a4-4467c3b3245a",
+            "taxonNuid": "00100c00300100a00300100i002005003006002003",
+            "slug": "echinocardium-cordatum",
+            "localizedSlug": {
+                "en": "heart-urchin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-7-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-7-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-7-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2365-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2365-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2365-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-7-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-7-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-7-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Echinolampas crassa",
+            "taxonAuthor": "(Bell, 1880)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "4546981c-6438-4cd9-a846-c73427c8fb64",
+            "taxonNuid": "00100c00300100a00300c00700200200100300u",
+            "slug": "echinolampas-crassa",
+            "localizedSlug": {
+                "en": "lamp-urchin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-8-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-8-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-8-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-8-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-8-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-8-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Echinus gilchristi",
+            "taxonAuthor": "Bell, 1904",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5159101b-6799-4715-be45-5f8faa01921a",
+            "taxonNuid": "00100c00300100a002003002003001002007",
+            "slug": "echinus-gilchristi",
+            "localizedSlug": {
+                "en": "gilchrists-urchin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-9-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-9-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-9-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-9-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-9-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-9-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Parechinus angulosus",
+            "taxonAuthor": "(Leske, 1778)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "69950865-c69c-43cd-98a2-2d7e43b73f13",
+            "taxonNuid": "00100c00300100a002003002003003004001",
+            "slug": "parechinus-angulosus",
+            "localizedSlug": {
+                "en": "cape-urchin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2376-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2376-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2376-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2385-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2385-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2385-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2369-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2369-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2369-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2372-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2372-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2372-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2371-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2371-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2371-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2377-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2377-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2377-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2386-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2386-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2386-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2370-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2370-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2370-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2374-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2374-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2374-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2379-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2379-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2379-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2375-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2375-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2375-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-15-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-15-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-15-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2376-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2376-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2376-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Spatagobrissus mirabilis",
+            "taxonAuthor": "H.L. Clark, 1923",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7378270d-1d71-41fb-8327-13596fd33fae",
+            "taxonNuid": "00100c00300100a00300100i00200500500c003",
+            "slug": "spatagobrissus-mirabilis",
+            "localizedSlug": {
+                "en": "smooth-heart-urchin"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2384-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2384-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2384-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2924-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2924-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2924-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2925-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2925-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2925-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2926-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2926-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2926-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2384-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2384-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2384-1000.webp"
+                }
+            }
+        }
+    ]
+}

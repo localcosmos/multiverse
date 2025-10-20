@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Parasphaerasclera valdiviae",
+    "taxonAuthor": "(Kukenthal, 1906)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "81a7c3c0-ffed-48bb-8471-c80aec629364",
+    "taxonNuid": "00100800100500s00h001008",
+    "gbifNubkey": 8029212,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-365-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-365-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-365-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 516,
+    "vernacular": {
+        "en": "Valdivian soft coral"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Valdivian soft coral"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Alcyonium valdiviae</i></p>",
+            "shortTextKey": "taxon_text_9_4959",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Bushy soft-coral with a stout, leathery trunk giving rise to a clump of thick, stubby branches, which then rebranch but can be almost globular when contracted. Polyps white, but usually fully contracted during the day, so that only the stout branches are visible. Colour most commonly pink to red, but can be pale.</p>",
+            "shortTextKey": "taxon_text_1_4960",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies typically about 100 mm across and 110 mm tall.</p>",
+            "shortTextKey": "taxon_text_2_4961",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_4962",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on rocky reefs from about 14-30 m depth. Nocturnal and the white polyps are normally retracted when observed during the day, so that only the stubby branches are visible.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4963",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Use the tentacles to capture small planktonic organisms from the water column.</p>",
+            "shortTextKey": "taxon_text_5_4964",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies grow by budding new polyps from the margins. Details of sexual reproduction unknown for this species, but related European species have separate male and female colonies and release larvae that develop in the water column and settle to form new colonies.</p>",
+            "shortTextKey": "taxon_text_6_4965",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The short, stubby, branching colony form is fairly distinctive.</p>",
+            "shortTextKey": "taxon_text_7_4966",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 40).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 44 as <i>Alcyonidium valdiviae</i>).<br><br>McFadden, CS & van Ofwegen, LP (2013). Molecular phylogenetic evidence supports a new family of octocorals and a new genus of Alcyoniidae (Octocorallia, Alcyonacea). <i>ZooKeys</i>, 346, 59-83.",
+            "shortTextKey": "taxon_text_8_4967",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-365-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-365-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-365-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-365-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-365-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-365-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lobularia rutila",
+            "taxonAuthor": "Tixier-Durivault, 1954"
+        },
+        {
+            "taxonLatname": "Alcyonium rutilum",
+            "taxonAuthor": "(Tixier-Durivault, 1954)"
+        },
+        {
+            "taxonLatname": "Alcyonium valdiviae",
+            "taxonAuthor": "Kükenthal, 1906"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Orientoecetes erythraeus",
+    "taxonAuthor": "(Ruffo, 1959)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3bcd1d95-ff86-4136-835a-bfb0a08ef567",
+    "taxonNuid": "00100300a00100b003001006001003004001006002",
+    "gbifNubkey": 9645562,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-590-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-590-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-590-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 31,
+    "vernacular": {
+        "en": "Jumping sand"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Jumping sand"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Siphonoecetes erythraeus</i></p>",
+            "shortTextKey": "taxon_text_9_207",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Most easily identified by its unusual ‘mobile home’ constructed of shells and gravel particles and shaped like a Y, with the two lateral branches each formed of a single flat piece. The animal itself is cylindrical and elongated in shape, with short legs and a reduced abdomen, the last few segments of which are bent forwards beneath the body. The last two pairs of abdominal appendages (uropods) are greatly reduced. The second pair of antennae is long and thickened and is used for locomotion (see below).&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_208",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 6 mm, excluding elongate antennae.</p>",
+            "shortTextKey": "taxon_text_2_209",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa, Red Sea.</p><p><u>Local/Regional:</u> False Bay to Sodwana.</p>",
+            "shortTextKey": "taxon_text_3_210",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very interesting and charismatic species only recently discovered in the region. The tubular body is concealed within the main stem of the characteristic Y-shaped tube. This is made of a variety of found items, including shell and stone particles, pieces of barnacle or polychaete tube, etc. The animal either moves slowly along by reaching out and pulling itself forward with the enlarged antennae, or by flicking the antennae downwards against the sand and flipping the tube backwards (hence the common name ‘jumping sand’).</p>",
+            "shortTextKey": "taxon_text_4_211",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown; probably a detritus feeder consuming dead organic material on the sand surface.</p>",
+            "shortTextKey": "taxon_text_5_212",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all amphipods the eggs are held in a ventral marsupium between the walking legs, where they develop into fully formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_213",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There is another regional species in the genus, but this make soft tubes out of fine particles glued together with secretions make by silk-glands in the legs and does not show the flipping behaviour so characteristic of jumping sand.</p>",
+            "shortTextKey": "taxon_text_7_214",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Milne, R, & Griffiths, CL (2013). Additions to and revisions of the amphipod (Crustacea: Amphipoda) fauna of South Africa, with a list of currently known species from the region. <i>African Natural History</i>, 9(1), 61–90.<br><br>Just, J (1988). Siphonoecetinae (Corophiidae) 6: a survey of phylogeny, distribution, and biology. <i>Crustaceana</i>. Supplement 13:  193–208.<br><br>Jones, G. (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group (p.94).",
+            "shortTextKey": "taxon_text_8_215",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-590-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-590-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-590-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-590-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-590-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-590-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Siphonoecetes (Orientoecetes) erythraeus",
+            "taxonAuthor": "Ruffo, 1959"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

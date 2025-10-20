@@ -1,0 +1,210 @@
+{
+    "taxonLatname": "Haliotis parva",
+    "taxonAuthor": "Linnaeus, 1758",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c1fb9c46-eab7-4fd2-91c8-a07fe3594211",
+    "taxonNuid": "00100k00700v00200200100101h",
+    "gbifNubkey": 4357758,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2244-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2244-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2244-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 247,
+    "vernacular": {
+        "en": "Spiral–ridged siffie"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Spiral–ridged siffie",
+            "spiral-ridged siffie"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, light, broad abalone species with characteristics typical of this group, which include a flat, oval, depressed shell, enormous aperture and row of six small respiratory openings.</p><p>Exterior surface usually mottled brick-red with white patches, sometimes plain red, lacking corrugations, but bearing fine spiral thread. Interior of shell shiny mother-of-pearl. The most distinctive identifying feature is a conspicuous spiral ridge running around the centre of the last whorl of the shell, which is matched by a furrow on the inner surface. The foot of the live animal is grey and white and bears a scattering a small marginal knobs and tentacles.</p>",
+            "shortTextKey": "taxon_text_1_2286",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 50 mm shell length.</p>",
+            "shortTextKey": "taxon_text_2_2287",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to about East London<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2288",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Rarely found alive in the shallows but common at diving depth. Beached shells wash up regularly. Not of commercial value, nor exploited as food by humans, but eaten by various fish and seabirds. Otherwise little studied.</p>",
+            "shortTextKey": "taxon_text_4_2289",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on algae.</p>",
+            "shortTextKey": "taxon_text_5_2290",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this uncommon species has not been studied, but all abalone have separate sexes and are broadcast spawners. Release of sperm into the water by males stimulates females to spawn and the eggs are ejected singly though the holes along the lip. After fertilization the eggs develop into swimming larva, which take from a few days to several weeks to grow in the plankton before settling.</p>",
+            "shortTextKey": "taxon_text_6_2291",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Replaced in the far Eastern Cape and KwaZulu-Natal by the similar and uncommon <i>H. quecketti</i>, which has one well-marked and several weaker spiral ridges and the holes in the shell, which are also raised on prominent turrets.</p>",
+            "shortTextKey": "taxon_text_7_2292",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 164)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 34).<br><br>Muller, S (1986). Taxonomy of the genus <i>Haliotis</i> in South Africa. <i>Transactions of the Royal Society of South Africa</i>, 46(1), 69-77.",
+            "shortTextKey": "taxon_text_8_2293",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2244-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2244-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2244-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2244-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2244-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2244-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2213-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2213-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2213-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2212-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2212-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2212-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2242-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2242-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2242-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2243-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2243-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2243-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2241-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2241-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2241-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Haliotis canaliculata",
+            "taxonAuthor": "Fischer von Waldheim, 1807"
+        },
+        {
+            "taxonLatname": "Haliotis cingulata",
+            "taxonAuthor": "Röding, 1798"
+        },
+        {
+            "taxonLatname": "Haliotis kraussi",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Haliotis rubicunda",
+            "taxonAuthor": "(Montfort, 1810)"
+        },
+        {
+            "taxonLatname": "Padollus rubicundus",
+            "taxonAuthor": "Montfort, 1810"
+        },
+        {
+            "taxonLatname": "Haliotis carinata",
+            "taxonAuthor": "Swainson, 1822"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Chevalia aviculae",
+    "taxonAuthor": "Walker, 1904",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b2265982-3dcc-4f49-86e8-fa72e8660102",
+    "taxonNuid": "00100300a00100b003002003001002002",
+    "gbifNubkey": 2218158,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-294-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-294-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-294-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 456,
+    "vernacular": {
+        "en": "Fused-tail amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Fused-tail amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very small, laterally-flattened, shrimp-like and uniformly pale pink in colour (except for red eyes). Antenna fairly short and equal in length. Second pair of legs (gnathopod 2) powerful and distinctive in shape, with large rectangular hand and transverse palm. The thick finger has a triangular tooth near base which closes into a marching notch in the palm. Most distinctive feature is that the body segments bearing the first two pairs of uropods (urosomites 1 and 2) are fused.</p>",
+            "shortTextKey": "taxon_text_1_4347",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 4 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_4348",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> As currently defined, occurs in Sri Lanka, South Africa, Mozambique, Caribbean and Gulf of Mexico, but taxonomy of this genus is confused and probably several regional species bear this same name.</p><p><u>Local/Regional:</u> Saldanha Bay to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_4349",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>No species specific details known but<strong> </strong>members of this family have silk glands in the legs for spinning tubes and a tooth on the last segment of the walking legs for gripping, so are probably tube-dwelling and sedentary.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_4350",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, probably detritivore.</p>",
+            "shortTextKey": "taxon_text_5_4351",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>In all amphipods, sexes are separate and males copulate with females and inseminate the eggs as they are released into the marsupium, which is situated between the legs of the female. There they develop into fully-formed juveniles before being released.</p>",
+            "shortTextKey": "taxon_text_6_4352",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is the only local representative of the genus, and can fairly easily be identified by the enlarged rectangular hand of the second gnathopod and the very unusual fusion of the body segments bearing the first two pairs of uropods. The species name is suspect though, as it was originally used to describe specimens from Sri Lanka. Probably populations from different regions around the globe will eventually be shown to represent genetically distinct species.</p>",
+            "shortTextKey": "taxon_text_7_4353",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town (p. 31).<br><br>Myers, AA (2009). Chevaliidae. <i>Zootaxa</i>, 2260(1), 344-347.",
+            "shortTextKey": "taxon_text_8_4354",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-294-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-294-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-294-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-294-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-294-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-294-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

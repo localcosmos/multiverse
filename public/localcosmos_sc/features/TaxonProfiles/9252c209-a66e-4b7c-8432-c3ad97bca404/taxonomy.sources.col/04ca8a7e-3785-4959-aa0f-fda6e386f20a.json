@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Bunodosoma capense",
+    "taxonAuthor": "(Lesson, 1830)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "04ca8a7e-3785-4959-aa0f-fda6e386f20a",
+    "taxonNuid": "00100800100300100a00100100e004",
+    "gbifNubkey": 6472213,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-476-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-476-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-476-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 88,
+    "vernacular": {
+        "en": "Knobbly anemone"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Knobbly anemone"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Actinia capensis&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_9_720",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Common and conspicuous species fairly easily identified by the fact that the broad column is patterned with horizontal rows of small, non-adhesive knobs. These are always darker than the background colour of the column, which can vary widely from cream to yellow, red, orange, blue or purple. Up to 192 short, usually paler tentacles and a row of small spherules beneath these.</p>",
+            "shortTextKey": "taxon_text_1_721",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Column diameter typically 20–40 mm.</p>",
+            "shortTextKey": "taxon_text_2_722",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Recorded from Chile, Namibia and South Africa.</p><p><u>Local/Regional:</u> Southern Namibia to about Durban in KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_723",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common and well-known species found usually singly or in small groups in sand-free rock-pools and shallow reefs, often attached to other species, such as mussels or large ascidians. Notable for its extremely variable colouration, but since anemones cannot see and are rarely consumed by predators, colour is probably of little significance and is not selected for or against. The small knobs on the column contain stinging cells and are probably defensive in function.</p>",
+            "shortTextKey": "taxon_text_4_724",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on a wide variety of invertebrate groups, with no one prey category dominating the diet.</p>",
+            "shortTextKey": "taxon_text_5_725",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Anemones can reproduce sexually, but releasing sperm and eggs into the water, but can also divide by fission, so where similarly-coloured individuals are found in close proximity the group is probably derived by division of a single founding individual.</p>",
+            "shortTextKey": "taxon_text_6_726",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Sometimes confused with the Sandy anemone <i>Bunodactis reynaudi, </i>which not only has a similar generic name, but also occurs in a wide range of colours and is found on the same shores. However, the Sandy anemone has sticky knobs on its column to which sand grains adhere. It also tends to occur in large groups and to be confined to sandy habitats, which are avoided by the more solitary <i>B. capense</i>.</p>",
+            "shortTextKey": "taxon_text_7_727",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Carlgren, O (1938). South African Actiniaria and Zoantharia. <i>Kungliga Svenska Vetenskapsakademiens Handlingar</i>, 17(3), 1–148.<br><br>Kruger, LM & Griffiths, CL (1996). Sources of nutrition in sea anemones from the Western Cape, South Africa. <i>South African Journal of Zoology</i>, 31, 110–119.<br><br>Laird, MC (2013). Taxonomy, systematics and biodiversity of South African Actiniaria and Corallimorpharia. PhD Thesis, Department of Zoology, University of Cape Town.",
+            "shortTextKey": "taxon_text_8_728",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-476-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-476-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-476-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-476-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-476-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-476-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Phymactis capensis",
+            "taxonAuthor": "(Lesson, 1830)"
+        },
+        {
+            "taxonLatname": "Bunodosoma capensis",
+            "taxonAuthor": "(Lesson, 1830)"
+        },
+        {
+            "taxonLatname": "Actinia capensis",
+            "taxonAuthor": "Lesson, 1830"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

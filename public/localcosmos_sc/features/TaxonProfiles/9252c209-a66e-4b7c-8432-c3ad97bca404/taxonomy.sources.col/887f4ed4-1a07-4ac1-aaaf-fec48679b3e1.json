@@ -1,0 +1,167 @@
+{
+    "taxonLatname": "Bostrycapulus odites",
+    "taxonAuthor": "Collin, 2005",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "887f4ed4-1a07-4ac1-aaaf-fec48679b3e1",
+    "taxonNuid": "00100k00700300c001001002007",
+    "gbifNubkey": 5856482,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1213-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1213-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1213-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 252,
+    "vernacular": {
+        "en": "Scaly slipper limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Scaly slipper limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Crepidula aculeata</i></p>",
+            "shortTextKey": "taxon_text_9_2335",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell cap-shaped, flat and with apex slightly coiled, but last whorl greatly enlarged and flattened. Internally a flat shelf protects the visceral organs. Exterior of shell off-white, sculptured with rows of short scale-like spines. Found on underside of rocks (not on other shells, as in <i>Crepidula porcellana</i>) and does not form stacks.</p>",
+            "shortTextKey": "taxon_text_1_2336",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 26 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2337",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Brazil, Argentina and South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_2338",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found singly or in small groups on the undersides of boulders, or in other sheltered habitats. Little else known about biology. The species was previously known as <i>Crepidula aculeata</i> and only fairly recently transferred to the newly-created genus<i> Bostrycapulus.</i></p>",
+            "shortTextKey": "taxon_text_4_2339",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filter-feeder, removing small particles from the surrounding sea water by passing this though the enlarged, sieve-like gills.</p>",
+            "shortTextKey": "taxon_text_5_2340",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs fairly large and laid in egg-capsules which also contain nurse cells. The developing embryos consume the nurse calls as they develop and hatch into crawling juveniles without a free-swimming larval stage.</p>",
+            "shortTextKey": "taxon_text_6_2341",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The obvious rows of scale–like spines on the outer surface of the shell clearly distinguish this species from other regional slipper limpets.</p>",
+            "shortTextKey": "taxon_text_7_2342",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 172).<br><br>Collin, R (2005). Development, phylogeny, and taxonomy of <i>Bostrycapulus</i> (Caenogastropoda: Calyptraeidae), an ancient cryptic radiation. <i>Zoological Journal of the Linnean Society</i>, 144(1), 75-101.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 57 as <i>Crepidula aculeata</i>).",
+            "shortTextKey": "taxon_text_8_2343",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1213-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1213-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1213-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1213-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1213-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1213-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1214-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1214-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1214-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-74-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-74-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-74-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Crepidula aculeata",
+            "taxonAuthor": "(Gmelin, 1791) sensu Zenetos et al.2004"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

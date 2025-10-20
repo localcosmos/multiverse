@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Paridotea reticulata",
+    "taxonAuthor": "Barnard, 1914",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4ad66094-147e-4512-abcb-4c6e4f1a78dc",
+    "taxonNuid": "00100300a00800g00800i009",
+    "gbifNubkey": 2204860,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-993-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-993-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-993-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 66,
+    "vernacular": {
+        "en": "Reticulated kelp-louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Reticulated kelp-louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very large, robust, elongated and parallel-sided isopod with reticulated markings on a green to brown background. Abdominal segments fused and joined to telson to form a ‘pleotelson’. The pleotelson is elongate and more or less parallel–sided with a median dorsal keel and three partial crimp-like ‘sutures’ near base of either side. The lateral margins of the pleotelson are also characteristically thick and grooved and the corners projected into sharp, raised and curved points.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_523",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Reaches 75<strong> </strong>mm length, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_524",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to region.</p><p><u>Local/Regional:</u> Luderitz in Namibia to Cape Point.</p>",
+            "shortTextKey": "taxon_text_3_525",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly found on kelps and other seaweeds along the west coast of southern Africa, upon which it grazes. The gut contains surfactants and a chitinous lining to protect against polyphenolic chemicals secreted by the kelps as anti-herbivore defences. Can become a pest on <i>Gracilaria</i> farms.</p>",
+            "shortTextKey": "taxon_text_4_526",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding mostly on kelps and on agar-weed. Also reported to scavenge on fish caught in gill nets.</p>",
+            "shortTextKey": "taxon_text_5_527",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all isopods the eggs are retained in a marsupial pouch between the walking legs of females, where they develop into fully-formed young prior to release.</p>",
+            "shortTextKey": "taxon_text_6_528",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several smaller representative of this genus in the region, but this is the only one in which the tips of the pleotelson are extended into keeled points.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_529",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, BC, Smit, AJ, & Bolton, JJ (1998). Differential grazing effects by isopods on <i>Gracilaria gracilis</i> and epiphytic <i>Ceramium diaphanum</i> in suspended raft culture. <i>Aquaculture</i>, 169(1–2), 99–109.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 86)<br><br>Kensley, B (1978). Guide to the Marine Isodods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 40).",
+            "shortTextKey": "taxon_text_8_530",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-993-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-993-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-993-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-993-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-993-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-993-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-995-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-995-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-995-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-621-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-621-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-621-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-994-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-994-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-994-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

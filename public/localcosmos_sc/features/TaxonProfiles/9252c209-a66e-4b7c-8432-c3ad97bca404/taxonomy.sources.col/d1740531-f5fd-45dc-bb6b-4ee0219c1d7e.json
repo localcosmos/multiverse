@@ -1,0 +1,201 @@
+{
+    "taxonLatname": "Cabestana africana",
+    "taxonAuthor": "(A. Adams, 1855)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d1740531-f5fd-45dc-bb6b-4ee0219c1d7e",
+    "taxonNuid": "00100k00700300c00c004004001",
+    "gbifNubkey": 6488749,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1227-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1227-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1227-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 734,
+    "vernacular": {
+        "en": "Furry ridged triton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Furry ridged triton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Cymatium cutaceum africanum</i></p>",
+            "shortTextKey": "taxon_text_9_7177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized whelk with a fairly-heavy shell which is quite variable in shape, some specimens being very short and squat and others with a longer spire and siphonal canal. The most distinctive feature is that each whorl bears seven very strong, spiral, grooved ridges. &nbsp;In live specimens, the external surface is also covered in a dense brown proteinaceous fur. Outer lip corrugated and white (lacking the distinct brown bars found in several related species). Inner lip white. External colour generally dark brown, paler on underside. Operculum elongate-oval, horny and with concentric ridges. Foot orange to purplish, heavily spotted with black.</p>",
+            "shortTextKey": "taxon_text_1_7178",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 110 mm, but more typically 50 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_7179",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Namibia, South Africa and Mozambique.</p><p><u>Local/Regional:</u> Whole region.</p>",
+            "shortTextKey": "taxon_text_3_7180",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>In lowshore pools or on shallow reefs to a depth of at least 37 m. Typically found among ascidian colonies on which they are presumed to prey. Beach cast shells common but less often seen alive.</p>",
+            "shortTextKey": "taxon_text_4_7181",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Not known with certainly, but thought to feed on ascidians such as redbait <i>Pyura stolonifera</i>.</p>",
+            "shortTextKey": "taxon_text_5_7182",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Egg mass a circular consisting of many more of less rectangular egg cases each containing multiple eggs (see image).</p>",
+            "shortTextKey": "taxon_text_6_7183",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily distinguished by the seven strong grooved didges running around each whorl and the coating of brown ‘fur’ on live specimens.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7184",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1227-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1227-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1227-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1227-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1227-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1227-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2347-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2347-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2347-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1225-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1225-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1225-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1226-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1226-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1226-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Cymatium dolarium var. forticostatum",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Cabestana africana var. forticostatum",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Triton africanum",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Cymatium africanum",
+            "taxonAuthor": "(A. Adams, 1855)"
+        },
+        {
+            "taxonLatname": "Cabestana cutacea africana",
+            "taxonAuthor": "(A. Adams, 1855)"
+        },
+        {
+            "taxonLatname": "Triton (Cabestana) africanus",
+            "taxonAuthor": "A. Adams, 1855"
+        },
+        {
+            "taxonLatname": "Triton africanus",
+            "taxonAuthor": "A. Adams, 1855"
+        },
+        {
+            "taxonLatname": "Cymatium cutaceum africanum",
+            "taxonAuthor": "(A. Adams, 1855)"
+        },
+        {
+            "taxonLatname": "Cymatium dolarium var. adjacens",
+            "taxonAuthor": "W. H. Turton, 1932"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

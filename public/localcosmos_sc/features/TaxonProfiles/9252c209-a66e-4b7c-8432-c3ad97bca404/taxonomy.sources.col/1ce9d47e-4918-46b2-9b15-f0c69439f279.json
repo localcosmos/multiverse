@@ -1,0 +1,214 @@
+{
+    "taxonLatname": "Amaurobioides africana",
+    "taxonAuthor": "Hewitt, 1917",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1ce9d47e-4918-46b2-9b15-f0c69439f279",
+    "taxonNuid": "001003001003007003001",
+    "gbifNubkey": 2154933,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2700-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2700-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2700-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 40,
+    "vernacular": {
+        "en": "Chevron shore spider"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Chevron shore spider"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Amaurobioides africanus</i></p>",
+            "shortTextKey": "taxon_text_9_288",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spiders as a group can be easily identified by having the body divided into just two sections – an anterior prosoma (equivalent to a fused head and thorax) and a posterior opisthosoma or abdomen. The prosoma bears a pair of poison fangs, a pair of leg-like feelers called pedipalps and four pairs of jointed legs. Another characteristic feature is the presence of silk glands in the abdomen.</p><p>This species can be identified by its unusual habitat, relatively small fangs, dark brown prosoma and by the distinctive chevron pattern on the dorsal surface of the pale abdomen, from which the common name is derived.</p>",
+            "shortTextKey": "taxon_text_1_289",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 17 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_290",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Cape Peninsula to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_291",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Confined to the upper parts of the intertidal zone,&nbsp;especially on boulder shores. Make silken nests in crevices or under boulders. The nests often incorporate the shells of limpets or mussels, which are stuck to the rocks with silk. The opening of the nest always faces downwards so that it traps air when submerged at high tide. The spiders shelter in their nests during high tide and emerge to hunt for prey during low tide and particularly at night.</p>",
+            "shortTextKey": "taxon_text_4_292",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2867-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2867-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2867-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2865-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2865-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2865-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2866-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2866-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2866-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mainly at night, either by sitting at the nest entrance and pouncing on passing prey, or by moving about in search of prey animals. Feeds mostly on small crustaceans, such as amphipods and isopods, but also intertidal midges and other smaller spiders.</p>",
+            "shortTextKey": "taxon_text_5_293",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are laid in the silken nests and hatch directly into tiny spiderlings.</p>",
+            "shortTextKey": "taxon_text_6_294",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2882-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2882-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2882-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with the Formidable Shore Spider<i> Desis formidabilis, </i>which occurs in the same habitat and has similar nesting and feeding habits, but is smaller with much smaller fangs and is also distinguished by the distinctive chevron pattern on the abdomen.</p>",
+            "shortTextKey": "taxon_text_7_295",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Lamoral, BH (1968). On the ecology and habitat adaptations of two intertidal spiders, <i>Desis formidabilis</i> (OP Cambridge) and <i>Amaurobioides africanus</i> Hewitt, at \"The Island\"(Kommetjie, Cape Peninsula), with notes on the occurrence of two other spiders. <i>Annals of the Natal Museum</i>, 20(1), 151-193.<br><br>Moloney, CL, &amp; Nicolson, SW (1984). Water relations and haemolymph composition of two intertidal spiders (Order Araneae). <i>Journal of Experimental Marine Biology and Ecology</i>, 83(3), 275-284.</p>",
+            "shortTextKey": "taxon_text_8_296",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2700-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2700-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2700-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2700-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2700-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2700-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-441-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-441-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-441-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1851-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1851-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1851-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1852-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1852-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1852-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

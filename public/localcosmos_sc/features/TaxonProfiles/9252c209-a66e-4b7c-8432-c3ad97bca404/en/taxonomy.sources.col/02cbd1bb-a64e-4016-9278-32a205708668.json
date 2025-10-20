@@ -1,0 +1,227 @@
+{
+    "taxonLatname": "Massinium arthroprocessum",
+    "taxonAuthor": "(Thandar, 1989)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "02cbd1bb-a64e-4016-9278-32a205708668",
+    "taxonNuid": "00100c003002001001006007002",
+    "gbifNubkey": 5966519,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-572-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-572-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-572-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 146,
+    "vernacular": {
+        "en": "Tree-of-life sea cucumber"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tree-of-life sea cucumber"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Neothyondium arthroprocessum</i></p>",
+            "shortTextKey": "taxon_text_9_1285",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, soft, pale cucumber with cylindrical body that tapers towards slender posterior end, body wall bearing brown spots and blothes and with scattered tube-feet that are not arranged into distinct rows. Lives buried in course sediments with the head and tail ends elevated to the surface and the body curved downwards into the sand in a U-shape. There are 10 long, strongly-branching, tree-like (dendritic) tentacles arranged into inner and outer cycles of 10 tentacles-each. Females possess a series of paired transverse slits in the body wall whose function has not been established (but may be used to brood young).</p>",
+            "shortTextKey": "taxon_text_1_1286",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body up to 270 mm long, excluding tentacles.</p>",
+            "shortTextKey": "taxon_text_2_1287",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Recorded only from False Bay and two sites in KZN, but likely continuous in suitable sites between these locations.</p>",
+            "shortTextKey": "taxon_text_3_1288",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A large and striking species, which remarkably was only first described in 1989. This is probably due to both its cryptic habits and the fact that it lives buried deeply in the sediments, so that conventional benthic sampling equipment, such as dredges and trawls, would be unlikely to capture samples. All existing samples are also from &lt;20 m depth, where ships would be unable to operate. Lives buries in course sand with only the anterior end and long tentacles projecting upwards from the surface, while the body is buried in a U-shape, such that the anus again reaches to the sand surface. The large white and speckled tentacles are held upright into the water column to intercept floating particles passing in the current.</p>",
+            "shortTextKey": "taxon_text_4_1289",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Tentacles held up into the water column to intercept floating particles in the plankton. Each tentacle is then inserted in turn into the mouth to be licked clean and recoated in sticky mucous before being held aloft again.</p>",
+            "shortTextKey": "taxon_text_5_1290",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown, but the presence of slits in the body wall of only females suggest young may be brooded.</p>",
+            "shortTextKey": "taxon_text_6_1291",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The large size and unusual habits of this species make it unlikely that it would be confused with other local holothurians. There is one other regional species in the genus,<i> M. maculosum, </i>but this is known only from far northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_7_1292",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Thandar, AS (1989). A new species of a phyllophorid holothurian from southern Africa. <i>Journal of Zoology</i>, 219(4): 637-644.<br><br>Thandar, AS (2022). A Taxonomic Monograph of the Sea Cucumbers of Southern Africa (Echinodermata: Holothuriodea). Suricata 9. South African National Biodiversity Institute, Pretoria. (p. 76)",
+            "shortTextKey": "taxon_text_8_1293",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-572-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-572-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-572-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-572-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-572-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-572-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-573-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-573-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-573-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2394-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2394-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2394-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2395-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2395-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2395-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2396-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2396-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2396-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2398-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2398-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2398-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2399-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2399-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2399-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2400-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2400-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2400-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2397-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2397-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2397-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Neothyonidium arthroprocessum",
+            "taxonAuthor": "Thandar, 1989"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

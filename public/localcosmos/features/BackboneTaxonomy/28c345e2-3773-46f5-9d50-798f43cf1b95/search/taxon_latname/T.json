@@ -1,0 +1,32 @@
+[
+    {
+        "taxonLatname": "Test no ref taxon",
+        "taxonAuthor": null,
+        "taxonSource": "app_kit.features.nature_guides",
+        "nameUuid": "39198c1b-570a-49c7-881f-a6c3c68dfe92",
+        "taxonNuid": "001001002006",
+        "gbifNubkey": null,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "scientific",
+        "name": "Test no ref taxon",
+        "isPreferredName": true,
+        "acceptedNameUuid": "39198c1b-570a-49c7-881f-a6c3c68dfe92"
+    },
+    {
+        "taxonLatname": "Test no ref taxon ac",
+        "taxonAuthor": null,
+        "taxonSource": "app_kit.features.nature_guides",
+        "nameUuid": "019f5bc1-4493-468b-93dd-43ce9fae59c8",
+        "taxonNuid": "00100100100d",
+        "gbifNubkey": null,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "scientific",
+        "name": "Test no ref taxon ac",
+        "isPreferredName": true,
+        "acceptedNameUuid": "019f5bc1-4493-468b-93dd-43ce9fae59c8"
+    }
+]

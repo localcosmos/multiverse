@@ -1,0 +1,173 @@
+{
+    "taxonLatname": "Rhyssoplax polita",
+    "taxonAuthor": "(Spengler, 1797)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "de6ba426-67c9-485a-a1f2-4bfdea3b0b41",
+    "taxonNuid": "00100k00g003002002001003002005015",
+    "gbifNubkey": 10875309,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-778-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-778-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-778-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 632,
+    "vernacular": {
+        "en": "Tulip chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tulip chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Chiton tulipa</i></p>",
+            "shortTextKey": "taxon_text_9_6254",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Chitons have eight dorsal shell plates surrounded by a soft fleshy girdle. This species is easily identifiable by its beautiful patterns and colours. Shell plates have rounded to subtriangular anterior shell extensions. Middle plates rectangular shaped and lateral areas raised. Texture of shell mostly smooth. The valves are elevated in the mid-section, girdle wide and thick with large, striped, smooth, thick scales. Various beautiful colours with abstract patterns.</p>",
+            "shortTextKey": "taxon_text_1_6255",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large, typically around 20-55 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Langebaan (Western Cape) to Xhora River mouth (Eastern Cape).</p>",
+            "shortTextKey": "taxon_text_3_6257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of the most common chitons in the intertidal and subtidal zone that occurs in a remarkable range of colour patterns.<strong> </strong>Solitary under stones or on reef platforms.</p>",
+            "shortTextKey": "taxon_text_4_6258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Very distinguishable by its beautiful patterns. <i>Rhyssoplax crawfordi </i>can be found around the same areas but is more scarce, smaller and has clear ribbing on the valves between the middle and the sides.</p>",
+            "shortTextKey": "taxon_text_7_6261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashby, E (1928). South African chitons, being a description of the Polyplacophora represented in the Turton Collection. <i>Proceedings of the Malacological Society of London</i>, 18 (2), 76-92. <br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 160).",
+            "shortTextKey": "taxon_text_8_6262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-778-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-778-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-778-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-778-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-778-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-778-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-777-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-777-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-777-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chiton (Rhyssoplax) tulipa",
+            "taxonAuthor": "Quoy & Gaimard, 1835"
+        },
+        {
+            "taxonLatname": "Chiton politus",
+            "taxonAuthor": "Spengler, 1797"
+        },
+        {
+            "taxonLatname": "Chiton (Rhyssoplax) politus",
+            "taxonAuthor": "Spengler, 1797"
+        },
+        {
+            "taxonLatname": "Chiton tulipa alfredensis",
+            "taxonAuthor": "Ashby, 1928"
+        },
+        {
+            "taxonLatname": "Chiton tulipa",
+            "taxonAuthor": "Quoy & Gaimard, 1835"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

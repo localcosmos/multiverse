@@ -1,0 +1,543 @@
+{
+    "name": "Superasterids",
+    "description": null,
+    "verboseName": "Superasterids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2999-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2999-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2999-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3001-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3001-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3001-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3002-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3002-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3002-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Carpobrotus acinaciformis",
+            "taxonAuthor": "(L.) L. Bolus",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5cd8035f-0ca4-49ae-a234-18c5bccfbe8f",
+            "taxonNuid": "00600600500d00300400g001",
+            "slug": "carpobrotus-acinaciformis",
+            "localizedSlug": {
+                "en": "elands-sour-fig"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2776-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2776-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2776-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2781-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2781-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2781-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2781-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2781-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2781-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Carpobrotus edulis",
+            "taxonAuthor": "(L.) N. E. Br.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f8c92472-d53c-48b4-8ad2-59cf839013d3",
+            "taxonNuid": "00600600500d00300400g007",
+            "slug": "carpobrotus-edulis",
+            "localizedSlug": {
+                "en": "sour-fig"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2777-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2777-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2777-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Dried Sour figs sold at Muizenberg market</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2778-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2778-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2778-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2777-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2777-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2777-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chenolea diffusa",
+            "taxonAuthor": "Thunb.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8215ab18-7294-45bf-843f-81e26af33758",
+            "taxonNuid": "00600600500d004003009002",
+            "slug": "chenolea-diffusa",
+            "localizedSlug": {
+                "en": "saltbush"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2779-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2779-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2779-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2780-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2780-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2780-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2779-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2779-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2779-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Manochlamys albicans (Aiton)",
+            "taxonAuthor": "Aellen",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "7525a982-3949-4a87-b7c0-aee4058782d3",
+            "taxonNuid": "00300b001001",
+            "slug": "manochlamys-albicans-aiton",
+            "localizedSlug": {
+                "en": "spanspek-soap-bush"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2841-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2841-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2841-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2841-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2841-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2841-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Mesembryanthemum crystallinum",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "8fe6d077-c0a0-4478-9c9f-d7b350044fbd",
+            "taxonNuid": "00600600500d00300300100k",
+            "slug": "mesembryanthemum-crystallinum",
+            "localizedSlug": {
+                "en": "ice-plant"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2842-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2842-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2842-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2842-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2842-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2842-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tetragonia decumbens",
+            "taxonAuthor": "Mill.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2ee16f63-f7bb-4c6c-ae0e-4df016ed41a7",
+            "taxonNuid": "00600600500d00300200500b",
+            "slug": "tetragonia-decumbens",
+            "localizedSlug": {
+                "en": "sprawling-duneweed"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2967-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2967-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2967-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2967-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2967-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2967-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Salicornia littorea",
+            "taxonAuthor": "(Moss) Piirainen & G. Kadereit",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7497c298-6d7b-429b-825c-65b003ed5473",
+            "taxonNuid": "00600600500d00400700b00m",
+            "slug": "salicornia-littorea",
+            "localizedSlug": {
+                "en": "coastal-samphire"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2953-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2953-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2953-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2953-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2953-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2953-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Tetragonia fruticosa",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9fdfb2c6-ad31-4c5d-a654-cbe25ab87093",
+            "taxonNuid": "00600600500d00300200500i",
+            "slug": "tetragonia-fruticosa",
+            "localizedSlug": {
+                "en": "sprawling-sea-coral"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2968-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2968-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2968-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2968-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2968-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2968-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Salicornia meyeriana",
+            "taxonAuthor": "Moss",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "eba335a1-8268-4d8b-b4e5-2e0235eec243",
+            "taxonNuid": "00600600500d00400700b00p",
+            "slug": "salicornia-meyeriana",
+            "localizedSlug": {
+                "en": "marsh-samphire"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2955-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2955-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2955-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2956-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2956-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2956-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2955-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2955-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2955-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Salicornia tegetaria",
+            "taxonAuthor": "(S. Steffen, Mucina & G. Kadereit) Piirainen & G. Kadereit",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b7299399-2036-426f-aac7-832eb760a488",
+            "taxonNuid": "00600600500d00400700b01c",
+            "slug": "salicornia-tegetaria",
+            "localizedSlug": {
+                "en": "glasswort-samphire"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2957-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2957-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2957-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2958-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2958-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2958-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2957-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2957-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2957-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cleretum bellidiforme",
+            "taxonAuthor": "(Burm. fil.) G. D. Rowley",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "08a77446-676b-4b1d-871f-e295184161d8",
+            "taxonNuid": "00600600500d00300400n002",
+            "slug": "cleretum-bellidiforme",
+            "localizedSlug": {
+                "en": "livingstone-daisy"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2989-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2989-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2989-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2989-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2989-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2989-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ruschia spp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "dacb813b-7534-4312-a443-427520c609ce",
+            "taxonNuid": "00300d001001",
+            "slug": "ruschia-spp",
+            "localizedSlug": {
+                "en": "vygies"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2985-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2985-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2985-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3020-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3020-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3020-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3020-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3020-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3020-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Jordaaniella dubia",
+            "taxonAuthor": "(Haw.) H. E. K. Hartmann",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "042f1ed4-0460-44ff-8770-76cebb020d67",
+            "taxonNuid": "00600600500d00300401l004",
+            "slug": "jordaaniella-dubia",
+            "localizedSlug": {
+                "en": "strandveld-dunefig"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2990-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2990-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2990-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2990-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2990-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2990-1000.webp"
+                }
+            }
+        }
+    ]
+}

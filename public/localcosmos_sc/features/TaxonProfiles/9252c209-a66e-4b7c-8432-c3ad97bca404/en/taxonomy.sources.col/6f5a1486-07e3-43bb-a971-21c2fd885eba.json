@@ -1,0 +1,208 @@
+{
+    "taxonLatname": "Gibbula multicolor",
+    "taxonAuthor": "(Krauss, 1848)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "6f5a1486-07e3-43bb-a971-21c2fd885eba",
+    "taxonNuid": "00100k00700v00700100o00300802h",
+    "gbifNubkey": 5724081,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-149-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-149-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-149-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 319,
+    "vernacular": {
+        "en": "Multicoloured topshell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Multicoloured topshell",
+            "multicoloured topshell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Trochus multicolor</i></p>",
+            "shortTextKey": "taxon_text_9_2995",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell small, globular and winkle-like, with a fairly flat profile and with 2-3 spiral ridges running around each whorl. Aperture round, lacking teeth, umbilicus open in the eastern parts of range, closed in the Western Cape; operculum round and horny. External colour variable, but usually bright and multicoloured, with red, blue and white banded stripes. Often a particularly boldly-banded stripe around the widest margin of the shell. Antennae white, dark eyes visible at their bases.</p>",
+            "shortTextKey": "taxon_text_1_2996",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 10 mm in width.</p>",
+            "shortTextKey": "taxon_text_2_2997",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to East London<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2998",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little is known about this small species, which is usually found in small groups in lowshore pools and gullies and on shallow reefs.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_2999",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but other members of this family generally browse on algae, diatoms and detritus on rocky substrata.</p>",
+            "shortTextKey": "taxon_text_5_3000",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied. Other Northern hemisphere species in the genus, however, lay eggs in a jelly mass, the eggs frequently hatching only when the young have reached the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_3001",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with other similar small <i>Gibbula</i> species in the region, but the 2-3 distinct ridges on the shoulder are a good identification feature, as is the brightly-coloured shell. The very similar <i>G. capensis</i> differs by having a strongly angular shoulder between upper and lower surfaces and by having striped (rather then white) tentacles.</p>",
+            "shortTextKey": "taxon_text_7_3002",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 174)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 41).",
+            "shortTextKey": "taxon_text_8_3003",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-149-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-149-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-149-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-149-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-149-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-149-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gibbula multicolor f. hera",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula fucata",
+            "taxonAuthor": "A. Gould, 1861"
+        },
+        {
+            "taxonLatname": "Gibbula fucata var. sowerbyi",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula hera",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula lauta var. pretiosa",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Stomatella biporcata",
+            "taxonAuthor": "A. Adams, 1850"
+        },
+        {
+            "taxonLatname": "Gibbula lauta",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Cynisca rufanensis",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula lauta var. jucunda",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula distincta",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula pulchella",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula ornata",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Gibbula biporcata",
+            "taxonAuthor": "G. B. Sowerby III, 1892"
+        },
+        {
+            "taxonLatname": "Gibbula becki",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Trochus multicolor",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Gibbula polychroma",
+            "taxonAuthor": "W. H. Turton, 1932"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

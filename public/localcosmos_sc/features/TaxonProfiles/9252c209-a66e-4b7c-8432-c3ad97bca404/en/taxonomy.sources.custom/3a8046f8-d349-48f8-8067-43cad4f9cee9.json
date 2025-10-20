@@ -1,0 +1,155 @@
+{
+    "taxonLatname": "Balanophyllia spp.",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "3a8046f8-d349-48f8-8067-43cad4f9cee9",
+    "taxonNuid": "001004004001001001",
+    "gbifNubkey": null,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-849-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-849-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-849-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 607,
+    "vernacular": {
+        "en": "Cup corals"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cup corals",
+            "Balanophyllia spp."
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Cup-corals are solitary corals that lack symbiotic photosynthetic algae (are ‘azooxanthellate’) and hence often live in caves and other dark overhangs, or at great depths, where there are low light levels. Each polyp lives in a separate, small stony cup, although individuals often live in groups. The outer surface of the cup may be parallel-sided, or strongly flared, but is generally smooth. The inner surface of the cup is ringed with radiating septa of varying number and design. The living polyps are normally red in colour.</p><p>Members of this genus are relatively small and have more-or-less cylindrical cups, the inner surfaces of which are lined with radiating septa. There are seven local species that are difficult to distinguish in the field, so the genus is treated as a group here. Most previous guides identify the common local species as <i>B. bonaespei</i>, but the most recent guide (Filander et al. 2021) states that only a single specimen of this species has been collected since its original description in 1938 and that <i>B. capensis</i> is by far the more common species in the Western Cape.</p>",
+            "shortTextKey": "taxon_text_1_6005",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p><i>B. capensis</i><strong> </strong>cup about 16 mm diameter, <i>B. bonaespei</i> about 9 mm.</p>",
+            "shortTextKey": "taxon_text_2_6006",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Both<i> B. capensis</i><strong> </strong>and <i>B. bonaespei</i> endemic to South Africa.</p><p><u>Local/Regional:</u> <i>B. capensis</i> Cape Peninsula to KwaZulu-Natal; <i>B. bonaespei</i> Cape Peninsula and Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_6007",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On vertical faces and under overhangs in shallower waters and extend to depths of at least 230 m.</p>",
+            "shortTextKey": "taxon_text_4_6008",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Use the tentacles to capture small planktonic organisms from the water column.</p>",
+            "shortTextKey": "taxon_text_5_6009",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Details unknown for local species, but a European species in this genus that has been studied is hermaphrodite and produces planula larvae. Daughter polyps may also bud from the base of larger individuals asexually.</p>",
+            "shortTextKey": "taxon_text_6_6010",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several other genera occur in deeper waters, but in shallower waters frequented by divers the only other common genus is <i>Caryophyllia,</i> which has a tusk-shaped cup arising from a narrow base and had a group of scroll-like plates in the center of the oral cavity.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6011",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 42).<br><br>Filander, ZN, Kitahara, MV, Cairns, SD, Sink, K. J & Lombard, AT (2021). Azooxanthellate Scleractinia (Cnidaria, Anthozoa) from South Africa. <i>ZooKeys</i>, 1066, 1.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 44).<br><br>Sink, K, Gibbons, M, Laird, M & Atkinson L (2018) Phylum Cnidaria. In: Atkinson L. and Sink K. Field Guide to Offshore Marine Invertebrates of South Africa. Malechite Marketing, Pretoria (p. 93).",
+            "shortTextKey": "taxon_text_8_6012",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-849-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-849-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-849-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-849-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-849-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-849-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-744-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-744-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-744-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-743-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-743-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-743-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

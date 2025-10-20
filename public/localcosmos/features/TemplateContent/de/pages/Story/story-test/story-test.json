@@ -1,0 +1,40 @@
+{
+    "title": "Story test",
+    "templateName": "Story",
+    "templatePath": "/template_content/page/text/text.html",
+    "version": 1,
+    "contents": {
+        "videos": [
+            {
+                "url": "https://vimeo.com/347119375",
+                "uuid": "4d4c3923-ddd8-4179-97bb-5f7589663da9",
+                "title": "Bunny Video",
+                "videoType": "Vimeo"
+            }
+        ],
+        "paragraph": [
+            {
+                "text": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <strong>Lorem ipsum dolor sit amet,</strong> consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>",
+                "uuid": "62a7f090-19bd-4d5f-9399-fecafc0a54be",
+                "heading": "Alpen im Winter",
+                "image": {
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/published-paragraph:62a7f090-19bd-4d5f-9399-fecafc0a54be:image-15-s-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/published-paragraph:62a7f090-19bd-4d5f-9399-fecafc0a54be:image-15-s-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/published-paragraph:62a7f090-19bd-4d5f-9399-fecafc0a54be:image-15-s-1000.webp",
+                        "8x": "/localcosmos/user_content/content_images/published-paragraph:62a7f090-19bd-4d5f-9399-fecafc0a54be:image-15-s-2000.webp"
+                    },
+                    "licence": {
+                        "licence": "CC0",
+                        "licenceVersion": "1.0",
+                        "creatorName": "Thomas Uher",
+                        "creatorLink": "",
+                        "sourceLink": ""
+                    }
+                }
+            }
+        ]
+    },
+    "linkedTaxa": [],
+    "linkedTaxonProfiles": []
+}

@@ -1,0 +1,199 @@
+{
+    "taxonLatname": "Orthopyxis integra",
+    "taxonAuthor": "(MacGillivray, 1842)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "72166896-a0f3-4cb1-8bc8-e9b0dfee688a",
+    "taxonNuid": "00100800300100200500800e",
+    "gbifNubkey": 5186073,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-317-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-317-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-317-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 476,
+    "vernacular": {
+        "en": "Wine-glass hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Wine-glass hydroid"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Campanularia integra</i></p>",
+            "shortTextKey": "taxon_text_9_4569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small hydroid that lacks a branching upright stem, the individual polyps rather arising directly from a creeping ‘root’, which meanders across the surfaces of algae. Each polyp has about 25-30 tentacles and is enclosed in a cup-like hydrotheca that has fairly thick walls, a smooth margin and a single constriction just below the ‘cup’. Where present reproductive individuals also arise independently from the ‘root’ and are oval to pear-shaped, with a wide aperture.</p>",
+            "shortTextKey": "taxon_text_1_4570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual polyps typically about 2 mm tall, colony may spread for at least 100 mm.</p>",
+            "shortTextKey": "taxon_text_2_4571",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Cosmopolitan.</p><p><u>Local/Regional:</u> Whole coast, intertidal to 27 m depth.</p>",
+            "shortTextKey": "taxon_text_3_4572",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common and usually found growing on surfaces of algae (but also crabs and other sessile invertebrates), the creeping ‘roots firmly attached to the algal surface and giving rise to rows of polyps.</p>",
+            "shortTextKey": "taxon_text_4_4573",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on small particles and planktonic organisms in the water column.</p>",
+            "shortTextKey": "taxon_text_5_4574",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by asexual reproduction, with new vertical branches arising from the expanding network of basal stems. Male gonophores have 4 band-like gonads, females have 30-40 large eggs arranges in 8 longitudinal rows. These develop into degenerate umbrella-shaped medusae which have no tentacles or mouth.</p>",
+            "shortTextKey": "taxon_text_6_4575",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Taxonomy of this group is complex and confused and there are many similar species in this genus and the closely-related genus <i>Campanularia</i>. Although usually reported as being cosmopolitan, recent genetic work also suggests that several regional species may in fact be included under this one name.</p>",
+            "shortTextKey": "taxon_text_7_4576",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Cunha, AF, Collins, AG & Marques, AC (2017). Phylogenetic relationships of <i>Proboscoida</i> Broch, 1910 (Cnidaria, Hydrozoa): are traditional morphological diagnostic characters relevant for the delimitation of lineages at the species, genus, and family levels? <i>Molecular Phylogenetics and Evolution</i>, 106, 118-135.<br><br>Day, JH (1969). A Guide to Marine Life on South African Shores. A.A. Balkema, Cape Town (p. 27 as <i>Campanularia integra</i>).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 208 as <i>Campanularia integra</i>).",
+            "shortTextKey": "taxon_text_8_4577",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-317-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-317-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-317-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-317-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-317-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-317-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Campanularia laevis",
+            "taxonAuthor": "Couch, 1844"
+        },
+        {
+            "taxonLatname": "Campanularia borealis",
+            "taxonAuthor": "Marktanner-Turneretscher, 1890"
+        },
+        {
+            "taxonLatname": "Clytia undulata",
+            "taxonAuthor": "Lamouroux, 1824"
+        },
+        {
+            "taxonLatname": "Orthopyxis pacifica",
+            "taxonAuthor": "Stechow, 1919"
+        },
+        {
+            "taxonLatname": "Agastra mira",
+            "taxonAuthor": "Hartlaub, 1897"
+        },
+        {
+            "taxonLatname": "Laomedea repens",
+            "taxonAuthor": "Allman, 1871"
+        },
+        {
+            "taxonLatname": "Campanularia ritteri",
+            "taxonAuthor": "Nutting, 1901"
+        },
+        {
+            "taxonLatname": "Eucopella campanularia",
+            "taxonAuthor": "von Lendenfeld, 1883"
+        },
+        {
+            "taxonLatname": "Orthopyxis poterium",
+            "taxonAuthor": "L. Agassiz, 1862"
+        },
+        {
+            "taxonLatname": "Clytia (Orthopyxis) poterium",
+            "taxonAuthor": "L. Agassiz, 1862"
+        },
+        {
+            "taxonLatname": "Campanularia integriformis",
+            "taxonAuthor": "Marktanner-Turneretscher, 1890"
+        },
+        {
+            "taxonLatname": "Agastra rubra",
+            "taxonAuthor": "Behner, 1914"
+        },
+        {
+            "taxonLatname": "Campanularia integra",
+            "taxonAuthor": "MacGillivray, 1842"
+        },
+        {
+            "taxonLatname": "Clytia ryckholtii",
+            "taxonAuthor": "Westendorp, 1843"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

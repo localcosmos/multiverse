@@ -1,0 +1,145 @@
+{
+    "taxonLatname": "Megaceryle maxima",
+    "taxonAuthor": "(Pallas, 1769)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "3c0852a7-88bd-443e-b717-4a869480afe2",
+    "taxonNuid": "00100700300200200400200d001002003003",
+    "gbifNubkey": 2475463,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-941-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-941-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-941-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 668,
+    "vernacular": {
+        "en": "Giant kingfisher"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Giant kingfisher",
+            "Giant Kingfisher"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very large and readily identified by size alone. Feathers on top of head and nape of neck form a shaggy crest. Head and wings black, speckled with white. Eyes dark brown. Bill black, long and dagger-like. Chest and belly differ between sexes: Male has chest reddish-brown and belly white, marked with black; female has colours reversed, with white breast and belly reddish-brown. Legs and feet dark grey.</p>",
+            "shortTextKey": "taxon_text_1_6584",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 42-46 cm, mass 350-375 g.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6585",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Throughout Africa, except desert regions, two regional subspecies recognised.</p><p><u>Local/Regional:</u> Across the wetter eastern and southern regions of South Africa, mostly associated with inland waters, but also along the coast.</p>",
+            "shortTextKey": "taxon_text_3_6586",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common resident around almost any water body with sufficient food and suitable perches. Normally hunts from perch in trees alongside ponds or rivers, periodically raising crest and moving tail up and down. Flies low when changing perches, rising steeply to perch in new location. Seldom hovers, although does so more when fishing at sea. After diving at sea usually washes in freshwater. Prey taken to perch and beaten again solid object till dead, large crabs dismembered before swallowing, smaller ones eaten whole; fish swallowed head first.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_6587",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mainly on crabs and fish.</p>",
+            "shortTextKey": "taxon_text_5_6588",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Solitary nester.<strong> </strong>Nests in holes excavated by both sexes in vertical sand or mud banks adjacent to water. The nest hole takes about seven days to dig and is about 90—345 cm long, ending in an unlined chamber. Nest holes may be reused in subsequent years.&nbsp;&nbsp;</p><p>Peak laying dates August – October, usually laying 3-5 almost spherical, glossy white eggs. Incubation time about 25-27 days and young remain in the nest for about 37 days.</p>",
+            "shortTextKey": "taxon_text_6_6589",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Very distinctive and unlikely to be confused with any other species.</p>",
+            "shortTextKey": "taxon_text_7_6590",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 183).",
+            "shortTextKey": "taxon_text_8_6591",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-941-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-941-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-941-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-941-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-941-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-941-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-942-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-942-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-942-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

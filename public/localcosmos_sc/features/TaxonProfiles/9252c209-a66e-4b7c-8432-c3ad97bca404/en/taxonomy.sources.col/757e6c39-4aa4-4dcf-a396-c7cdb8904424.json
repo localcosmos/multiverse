@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Carybdea murrayana",
+    "taxonAuthor": "Haeckel, 1880",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "757e6c39-4aa4-4dcf-a396-c7cdb8904424",
+    "taxonNuid": "001008002001003001006",
+    "gbifNubkey": 6472059,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-342-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-342-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-342-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 496,
+    "vernacular": {
+        "en": "Box jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Box jellyfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Carybdea branchi</i></p>",
+            "shortTextKey": "taxon_text_9_4769",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Box jellyfish have a distinctive cube-shaped bell with either a single trailing tentacle at each corner, or a single branching tentacle at each corner.</p><p>This species has a stiff, transparent bell marked with a pattern of opaque white spots. There is a single, elongate, tapering tentacle on each corner which emerges from a short stalk that is usually tinged with brown.</p>",
+            "shortTextKey": "taxon_text_1_4770",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Bell up to about 70 mm across, tentacles may be up to 2 m long when extended.</p>",
+            "shortTextKey": "taxon_text_2_4771",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Northern Namibia to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_4772",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Unusual amongst jellyfish in that possess a nerve ring around the base of the bell that co-ordinates the contractions of the muscles. Also have fairly advanced eyes with a retina, cornea and lens, which allow them to avoid obstacles and seek prey.</p><p>This fairly common species, often forms swarms that feed together in clearings in kelp beds and similar habitats. Due to the restricted opening to the bell, contractions result in a powerful jet current, which allows box jellies to swim much faster than most other jellyfish. The tentacles can be greatly extended when feeding, but can be rapidly contracted when disturbed, or to bring prey back to the mouth. The South African species is venomous and can inflict a painful sting, but is not nearly as dangerous as the well-known related Australian species, which can be fatal.</p><p>Known to be eaten by sunfish <i>Mola mola</i>.</p>",
+            "shortTextKey": "taxon_text_4_4773",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on small fish and crustaceans, which are immobilized by the stinging cells on the tentacles and then transferred to the mouth.</p>",
+            "shortTextKey": "taxon_text_5_4774",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Thought to have an annual life cycle with adults living for only a few months. Reproduces by internal fertilization, the male transferring a spermatophore to the female (possible during the ‘swarming’ events often observed) after which the female produces an embryo strand, which also containing nematocysts to protect the developing young.</p>",
+            "shortTextKey": "taxon_text_6_4775",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily recognised by the body shape and the only species of box jelly occurring in the Western Cape.</p>",
+            "shortTextKey": "taxon_text_7_4776",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 52 as <i>C. robsoni</i>).",
+            "shortTextKey": "taxon_text_8_4777",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-342-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-342-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-342-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-342-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-342-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-342-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Carybdea branchi",
+            "taxonAuthor": "Gershwin & Gibbons, 2009"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

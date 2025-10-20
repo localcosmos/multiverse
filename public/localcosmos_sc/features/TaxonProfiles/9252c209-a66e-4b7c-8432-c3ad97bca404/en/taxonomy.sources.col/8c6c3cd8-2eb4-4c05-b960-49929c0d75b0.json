@@ -1,0 +1,175 @@
+{
+    "taxonLatname": "Pododesmus squama",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8c6c3cd8-2eb4-4c05-b960-49929c0d75b0",
+    "taxonNuid": "00100k00200100200b00100100a00b",
+    "gbifNubkey": 4373406,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-305-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-305-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-305-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 467,
+    "vernacular": {
+        "en": "Squamous saddle oyster"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Squamous saddle oyster"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Anomia squama</i></p>",
+            "shortTextKey": "taxon_text_9_4457",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, very flat, irregularly-rounded, oyster-like bivalve which has the lower (right) valve firmly cemented onto the substratum. Lower valve thin, flat and white, with a distinctive large oval hole near the hinge, through which a calcified, plug-like byssus extends. The upper (left) valve is thicker and more convex, although still has a low profile. It is light brown or yellow with an irregular oval margin and is ornamented by weak radiating ribs and small scales.</p>",
+            "shortTextKey": "taxon_text_1_4458",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically 30 mm shell length.</p>",
+            "shortTextKey": "taxon_text_2_4459",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Europe, including Mediterranean and South Africa.</p><p><u>Local/Regional:</u> Table Bay to Mossel Bay.</p>",
+            "shortTextKey": "taxon_text_3_4460",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Usually found singly or in small, dispersed groups attached on the undersides of boulders in sheltered pools. Little else known about biology.</p>",
+            "shortTextKey": "taxon_text_4_4461",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like almost all bivalves, feeds by filtering small particles and plankton from water drawn in through the inhalant aperture and sieved though the enlarged gills.</p>",
+            "shortTextKey": "taxon_text_5_4462",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like almost all bivalves, feeds by filtering small particles and plankton from water drawn in through the inhalant aperture and sieved though the enlarged gills.</p>",
+            "shortTextKey": "taxon_text_6_4463",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The taxonomy of this group is still confused, and it is thought that several species occur in the region but these have yet to be properly described. Most regional guides feature <i>Anomia achaeus</i>, which is a similar small, often transparent species, often found on other mollusc shells or even algal fronds and which occurs form about Algoa Bay eastwards up the coast of Africa.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_4464",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Holmes, AM (2017). Phylogenetics of British saddle oysters (Bivalvia: Anomiidae)-A review of the shell morphology, internal anatomy and genetics of <i>Pododesmus</i> in British waters. <i>Journal of Conchology</i>, 42(5), 317-325.<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 172, group entry only).<br><br>Richards, D (1987). Shells of southern Africa: A concise guide for collectors (second Edition). Struik Publishers, Cape Town (p. 81).",
+            "shortTextKey": "taxon_text_8_4465",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-305-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-305-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-305-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-305-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-305-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-305-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Patella squama",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Anomia hemispaerica",
+            "taxonAuthor": "Brusina, 1866"
+        },
+        {
+            "taxonLatname": "Anomia squama",
+            "taxonAuthor": "Gmelin, 1791"
+        },
+        {
+            "taxonLatname": "Monia squama var. crassa",
+            "taxonAuthor": "Winckworth, 1922"
+        },
+        {
+            "taxonLatname": "Monia glauca",
+            "taxonAuthor": "Monterosato, 1884"
+        },
+        {
+            "taxonLatname": "Monia squama",
+            "taxonAuthor": "(Gmelin, 1791)"
+        },
+        {
+            "taxonLatname": "Anomia striata",
+            "taxonAuthor": "Lovén, 1846"
+        },
+        {
+            "taxonLatname": "Pododesmus glaucus",
+            "taxonAuthor": "(Monterosato, 1884)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

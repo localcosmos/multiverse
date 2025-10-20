@@ -1,0 +1,131 @@
+{
+    "taxonLatname": "Babiana nana",
+    "taxonAuthor": "(Andrews) Spreng.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a50cb7a0-31d8-4891-bf98-e7183391c937",
+    "taxonNuid": "00600600300400900501b",
+    "gbifNubkey": 2746126,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2768-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2768-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2768-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 992,
+    "vernacular": {
+        "en": "Sandflat baboon-root"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sandflat baboon-root"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small geophytic perennial with fairly-broad, soft, sword-shaped, upright, pleated leaves that are coated with soft hairs.&nbsp; The large, fragrant blooms are borne on inflorescences of 2-6 blue or purple flowers. Each flower has 6 tepals (‘petals’) the upper 3 slightly larger than the lower three, which are partly merged basally and which bear white markings. &nbsp;The flowers have a strong rose-violet scent.</p>",
+            "shortTextKey": "taxon_text_1_9390",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants 6-15 cm tall, flowers about 50 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9391",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Restricted distribution along dunes and coastal flats between about Saldanha and Mossel Bay.</p>",
+            "shortTextKey": "taxon_text_3_9392",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very striking plant but has been depleted over much of its range due to urban development, agriculture and competition from invasive species and the population is now fragmented. The corms (enlarged underground stem that store food) are eaten by baboons and porcupines, hence the common name.</p>",
+            "shortTextKey": "taxon_text_4_9393",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9394",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to September.</p>",
+            "shortTextKey": "taxon_text_6_9395",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a diverse genus with about 50 species found in the fynbos biome, but the blooms of the various species vary widely in form and colour ranging from white to yellow, blue or purple. The white-marked purple flowers in this species are fairly distinctive.</p>",
+            "shortTextKey": "taxon_text_7_9396",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2768-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2768-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2768-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2768-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2768-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2768-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gladiolus nanus",
+            "taxonAuthor": "Andrews"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

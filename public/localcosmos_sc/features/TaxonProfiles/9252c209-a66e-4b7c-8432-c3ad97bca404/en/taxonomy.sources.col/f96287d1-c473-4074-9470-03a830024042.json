@@ -1,0 +1,197 @@
+{
+    "taxonLatname": "Ectopleura crocea",
+    "taxonAuthor": "(Agassiz, 1862)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f96287d1-c473-4074-9470-03a830024042",
+    "taxonNuid": "00100800300100100100f003007",
+    "gbifNubkey": 2265658,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-328-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-328-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-328-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 484,
+    "vernacular": {
+        "en": "Pink-mouthed hydroid"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pink-mouthed hydroid",
+            "pinkmouth hydroid",
+            "pinkmouth tubularian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Tubularia warreni</i></p>",
+            "shortTextKey": "taxon_text_9_4649",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, upright, colonial species with tall, unbranched stems each encased in a transparent sheath and topped by a spectacular crown. Crown consists of a central, dense tuft of white tentacles around the mouth and a second ring of much longer, white tentacles arranged in a neat, flat, outer ring. Between these lie pink, grape-like bunches of reproductive sporosacs.</p><p>Female polyps sometimes seen bearing strings of developing larvae.</p>",
+            "shortTextKey": "taxon_text_1_4650",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Polyps typically 50-100 mm tall, although a giant variety with polyps up to 250 mm tall is found in False Bay.</p>",
+            "shortTextKey": "taxon_text_2_4651",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in North Atlantic and Mediterranean, also west coast of USA (introduced), South Africa, Australia and New Zealand. May be introduced to some of those locations, or some of the populations may in reality represent distinct species.</p><p><u>Local/Regional:</u> Southern Namibia to Durban.</p>",
+            "shortTextKey": "taxon_text_3_4652",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Easily recognized by the enormous size of the individual polyps and their striking heads. Taxonomy confused and it seems unlikely that the giant species found in False Bay is the same as the much smaller form typically found in harbours and on ships hulls across much of the world.</p>",
+            "shortTextKey": "taxon_text_4_4653",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on small particles and planktonic organisms in the water column, including larvae of molluscs and other invertebrates.</p>",
+            "shortTextKey": "taxon_text_5_4654",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Male and female reproductive individuals (gonozooids) borne on different colonies. New individuals arise in the colony asexually by branching. New colonies are established by dispersal of mobile, crawling larvae shaped like little polyps and termed called actinula and there is no swimming stage.</p>",
+            "shortTextKey": "taxon_text_6_4655",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily identified by its very large size and spectacular polyps.</p>",
+            "shortTextKey": "taxon_text_7_4656",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 52).<br><br>Hewitt, CL & Goddard, JH (2001). A new species of large and highly contractile hydroid in the genus <i>Candelabrum</i> (Hydrozoa: Anthoathecatae) from southern Oregon, USA. <i>Canadian Journal of Zoology</i>, 79(12), 2280-2288. <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 56).<br><br>Millard, NAH (1975). Monograph on the Hydroida of Southern Africa. <i>Annals of the South African Museum</i>, 68, 1-513 (p. 35, as <i>Tubularia warreni</i>).",
+            "shortTextKey": "taxon_text_8_4657",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-328-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-328-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-328-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-328-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-328-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-328-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tubularia polycarpa",
+            "taxonAuthor": "Allman, 1971"
+        },
+        {
+            "taxonLatname": "Tubularia gracilis",
+            "taxonAuthor": "von Lendenfeld, 1885"
+        },
+        {
+            "taxonLatname": "Tubularia mesembryanthemum",
+            "taxonAuthor": "Allman, 1872"
+        },
+        {
+            "taxonLatname": "Tubularia crocea",
+            "taxonAuthor": "(Agassiz, 1862)"
+        },
+        {
+            "taxonLatname": "Tubularia australis",
+            "taxonAuthor": "Stechow, 1924"
+        },
+        {
+            "taxonLatname": "Tubularia warreni",
+            "taxonAuthor": "Ewer, 1953"
+        },
+        {
+            "taxonLatname": "Pinauay ralphi",
+            "taxonAuthor": "(Bale, 1884)"
+        },
+        {
+            "taxonLatname": "Tubularia sagamia",
+            "taxonAuthor": "Stechow, 1908"
+        },
+        {
+            "taxonLatname": "Ectopleura warreni",
+            "taxonAuthor": "(Ewer, 1953)"
+        },
+        {
+            "taxonLatname": "Parypha crocea",
+            "taxonAuthor": "L. Agassiz, 1862"
+        },
+        {
+            "taxonLatname": "Ectopleura ralphi",
+            "taxonAuthor": "(Bale, 1884)"
+        },
+        {
+            "taxonLatname": "Tubularia ralphi",
+            "taxonAuthor": "Bale, 1884"
+        },
+        {
+            "taxonLatname": "Pinauay crocea",
+            "taxonAuthor": "(L. Agassiz, 1862)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

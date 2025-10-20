@@ -1,0 +1,98 @@
+{
+    "slugs": {
+        "1-frontend": "6c332424-344d-4311-ab38-21d6e9059fad",
+        "2-backbone-taxonomy": "5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
+        "3-taxon-profiles": "9252c209-a66e-4b7c-8432-c3ad97bca404"
+    },
+    "Frontend": {
+        "genericContentType": "Frontend",
+        "uuid": "6c332424-344d-4311-ab38-21d6e9059fad",
+        "name": "Frontend",
+        "description": null,
+        "slug": "1-frontend",
+        "version": 13,
+        "path": "/localcosmos/features/Frontend/6c332424-344d-4311-ab38-21d6e9059fad/6c332424-344d-4311-ab38-21d6e9059fad.json",
+        "folder": "/localcosmos/features/Frontend/6c332424-344d-4311-ab38-21d6e9059fad"
+    },
+    "BackboneTaxonomy": {
+        "genericContentType": "BackboneTaxonomy",
+        "uuid": "5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
+        "name": "Backbone taxonomy",
+        "description": null,
+        "slug": "2-backbone-taxonomy",
+        "version": 1,
+        "path": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba.json",
+        "folder": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
+        "search": {
+            "taxonLatname": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/search/taxon_latname",
+            "vernacular": {
+                "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/search/vernacular/en"
+            }
+        },
+        "lookup": {
+            "vernacular": {
+                "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/lookup/vernacular/en.json"
+            }
+        },
+        "slugs": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/slugs.json",
+        "localizedSlugs": {
+            "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/slugs/en.json"
+        }
+    },
+    "TaxonProfiles": {
+        "genericContentType": "TaxonProfiles",
+        "uuid": "9252c209-a66e-4b7c-8432-c3ad97bca404",
+        "name": "Taxon profiles",
+        "description": null,
+        "slug": "3-taxon-profiles",
+        "version": 4,
+        "folder": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404",
+        "options": {
+            "enableTaxonomicNavigation": true
+        },
+        "globalOptions": {},
+        "files": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404",
+        "localizedFiles": {
+            "en": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/en"
+        },
+        "localizedRegistries": {
+            "en": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/vernacular/en.json"
+        },
+        "registry": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/registry.json",
+        "navigation": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/navigation",
+        "featuredProfiles": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/featured_profiles.json",
+        "lookup": {
+            "9252c209-a66e-4b7c-8432-c3ad97bca404": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/9252c209-a66e-4b7c-8432-c3ad97bca404.json"
+        },
+        "idToTaxonMap": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/id_to_taxon_map.json"
+    },
+    "TemplateContent": {
+        "uuid": "31c7ccbe-0dea-4959-bd41-d5755fd68889",
+        "version": 1,
+        "options": {},
+        "globalOptions": {},
+        "name": "TemplateContent",
+        "slug": "pages",
+        "list": [],
+        "lookup": {
+            "fa2cbc02-2991-450b-b983-8dde634af4be": "/localcosmos/features/TemplateContent/en/pages/Story/whats-your-name/whats-your-name.json",
+            "593ed3cd-6701-4bdc-8a28-3d6948e049b0": "/localcosmos/features/TemplateContent/en/pages/Collection/stories/stories.json"
+        },
+        "slugs": {
+            "whats-your-name": {
+                "path": "/localcosmos/features/TemplateContent/en/pages/Story/whats-your-name/whats-your-name.json",
+                "templateName": "Story"
+            },
+            "stories": {
+                "path": "/localcosmos/features/TemplateContent/en/pages/Collection/stories/stories.json",
+                "templateName": "Collection"
+            }
+        },
+        "assignments": {},
+        "navigations": {
+            "main": {
+                "en": "/localcosmos/features/TemplateContent/en/navigations/main.json"
+            }
+        }
+    }
+}

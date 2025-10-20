@@ -1,0 +1,170 @@
+{
+    "name": "Hermit crabs & kin",
+    "description": null,
+    "verboseName": "Hermit crabs & kin",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1018-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1018-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1018-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1019-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1019-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1019-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1020-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1020-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1020-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-40",
+            "parentKey": "tpne-35",
+            "name": "Hermit crabs",
+            "verboseName": "Hermit crabs",
+            "taxa": [
+                {
+                    "taxonLatname": "Paguroidea",
+                    "taxonAuthor": "Latreille, 1802",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "f09e84cf-4e4d-43d5-af69-0b74c4caff01",
+                    "taxonNuid": "00100300a006002002007"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1021-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1021-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1021-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1022-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1022-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1022-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1023-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1023-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1023-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1021-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1021-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1021-1000.webp"
+                }
+            },
+            "slug": "hermit-crabs"
+        },
+        {
+            "key": "tpne-41",
+            "parentKey": "tpne-35",
+            "name": "Galatheoids (squat lobsters & porcelain crabs)",
+            "verboseName": "Galatheoids (squat lobsters & porcelain crabs)",
+            "taxa": [
+                {
+                    "taxonLatname": "Galatheoidea",
+                    "taxonAuthor": "Samouelle, 1819",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "2ae8031e-5df6-4f8b-aa75-91aa1f35eda7",
+                    "taxonNuid": "00100300a006002002003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-812-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-812-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-812-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1024-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1024-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1024-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1098-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1098-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1098-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-812-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-812-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-812-1000.webp"
+                }
+            },
+            "slug": "galatheoids-squat-lobsters-porcelain-crabs"
+        }
+    ],
+    "taxonProfiles": []
+}

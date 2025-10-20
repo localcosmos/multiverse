@@ -1,0 +1,174 @@
+{
+    "taxonLatname": "Sunamphitoe roberta",
+    "taxonAuthor": "Griffiths, 2019",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "024e3f4e-780b-4895-a962-0a4378edd230",
+    "taxonNuid": "00100300a00100b00300200400100g00x",
+    "gbifNubkey": 10710254,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-937-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-937-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-937-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 37,
+    "vernacular": {
+        "en": "Roberta’s kelp-burrower"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Roberta’s kelp-burrower"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Most easily identified by the unique habit of burrowing into the heads of <i>Ecklonia maxima</i>. Colour cream or greenish orange with small, round, red-centered white eyes. Antennae and legs short and sturdy, first two pairs of legs with small nippers. Most distinctive feature strong rows of dorsal spines along first and second pairs of uropods, which are thought to be used to excavate the burrows. Third pair of uropods with short equal branches, the outer ending in two strong, upturned spines.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 20 mm, excluding antennae</p>",
+            "shortTextKey": "taxon_text_2_263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> Officially reported only from False Bay, but thought to extend at least from Saldanha Bay to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_264",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Have the unique habit of living in slit-like burrows excavated into the distal margin of the heads of the sea-bamboo<i> Ecklonia maxima. </i>It is thought that the burrows are excavated by scraping action of the heavily-spined uropods 1 and 2. The burrows appear to begin as small semicircular structures each inhabited by one of two adult amphipods and their young, but over time numerous burrows may develop and merge so that the entire distal margin of the head becomes irregularly eroded back. Heavily infected kelps are easily recognized by eye, even from the shore. Up to a third of adult kelps may host amphipods, older individuals with larger heads being most frequently infected. Heavily infected kelps may house more than 100 individuals (most of them juveniles), the mean number of amphipods per infected host being 20.</p><p>It is remarkable that this species was only recently discovered, given that is it both relatively large and causes conspicuous damage, and that a great deal of earlier research done on the fauna of kelp beds in the region failed to note its presence. The species is named after Dr Roberta Griffiths (wife of the describer, and author of this species account) in recognition of their joint research on kelp beds.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_265",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Assumed to feed on kelp tissue eroded from the walls of the burrow.</p>",
+            "shortTextKey": "taxon_text_5_266",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>As with all amphipods the eggs are released into a brood pouch beneath the walking legs of females and brooded there until they develop into fully-formed juveniles. In this species free-living juveniles were commonly observed in the same burrows as adults, indicating that they remain there for some time before dispersing to construct their own burrows.</p>",
+            "shortTextKey": "taxon_text_6_267",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are some 40 species in this genus including two others in the region, one of which,<i> S. africana,</i> is also associated with kelps<i>. </i>However,<i> S. africana </i>lacks the rows of strong spines along the uropods, characteristic of<i> S. roberta </i>and makes nests by folding over and weaving together the tips of the secondary fronds of the kelps, whereas<i> S. roberta </i>burrows directly into the primary frond, or head, of the kelps.</p>",
+            "shortTextKey": "taxon_text_7_268",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (2019). A new species of <i>Sunamphitoe</i> (Amphipoda: Ampithoidae) that bores into the primary fronds of kelps in South Africa. <i>Journal of Crustacean Biology</i>, 39(4), 436–439.<br><br>Peart, R (2017). Analysis of the genus <i>Sunamphitoe</i> Spence Bate, 1857 (Amphipoda: Ampithoidae) with descriptions of eight new species. <i>Zootaxa</i>, 4269(3), 301–345.<br><br>Wilcox, MJ, Landschoff, J & Griffiths, CL (2022). Prevalence, population structure and burrow morphology of the kelp-boring amphipod <i>Sunamphitoe roberta</i>. <i>African Journal of Marine Science</i>, 44(2), 181-187.",
+            "shortTextKey": "taxon_text_8_269",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-937-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-937-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-937-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-937-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-937-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-937-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-657-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-657-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-657-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-938-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-938-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-938-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-939-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-939-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-939-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-658-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-658-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-658-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": true
+}

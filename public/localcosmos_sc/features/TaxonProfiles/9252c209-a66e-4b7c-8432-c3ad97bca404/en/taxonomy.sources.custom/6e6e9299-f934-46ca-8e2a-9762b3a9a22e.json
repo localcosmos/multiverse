@@ -1,0 +1,164 @@
+{
+    "taxonLatname": "Laminaria pallida",
+    "taxonAuthor": "Greville, 1848",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "6e6e9299-f934-46ca-8e2a-9762b3a9a22e",
+    "taxonNuid": "00300100e001",
+    "gbifNubkey": 5422372,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1039-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1039-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1039-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 701,
+    "vernacular": {
+        "en": "Split-fan kelp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Split-fan kelp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>One of the largest and best known of regional algae. The conical holdfast is comprised of a network of cylindrical, branched, root-like haptera and gives rise to a thick, solid stipe that tapers distally. The single broad blade is split into several parallel longitudinal straps. In juveniles the blade is entire. Colour uniformly light-brown, golden with sori (reproductive structures) appearing as darker spots on the blades.</p>",
+            "shortTextKey": "taxon_text_1_6881",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length up to at least 5 m.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6882",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Basically a southern African species, but also found on Tristan da Cunha, Gough Island and St Paul Island.</p><p><u>Local/Regional:</u><i> </i>Namibia to Danger Point.</p>",
+            "shortTextKey": "taxon_text_3_6883",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>At southern end of distribution tends to occur mainly in deeper water below about 8 m and to form a fully-submerged forest seaward of the Sea bamboo <i>Ecklonia maxima, </i>which reaches the surface. Further up the west coast becomes a more dominant component of kelp beds and occurs in shallower water, extending into the intertidal.&nbsp; Important ‘ecosystem engineer’ creating habitat for numerous smaller species that colonise the holdfasts, stipes and blades. During storms bend over such that the sweeping action of the blades across adjacent rock surfaces sweeps away sea urchins and other grazers, increasing survival of sporelings around existing adults.</p>",
+            "shortTextKey": "taxon_text_4_6884",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_6885",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Alternating generations of the familiar large spore-producing sporophytes and separate microscopic male and female gametophytes.</p>",
+            "shortTextKey": "taxon_text_6_6886",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Occur in association and close proximity with the Sea bamboo <i>Ecklonia maxima</i>, but that species has a hollow stipe that expands distally into a gas-filled bulb, from which the fronds spread laterally. Specimens from Namibia and Northern Cape tend to have longer, hollow stipes that broaden distally and were once regarded as a separate species <i>L. schinzii,</i> but these are now considered conspecific with <i>L. pallida</i>.</p>",
+            "shortTextKey": "taxon_text_7_6887",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 386). <br><br>Dieckmann, GS (1980). Aspects of the ecology of <i>Laminaria pallida</i> (Grev.) J. Ag. off the Cape Peninsula (South Africa) I. Seasonal growth. <i>Botanica Marina</i>, 23(9), 579-586.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 187).",
+            "shortTextKey": "taxon_text_8_6888",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1039-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1039-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1039-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1039-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1039-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1039-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1040-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1040-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1040-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Hondeklip Bay, West Coast, low intertidal/infratidal.</p>",
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1041-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1041-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1041-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1029-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1029-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1029-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

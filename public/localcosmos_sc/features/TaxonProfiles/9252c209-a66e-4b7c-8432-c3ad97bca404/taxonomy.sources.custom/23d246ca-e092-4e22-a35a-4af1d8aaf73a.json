@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Ceramium arenarium",
+    "taxonAuthor": "R.H. Simons, 1966",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "23d246ca-e092-4e22-a35a-4af1d8aaf73a",
+    "taxonNuid": "003002004008001",
+    "gbifNubkey": 5277078,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1362-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1362-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1362-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 777,
+    "vernacular": {
+        "en": "Beaded ceramium"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Beaded ceramium"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small and very delicate species consisting of thin, branching filaments each ending in a pair of strongly-incurved, claw-like tips. The filaments are strongly banded with alternating rings of small red cells and larger transparent ones, creating a distinctive beaded appearance. Often grows epiphytically on other algae, such as <i>Codium</i> spp.</p>",
+            "shortTextKey": "taxon_text_1_7565",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically about 30 mm tall, with filaments only about 0.25 mm wide.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_7566",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern African.</p><p><u>Local/Regional:</u><i> </i>Namibia to about East London.</p>",
+            "shortTextKey": "taxon_text_3_7567",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Often epiphytic of other algae and common both in algal turfs and attached to the fronds of other larger algae.</p>",
+            "shortTextKey": "taxon_text_4_7568",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7569",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Tetraspores oval and borne in the apical segments.</p>",
+            "shortTextKey": "taxon_text_6_7570",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several similar regional species in this and closely-related genera and these can be easily confused – see Stegenga reference for a more detailed account of, and identification key to, west coast species.</p>",
+            "shortTextKey": "taxon_text_7_7571",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 412). <br><br>Simons, RH (1966). The genus <i>Ceramium</i> in South Africa. <i>Bothalia</i>, 9, 153-168.<br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 410).",
+            "shortTextKey": "taxon_text_8_7572",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1362-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1362-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1362-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1362-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1362-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1362-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

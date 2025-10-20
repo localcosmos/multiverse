@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Chaka leoni",
+    "taxonAuthor": "Griffiths, 1974",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c869efdd-4499-43a7-bc9b-31b48af9766a",
+    "taxonNuid": "00100300a00100b003001002001003005001",
+    "gbifNubkey": 4314415,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-493-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-493-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-493-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 20,
+    "vernacular": {
+        "en": "Half-legged skeleton shrimp"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Half-legged skeleton shrimp"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Like all skeleton shrimps the body segments are greatly elongated and cylindrical and the side plates absent. Legs 3 and 4 are absent in most skeleton shrimps, but in this species they remain fully developed. Leg 5 is also characteristically reduced to three segments, so that only the last two pairs of legs remain robust and are used to grip onto the substratum.</p>",
+            "shortTextKey": "taxon_text_1_109",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 11 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_110",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic.</p><p><u>Local/Regional:</u> KwaZulu-Natal to False Bay.</p>",
+            "shortTextKey": "taxon_text_3_111",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Like other skeleton shrimps assumed to cling to algae, hydroids, bryozoans etc with the last two pairs of legs, with the elongate body extending out into the water, reaching out periodically with the nippers to intercept prey.</p>",
+            "shortTextKey": "taxon_text_4_112",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Members of this group are mostly though to be omnivorous, catching small crustaceans, worms, diatoms. etc.</p>",
+            "shortTextKey": "taxon_text_5_113",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Adult females can easily be recognized by the presence of ventral brood plates on body segments 3 and 4. The eggs are laid into the brood chamber where they are fertilized by the male and brooded until they develop into fully-formed young.</p>",
+            "shortTextKey": "taxon_text_6_114",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is the only species in this unusual&nbsp; and endemic genus. The fully developed legs 3-4 are highly unusual among regional skeleton shrimps, the only other regional species with this character being <i>Phtisica marina</i>. &nbsp;However leg 5 in <i>P. marina</i> is also fully developed, where as in <i>C. leoni</i> it is reduced to just 3 segments.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_115",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Griffiths, CL (1974). The Amphipoda of Southern Africa. 3. The Gammaridea and Caprellidea of Natal. <i>Annals of the South African Museum</i>. 62(7), 209-264, figs: 1-8.<br><br>Griffiths, CL (1976). Guide to the benthic marine amphipods of Southern Africa. <i>Trustees of the South African Museum</i>.",
+            "shortTextKey": "taxon_text_8_116",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-493-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-493-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-493-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-493-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-493-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-493-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

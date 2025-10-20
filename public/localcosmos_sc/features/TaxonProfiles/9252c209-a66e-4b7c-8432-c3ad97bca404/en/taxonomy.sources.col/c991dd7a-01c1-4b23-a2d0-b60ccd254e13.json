@@ -1,0 +1,177 @@
+{
+    "taxonLatname": "Brunsvigia orientalis",
+    "taxonAuthor": "(L.) Aiton ex Eckl.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c991dd7a-01c1-4b23-a2d0-b60ccd254e13",
+    "taxonNuid": "00600600300400100900f",
+    "gbifNubkey": 2853381,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2769-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2769-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2769-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 993,
+    "vernacular": {
+        "en": "Candelabra lily"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Candelabra lily"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Bulbous perennial plant with very large, velvety, tongue-shaped leaves that lie flat on the ground during winter. The leaves die off during summer and in February to March the plant sends up a thick red stalk topped by a large spectacular ball of 20-80 upcurved red flowers.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9399",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Flowerheads about 40 cm tall and up to 50 cm diameter, leaves 30 cm or more long.</p>",
+            "shortTextKey": "taxon_text_2_9400",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Sandy coastal habitats from Namaqualand to about Plettenberg Bay.</p>",
+            "shortTextKey": "taxon_text_3_9401",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Has a strong annual cycle. The leaves appear in about May and die down from about October. The bulb then lies dormant during the summer before producing the spectacular flower head in late summer (February to March). The flower heads often emerge from bare ground and in large groups and are topped by a large ball of flowers. Once dry the flower heads break loose and are tumbled by the wind, dispersing the seeds.</p><p>Dense natural clumps are a spectacular sight, much sought after by photographers. Also a popular garden plant easily grown from seed. Birds are the main pollinators, perching on the sturdy flower stems. The bulbs contain toxic compounds to protect them from being eaten by mole rats.</p>",
+            "shortTextKey": "taxon_text_4_9402",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9403",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The seeds are fleshy with a short period of viability and germinate quickly, sometimes while still in the flowerhead.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9404",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common coastal representative among several regional species in this genus. Among more coastal species the similar <i>B. gregaria</i> has pink rather than red flowers, while <i>B. littoralis</i> has 8 or more erect twisted leaves - both these species occurs mostly along the south coast.</p>",
+            "shortTextKey": "taxon_text_7_9405",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2769-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2769-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2769-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2769-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2769-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2769-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2770-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2770-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2770-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Brunsvigia gigantea",
+            "taxonAuthor": "Heist."
+        },
+        {
+            "taxonLatname": "Amaryllis multiflora",
+            "taxonAuthor": "D.Dietr."
+        },
+        {
+            "taxonLatname": "Amaryllis nobilis",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Brunsvigia multiflora",
+            "taxonAuthor": "W.T.Aiton"
+        },
+        {
+            "taxonLatname": "Amaryllis orientalis",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Brunsvigia multiflora var. rubricaulis",
+            "taxonAuthor": "Herb."
+        },
+        {
+            "taxonLatname": "Crinum candelabrum",
+            "taxonAuthor": "M.Roem."
+        },
+        {
+            "taxonLatname": "Brunsvigia rubricaulis",
+            "taxonAuthor": "M.Roem."
+        },
+        {
+            "taxonLatname": "Coburgia multiflora",
+            "taxonAuthor": "(W.T.Aiton) Herb."
+        },
+        {
+            "taxonLatname": "Haemanthus orientalis",
+            "taxonAuthor": "(L.) Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,144 @@
+{
+    "taxonLatname": "Tetragonia fruticosa",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "9fdfb2c6-ad31-4c5d-a654-cbe25ab87093",
+    "taxonNuid": "00600600500d00300200500i",
+    "gbifNubkey": 5554668,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2968-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2968-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2968-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1045,
+    "vernacular": {
+        "en": "Sprawling sea coral"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Sprawling sea coral",
+            "Trailing dune spinach"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling, perennial succulent with long, reddish stems and soft, narrow, fleshy alternating leaves, the margins of which are rolled under. Both stems and leaves are covered in tiny papillae that glisten in sunlight. Flowers borne in the leaf axils of upright stems and are small and yellow with four petal-like sepals surrounding a bundle of yellow stamens.</p>",
+            "shortTextKey": "taxon_text_1_9843",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 25 cm tall. Flowers 3-4 mm across.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_9844",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa. &nbsp;</p><p><u>Local/Regional:</u> Namaqualand to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_9845",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common coastal species, but also occurs inland in arid and semi-arid areas. Sometimes on open ground, but often scrambles among other plants. Palatable to game and stock and is an important fodder plant. The young shoots can also be boiled, chopped up and eaten.</p><p>Also a useful and attractive pioneer plant in coastal gardens and useful in stabilization of dunes.</p>",
+            "shortTextKey": "taxon_text_4_9846",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9847",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August -November. Flowers rich in pollen and nectar and pollinated by bees. Seeds borne in 4-winged capsules that becomes papery and light when mature and are easily dispersed by wind.</p>",
+            "shortTextKey": "taxon_text_6_9848",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other regional species in the genus. Most likely to be confused with Sprawling duneweed, <i>T. decumbens</i> which is very common along the coast, but also occurs inland. However that species has broader, oval leaves and tiny flowers that are largely concealed around the bases of the leaves.</p>",
+            "shortTextKey": "taxon_text_7_9849",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2968-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2968-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2968-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2968-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2968-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2968-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Tetragonia linearis",
+            "taxonAuthor": "Haw."
+        },
+        {
+            "taxonLatname": "Tetragonia fruticosa var. lanceolata",
+            "taxonAuthor": "Fenzl"
+        },
+        {
+            "taxonLatname": "Tetragonia lanceolata",
+            "taxonAuthor": "Burm. fil."
+        },
+        {
+            "taxonLatname": "Tetragonia fruticosa var. linearis",
+            "taxonAuthor": "(Haw.) Fenzl"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

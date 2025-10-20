@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Rhyssoplax crawfordi",
+    "taxonAuthor": "(Sykes, 1899)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a5023c74-2171-43ea-80bf-59a2fde151b4",
+    "taxonNuid": "00100k00g00300200200100300200500g",
+    "gbifNubkey": 10703454,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-776-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-776-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-776-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 631,
+    "vernacular": {
+        "en": "Ribbed-shell chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ribbed-shell chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Chitons have eight dorsal shell plates surrounded by a soft fleshy girdle. Shell plates rectangular with rounded anterior shell extensions and raised sides. Texture of shell with clear longitudinal ribs on the area between the middle and the sides and microscopic punctation/smooth texture on the rest on the valves with very light growth-lines. Girdle wide with large, ribbed scales and spicules around the edge. Colour orange, pink, olive or brown with lighter blotches.</p>",
+            "shortTextKey": "taxon_text_1_6245",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium, typically around 15-30 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6246",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to Durban.</p>",
+            "shortTextKey": "taxon_text_3_6247",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On sand, rocks or marine debris in the subtidal to intertidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6248",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6249",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6250",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of two species in the genus, but the Tulip chiton <i>R. polita</i>, is larger, more common, and has smooth scales and no spicules along the edge of the animal.</p>",
+            "shortTextKey": "taxon_text_7_6251",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Sykes, ER (1899). On <i>Dinoplax fossus</i>, n. sp., and <i>Chiton crawfordi</i>, n. sp., from South Africa. <i>Proceedings of the Malacological Society of London</i>, 3(5), 277-279.",
+            "shortTextKey": "taxon_text_8_6252",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-776-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-776-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-776-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-776-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-776-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-776-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chiton crawfordi",
+            "taxonAuthor": "Sykes, 1899"
+        },
+        {
+            "taxonLatname": "Chiton (Rhyssoplax) crawfordi",
+            "taxonAuthor": "Sykes, 1899"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,143 @@
+{
+    "taxonLatname": "Ischnochiton elizabethensis",
+    "taxonAuthor": "Pilsbry, 1894",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ecc4e329-c5f6-4fa8-a980-f111b19a0b69",
+    "taxonNuid": "00100k00g00300200200100400300x",
+    "gbifNubkey": 2306597,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-767-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-767-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-767-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 623,
+    "vernacular": {
+        "en": "Flat chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Flat chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened with eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Shell plates short, very flat and rectangular with rounded margins widening to the back. Texture of shell with randomly dispersed to wavey patterns of circular granules. Growth lines very clear. Girdle narrow with smooth, thin, broad and clear scales with micro-striation. Articulamentum white with brown or grey blotches and medium, rounded anterior extensions. White to buff or olive brown.</p>",
+            "shortTextKey": "taxon_text_1_6165",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Small, typically around 5-10 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6166",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Western Cape to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_6167",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Grouped under smooth rocks in sandy pools in the intertidal-subtidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6168",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6169",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6170",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Differs from <i>I. oniscus </i>by larger, polished, broader scales more densely arranged on the girdle and overall, randomly arranged, courser sculpture on the shell plates with granules more circular, central area also much less elevated and flatter than in <i>I. oniscus</i>. Differs from <i>I. bergoti</i> by having scales smooth to the naked eye and from <i>I. textilis </i>and <i>I. indianus </i>with having no punctation or ribs on shell plates.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6171",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Ashby, E (1928). South African chitons, being a description of the Polyplacophora represented in the Turton Collection. <i>Proceedings of the Malacological Society of London</i>, 18 (2), 76-92. (p. 85, pl. 6, figs 9-11).<br><br>Sirenko, B & Schwabe, E (2002). Taxonomic notes on chitons. 2. Taxonomic status of chitons of the <i>Ischnochiton oniscus</i> group. <i>Spixiana</i>, 25(3), 193–198.",
+            "shortTextKey": "taxon_text_8_6172",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-767-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-767-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-767-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-767-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-767-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-767-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Ischnochiton elizabethensis var. piperatus",
+            "taxonAuthor": "W. H. Turton, 1932"
+        },
+        {
+            "taxonLatname": "Ischnochiton (Ischnochiton) elizabethensis",
+            "taxonAuthor": "Pilsbry, 1894"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

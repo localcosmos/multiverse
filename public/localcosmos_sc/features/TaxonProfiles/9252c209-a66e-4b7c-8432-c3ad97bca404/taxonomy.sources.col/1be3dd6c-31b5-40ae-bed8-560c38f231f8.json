@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Anilocra capensis",
+    "taxonAuthor": "Leach, 1818",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "1be3dd6c-31b5-40ae-bed8-560c38f231f8",
+    "taxonNuid": "00100300a00800400200600400f",
+    "gbifNubkey": 2210190,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-446-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-446-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-446-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 48,
+    "vernacular": {
+        "en": "Seabream fish louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Seabream fish louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Head triangular with short antennae; body smooth, grey and flattened, legs ending in powerful hooked claws to grip on host. Abdomen clearly divided into five segments, ending on large rounded telson and pair of elongate lateral pleopods that extend well beyond end of body.<i>&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_1_361",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Large, reaching 60 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_362",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Regional endemic.</p><p><u>Local/Regional:</u> Namibia to East London.</p>",
+            "shortTextKey": "taxon_text_3_363",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Parasitic on seabreams (fishes of Family Sparidae), attaching to the head, usually above and behind the eye. The rasping mouthparts are used to gouge a hole in the skin allowing the parasite to feed on the host blood and tissue. The isopods change sex as they grow, starting life as males, then transitioning to become females as they become larger.</p><p>In a study of Cape seabreams (<i>Pachymetopon blochii</i>) in False Bay it was found that 5.2% of fish were infected with isopods. Of infected hosts, 33% had one parasite, 66% had two parasites and less than 2% had more than two parasites. Parasite size was correlated with host size and infected fish were in slightly lower body condition than unparasitised fish.</p>",
+            "shortTextKey": "taxon_text_4_364",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feed on the living tissues of host fish.</p>",
+            "shortTextKey": "taxon_text_5_365",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Usually occur in pairs, comprising a larger female and much smaller male, both attached to the same host. The female has a large brood pouch into which she extrudes the eggs and the male then fertilizes these. The eggs are incubated on the brood pouch until the fully developed juveniles are released to seek out new hosts.</p>",
+            "shortTextKey": "taxon_text_6_366",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common and one of the largest of many parasitic isopods found externally on various fishes. Each parasite tends to only occur on specific host fish or families of fish.</p>",
+            "shortTextKey": "taxon_text_7_367",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Branch, G, Griffiths, CL, Branch, M &amp; Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 86).<br><br>Wright, RV, Lechanteur, YARG, Prochazka, K &amp; Griffiths, CL (2001). Infestation of the Cape Hottentot <i>Pachymetopon blockii</i> by the fish louse <i>Anilocra capensis</i> (Crustacea, Isopoda) in False Bay, South Africa. <i>African Zoology</i>, 36, 177–183.</p>",
+            "shortTextKey": "taxon_text_8_368",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-446-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-446-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-446-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-446-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-446-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-446-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Tergipes sp. 2",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "d7561787-2ea7-4047-8fc1-c8154d68adee",
+    "taxonNuid": "00100500200400k001",
+    "gbifNubkey": null,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2027-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2027-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2027-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 922,
+    "vernacular": {
+        "en": "Silver-taloned roundhead"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Silver-taloned roundhead"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A tiny pale- to golden orange-bodied aeolid with transparent silver-tipped cerata. The head has short smooth oral tentacles; the oral tentacles are translucent with minute golden orange flecks. The rhinophores are smooth, longer than the oral tentacles, and are also translucent and flecked with golden orange and opaque white. The head may have patches and streaks of opaque white. The notum may also have patches and streaks of opaque white. The digestive duct is visible within the notum, branching to each ceras. There is a single ceras on each ceratal row. The cerata have golden orange flecks, and sometimes also flecks of opaque white. The cnidosaces at the ceratal tips are thin, almost linear in shape. The posterior end of the foot is tapered and translucent.</p>",
+            "shortTextKey": "taxon_text_1_8861",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 8 mm.</p>",
+            "shortTextKey": "taxon_text_2_8862",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Both sides of the Cape Peninsula, 2 m.</p>",
+            "shortTextKey": "taxon_text_3_8863",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Often seen in association with the White-taloned roundhead, <i>Tergipes</i> sp.1. Found on the campanularid hydroids that grow on the Bamboo kelp, <i>Ecklonia maxima</i>.</p>",
+            "shortTextKey": "taxon_text_4_8864",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>This species feeds on the campanularid hydroids that grow on the Bamboo kelp, <i>Ecklonia maxima</i>.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_8865",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>This species is hermaphroditic. The egg mass is a small ovoid&nbsp; of distinct white eggs.</p>",
+            "shortTextKey": "taxon_text_6_8866",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The species can be confused with the White-taloned roundhead, <i>Tergipes</i> sp.1, but is distinguished by the golden orange coloration and the silver-tipped cerata with narrow cnidosacs. It can also be confused with the Amber roundhead, <i>Eubranchus</i> sp.15, but the ceratal shape and silver-tipped cerata are distinctive.</p>",
+            "shortTextKey": "taxon_text_7_8867",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Gosliner, T (1987). Nudibranchs of Southern Africa: A Guide to the Opisthobranch Molluscs of Southern Africa. Sea Challengers, California (p. 117).<br><br>Gosliner, T, Jones, G, Beasley, L, Claassens, L, Fraser, V, Herbert, D... et al. (2023). Southern African Sea Slugs. Southern Underwater Research Group, Cape Town (p. 546, 791).",
+            "shortTextKey": "taxon_text_8_8868",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2027-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2027-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2027-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2027-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2027-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2027-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

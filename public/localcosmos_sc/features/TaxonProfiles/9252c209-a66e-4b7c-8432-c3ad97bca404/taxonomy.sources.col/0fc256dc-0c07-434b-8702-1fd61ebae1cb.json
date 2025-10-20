@@ -1,0 +1,146 @@
+{
+    "taxonLatname": "Lycium ferocissimum",
+    "taxonAuthor": "Miers",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0fc256dc-0c07-434b-8702-1fd61ebae1cb",
+    "taxonNuid": "00600600501e00400700x017",
+    "gbifNubkey": 3797394,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2837-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2837-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2837-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1017,
+    "vernacular": {
+        "en": "Snake-berry"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African boxthorn",
+            "Snake-berry"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, upright, spiny shrub with greyish, woody branches that spread mostly horizontally and are armed with thick, sharp spines. Leaves broadly paddle-shaped and borne in tufts on short shoots. Solitary flowers white to pale mauve and bell-shaped with darker purplish markings in the throat, emerging from leaf axils. Conspicuous, shiny, egg-shaped berries initially green, becoming bright red, partially enclosed in a persistent green calyx.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9604",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Growing to at least 2 m height. Flowers about 12 mm across. Berries 5-12 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_9605",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Native to South Africa, but has been widely introduced to Mediterranean region, Australia and New Zealand, as well as to the USA, where it is a declared noxious weed.</p><p><u>Local/Regional:</u> Namaqualand to Lesotho, both along the coast and inland.</p>",
+            "shortTextKey": "taxon_text_3_9606",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common both inland and along the coast, where it can extend almost down to high water mark. The berries are eaten by birds and small mammals, which also disperse the seeds. Used in traditional medicine to treat swollen legs and as a tonic to cure cattle ailments. The fruit are known to produce narcotic symptoms if eaten.</p><p>Drought and salt tolerant make it useful as an ornamental plant in coastal gardens and its longevity and spiny nature make it an excellent hedging or barrier plant.</p>",
+            "shortTextKey": "taxon_text_4_9607",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9608",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to November. &nbsp;Berries contain numerous small seeds and are present year-round, but most abundant in autumn.</p>",
+            "shortTextKey": "taxon_text_6_9609",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other regional species in this genus. Most likely to be confused with the Mouse bush <i>L. tetrandrum, </i>which is also common along the west coast<i>,</i> but that species has much smaller, more elongate and succulent leaves and much smaller fruit.</p>",
+            "shortTextKey": "taxon_text_7_9610",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2837-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2837-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2837-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2837-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2837-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2837-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2838-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2838-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2838-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lycium macrocalyx",
+            "taxonAuthor": "Domin"
+        },
+        {
+            "taxonLatname": "Lycium campanulatum",
+            "taxonAuthor": "E. Mey. ex C. H. Wright"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

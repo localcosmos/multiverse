@@ -1,0 +1,175 @@
+{
+    "taxonLatname": "Ophisurus serpens",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "e65b1ea1-b58f-4da3-a25a-59847557b787",
+    "taxonNuid": "00100700300200200100400d017002",
+    "gbifNubkey": 5961049,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1561-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1561-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1561-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 349,
+    "vernacular": {
+        "en": "Serpent eel"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Serpent eel",
+            "Eel",
+            "Giant snake eel",
+            "Sand snake eel",
+            "Sand snake-eel",
+            "Snake eel",
+            "Snipe eel"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Very long, slender eel, anterior part cylindrical, posterior part laterally compressed; light brown to silvery in colour, paler on underside, with a sharply pointed head and largish eyes. Jaws slender, the upper being longer than the lower. Jaws bear sharp, fang-like teeth and incapable of closing completely. Dorsal fin inconspicuous. Tail ends in a sharp, finless point.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_3276",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Recorded as growing up to 2.5 m, but most specimens found&nbsp; along coast about 50 cm.</p>",
+            "shortTextKey": "taxon_text_2_3277",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across eastern Atlantic, Mediterranean, around South Africa to Mozambique and Comoros. The Indo-Pacific species currently known as <i>O. macrorhynchos</i> from China and Japan may be conspecific.</p><p><u>Local/Regional:</u> Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_3278",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found from the intertidal to a depth of at least 300 m in sandy and muddy areas. Often buried in the sediment with only the head visible, striking upwards to grasp prey. Probably mostly nocturnal and can bury itself in seconds, burrowing either tail first or headfirst.</p><p>Sometimes swallowed alive by predators and has been observed to burrow though the intestinal wall tail-first, but then become trapped in the abdominal cavity, as cannot penetrate the thicker abdominal wall!</p>",
+            "shortTextKey": "taxon_text_4_3279",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>An ambush predator feeding mostly on small fish and crustaceans.</p>",
+            "shortTextKey": "taxon_text_5_3280",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>No details available.</p>",
+            "shortTextKey": "taxon_text_6_3281",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Although numerous eel species occur in South Africa, most of these are restricted to the more tropical waters of the Indian Ocean and this is one of very few species found on the west coast. The very slender body and plain colour are also fairly distinctive, but members of this family are diverse (about 70 species in Western Indian Ocean) and difficult to identify to species level.</p>",
+            "shortTextKey": "taxon_text_7_3282",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 266).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 106).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 126). <br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 184).",
+            "shortTextKey": "taxon_text_8_3283",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1561-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1561-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1561-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-182-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-182-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-182-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1561-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1561-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1561-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Muraena acutirostris",
+            "taxonAuthor": "Gronow, 1854"
+        },
+        {
+            "taxonLatname": "Muraena serpens",
+            "taxonAuthor": "Linnaeus, 1758"
+        },
+        {
+            "taxonLatname": "Leptorhynchus capensis",
+            "taxonAuthor": "Smith, 1840"
+        },
+        {
+            "taxonLatname": "Oxystomus serpens",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Sphagebranchus serpens",
+            "taxonAuthor": "(Linnaeus, 1758)"
+        },
+        {
+            "taxonLatname": "Echelus oxyrinchus",
+            "taxonAuthor": "Rafinesque, 1810"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

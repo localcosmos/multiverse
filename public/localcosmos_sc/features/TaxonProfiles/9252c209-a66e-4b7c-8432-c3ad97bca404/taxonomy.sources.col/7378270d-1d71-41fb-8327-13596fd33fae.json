@@ -1,0 +1,195 @@
+{
+    "taxonLatname": "Spatagobrissus mirabilis",
+    "taxonAuthor": "H.L. Clark, 1923",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7378270d-1d71-41fb-8327-13596fd33fae",
+    "taxonNuid": "00100c00300100a00300100i00200500500c003",
+    "gbifNubkey": 4341764,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2384-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2384-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2384-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 199,
+    "vernacular": {
+        "en": "Smooth heart urchin"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Smooth heart urchin"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Test large, white and smoothly oval (without frontal notch) with slightly-extended posterior end, upper surface with five regularly-arranges petals that are encircled within a distinct smooth oval ring. Underside slightly convex, mouth slightly forward of centre, anus on underside but on slightly-extended posterior bulge.</p><p>Live animal covered on very short, more or less uniform spines, those within dorsal ring darker.</p>",
+            "shortTextKey": "taxon_text_1_1816",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Test diameter up to about 110 mm.</p>",
+            "shortTextKey": "taxon_text_2_1817",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Lüderitz to about Mossel Bay.</p>",
+            "shortTextKey": "taxon_text_3_1818",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found buried in clean sand at a depth of about 10-15 cm below the sand surface. Creates a mucus-lined respiratory channel down to the anterior end and this leaves a conical depression at the surface within which detrital material collects, thus revealing the location of the urchin.</p><p>Sea Change Project researchers have recently discovered several symbiotic species that appear to live only in association with these urchins, these including a small bivalve now newly described as <i>Brachiomya ducentiunus</i>, as well as a scale-worm <i>Malmgreniella </i>sp. and a lysiannasid amphipod, which also both appear to be undescribed species!</p>",
+            "shortTextKey": "taxon_text_4_1819",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2928-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2928-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2928-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>The small commensal bivalve <i>Brachiomya ducentiunus </i>lives between the spines of the Heart urchin.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2929-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2929-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2929-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>The potentially <i>Malmgreniella </i>sp. undescribed Scale worm that lives between the Heart urchin spines and likely predates on the other two commensals.&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2930-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2930-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2930-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds on organic debris in the sand, which it sorts from the sand particles using its tube feet.</p>",
+            "shortTextKey": "taxon_text_5_1820",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate and sperm and eggs are released into the water where they merge and form pelagic larvae.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1821",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with <i>Spatangus capensis</i>, which is another large heart urchin that is common in the same region. That species however is restricted to deeper waters of about 37-500 m depth and has a distinct anterior notch in the test.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1822",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "<p>Branch, G, Griffiths, CL, Branch, M &amp; Beckley, L (2022). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 236).<br><br>Clark, AM &amp; Courtman-Stock, J (1976). The Echinoderms of Southern Africa. British Museum (Natural History), London (p. 250).<br><br>Filander, Z &amp; Griffiths, C (2017). Illustrated guide to the echinoid (Echinodermata: Echinoidea) fauna of South Africa. <i>Zootaxa</i>, 4296(1), 1-72. (p. 62)<br><br>Schultz, H (2010). Sea Urchins 1: A guide to worldwide shallow water species. Heinke and Peter Schultz Partner Scientific Publications. Hemdingen, Germany (p. 403).</p>",
+            "shortTextKey": "taxon_text_8_1823",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2384-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2384-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2384-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2384-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2384-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2384-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2924-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2924-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2924-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2925-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2925-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2925-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2926-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2926-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2926-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

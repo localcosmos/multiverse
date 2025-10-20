@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Gibbula capensis",
+    "taxonAuthor": "(Gmelin, 1791)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "aea58dd5-15c1-4f7f-85fc-24251933aba1",
+    "taxonNuid": "00100k00700v00700100o00300800l",
+    "gbifNubkey": 5724045,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-147-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-147-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-147-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 317,
+    "vernacular": {
+        "en": "Cape topshell"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape topshell"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Trochus capensis</i></p>",
+            "shortTextKey": "taxon_text_9_2975",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell small, globular and winkle-like, with a fairly flat shape and a distinct angle demarcating the upper from the lower surfaces. External colour usually pink to red, crossed by oblique white stripes. There is usually a band of particularly obvious red/purple/pink and white around the widest perimeter of the shell. Umbilicus open, operculum round and horny. Tentacles strikingly banded in black and white.</p>",
+            "shortTextKey": "taxon_text_1_2976",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to 16 mm in width.</p>",
+            "shortTextKey": "taxon_text_2_2977",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to Cape Agulhas<i>.</i></p>",
+            "shortTextKey": "taxon_text_3_2978",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very little is known about this small species, which is usually found in small groups on the undersides of boulders and in low-shore pools and gullies.</p>",
+            "shortTextKey": "taxon_text_4_2979",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Unknown, but other members of this family generally browse on algae, diatoms and detritus on rocky substrata.</p>",
+            "shortTextKey": "taxon_text_5_2980",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Reproduction in this species has not been studied. Other Northern hemisphere species in the genus, however, lay eggs in a jelly mass, the eggs frequently hatching only when the young have reached the crawling stage.</p>",
+            "shortTextKey": "taxon_text_6_2981",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several other similar small <i>Gibbula</i> species in the region, but the sharp angle between the upper and lower surfaces in this species distinguishes it from most others in the genus, which tend to be deeper and have more rounded ‘shoulders’.</p>",
+            "shortTextKey": "taxon_text_7_2982",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 174)<br><br>Kilburn, R & Rippey, E (1982). Sea Shells of Southern Africa. Macmillan South Africa, Johannesburg (p. 41).",
+            "shortTextKey": "taxon_text_8_2983",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-147-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-147-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-147-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-147-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-147-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-147-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Trochus capensis",
+            "taxonAuthor": "Gmelin, 1791"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

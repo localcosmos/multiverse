@@ -1,0 +1,525 @@
+{
+    "taxonLatname": "Betula pendula",
+    "taxonAuthor": "Roth",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a748aec5-9656-4451-831c-b55325ae38a9",
+    "taxonNuid": "00600800600p00100201n",
+    "gbifNubkey": 5331916,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 9,
+    "vernacular": {
+        "de": "Birke"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Birke"
+        ]
+    },
+    "nodeNames": [
+        "Birke"
+    ],
+    "nodeDecisionRules": [],
+    "traits": [
+        {
+            "matrixFilter": {
+                "uuid": "96fce455-78eb-429f-a4b6-325598ced415",
+                "name": "Baumtyp",
+                "type": "TextOnlyFilter",
+                "position": 0,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [
+                    "visual"
+                ],
+                "space": [
+                    {
+                        "spaceIdentifier": "96fce455-78eb-429f-a4b6-325598ced415:35",
+                        "encodedSpace": "<p>Laubbaum</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "8e667ba6-b3eb-4952-87cd-e286e83da08e",
+                "name": "Abhängiges Merkmal",
+                "type": "TextOnlyFilter",
+                "position": 1,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "8e667ba6-b3eb-4952-87cd-e286e83da08e:37",
+                        "encodedSpace": "<p>Abhängig 1</p>"
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13",
+                "name": "Zahlen",
+                "type": "NumberFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:3.0",
+                        "encodedSpace": 3.0
+                    },
+                    {
+                        "spaceIdentifier": "d5fcb01f-1da0-44e4-bbf7-0bad2dcb2f13:4.0",
+                        "encodedSpace": 4.0
+                    }
+                ],
+                "definition": {
+                    "unit": "cm",
+                    "unitVerbose": "centimeters"
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "f397cc3a-b66a-4caf-9460-eba2732adaac",
+                "name": "Range Filter",
+                "type": "RangeFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": [],
+                "space": [
+                    {
+                        "encodedSpace": [
+                            -4.0,
+                            0.0
+                        ],
+                        "spaceIdentifier": "f397cc3a-b66a-4caf-9460-eba2732adaac:Wy00LjAsMC4wXQ=="
+                    }
+                ],
+                "definition": {
+                    "min": null,
+                    "max": null,
+                    "step": 1.0,
+                    "tolerance": null,
+                    "unit": "",
+                    "unitVerbose": ""
+                },
+                "treeNode": {
+                    "taxonNuid": "001001"
+                },
+                "metaNode": {
+                    "name": "Waldbäume bestimmen"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215",
+                "name": "Blattanordnung",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 2,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "4b8f9d4a-46c8-4f41-a692-b83a1abb9215:5",
+                        "encodedSpace": "wechselständig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-46-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-46-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-46-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "81cafb57-e0cf-4a9f-b064-afb6925b1c23",
+                "name": "Form des Blattes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 3,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "81cafb57-e0cf-4a9f-b064-afb6925b1c23:22",
+                        "encodedSpace": "herzförmig",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-61-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-61-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-61-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e97b684f-68a5-4507-815c-3b44c72e9c28",
+                "name": "Form des Blattendes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 4,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e97b684f-68a5-4507-815c-3b44c72e9c28:15",
+                        "encodedSpace": "mit Spitze",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-54-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-54-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-54-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "b25adc97-f7c8-4843-bf1a-630acac2fad9",
+                "name": "Form des Blattanfangs",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 5,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "b25adc97-f7c8-4843-bf1a-630acac2fad9:8",
+                        "encodedSpace": "gebuchtet",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-49-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-49-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-49-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e2528f1b-6bd4-47db-834f-d25a2bcb894a",
+                "name": "Form des Blattrandes",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 6,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e2528f1b-6bd4-47db-834f-d25a2bcb894a:16",
+                        "encodedSpace": "gezackt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-55-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-55-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-55-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "e44a42ba-f451-475b-8ac7-11b04eda2048",
+                "name": "Form der Rinde",
+                "type": "DescriptiveTextAndImagesFilter",
+                "position": 7,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "e44a42ba-f451-475b-8ac7-11b04eda2048:20",
+                        "encodedSpace": "glatt",
+                        "imageUrl": {
+                            "1x": "/localcosmos/user_content/content_images/image-59-250.webp",
+                            "2x": "/localcosmos/user_content/content_images/image-59-500.webp",
+                            "4x": "/localcosmos/user_content/content_images/image-59-1000.webp"
+                        },
+                        "licence": {
+                            "licence": "CC0",
+                            "licenceVersion": "1.0",
+                            "creatorName": "Thomas Uher",
+                            "creatorLink": null,
+                            "sourceLink": null
+                        },
+                        "secondaryImageUrl": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        },
+        {
+            "matrixFilter": {
+                "uuid": "67c06088-bacd-41fb-aaef-9d6b114aaa30",
+                "name": "Farbe des Stammes",
+                "type": "ColorFilter",
+                "position": 8,
+                "description": null,
+                "weight": 1,
+                "restrictions": {},
+                "isRestricted": false,
+                "allowMultipleValues": false,
+                "identificationMeans": null,
+                "space": [
+                    {
+                        "spaceIdentifier": "67c06088-bacd-41fb-aaef-9d6b114aaa30:23",
+                        "encodedSpace": [
+                            238,
+                            238,
+                            238,
+                            1.0
+                        ],
+                        "html": "rgba(238,238,238,1.0)",
+                        "gradient": false,
+                        "colorType": "single",
+                        "description": null
+                    }
+                ],
+                "definition": {},
+                "treeNode": {
+                    "taxonNuid": "001001001"
+                },
+                "metaNode": {
+                    "name": "Laubbäume"
+                }
+            },
+            "hasMoreSpecificOccurrence": false
+        }
+    ],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "Das Wort Birke ist auf einen Begriff im Indogermanischen zurückzuführen (*bherHg̑o) und bedeutet in Anspielung auf die helle Rinde so viel wie „glänzend, schimmernd“. Die Birke als Symbol der Fruchtbarkeit galt früher als Helfer in Liebesnöten. Dieser Verwendungszweck ist heute fast vergessen. Ihre Zweige, Rinde und die Blätter mussten für allerlei Mittel und Bräuche herhalten, von denen man sich eine Besserung in sexuellen Nöten erhoffte.",
+            "shortTextKey": "taxon_text_1_13",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Baum als Lebensraum",
+            "shortText": "Die beiden einheimischen, baumförmigen Birkenarten, die Sandbirke (Betula pendula) und die Moorbirke (Betula pubescens), tragen wesentlich zur Erhöhung der biologischen Vielfalt in unseren Wäldern bei. Allgemein ist bekannt, dass unsere beiden Birkenarten zu den von Insektenarten beliebtesten Baumarten zählen.\n\nSo kommen über 160 Insektenarten an Sand- und Moorbirke vor. Die Birken gehören damit nach den Weidenarten und den beiden Eichen zu den von Insekten am stärksten genutzten einheimischen Baumarten.\n\nEine auf die Birke spezialisierte Käferart ist z.B. der Birken-Blattroller (Deporaus betulae, Rhynchitidae), der den vorderen Teil der Blattspreite in einen kunstvolles, tütenförmiges „Päckchen“ umbaut, in das er seine Eier ablegt. Eine auffallende spezialisierte Art ist die Große Birkenblattwespe.",
+            "shortTextKey": "taxon_text_3_14",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+            }
+        },
+        "taxonProfileImages": [],
+        "nodeImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+                }
+            }
+        ],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Betula alba pendula",
+            "taxonAuthor": "(Roth) W.T.Aiton"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": true
+}

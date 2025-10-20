@@ -1,0 +1,134 @@
+{
+    "taxonLatname": "Planocera gilchristi",
+    "taxonAuthor": "Jacubowa, 1906",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "cafa1430-c11f-444b-812b-173af00d453e",
+    "taxonNuid": "00100s01200900100b006006009",
+    "gbifNubkey": 6480288,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1753-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1753-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1753-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 138,
+    "vernacular": {
+        "en": "Gilchrist’s flatworm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Gilchrist’s flatworm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As the name implies flatworms have wide, flat, leaflike bodies and either glide around on a bed of cilia or, in larger species, by using ripples of muscular contraction that pass along the body.&nbsp; Many tropical species are very brightly coloured, but those found in the temperate parts of South Africa tend to be more cryptic.</p><p>This species has a wide body with a frilly margin. There are no projections on the upper surface, other than two short, pointed tentacles near the front end. Colour is pale brown on the upper side, speckled with variable mix of black, white and brown spots and white on the underside. (It may eventually emerge that the different colour morphs represent separate species).</p>",
+            "shortTextKey": "taxon_text_1_1206",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically 20-30 mm body length, but can be up to 70 mm.</p>",
+            "shortTextKey": "taxon_text_2_1207",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_1208",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Normally found creeping on the undersides of boulders in the intertidal zone, or on shallow reefs. Usually solitary. Can swim if disturbed using undulations of the body.</p>",
+            "shortTextKey": "taxon_text_4_1209",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>The feeding organ of flatworms is a tubular proboscis on the underside and this leads into a blind-ending gut with no anus. This species feeds on small worms, crustaceans and molluscs. Under experimental conditions it fed readily on winkles of the genus <i>Oxystele, </i>even picking up and carrying around prey individuals for later consumption.</p>",
+            "shortTextKey": "taxon_text_5_1210",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flatworms are hermaphroditic, but cross-fertilise one another by hypodermic impregnation – a process whereby the penis of one individual is stabbed into the partner and sperm injected into the body cavity. The spermatozoa then make their way to the ovaries of the receiving partner. Eggs are laid in gelatinous strings that are often deposited in spiral coils and hatch into free-swimming larvae. These float for a few days in the plankton before settling at new sites.</p>",
+            "shortTextKey": "taxon_text_6_1211",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairy easily recognized by the speckled brown body and pair of dorsal tentacles. The Limpet flatworm <i>Notoplana patellarum</i> has a similar distribution and colour, but lacks dorsal tentacles and is found only under limpets.</p>",
+            "shortTextKey": "taxon_text_7_1212",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 60).<br><br>Jacubowa, L (1907). A new species of <i>Planocera</i> (<i>P. gilchristi</i>) from South Africa. <i>Transactions of the South African Philosophical Society</i>, 17(1), 145-149.<br><br>Koopowitz, H (1970). Feeding behaviour and the role of the brain in the polyclad flatworm, <i>Planocera gilchristi</i>. <i>Animal Behaviour</i>, 18, 31-35.",
+            "shortTextKey": "taxon_text_8_1213",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1753-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1753-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1753-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1753-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1753-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1753-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

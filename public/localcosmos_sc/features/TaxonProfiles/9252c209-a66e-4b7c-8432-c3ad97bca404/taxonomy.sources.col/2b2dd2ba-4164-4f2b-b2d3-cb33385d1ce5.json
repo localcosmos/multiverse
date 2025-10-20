@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Onchoporella bombycina",
+    "taxonAuthor": "Busk, 1884",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2b2dd2ba-4164-4f2b-b2d3-cb33385d1ce5",
+    "taxonNuid": "00100500100100b00t005005001",
+    "gbifNubkey": 10851550,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-403-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-403-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-403-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 538,
+    "vernacular": {
+        "en": "Elastic-band bush bryozoan"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Elastic-band bush bryozoan"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Onchoporella buskii&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_9_5169",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Colony a bush of flexible, flat, irregularly-branching fronds that can easily be mistaken for a seaweed. Colour cream to pale green or blue with dark spots marking zooids.</p><p>Examined closely, the individual zooecia are elongate hexagonal and are arranged in a flat sheet, like tiles on a paved floor. Each zooecium has a large semicircular opening with two tiny spines on each corner of the opening. The front surface is pierced by a central pore (the ‘ascopore’) and 2-4 much smaller holes. Globular ovicells may also be present on some zooecia.</p>",
+            "shortTextKey": "taxon_text_1_5170",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Individual zooecia less than 1 mm long, colonies typically about 3 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_5171",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global: </u>Endemic to South Africa.</p><p><u>Local/Regional:</u> Port Nolloth to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_5172",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Commonly attached to other bryozoans, or on various algae on rock reefs from about 4-400 m depth. Also rarely in low shore pools and crevices.</p>",
+            "shortTextKey": "taxon_text_4_5173",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All bryozoans are filter-feeders. The feeding zooids extend when undisturbed and the tentacles, which are lined with cilia, are expanded, forming a bell-shaped funnel. Beating of the cilia directs food particles down into the funnel and to the mouth, where they are ingested.</p>",
+            "shortTextKey": "taxon_text_5_5174",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expand by budding new zooecia along the margin. New colonies arise from sexual reproduction. Species specific details not available</p>",
+            "shortTextKey": "taxon_text_6_5175",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Unlikely to be confused with other regional species, due to the unusual lightly calcified colony form with its branching blades. The Rubbery bryozoan <i>Alcyonidium rhomboides</i> also has a rubbery texture and hexagonal zooecia, but forms wide convoluted scroll-like orange lobes.</p>",
+            "shortTextKey": "taxon_text_7_5176",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 138).<br><br>Florence, WK, Hayward, PJ & Gibbons, MJ (2007). Taxonomy of shallow-water Bryozoa from the west coast of South Africa. <i>African Natural History</i>, 3(1), 1-58. (p. 44).<br><br>Florence, W (2018). Phylum Bryozoa In: Atkinson LJ and Sink KJ (eds). Field Guide to the Ofshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 227-243. (p. 237).",
+            "shortTextKey": "taxon_text_8_5177",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-403-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-403-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-403-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-403-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-403-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-403-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-402-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-402-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-402-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Onchoporella buskii",
+            "taxonAuthor": "(Harmer, 1923)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

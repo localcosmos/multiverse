@@ -1,0 +1,475 @@
+{
+    "name": "Rays",
+    "description": null,
+    "verboseName": "Rays",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1250-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1250-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1250-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1604-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1604-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1604-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1605-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1605-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1605-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 8,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Bathytoshia brevicaudata",
+            "taxonAuthor": "(Hutton, 1875)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a0fa2ad1-e20f-4aa7-848a-a4dba1d0c927",
+            "taxonNuid": "001007003002001001005001001001",
+            "slug": "bathytoshia-brevicaudata",
+            "localizedSlug": {
+                "en": "short-tail-stingray"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-171-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-171-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-171-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-171-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-171-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-171-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dasyatis chrysonota",
+            "taxonAuthor": "(Smith, 1828)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b81083e6-209a-444d-865c-af9c71d0d757",
+            "taxonNuid": "001007003002001001005001003002",
+            "slug": "dasyatis-chrysonota",
+            "localizedSlug": {
+                "en": "blue-stingray"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1965-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1965-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1965-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1964-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1964-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1964-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1178-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1178-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1178-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1174-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1174-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1174-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1175-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1175-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1175-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1963-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1963-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1963-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1177-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1177-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1177-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1173-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1173-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1173-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1965-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1965-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1965-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Myliobatis aquila",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d3c33f58-671a-4858-9bf4-4bedc66c0fec",
+            "taxonNuid": "001007003002001001005004004001",
+            "slug": "myliobatis-aquila",
+            "localizedSlug": {
+                "en": "common-eagle-ray"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2883-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2883-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2883-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-173-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-173-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-173-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2883-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2883-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2883-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Raja straeleni",
+            "taxonAuthor": "Poll, 1951",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "dd6cc9a4-c41a-4723-bebd-f955355c7566",
+            "taxonNuid": "00100700300200100100800300g00q",
+            "slug": "raja-straeleni",
+            "localizedSlug": {
+                "en": "biscuit-skate"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-174-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-174-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-174-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-174-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-174-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-174-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Rostroraja alba",
+            "taxonAuthor": "(Lacepède, 1803)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "bf638ee1-36d8-4c7d-ac90-e6cb7e940326",
+            "taxonNuid": "00100700300200100100800300i001",
+            "slug": "rostroraja-alba",
+            "localizedSlug": {
+                "en": "spearnose-skate"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-175-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-175-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-175-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-176-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-176-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-176-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-175-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-175-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-175-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Acroteriobatus annulatus",
+            "taxonAuthor": "(Müller & Henle, 1841)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "0251a597-bbf9-43e4-ba09-29f2bf9a29a4",
+            "taxonNuid": "001007003002001001009004001001",
+            "slug": "acroteriobatus-annulatus",
+            "localizedSlug": {
+                "en": "lesser-sandshark"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-437-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-437-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-437-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1617-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1617-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1617-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1613-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1613-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1613-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1612-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1612-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1612-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1610-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1610-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1610-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1615-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1615-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1615-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1616-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1616-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1616-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-437-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-437-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-437-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Narke capensis",
+            "taxonAuthor": "(Gmelin, 1789)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "24231e48-8957-4ea5-8c3f-8be284811f6b",
+            "taxonNuid": "00100700300200100100c003004001",
+            "slug": "narke-capensis",
+            "localizedSlug": {
+                "en": "onefin-electric-ray"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2923-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2923-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2923-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-177-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-177-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-177-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2922-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2922-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2922-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1917-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1917-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1917-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1916-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1916-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1916-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1917-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1917-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1917-1000.webp"
+                }
+            }
+        }
+    ]
+}

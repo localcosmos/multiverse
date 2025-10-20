@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Bostrychia hagedash",
+    "taxonAuthor": "(Latham, 1790)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a0ceb0df-ebdb-48c9-a035-f7c5f6c5c7b6",
+    "taxonNuid": "00100700300200200400200r005002001003",
+    "gbifNubkey": 5229203,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-946-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-946-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-946-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 672,
+    "vernacular": {
+        "en": "Hadeda ibis"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Hadeda ibis",
+            "Hadada Ibis"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large ibis with long, dark, slightly downwardly-curved bill with a red patch at base of upper mandible. Head and neck grey with white stripe below ear. Back olive-brown and broad, powerful wings iridescent purple to green. Legs black with red on upper surface of toes. Sexes alike, juveniles like adults, but duller and with shorter beak.</p><p>Also easily recognised by the frequent, loud, raucous ‘ha-dee-da’ call.</p>",
+            "shortTextKey": "taxon_text_1_6620",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 76 cm, mass 1250 g, sexes alike.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6621",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across sub-Saharan Africa.</p><p><u>Local/Regional:</u> Found inland and along coast in moister habitats across whole region, except arid western parts.</p>",
+            "shortTextKey": "taxon_text_3_6622",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Widespread across region, but only recently extended its range into Western Cape, probably as a result of increasing availability of both food and of large alien trees in which to nest. Only arrived in Cape Peninsula in 1980’s, but now abundant in the area.</p><p>Found in pairs or small family groups, mainly in grassland, forest clearings, parks, playing fields, gardens and playing fields, but also on the seashore, especially where kelp wrack is abundant. Probe for food with the long beak, which may be thrust deep into the soil.</p>",
+            "shortTextKey": "taxon_text_4_6623",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Takes a wide variety of prey from the ground, feeding both at the surface and by probing for earthworms and other invertebrates. Commonly seen feeding on invertebrates associated with drift kelp on marine beaches in Western Cape.</p>",
+            "shortTextKey": "taxon_text_5_6624",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogamous and, unusually for ibis, solitary nesters, breeding in the Cape mostly in October-November. Nest a large platform made of sticks, lined with grass, lichen and leaves and placed in the fork of a horizontal branch, usually 4-5 m above the ground in a large tree, often above water, rarely on cliffs or man-made structures. Eggs 1-5 broad-oval, light brown to greenish, densely marked with brown streak and spots. Both parents incubate eggs. Incubation about 26 days. Young fed by regurgitation and fledge in about 33 days.</p>",
+            "shortTextKey": "taxon_text_6_6625",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Could be confused with Glossy ibis, but that species is darker chestnut-brown and smaller, with a much lighter build and longer, more slender legs and bill.</p>",
+            "shortTextKey": "taxon_text_7_6626",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 609).",
+            "shortTextKey": "taxon_text_8_6627",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-946-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-946-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-946-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-946-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-946-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-946-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

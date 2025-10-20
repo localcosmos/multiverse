@@ -1,0 +1,191 @@
+{
+    "taxonLatname": "Sporobolus maritimus",
+    "taxonAuthor": "(Curtis) P.M.Peterson & Saarela",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ed08fe4c-973e-47f6-a665-0642caa55d0b",
+    "taxonNuid": "00600600300a0090in039",
+    "gbifNubkey": 9396295,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2965-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2965-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2965-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 1042,
+    "vernacular": {
+        "en": "Small cordgrass"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Small cordgrass"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Course, robust, upright, perennial grass growing from creeping rhizome. Leaves slender, in-rolled and tapering to a blunt point. Inflorescence with unstalked downy spikelets produced on all sides of the stalk and pressed closely against it.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_9816",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Leaves 20-70 cm long and 0.5-1 cm wide. Inflorescence about 15 cm long.</p>",
+            "shortTextKey": "taxon_text_2_9817",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Europe and North Africa. Introduced to USA, Namibia and South Africa.</p><p><u>Local/Regional:</u> Western and Eastern Cape Provinces.</p>",
+            "shortTextKey": "taxon_text_3_9818",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Occupies upper intertidal zone on soft substrata in areas sheltered from strong wave action, both in estuaries and fully saline lagoons and saltmarshes. Usually forms dense beds along the upper shore.</p><p>Known to be an ecosystem engineer, profoundly influencing the physical environment and fauna of areas where beds are established. Sediments inside the beds are consolidated by the roots and are richer in organics than adjacent bare areas. The beds favour rigid-bodies, surface-dwelling and tube building species, but burrowing species are more abundant, and overall species richness higher, in adjacent bare areas.</p>",
+            "shortTextKey": "taxon_text_4_9819",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9820",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Beds expand asexually by expansion of the rhizomes. Rhizome fragments can also be broken off during floods or storms and carried to new sites. Seed production is low or even absent at some sites. In Europe flowers in Summer.</p>",
+            "shortTextKey": "taxon_text_6_9821",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily distinguished by its fully intertidal habits, although several other similar grasses occur in the same ecosystems, but above the high-water mark.</p>",
+            "shortTextKey": "taxon_text_7_9822",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2965-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2965-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2965-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2965-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2965-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2965-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Dactylis maritima",
+            "taxonAuthor": "Curtis"
+        },
+        {
+            "taxonLatname": "Paspalum strictum",
+            "taxonAuthor": "(Aiton) Brot."
+        },
+        {
+            "taxonLatname": "Spartina pungens",
+            "taxonAuthor": "P.Beauv."
+        },
+        {
+            "taxonLatname": "Rottboellia stricta",
+            "taxonAuthor": "(Aiton) Steud."
+        },
+        {
+            "taxonLatname": "Poa ternitana",
+            "taxonAuthor": "Spreng. ex Link"
+        },
+        {
+            "taxonLatname": "Spartina maritima subsp. stricta",
+            "taxonAuthor": "(Aiton) St.-Yves"
+        },
+        {
+            "taxonLatname": "Spartina stricta",
+            "taxonAuthor": "(Aiton) Roth"
+        },
+        {
+            "taxonLatname": "Spartina stricta var. triplex",
+            "taxonAuthor": "Gray"
+        },
+        {
+            "taxonLatname": "Spartina maritima",
+            "taxonAuthor": "(Curtis) Fernald"
+        },
+        {
+            "taxonLatname": "Spartina intermedia",
+            "taxonAuthor": "Bosc ex St.-Yves"
+        },
+        {
+            "taxonLatname": "Trachynotia stricta",
+            "taxonAuthor": "(Aiton) DC."
+        },
+        {
+            "taxonLatname": "Spartina schreberi",
+            "taxonAuthor": "J.F.Gmel."
+        },
+        {
+            "taxonLatname": "Cynodon pungens",
+            "taxonAuthor": "Raspail"
+        },
+        {
+            "taxonLatname": "Dactylis stricta",
+            "taxonAuthor": "Aiton"
+        },
+        {
+            "taxonLatname": "Limnetis pungens",
+            "taxonAuthor": "Rich."
+        },
+        {
+            "taxonLatname": "Spartina capensis",
+            "taxonAuthor": "Nees"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

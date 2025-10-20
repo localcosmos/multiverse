@@ -1,0 +1,197 @@
+{
+    "taxonLatname": "Botrylloides magnicoecus",
+    "taxonAuthor": "(Hartmeyer, 1912)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d3351c79-6391-44a8-87e7-1c7637712181",
+    "taxonNuid": "00100700200200300300900g",
+    "gbifNubkey": 2332103,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2461-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2461-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2461-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 162,
+    "vernacular": {
+        "en": "White-ringed ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "White-ringed ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Botryllus magnicoecus</i></p>",
+            "shortTextKey": "taxon_text_9_1445",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Common colonial species that forms thickish undulating cushions on rock and many other hard substrata. When hanging from kelps, jetties or harbour walls etc., may extend into large, flat, fleshy hanging sheets that are double-sided, with zooids present on both surfaces. The zooids are arranged in rows, or irregular circular groups (but not usually in a regular, consistent circular pattern) along a network of channels and exhalent openings and the inhalant (or oral) aperture of each zooid is circled with a ring a white pigment. Apart from this distinctive feature, colour is very variable although tunic is most commonly pink, purple or red.</p>",
+            "shortTextKey": "taxon_text_1_1446",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids about 2 mm, but colonies up to about 200 mm across.</p>",
+            "shortTextKey": "taxon_text_2_1447",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Only known with certainty from South Africa and reports from New Zealand, Australia, Japan and Europe probably represent other, related species.</p><p><u>Local/Regional:</u> Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_1448",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A common fouling species abundant in harbours and other sheltered sites, but also in rocky reefs, kelps beds, etc. Little else is known about biology.</p>",
+            "shortTextKey": "taxon_text_4_1449",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeder, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_1450",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expanded via asexual reproduction (budding of existing zooida), but new ones are established only by broadcast spawning. Eggs and sperm are released into the water, where fertilization takes place and the unusual tadpole larvae develop.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_1451",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The white ring around the oral apertures of zooids is probably the best identification character, but very variable in colour and still easily confuses with various <i>Botryllus</i> species. The detailed taxonomy of the group is confused (see Monniot reference below) and is it seems likely that samples reported from other regions represent other species.</p>",
+            "shortTextKey": "taxon_text_7_1452",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 250).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 77).",
+            "shortTextKey": "taxon_text_8_1453",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2461-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2461-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2461-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2461-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2461-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2461-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2462-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2462-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2462-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2463-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2463-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2463-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2494-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2494-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2494-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Botryllus magnicoecus",
+            "taxonAuthor": "(Hartmeyer, 1912)"
+        },
+        {
+            "taxonLatname": "Botryllus magnicoecum",
+            "taxonAuthor": "(Hartmeyer, 1912)"
+        },
+        {
+            "taxonLatname": "Botrylloides magnicoecum",
+            "taxonAuthor": "(Hartmeyer, 1912)"
+        },
+        {
+            "taxonLatname": "Botrylloides magnicoecus",
+            "taxonAuthor": "Hartmeyer, 1912"
+        },
+        {
+            "taxonLatname": "Botryllus okai",
+            "taxonAuthor": "Monniot C., 1988"
+        },
+        {
+            "taxonLatname": "Metrocarpa magnicoecum",
+            "taxonAuthor": "(Hartmeyer, 1912)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

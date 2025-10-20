@@ -1,0 +1,157 @@
+{
+    "taxonLatname": "Muraenoclinus dorsalis",
+    "taxonAuthor": "(Bleeker, 1859)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "cab7b0c4-a8fe-4178-8e79-b4dcc1ddd7a1",
+    "taxonNuid": "00100700300200200100w01700g001",
+    "gbifNubkey": 2380190,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1728-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1728-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1728-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 368,
+    "vernacular": {
+        "en": "Nosestripe klipfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Nosestripe klipfish"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Clinus dorsalis</i></p>",
+            "shortTextKey": "taxon_text_9_3465",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Klipfishes of the family Clinidae are small, elongate, laterally-compressed, bottom-dwelling fishes with a single dorsal fin stretching head to tail. The pelvic fin is inserted in front of the pectoral fin and consists of just 2–3 elongate rays (and one concealed spine) and the tail is rounded. All species are viviparous and the males have a prominent intromittent organ just behind the anus. The group is particularly common and diverse in intertidal and shallow water systems along the southern and western coasts of South Africa and together these make up the continent’s largest group of endemic fish species.</p><p>This small, elongate and eel-like species has a narrow, pointed head marked with a conspicuous white dorsal stripe running forward from the dorsal fin (and after which it is named). The dorsal fin is low and even, with no anterior crest. Colour variable, but usually plain greenish brown to almost black.</p>",
+            "shortTextKey": "taxon_text_1_3466",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 7.5 cm total length.</p>",
+            "shortTextKey": "taxon_text_2_3467",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A very common species in intertidal pools on rocky shores. Has the unusual capability of surviving for long periods out of water and frequently found under exposed boulders at low tide where the tide would only return after several hours.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_3469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Small-mouthed species that feeds mainly on amphipods and isopods, as well as some polychaete worms.</p>",
+            "shortTextKey": "taxon_text_5_3470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>All clinids are livebearers, males copulating with females and fertilizing the eggs internally with their intromittent organs. Juveniles develop inside the females’ ovaries and in most species the live young are born in spring, have a short planktonic life then settle on the bottom. &nbsp;</p><p>In this species females reach sexual maturity at about 4.5 cm and males at about 5 cm. Several broods of eggs and embryos at different stages of development are present within a single female at any one time, with an average of about 14 juveniles in the most developed brood. Gestation is thought to take 4-6 months and young are born at a length of about 20 mm (surprising large, relative to other larger clinid species which has smaller babies).</p>",
+            "shortTextKey": "taxon_text_6_3471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily recognised by the slender body shape, plan colour and especially the white nose stripe.</p>",
+            "shortTextKey": "taxon_text_7_3472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Bennett, B, Griffiths, CL & Penrith, ML (1983). The diets of littoral fish from the Cape Peninsula. <i>African Zoology</i>, 18(4), 343-352.<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 328).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 400). <br><br>Prochazka, K (1994). The reproductive biology of intertidal klipfish (Perciformes: Clinidae) in South Africa. <i>African Zoology</i>, 29(4), 244-251.<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 766).",
+            "shortTextKey": "taxon_text_8_3473",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1728-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1728-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1728-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1728-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1728-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1728-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-872-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-872-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-872-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Clinus dorsalis",
+            "taxonAuthor": "Bleeker, 1859"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

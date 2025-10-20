@@ -1,0 +1,177 @@
+{
+    "taxonLatname": "Chenolea diffusa",
+    "taxonAuthor": "Thunb.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8215ab18-7294-45bf-843f-81e26af33758",
+    "taxonNuid": "00600600500d004003009002",
+    "gbifNubkey": 3758959,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2779-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2779-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2779-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "taxonProfileId": 1000,
+    "vernacular": {
+        "en": "Saltbush"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Saltbush"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Bassis diffusa</i></p>",
+            "shortTextKey": "taxon_text_9_9438",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Common, small, dense shrub found close to the shore on both rocky coasts and on soft substrata in lagoons and estuaries. The soft, straggling stems are red to purple and grow horizontally, putting up vertical branches that are surrounded by velvety silver leaves pointed at their tips. Small yellow flowers occur between the leaves in summer.</p>",
+            "shortTextKey": "taxon_text_1_9439",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 10 cm, but horizontal stems much longer, up to 1 m.</p>",
+            "shortTextKey": "taxon_text_2_9440",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa from Namibia to Mozambique.</p><p><u>Local/Regional:</u> Whole region, but most common in Western Cape.</p>",
+            "shortTextKey": "taxon_text_3_9441",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Salt-tolerant plant that is abundant both low on rocky shores, almost down to the high water mark, and in saltmarshes surrounding marine lagoons and estuaries<i>. </i>Usually erect, but can dangle from crevices.<i>&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_4_9442",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9443",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers January to April.</p>",
+            "shortTextKey": "taxon_text_6_9444",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The red stems, silvery leaves and coastal habitat make this plant fairly distinctive and unlikely to be confused with other species.</p>",
+            "shortTextKey": "taxon_text_7_9445",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2779-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2779-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2779-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2779-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2779-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2779-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2780-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2780-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2780-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chenopodium sericeum",
+            "taxonAuthor": "(Aiton) Spreng."
+        },
+        {
+            "taxonLatname": "Salsola canescens",
+            "taxonAuthor": "Desf."
+        },
+        {
+            "taxonLatname": "Echinopsilon diffusum",
+            "taxonAuthor": "(Hornst.) Moq."
+        },
+        {
+            "taxonLatname": "Salsola sericea",
+            "taxonAuthor": "Aiton"
+        },
+        {
+            "taxonLatname": "Bassia diffusa",
+            "taxonAuthor": "(Thunb.) Kuntze"
+        },
+        {
+            "taxonLatname": "Kochia sericea",
+            "taxonAuthor": "(Aiton) Schrad."
+        },
+        {
+            "taxonLatname": "Echinopsilon sericeum",
+            "taxonAuthor": "(Aiton) Moq."
+        },
+        {
+            "taxonLatname": "Salsola diffusa",
+            "taxonAuthor": "(Hornst.) Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

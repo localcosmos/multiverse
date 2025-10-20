@@ -1,0 +1,181 @@
+{
+    "taxonLatname": "Ischnochiton textilis",
+    "taxonAuthor": "(J. E. Gray, 1828)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "bb7c7f66-d7ff-40ee-9601-e76a147de7b6",
+    "taxonNuid": "00100k00g00300200200100400302v",
+    "gbifNubkey": 2306644,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-769-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-769-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-769-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 625,
+    "vernacular": {
+        "en": "Textile chiton"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Textile chiton"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dorsally flattened with eight shell plates articulating dorsally, surrounded by a soft fleshy girdle. Girdle wide with ridged scales. Shell plates rectangular with side margins rounded and lateral areas visible. Texture of shell with radial granulose riblets radiating on lateral area, and with punctuated diamond-shaped pits and radiating riblets on central area. Growth lines visible. Articulamentum thin and white with notched, wide, short and triangular anterior extensions. Turned over, the gills fill the whole fold between the foot and ventral surrounding flesh and reach the anus. Variable colours, often orange, white or brown with cream, while shell often shows zebra stripes.</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_6185",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Medium, typically around 20-30 mm total body length.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6186",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Southern Africa including Angola.</p><p><u>Local/Regional:</u> West Coast to Umsikaba, KwaZulu-Natal</p>",
+            "shortTextKey": "taxon_text_3_6187",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Under boulders in the low-tidal to subtidal zone.</p>",
+            "shortTextKey": "taxon_text_4_6188",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous - rasps algae off the rocks using its radula.</p>",
+            "shortTextKey": "taxon_text_5_6189",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>External fertilization, pelagic trochophore larvae metamorphizes and settles as juvenile chiton.</p>",
+            "shortTextKey": "taxon_text_6_6190",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most common and easily distinguishable of the several regional species of <i>Ischnochiton</i> due to its shell texture. Western Cape specimens have smoother sculpture, while specimens from the Eastern Cape and KwaZulu-Natal have coarser sculpture.</p><p>&nbsp;</p><p>&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_6191",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 160). <br><br>Krauss, F (1848) Die Südafrikanischen Mollusken. Ein Beitrag zur Kenntniss der Mollusken des Kap- und Natallandes und zur Geographischen Verbreitung derselben mit Beschreibung und Abbildung der neuen Arten. Ebner and Seubert, Stuttgart, 140 pp., 6 pls. (p. 38, pl. 3, fig. 5).",
+            "shortTextKey": "taxon_text_8_6192",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-769-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-769-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-769-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-769-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-769-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-769-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2264-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2264-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2264-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chiton tigrinus",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Chiton textilis var. punctulata",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Lepidopleurus fodiatus",
+            "taxonAuthor": "Rochebrune, 1881"
+        },
+        {
+            "taxonLatname": "Ischnochiton (Radsiella) tigrinus",
+            "taxonAuthor": "(Krauss, 1848)"
+        },
+        {
+            "taxonLatname": "Chiton ludwigi",
+            "taxonAuthor": "Krauss, 1848"
+        },
+        {
+            "taxonLatname": "Chiton textilis",
+            "taxonAuthor": "J. E. Gray, 1828"
+        },
+        {
+            "taxonLatname": "Ischnochiton tigrinus",
+            "taxonAuthor": "(Krauss, 1848)"
+        },
+        {
+            "taxonLatname": "Ischnochiton (Radsiella) textilis",
+            "taxonAuthor": "(J. E. Gray, 1828)"
+        },
+        {
+            "taxonLatname": "Ischnochiton (Ischnochiton) textilis",
+            "taxonAuthor": "(J. E. Gray, 1828)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

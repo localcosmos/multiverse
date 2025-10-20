@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Egretta garzetta",
+    "taxonAuthor": "(Linnaeus, 1766)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0dd2f362-53ae-4602-bc4f-6649b902cc4c",
+    "taxonNuid": "00100700300200200400200r001001005005",
+    "gbifNubkey": 2480876,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-950-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-950-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-950-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 675,
+    "vernacular": {
+        "en": "Little egret"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Little egret",
+            "Little Egret"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Plumage almost entirely white, 2-3 long plumes forming a crest on back of head. Bill black, long and slender, an area of bare orange skin around eye and base of bill; eyes yellow becoming orange to red when breeding. Legs black and feet characteristically yellow (becoming more orange when breeding).</p>",
+            "shortTextKey": "taxon_text_1_6647",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Total length 64 cm, mass about 520 g, sexes alike.&nbsp;</p>",
+            "shortTextKey": "taxon_text_2_6648",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Africa, Middle East, Asia and Australia (regional subspecies recognised).</p><p><u>Local/Regional:</u> Inland and along the coast, except in driest regions.</p>",
+            "shortTextKey": "taxon_text_3_6649",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common along the margins of inland water bodies, as well as along the coastline. Roosts communally at night, but often solitary during the day, patrolling the water margin with a high stepping gait that reveals the distinctive yellow feet. Hunts by either walking or running though shallow water stabbing at prey, or by standing motionless waiting for prey to reveal themselves.</p>",
+            "shortTextKey": "taxon_text_4_6650",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Feeds mainly on small fish, but also take crustaceans, molluscs and other invertebrates (also frogs, reptiles and small birds when in freshwater).</p>",
+            "shortTextKey": "taxon_text_5_6651",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Monogamous and nests in colonies, almost always mixed among other water birds. Nest a platform of sticks and reeds usually placed above water, built by female from material supplied by male. Eggs 2-4, oval, greenish blue, in Western Cape laid mainly August – December. Incubation period 21-25 days. Young brooded and fed by both adults, leave nest at about 30 days and fully fledged after 40-50 days, but continue to be fed by adults well after fledging.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_6652",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Yellow feet a characteristic feature. Several otherwise similar egrets in the region, but these seldom seen on the seashore.</p>",
+            "shortTextKey": "taxon_text_7_6653",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 354). <br><br>Hockey, PAR, Dean, WRJ & Ryan, PG (2005). Robert’s Birds of Southern Africa (7th edition). The Trustees of the John Voelckler Book Fund, Cape Town. (p. 583).",
+            "shortTextKey": "taxon_text_8_6654",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-950-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-950-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-950-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-950-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-950-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-950-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Eurydice kensleyi",
+    "taxonAuthor": "Bruce & Soares, 1996",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "b2d9e5db-5c1d-4aa6-8b84-b269021923b7",
+    "taxonNuid": "00100300a00800400200400r00o",
+    "gbifNubkey": 5177194,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-526-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-526-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-526-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 171,
+    "vernacular": {
+        "en": "Right-angled beach louse"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Right-angled beach louse"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Previously included within <i>Eurydice longicornis</i>, but that species has now been split into three separate species, <i>E. longicornis, E. barnardi </i>and<i> E. kensleyi.</i></p>",
+            "shortTextKey": "taxon_text_9_1535",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly small, off-white isopod with black specking dorsally. Most easily recognized from other isopod genera by the form of the first antennae, the first segment of which projects forward, while the remainder of the appendage is turning outwards at right-angles (hence common name). Separated form other local <i>Eurydice</i> species by length of second antennae, which in males reach back to about end of thorax, and by pleotelson having a small central depression (only visible microscopically).</p>",
+            "shortTextKey": "taxon_text_1_1536",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 5 mm, excluding antennae.</p>",
+            "shortTextKey": "taxon_text_2_1537",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Probably Southern Namibia to about Cape Peninsula, but many older records are now thrown into doubt due to subdivision of the original species into three!</p>",
+            "shortTextKey": "taxon_text_3_1538",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An active swimmer found in the intertidal zone of sandy beaches, especially fairly flat, dissipative beaches along the west coast. By contrast the closely-related but less common <i>E. barnardi</i> is more of a burrower, occurs mostly higher up the shore and feeds mostly on nematodes.&nbsp;</p>",
+            "shortTextKey": "taxon_text_4_1539",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>A predator that feeds mostly on polychaete worms. Also attracted to dead animal matter, such as washed up bivalves and drowned sandhoppers.</p>",
+            "shortTextKey": "taxon_text_5_1540",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Like all isopods the eggs are released into a marsupium between the walking legs of the female, where they are fertilized by the male and develop into fully-formed juveniles before being released. Breed throughout the year, each female carrying between about 40 and 50 eggs.</p>",
+            "shortTextKey": "taxon_text_6_1541",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Originally only a single species of this genus, <i>Eurydice longicornis</i>, was though to occur in the region, but this has now been subdivided into three, with the original <i>E. longicornis</i> occurring subtidally and both <i>E. barnardi</i> and <i>E. kensleyi</i> intertidally. The two intertidal species have similar distributions, but can be separated by length of antenna 2 and presence/absence of a central depression in the pleotelson. In <i>E. kensleyi</i> antenna 2 of males is as long as the thorax and the pleotelon has a depression, while in <i>E. barnardi </i>the antennae only extend the thorax segment 3 and the pleotelson lacks a depression.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_1542",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Brown, AC (1972). The ecology of the sandy beaches of the Cape Peninsula, South Africa. Part 4: Observations on two intertidal isopoda, <i>Eurydice longicornis</i> (Stüder) and <i>Exosphaeroma truncatitelson</i> Barnard. <i>Transactions of the Royal Society of South Africa</i>, 40(5), 381-404.<br><br>Bruce, NL & Soares, AG (1996). Taxonomy and ecology of sandy beach <i>Eurydice</i> (Crustacea, Isopoda, Cirolanidae) from the West coast of South Africa. <i>Cahiers de Biologie Marine</i>, 37, 77-98.<br><br>Kensley, B (1978). Guide to the Marine Isopods of Southern Africa. <i>Trustees of the South African Museum</i>, Cape Town. 173 pp. (p. 72, as <i>E. longicornis</i>).",
+            "shortTextKey": "taxon_text_8_1543",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-526-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-526-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-526-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-526-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-526-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-526-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

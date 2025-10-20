@@ -1,0 +1,67 @@
+{
+    "name": "Pyram shells",
+    "description": null,
+    "verboseName": "Pyram shells",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2547-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2547-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2547-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Turbonilla kraussii",
+            "taxonAuthor": "H. Adams & A. Adams, 1853",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7945893b-0439-4170-9359-594f2ce0a0ab",
+            "taxonNuid": "00100k00700d00300300800300403z00n0fh",
+            "slug": "turbonilla-kraussii",
+            "localizedSlug": {
+                "en": "unicorn-pyram"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-139-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-139-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-139-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-139-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-139-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-139-1000.webp"
+                }
+            }
+        }
+    ]
+}

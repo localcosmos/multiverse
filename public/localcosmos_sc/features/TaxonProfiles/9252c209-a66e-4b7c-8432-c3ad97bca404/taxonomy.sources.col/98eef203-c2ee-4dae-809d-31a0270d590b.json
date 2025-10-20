@@ -1,0 +1,135 @@
+{
+    "taxonLatname": "Chrysaora fulgida",
+    "taxonAuthor": "(Reynaud, 1830)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "98eef203-c2ee-4dae-809d-31a0270d590b",
+    "taxonNuid": "001008005002002003001007",
+    "gbifNubkey": 5185423,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-340-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-340-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-340-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 494,
+    "vernacular": {
+        "en": "Benguela compass jellyfish"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Benguela compass jellyfish",
+            "sea nettle"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Large, smooth, thick, saucer-shaped bell typically pink to orange in colour with16 darker triangular markings radiating from the centre of the bell (not evident in juveniles). Eight equally-spaced notches around margin of the bell each bear a dark, cylindrical primary tentacle. Up to 2 smaller secondary tentacles occur between each pair of primaries.</p><p>Four spiral and very-frilly oral arms project from the underside and are usually orange to brown.</p>",
+            "shortTextKey": "taxon_text_1_4750",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Can be very large, with bell up to about 800 mm across, and weighing up to 20 kg, but usually much smaller.</p>",
+            "shortTextKey": "taxon_text_2_4751",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Benguela region from Angola to South Africa.&nbsp;</p><p><u>Local/Regional:</u> Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_4752",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found across the continental shelf and most common in Autumn. Can become extremely common and damage fishing nets. Also subject to mass strandings on beaches. Venom not thought to be dangerous to humans.</p>",
+            "shortTextKey": "taxon_text_4_4753",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Like many other jellyfish feed primarily on zooplankton.</p>",
+            "shortTextKey": "taxon_text_5_4754",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Have a dimorphic life cycle, alternating between an asexual benthic polyp that resembles a tiny sea-anemone, and the sexual planktonic medusa. Each medusa is either male or female and males release sperm into the water which are taken in by females to fertilise their eggs. Larvae are released into the water and ultimately settle onto hard surfaces where they develop into the polyp stage, which finally buds off tiny medusae.</p>",
+            "shortTextKey": "taxon_text_6_4755",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with the closely related <i>C. agulhensis</i>, but that species has a whiter bell (with similar marron triangles and markings), has flattened rather than cylindrical, cream tentacles and is primarily a South Coast species, occurring from Cape Town eastwards.</p><p>A third species, <i>C. africana</i>, is found in Namibia, but does not extend to the Western Cape. It is generally paler and has more (up to 48) flattened marginal tentacles all of the same dark colour.</p>",
+            "shortTextKey": "taxon_text_7_4756",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town (p. 50).<br><br>Gibbons, MJ, Morandini, AC, Straehler-Pohl, I & Bezio, N (2022). Identification Guide to Macro Jellyfishes of West Africa. Food & Agriculture Organisation of the United Nations. Rome.<br><br>Ras, V, Neethling, S, Englebrecht, A, Morandina, AC, Bayha, KM, Skrypzech, H & Gibbons, MJ (2020). There are three species of <i>Chrysaora</i> (Scyphozoa: Discomedusae) in the Benguela upwelling ecosystem, not two. <i>Zootaxa</i>, 4778, 401-438.",
+            "shortTextKey": "taxon_text_8_4757",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-340-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-340-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-340-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-340-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-340-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-340-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

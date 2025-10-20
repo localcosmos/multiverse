@@ -1,0 +1,153 @@
+{
+    "name": "Gobies",
+    "description": null,
+    "verboseName": "Gobies",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1554-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1554-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1554-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 2,
+            "minImages": 1,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Caffrogobius nudiceps",
+            "taxonAuthor": "(Valenciennes, 1837)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c0f203bc-f450-4c5b-a9ac-eae372c11bcf",
+            "taxonNuid": "00100700300200200100w01u014006",
+            "slug": "caffrogobius-nudiceps",
+            "localizedSlug": {
+                "en": "barehead-goby"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1548-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1548-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1548-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>juvenile</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1633-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1633-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1633-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1548-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1548-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1548-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Psammogobius knysnaensis",
+            "taxonAuthor": "Smith, 1935",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "43cf09fe-d337-4c41-a847-50fdde4fcbf1",
+            "taxonNuid": "00100700300200200100w01u059002",
+            "slug": "psammogobius-knysnaensis",
+            "localizedSlug": {
+                "en": "knysna-sandgoby"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-253-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-253-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-253-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-253-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-253-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-253-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caffrogobius saldanha",
+            "taxonAuthor": "(Barnard, 1927)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "17cfe6a3-bb74-447b-8cc1-67fa582eece8",
+            "taxonNuid": "00100700300200200100w01u014007",
+            "slug": "caffrogobius-saldanha",
+            "localizedSlug": {
+                "en": "comma-fin-goby"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1491-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1491-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1491-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1492-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1492-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1492-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1491-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1491-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1491-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "taxonLatname": "Echinoplana celerrima",
+    "taxonAuthor": "Haswell, 1907",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "f02daf7f-fb9e-461f-b2e9-6bd145f2e9cd",
+    "taxonNuid": "00100s012009001008003001001",
+    "gbifNubkey": 4344060,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1158-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1158-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1158-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 714,
+    "vernacular": {
+        "en": "Ghost flatworm"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ghost flatworm"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>As the name implies flatworms have wide, flat, leaflike bodies and either glide around on a bed of cilia or, in larger species, by using ripples of muscular contraction that pass along the edges of the body. Many tropical species are very brightly coloured, but those found in the temperate parts of South Africa tend to be more cryptic.</p><p>This species is very flat and almost completely transparent (hence the common name). The body is fairly elongate and more or less parallel-sided with ruffled edges (not oval, as in some similar species). Some specimens are almost completely transparent, but other bear pale blotches. The central ruffled pharynx is the only opaque region and shows up as a white central band. There are no tentacles, but a distinct pair of fairly-large black eyes.</p>",
+            "shortTextKey": "taxon_text_1_6998",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically 20-30 mm body length.</p>",
+            "shortTextKey": "taxon_text_2_6999",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread in Mediterranean, Red Sea, Australia and South Africa.</p><p><u>Local/Regional:</u> Saldanha Bay to northern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_7000",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Normally found creeping on the undersides of boulders in the intertidal zone, or on shallow reefs. Usually solitary or in pairs. Can swim well if disturbed using undulations of the body. Little else know about biology but fairly commonly seen on both sides 0f the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_4_7001",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>The feeding organ of flatworms is a tubular proboscis on the underside and this leads into a blind-ending gut with no anus. This species probably feeds on small worms, crustaceans and mollusks.</p>",
+            "shortTextKey": "taxon_text_5_7002",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flatworms are hermaphroditic, but cross-fertilise one another by hypodermic impregnation – a process whereby the penis of one individual is stabbed into the partner and sperm injected into the body cavity. The spermatozoa then make their way to the ovaries of the receiving partner. Eggs are laid in gelatinous strings that are often deposited in spiral coils and hatch into free-swimming larvae. These float for a few days in the plankton before settling at new sites.</p>",
+            "shortTextKey": "taxon_text_6_7003",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairy easily recognised by the elongate, transparent body, lack of dorsal tentacles and presence of large, black eyes. Gilchrist’s flatworm <i>Planocera gilchristi</i> has a similar distribution but darker markings, a more oval shape and a pair of short dorsal tentacles. The limpet flatworm <i>Notoplana patellarum</i> lacks dorsal tentacles but has a more oval body and darker colour, is smaller, lacks eyes and is found only under limpets.</p>",
+            "shortTextKey": "taxon_text_7_7004",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Newman, L & Cannon, L (2003). Marine flatworms – the world of polyclads. CSIRO Publishing, Collingwood, Australia. (p. 55).<br><br>Prudhoe, S (1989). Polyclad turbellarians recorded form African waters. <i>Bulletin of the British Museum of Natural History (Zoology)</i>, 55(1), 47-96 (p. 69).",
+            "shortTextKey": "taxon_text_8_7005",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1158-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1158-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1158-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1158-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1158-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1158-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Echinoplana tenerrima",
+            "taxonAuthor": "Haswell, 1907"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

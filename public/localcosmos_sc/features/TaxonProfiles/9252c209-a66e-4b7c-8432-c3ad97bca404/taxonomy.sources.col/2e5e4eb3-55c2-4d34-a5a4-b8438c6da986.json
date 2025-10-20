@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Botryllus elegans",
+    "taxonAuthor": "(Quoy & Gaimard, 1834)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "2e5e4eb3-55c2-4d34-a5a4-b8438c6da986",
+    "taxonNuid": "00100700200200300300a009",
+    "gbifNubkey": 5200756,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-469-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-469-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-469-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 164,
+    "vernacular": {
+        "en": "Seaweed ascidian"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Seaweed ascidian"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Botryllus anomala</i></p>",
+            "shortTextKey": "taxon_text_9_1465",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>One of the more distinctive species in this diverse and confusing genus, which includes a number of very variable local species. The colony is thin and encrusting and grows only on the surfaces of red-algae, particularly <i>Rhodymenia</i> (previously <i>Epymenia</i>) <i>obtusa</i>. Most unusual within the genus in that the zooids are not clustered into groups around common exhalent apertures, but are separate, spherical and regularly arranged within the transparent matrix, all facing in the same direction.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_1466",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Zooids about 2 mm, but colonies up to about 100 mm across.</p>",
+            "shortTextKey": "taxon_text_2_1467",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Western Cape only, from about Cape Peninsula to Knysna.</p>",
+            "shortTextKey": "taxon_text_3_1468",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Fairly common and only found on the blades of red algae, the reasons for this association are not known. Little else is know about biology.</p>",
+            "shortTextKey": "taxon_text_4_1469",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>All ascidians are filter feeder, drawing seawater in thought the inhalant siphon and filtering this though a net of mucous, which is continuously generated and passed across the mesh-like walls of the pharynx, before being rolled up and into a threadlike cord and transported to the oesophagus.</p>",
+            "shortTextKey": "taxon_text_5_1470",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Colonies expanded via asexual reproduction (budding of existing zooids) but now colonies arise by sexual reproduction.&nbsp; This species is unique among <i>Botryllus</i> in that the larvae are brooded in the tunic, rather than within the individual zooids.</p>",
+            "shortTextKey": "taxon_text_6_1471",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are several easily confused <i>Botryllus</i> species in the region, but this one is easily recognized since the zooids are separate and regularly distributed across the tunic, rather than being arranges into groupings of various configurations, as is the case with all other species.</p>",
+            "shortTextKey": "taxon_text_7_1472",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fourth edition) Struik Nature, Cape Town. (p. 250).<br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. Southern Underwater Research Group, Hout Bay (p. 200).<br><br>Monniot, C, Monniot, F, Griffiths, CL & Schleyer, M (2001). South African ascidians. <i>Annals of the South African Museum</i>, 108(1), 1-141 (p. 77).",
+            "shortTextKey": "taxon_text_8_1473",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-469-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-469-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-469-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-469-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-469-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-469-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Chorizocarpa elegans",
+            "taxonAuthor": "(Quoy & Gaimard, 1834)"
+        },
+        {
+            "taxonLatname": "Synstyela monocarpa",
+            "taxonAuthor": "Sluiter, 1898"
+        },
+        {
+            "taxonLatname": "Botryllus anomalus",
+            "taxonAuthor": "Millar, 1962"
+        },
+        {
+            "taxonLatname": "Distomus elegans",
+            "taxonAuthor": "Quoy & Gaimard, 1834"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

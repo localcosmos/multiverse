@@ -1,0 +1,214 @@
+{
+    "name": "Klipfishes, Blennies & Scorpionfish",
+    "description": null,
+    "verboseName": "Klipfishes, Blennies & Scorpionfish",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1247-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1247-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1247-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1699-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1699-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1699-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1288-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1288-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1288-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1701-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1701-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1701-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1702-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1702-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1702-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 4,
+            "minImages": 3,
+            "modeImages": 4
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-137",
+            "parentKey": "tpne-136",
+            "name": "Klipfishes",
+            "verboseName": "Klipfishes",
+            "taxa": [
+                {
+                    "taxonLatname": "Clinidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "37185e97-d112-4f3d-9c2c-9b7bf57f2cca",
+                    "taxonNuid": "00100700300200200100w017"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1248-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1248-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1248-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1280-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1280-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1280-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1700-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1700-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1700-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1283-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1283-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1283-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1248-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1248-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1248-1000.webp"
+                }
+            },
+            "slug": "klipfishes"
+        },
+        {
+            "key": "tpne-138",
+            "parentKey": "tpne-136",
+            "name": "Blennies, Triplefin & Scorpionfish",
+            "verboseName": "Blennies, Triplefin & Scorpionfish",
+            "taxa": [
+                {
+                    "taxonLatname": "Blenniidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "46d3578d-22f1-454e-bb1b-d856a51cd0af",
+                    "taxonNuid": "00100700300200200100w00i"
+                },
+                {
+                    "taxonLatname": "Tripterygiidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "485ff847-5ae5-4d50-8848-0b282fa593b7",
+                    "taxonNuid": "00100700300200200100w04d"
+                },
+                {
+                    "taxonLatname": "Coccotropsis",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "229cd370-ea70-4c0b-9723-89e048f1b5f0",
+                    "taxonNuid": "00100700300200200101300z003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1285-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1285-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1285-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1286-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1286-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1286-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1287-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1287-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1287-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1285-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1285-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1285-1000.webp"
+                }
+            },
+            "slug": "blennies-triplefin-scorpionfish"
+        }
+    ],
+    "taxonProfiles": []
+}

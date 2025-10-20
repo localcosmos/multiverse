@@ -1,0 +1,159 @@
+{
+    "taxonLatname": "Trachycladus spinispirulifer",
+    "taxonAuthor": "(Carter, 1879)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "8a71ee10-ca02-4169-a689-5f2e191f89cd",
+    "taxonNuid": "00100t00200100l001002004",
+    "gbifNubkey": 2250959,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2414-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2414-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2414-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 651,
+    "vernacular": {
+        "en": "Orange wall sponge"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Orange wall sponge"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Spirastrella</i> <i>spinispirulifer</i></p>",
+            "shortTextKey": "taxon_text_9_6430",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sponges are the most primitive of multicellular organisms and lack most of the features typical of other groups, such as a head, limbs or distinct sensory or body organs. They are best thought of as colonies formed from a few types of collaborating cells. Size and colony shape is often very variable within a species and accurate identification relies largely on examining the microscopic spicules that make up the skeleton. All are filter feeders, drawing in water through small opening on the body surface, removing fine particles and ejecting the waste water from one or more usually larger openings called oscula.</p><p>This species is fairly easily identified by its enormous size, orange to red colour and wall-like shape, and is one of the most conspicuous sponges found on the region. Also characteristic are the numerous round openings on the upper surface, each of which is raided on a short turret.</p>",
+            "shortTextKey": "taxon_text_1_6431",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Massive, reaching up to 2 m long and 30 cm tall.</p>",
+            "shortTextKey": "taxon_text_2_6432",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across the West and South coasts of South Africa, Australia and New Zealand. Also reported from Zanzibar.</p><p><u>Local/Regional:</u> West and South coasts of South Africa, at depth of about 5-350 m.</p>",
+            "shortTextKey": "taxon_text_3_6433",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very large and conspicuous species that forms large wall-like structures on shallow reefs and is one of the most commonly seen species on shallow reefs in the Western Cape. External colour orange to red, but interior yellow.</p><p>Has been found to contain two potent human cancer-cell inhibiting chemicals and thus has potential uses in drug development.</p>",
+            "shortTextKey": "taxon_text_4_6434",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Filters small organic particles from the water with the aid of collar cells which line the internal cavities.</p>",
+            "shortTextKey": "taxon_text_5_6435",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Little work has been done on the reproductive biology of South African sponge species. However, most sponges can reproduce both asexually and sexually. Asexual reproduction may take the form of sending out root-like extension from which new individual bud, by simply growing from broken fragments of another individual, or by production of special clumps of cells called gemmules expelled from an adult sponge.</p><p>Most sponges are hermaphrodite and sexual reproduction involves the production of larvae which undergo a brief planktonic life before settling to establish new individuals.</p>",
+            "shortTextKey": "taxon_text_6_6436",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are other large wall sponges in the region, but the combination of size, colour and the many round raised vents on the surface easily identify this species.</p>",
+            "shortTextKey": "taxon_text_7_6437",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 18). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 23).<br><br>Pettit, GR, Herald, CL, Cichacz, ZA, Gao, F, Schmidt, JM, Boyd, MR, Christie, ND & Boettner, FE (1993). Isolation and structure of the powerful human cancer cell growth inhibitors spongistatins 4 and 5 from an African <i>Spirastrella spinispirulifera</i> (Porifera). <i>Journal of the Chemical Society, Chemical Communications</i>, (24), 1805-1807.<br><br>Samaai, T & Gibbons, MJ (2005). Demospongiae taxonomy and biodiversity of the Benguela region on the west coast of South Africa. <i>African Natural History</i>, 1, 1-96. (p. 23).<br><br>Samaai, T, Payne, R, Maduray, S & Janson, L (2018). Phylum Porifera In: Atkinson LJ and Sink KJ (eds) Field Guide to the Ofshore Marine Invertebrates of South Africa. Malachite Marketing and Media, Pretoria, 37-64. (p. 63).",
+            "shortTextKey": "taxon_text_8_6438",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2414-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2414-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2414-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2414-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2414-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2414-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Suberites spinispirulifer",
+            "taxonAuthor": "Carter, 1879"
+        },
+        {
+            "taxonLatname": "Spirastrella spinispirulifera",
+            "taxonAuthor": "(Carter, 1879)"
+        },
+        {
+            "taxonLatname": "Trachycladus spinispirulifera",
+            "taxonAuthor": ""
+        },
+        {
+            "taxonLatname": "Spirastrella dilatata",
+            "taxonAuthor": "Kieschnick, 1896"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

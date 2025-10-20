@@ -1,0 +1,152 @@
+{
+    "taxonLatname": "Porcellana africana",
+    "taxonAuthor": "Chace, 1956",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "26bd0469-1b52-4f89-8395-50ebe3359935",
+    "taxonNuid": "00100300a00600200200300400o001",
+    "gbifNubkey": 6457426,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2747-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2747-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2747-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 978,
+    "vernacular": {
+        "en": "African porcelain crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "African porcelain crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Porcellana platycheles africana</i></p>",
+            "shortTextKey": "taxon_text_9_9272",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small to medium sized porcelain crab, generally red or dark brown, covered in dull brown, dense setae (hairs) on the walking legs with fewer setae on the carapace (hard upper shell).</p><p>Carapace slender with fine setae on the surface and a trilobed frontal margin (between the eyes). Chelae (pincers) enlarged, flattened and unequal in size, with the left chela being smaller and bearing distinctive fine nodules on the surface. Three pairs of main legs for walking and a fourth reduced pair hidden underneath the pleon (hind body).</p>",
+            "shortTextKey": "taxon_text_1_9273",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace width between 3–15 mm.</p>",
+            "shortTextKey": "taxon_text_2_9274",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> South Africa (alien invasive) and coast of northwestern Africa, from Western Sahara to Senegal.</p><p><u>Local/Regional:</u> Saldanha Bay, intertidal to 22 m.</p>",
+            "shortTextKey": "taxon_text_3_9275",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>This species was only discovered in (2011) as alien species, and is currently restricted to Saldanha Bay. Commonly found underneath intertidal boulders and in mussel beds of the also non-native Mediterranean mussel, <i>Mytilus galloprovincialis. </i>Can occur in great densities of &gt; 100 per m2 in some areas.</p>",
+            "shortTextKey": "taxon_text_4_9276",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Known to be a filter feeder that may also consume some detrital particles (remains of animal and plant matter) that accumulate under boulders.</p>",
+            "shortTextKey": "taxon_text_5_9277",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Not specifically known, though all porcelain crab males transfer a spermatophore to a female, which then is then attached to the ventral side of the female where the eggs are fertilized when spawned and attached underneath the tail where they develop until the larvae are ready to be released into the open water.</p>",
+            "shortTextKey": "taxon_text_6_9278",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The only other porcelain crab from the area, <i>Pisidia streptocheles</i> occurs on deeper reefs and not in the intertidal and is hence unlikely to be confused. The body of <i>P. streptocheles</i> is also not pubescent, the chelae are not strongly flattened, and the inner apex of the merus (third segment from the tip) is produced into a distinctive, strong, squarely-truncated tooth.</p>",
+            "shortTextKey": "taxon_text_7_9279",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 112). <br><br>Griffiths CL, Roberts S, Branch GM et al (2018) The porcelain crab <i>Porcellana africana</i> Chace,1956 (Decapoda: Porcellanidae) introduced into Saldanha Bay, South Africa. <i>Bioinvasions Records</i>, 7, 133–142.",
+            "shortTextKey": "taxon_text_8_9280",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2747-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2747-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2747-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2747-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2747-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2747-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2748-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2748-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2748-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

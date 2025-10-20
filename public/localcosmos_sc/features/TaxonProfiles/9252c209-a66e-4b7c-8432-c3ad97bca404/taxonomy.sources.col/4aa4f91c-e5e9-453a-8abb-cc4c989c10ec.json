@@ -1,0 +1,171 @@
+{
+    "taxonLatname": "Dichistius capensis",
+    "taxonAuthor": "(Cuvier, 1831)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4aa4f91c-e5e9-453a-8abb-cc4c989c10ec",
+    "taxonNuid": "00100700300200200100w01d001001",
+    "gbifNubkey": 2392263,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-220-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-220-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-220-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 384,
+    "vernacular": {
+        "en": "Galjoen"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Galjoen"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Fairly deep-bodied, robust, laterally compressed species with a smallish mouth. Dorsal fin with 10 short, strong spines, separated by notch from rayed part, which has 18–19 taller rays. Body scales extend onto fins. Colour uniform dark grey to almost black, sometimes with poorly-defined darker vertical bars. Can rapidly change colour when moving over different substrata. Juveniles with pale vertical bars. Front margins of pelvic and anal fin whitish-grey.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_3626",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 80 cm total length and a mass of 6.5 kg.</p>",
+            "shortTextKey": "taxon_text_2_3627",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> Southern Angola to north coast of KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3628",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Well-known angling species and South Africa’s national fish. Found in shallow waters with strong wave action and often resident on the same reef for long periods, although some tagged individuals have been recorded making extensive migrations. Uses its strong curved teeth to tear attached invertebrates from reefs.</p>",
+            "shortTextKey": "taxon_text_4_3629",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Omnivorous, feeding mostly on a variety of benthic invertebrates, mainly mussels, gastropods, ascidians, worms and crustaceans, but also algae.</p>",
+            "shortTextKey": "taxon_text_5_3630",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Females mature at 34 cm, which is attained at an age of about 6 years and males mature at 31 cm. Longevity about 13 years. Spawning takes place from October to March. The eggs and larvae are planktonic.</p>",
+            "shortTextKey": "taxon_text_6_3631",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are only two species in this family, which is restricted to Southern Africa (including Madagascar). The other species, the Banded galjoen <i>D. multifasciatus</i> is similar in body shape, but has about 14 alternating broad and narrow dark vertical bands along its sides. It is found mostly along the east coast, but can extend as far west as False Bay.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_3632",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 298).<br><br>Heemstra, P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 248).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 3 (p. 340). <br><br>Jones, G (2008). A Field Guide to the Marine Animals of the Cape Peninsula. SURG, Cape Town (p. 226).<br><br>Smith, MM & Heemstra, P (eds.) (2003). Smith's Sea Fishes. Struik Publishers, Cape Town (p. 602).<br><br>Zsilavecz, G (2005). Coastal Fishes of the Cape Peninsula and False Bay. SURG, Cape Town (p. 42).",
+            "shortTextKey": "taxon_text_8_3633",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-220-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-220-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-220-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-220-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-220-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-220-1000.webp"
+                }
+            },
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1421-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1421-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1421-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2593-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2593-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2593-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Coracinus aper",
+            "taxonAuthor": "Gronow, 1854"
+        },
+        {
+            "taxonLatname": "Dipterodon capensis",
+            "taxonAuthor": "Cuvier, 1831"
+        },
+        {
+            "taxonLatname": "Dichistius falcatus",
+            "taxonAuthor": "Smith, 1935"
+        },
+        {
+            "taxonLatname": "Coracinus capensis",
+            "taxonAuthor": "(Cuvier, 1831)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

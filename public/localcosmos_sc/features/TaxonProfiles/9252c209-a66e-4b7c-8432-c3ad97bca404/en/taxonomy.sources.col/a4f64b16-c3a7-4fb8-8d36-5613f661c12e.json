@@ -1,0 +1,187 @@
+{
+    "taxonLatname": "Apohyale grandicornis",
+    "taxonAuthor": "(Krøyer, 1845)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a4f64b16-c3a7-4fb8-8d36-5613f661c12e",
+    "taxonNuid": "00100300a00100b00600100200600200100a",
+    "gbifNubkey": 4314814,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-456-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-456-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-456-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 14,
+    "vernacular": {
+        "en": "Seaweed amphipod"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Seaweed amphipod"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Hyale grandicornis</i></p>",
+            "shortTextKey": "taxon_text_9_54",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Antennae not strongly sotose, antenna 1 considerably shorter than antenna 2. Second pair of legs (gnathopod 2) with strong nippers, especially in males; palm of hand oblique, about as long as hindmargin. Last pair of walking legs not expanded. Last pair of abdominal appendages (uropod 3) very short and with single branch (ramus). Green to brown with row of white spots along side.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_55",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to about 10 mm (excluding antennae)<i>.</i></p>",
+            "shortTextKey": "taxon_text_2_56",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across Indian and Pacific Oceans, including southern Africa, Chile, New Zealand, Japan etc, also Southern Ocean.</p><p><u>Local/Regional:</u> Mozambique to Namibia.</p>",
+            "shortTextKey": "taxon_text_3_57",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>One of most common species amongst seaweeds on intertidal rocky shores and can survive high on the shore by nestling among algae.</p>",
+            "shortTextKey": "taxon_text_4_58",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Presumed to feed on algae.</p>",
+            "shortTextKey": "taxon_text_5_59",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Eggs are brooded on a marsupial chamber between walking leg of females until they have developed into fully formed juveniles which are then released</p>",
+            "shortTextKey": "taxon_text_6_60",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>There are 24 species in this genus, but only one of these, <i>A. diastoma</i>, occurs in the region and can be distinguished by the strongly curved and basally excavated finger (dactly) of male gnathopod 2.</p>",
+            "shortTextKey": "taxon_text_7_61",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch G, Griffiths CL, Branch M & Beckley L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 96).",
+            "shortTextKey": "taxon_text_8_62",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-456-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-456-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-456-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-456-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-456-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-456-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Allorchestes peruviana",
+            "taxonAuthor": "Dana, 1852"
+        },
+        {
+            "taxonLatname": "Allorchestes verticillata",
+            "taxonAuthor": "Dana, 1852"
+        },
+        {
+            "taxonLatname": "Hyale grandicornis",
+            "taxonAuthor": "(Krøyer, 1845)"
+        },
+        {
+            "taxonLatname": "Hyale lucasii",
+            "taxonAuthor": "(Nicolet, 1849)"
+        },
+        {
+            "taxonLatname": "Hyale longicornis",
+            "taxonAuthor": "Krøyer, 1845"
+        },
+        {
+            "taxonLatname": "Orchestia longicornis",
+            "taxonAuthor": "Krøyer, 1845"
+        },
+        {
+            "taxonLatname": "Nicea lucasii",
+            "taxonAuthor": "Nicolet, 1849"
+        },
+        {
+            "taxonLatname": "Hyale verticillata",
+            "taxonAuthor": "Dana, 1852"
+        },
+        {
+            "taxonLatname": "Orchestia grandicornis",
+            "taxonAuthor": "Krøyer, 1845"
+        },
+        {
+            "taxonLatname": "Hyale inquirendus",
+            "taxonAuthor": "K.H. Barnard, 1940"
+        },
+        {
+            "taxonLatname": "Hyale peruviana",
+            "taxonAuthor": "(Dana, 1852)"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

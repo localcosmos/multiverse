@@ -1,0 +1,148 @@
+{
+    "taxonLatname": "Halaelurus natalensis",
+    "taxonAuthor": "(Regan, 1904)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "5c7c6ceb-ef2c-41ea-8460-af6b6a38434d",
+    "taxonNuid": "00100700300200100100100600a005",
+    "gbifNubkey": 2418522,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-159-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-159-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-159-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 329,
+    "vernacular": {
+        "en": "Tiger catshark"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Tiger catshark",
+            "Tiger cat shark"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Formerly in family Scyliorhinidae</p>",
+            "shortTextKey": "taxon_text_9_3095",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small, slender shark with two dorsal fins that are set far back, behind pelvic fin, second dorsal slightly smaller, both lack anterior spines. Tail with indistinct lower lobe. Head with depressed snout that has a distinct upturned knob at its tip. Nostrils separate from mouth and not connected by a groove. Colour pattern distinctive, body pale pinkish-brown with about 10 strongly-defined dorsal saddles, each saddle with darker edges and a lighter middle; often thinner, less-distinct ‘shadow’ saddles between these main ones. No spots, underside creamy.</p>",
+            "shortTextKey": "taxon_text_1_3096",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Up to 50 cm length.</p>",
+            "shortTextKey": "taxon_text_2_3097",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> False Bay to southern KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_3098",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Benthic species found from the shoreline to a depth of 172 m, often on the edges of reefs, most common in Eastern Cape. Fairly often caught by both trawlers and shore anglers.</p><p>Males mature at a length of 29–35 cm and females at about 30–44 cm.</p>",
+            "shortTextKey": "taxon_text_4_3099",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Fairly sluggish predator feeding on a diversity of benthic organisms, including both bony fish and other small sharks and rays, as well as crustaceans, molluscs and worms.</p>",
+            "shortTextKey": "taxon_text_5_3100",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Lay eggs in which young develop (oviparous), females carrying about 12-22 egg cases at a time. Unusually among catsharks, these are retained internally until the embryos reach about 4.5 cm length, presumably thus reducing the time the eggs are exposed to predation. Egg cases are about 4 x 1.5 cm in size, excluding the long tendrils extending from each corner. They are laid attached by these tendrils to sessile organism on the reef and hatch after only about 2 months.</p>",
+            "shortTextKey": "taxon_text_6_3101",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with other small catsharks of the genus <i>Haploblepharus</i>, which are similar in size and also have dark saddles. Those species have a blunter snout though; also the saddles are less distinct against a darker background and the nostrils are joined to the mouth by a groove.</p>",
+            "shortTextKey": "taxon_text_7_3102",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 260).<br><br>Heemstra P & Heemstra E (2004). Coastal Fishes of South Africa. NISC, Grahamstown. (p. 66).<br><br>Heemstra, P, Heemstra, E, Ebert, D, Holleman, W & Randall, J (2022). Coastal Fishes of the Western Indian Ocean. National Research Foundation & South African Institute for Aquatic Biodiversity, South Africa. Volume 1 (p. 479). <br><br>Smith, MM & Heemstra, P (eds.) 2003. Smith's Sea Fishes. Struik Publishers, Cape Town (p. 91).",
+            "shortTextKey": "taxon_text_8_3103",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-159-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-159-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-159-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-159-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-159-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-159-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Scyllium natalense",
+            "taxonAuthor": "Regan, 1904"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

@@ -1,0 +1,142 @@
+{
+    "taxonLatname": "Ulva lactuca",
+    "taxonAuthor": "Linnaeus, 1753",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "116cd457-fac3-4dbd-95ff-d74197ae99b7",
+    "taxonNuid": "003007003001002",
+    "gbifNubkey": 5273309,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-1318-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-1318-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-1318-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 762,
+    "vernacular": {
+        "en": "Ribbon sea lettuce"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Ribbon sea lettuce"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Ulva fasciata, Ulva nematiodea.&nbsp;</i></p>",
+            "shortTextKey": "taxon_text_9_7429",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Tough pale to grass-green fronds form elongate, strap-like blades that have undulating, ruffled edges and are attached at base by a small holdfast. Fronds thicker and paler along center than on margins.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_7430",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Blades typically 10-30 mm wide and can be 300 mm or more long.</p>",
+            "shortTextKey": "taxon_text_2_7431",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Widespread across temperate and tropical seas.</p><p><u>Local/Regional:</u><i><u> </u></i>Namibia to Mozambique.</p>",
+            "shortTextKey": "taxon_text_3_7432",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>On exposed shores, where it can hang in long, trailing clumps from intertidal rocks. In Saldanha Bay specimens of at least 1m across have been identified as this species.</p>",
+            "shortTextKey": "taxon_text_4_7433",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_7434",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Show alternating generations - the asexual, diploid sporophyte produces numerous spores which develop into haploid (having only one set of chromosomes) male and female gametophytes, which in this case are morphologically indistinguishable from the sporophyte. These produce sperm and eggs which fuse and develop back into sporophytes.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_7435",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>One of several confusing species in this genus, but the elongate, frilly blades fairly diagnostic.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_7436",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Anderson, RJ, Stegenga, H & Bolton, JJ (2016). Seaweeds of the South African South Coast. World Wide Web electronic publication, University of Cape Town, http://southafrseaweeds.uct.ac.za; Accessed on 22 July 2024. (as <i>U. fasciata</i>).<br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 372). <br><br>Stegenga, H, Bolton, J & Anderson, R (1997). Seaweeds of the South African west coast. <i>Contributions of the Bolus Herbarium</i>, 18. (p. 92).",
+            "shortTextKey": "taxon_text_8_7437",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1318-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1318-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1318-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1318-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1318-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1318-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}

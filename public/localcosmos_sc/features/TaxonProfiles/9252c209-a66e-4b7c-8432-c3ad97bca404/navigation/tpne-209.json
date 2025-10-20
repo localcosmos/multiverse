@@ -1,0 +1,186 @@
+{
+    "name": "Commelinids",
+    "description": null,
+    "verboseName": "Commelinids",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3008-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3008-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3008-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3013-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3013-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3013-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3014-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3014-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3014-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Calamagrostis arenaria",
+            "taxonAuthor": "(L.) Roth",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cc1defad-f50f-438f-b86c-c583710411ba",
+            "taxonNuid": "00600600300a00903600c",
+            "slug": "calamagrostis-arenaria",
+            "localizedSlug": {
+                "en": "marram-grass"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2775-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2775-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2775-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2775-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2775-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2775-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ficinia nodosa",
+            "taxonAuthor": "(Rottb.) Goetgh., Muasya & D.A.Simpson",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3ccd0502-4807-420b-8a78-46356413e953",
+            "taxonNuid": "00600600300a00201701q",
+            "slug": "ficinia-nodosa",
+            "localizedSlug": {
+                "en": "knobbly-club-rush"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2820-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2820-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2820-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2820-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2820-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2820-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sporobolus maritimus",
+            "taxonAuthor": "(Curtis) P.M.Peterson & Saarela",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ed08fe4c-973e-47f6-a665-0642caa55d0b",
+            "taxonNuid": "00600600300a0090in039",
+            "slug": "sporobolus-maritimus",
+            "localizedSlug": {
+                "en": "small-cordgrass"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2965-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2965-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2965-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2965-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2965-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2965-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thinopyrum distichum",
+            "taxonAuthor": "(Thunb.) Á.Löve",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3c58259c-de46-4e1d-abbc-916288b17d26",
+            "taxonNuid": "00600600300a0090jr005",
+            "slug": "thinopyrum-distichum",
+            "localizedSlug": {
+                "en": "sea-wheat"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2969-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2969-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2969-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2969-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2969-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2969-1000.webp"
+                }
+            }
+        }
+    ]
+}

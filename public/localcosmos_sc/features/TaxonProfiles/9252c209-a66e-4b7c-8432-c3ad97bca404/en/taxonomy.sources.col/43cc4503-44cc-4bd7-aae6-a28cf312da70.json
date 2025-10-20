@@ -1,0 +1,147 @@
+{
+    "taxonLatname": "Cymbula compressa",
+    "taxonAuthor": "(Linnaeus, 1758)",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "43cc4503-44cc-4bd7-aae6-a28cf312da70",
+    "taxonNuid": "00100k00700m002002002003",
+    "gbifNubkey": 5857997,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-126-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-126-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-126-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "taxonProfileId": 295,
+    "vernacular": {
+        "en": "Kelp limpet"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Kelp limpet"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Patella compressa</i></p>",
+            "shortTextKey": "taxon_text_9_2765",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Shell cap-shaped, tall, and unusually light, characteristic in shape, being far more elongate and laterally compressed than in other regional species. The opening is also concave, when viewed end-on, such that the shell can fit tightly against the curved surface of a narrow kelp stipe (stem).</p><p>External surface dull brown, sculpted by faint radiating ridges. Interior surface pearly light brown. The fact that this species is only found living on kelps is also a useful identification character.</p>",
+            "shortTextKey": "taxon_text_1_2766",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Shell up to about 90 mm in length.</p>",
+            "shortTextKey": "taxon_text_2_2767",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to Southern Africa.</p><p><u>Local/Regional:</u> Namibia to about Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_2768",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>An unusual species both in terms of its elongate, boat-shaped shell and because of its unique habitat, which is restricted to the fronds and stipes of the Bamboo kelp <i>Ecklonia maxima</i>.</p><p>Juveniles are found on the primary and secondary fronds of the kelp and are flat, having not yet adopted the characteristic curved opening of adults, since they live on flat surfaces. At a length of approximately 40 mm surviving juveniles move onto the stem or stipe of the kelp and progressively adopt the characteristic elongated, curved shape to allow themselves to remain tightly attached to the narrow, rounded shape of the stipe.</p><p>Many kelps host numerous juveniles on the head and fronds (up to 46), but usually only one or two adults are found on the stipes of each individual kelp, suggestive of a high juvenile mortality rate. Their grazing activity probably helps maintain the stipes free of epiphytic algae and thus reduces drag, in turn reducing the likelihood of the kelp being uprooted during storms.</p><p>Kelp limpets are a favoured food item of octopuses, which climb up into the kelp canopy and drill into their fairly thin shells.</p><p>Growth rates have not been measured in this species.</p>",
+            "shortTextKey": "taxon_text_4_2769",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Herbivorous, feeding on algae growing on the stipes of the host kelps.</p>",
+            "shortTextKey": "taxon_text_5_2770",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Sexes are separate, but a detailed analysis of reproductive cycles and fecundity has not been undertaken for this species. Spawning probably occurs in May, however, (as in many other local species) since animals sampled in April had mature gonads and those sampled in June and August were mostly spent. Broadcast spawner, fertilization and larval development taking place in the plankton.</p>",
+            "shortTextKey": "taxon_text_6_2771",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The unique shell shape and habits of this species mean it is unlikely to be confused with other regional limpets.&nbsp;</p>",
+            "shortTextKey": "taxon_text_7_2772",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Arendse, A (2021). ‘Distribution and morphology of the Kelp limpet <i>Cymbula compressa</i> (Linnaeus, 1758) in False Bay, South Africa’. Bachelor’s Dissertation. University of Cape Town, Cape Town. <br><br>Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa. (Fifth edition) Struik Nature, Cape Town. (p. 168).",
+            "shortTextKey": "taxon_text_8_2773",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-126-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-126-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-126-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-126-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-126-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-126-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Patella compressa",
+            "taxonAuthor": "Linnaeus, 1758"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "isFeatured": false
+}
