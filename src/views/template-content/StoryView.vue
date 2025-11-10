@@ -7,6 +7,7 @@ import { fetchTemplateContent } from '@/composables/fetchTemplateContent';
 import TemplateContentContainer from '@/components/container/TemplateContentContainer.vue';
 import ImageWithLicence from '@/components/images/ImageWithLicence.vue';
 import VideoEmbed from '@/components/template-content/VideoEmbed.vue';
+import LargeCard from '@/components/container/LargeCard.vue';
 import { useRouter } from 'vue-router';
 const router = useRouter();
 
@@ -37,35 +38,40 @@ onMounted(async() => {
 
 <template>
   <TemplateContentContainer :loading="loading">
-    <div v-if="templateData" class="container page-padding">
-      <div>
-        <h1>{{ templateData.title }}</h1>
-      </div>
-      <div>
-        <div v-for="(video, counter) in videos"
-          :key="counter"
-        >
-          <VideoEmbed :video="video" />
+    <div v-if="templateData" class="container page-padding-y">
+      <LargeCard class="pb-xxl">
+        <div class="container-md sm-page-padding-x">
+          <div class="py-xxl">
+          <h1 class="mt-xxl">{{ templateData.title }}</h1>
+          </div>
         </div>
-        <div
-          v-for="(paragraph, counter) in paragraphs"
-          :key="counter"
-        >
-          <h2 v-if="paragraph.heading" class="mt-xl">{{ paragraph.heading }}</h2>
-          <div class="paragraph">
-            <div v-html="paragraph.text" class="paragraph-text"></div>
-            <div v-if="paragraph.image" class="paragraph-image">
-              <ImageWithLicence
-                :image="paragraph.image"
-                :show-caption="true"
-                :is-template-content-image="true"
-                rounded="rounded"
-              />
+        <div class="mt-xl">
+          <div v-for="(video, counter) in videos"
+            :key="counter"
+          >
+            <VideoEmbed :video="video" />
+          </div>
+          <div class="container-md sm-page-padding-x">
+            <div
+              v-for="(paragraph, counter) in paragraphs"
+              :key="counter"
+            >
+              <h2 v-if="paragraph.heading" class="mt-xl">{{ paragraph.heading }}</h2>
+              <div class="paragraph">
+                <div v-html="paragraph.text" class="paragraph-text"></div>
+                <div v-if="paragraph.image" class="paragraph-image">
+                  <ImageWithLicence
+                    :image="paragraph.image"
+                    :show-caption="true"
+                    :is-template-content-image="true"
+                    rounded="rounded"
+                  />
+                </div>
+              </div>
             </div>
           </div>
-          
         </div>
-      </div>
+      </LargeCard>
     </div>
   </TemplateContentContainer>
 </template>

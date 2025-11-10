@@ -188,6 +188,12 @@ onMounted(() => {
             <div class="burger-section-separator"></div>
 
             <!-- Legal links -->
+             <RouterLink
+              :to="{ name: 'privacy-settings' }"
+              class="burger-link"
+            >
+              {{ $t('burgerMenu.privacySettings') }}
+             </RouterLink>
             <RouterLink
               v-if="frontend.userContent?.texts.termsOfUse"
               :to="{ name: 'legal', params: {id:'termsOfUse'} }"

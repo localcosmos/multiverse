@@ -20,18 +20,13 @@ const slug = route.params.slug as string;
 
 const componentKey = ref<string>(`${slug}`);
 
-const nameUuid: ComputedRef<string|null> = computed(() => {
+const nameUuid = ref<string|null>(null);
 
-  let uuid:string|null  = null;
-  
-  if (route.params.nameUuid) {
-    uuid = route.params.nameUuid as string;
-  } else {
-    uuid = backboneTaxonomy.slugToNameUuid(slug);
-  }
-  
-  return uuid;
-});
+if (route.params.nameUuid) {
+  nameUuid.value = route.params.nameUuid as string;
+} else {
+  nameUuid.value = backboneTaxonomy.slugToNameUuid(slug);
+}
 
 if (nameUuid.value == null) {
   router.replace({ name: 'not-found' });
@@ -39,9 +34,24 @@ if (nameUuid.value == null) {
 
 watch(
   () => route.params.nameUuid,
+  async (newUuid, oldUuid) => {
+    if (newUuid !== oldUuid) {
+      componentKey.value = `${newUuid}`;
+    }
+  }
+);
+
+watch(
+  () => route.params.slug,
   async (newSlug, oldSlug) => {
     if (newSlug !== oldSlug) {
       componentKey.value = `${newSlug}`;
+      const newUuid = backboneTaxonomy.slugToNameUuid(newSlug as string);
+      if (newUuid == null) {
+        router.replace({ name: 'not-found' });
+      } else {
+        nameUuid.value = newUuid;
+      }
     }
   }
 );

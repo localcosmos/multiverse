@@ -197,4 +197,24 @@ body.dark .tab-button.active {
 .clear-icon:hover {
   color: var(--color-black);
 }
+
+@media (min-width: 640px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1024px) {
+  .tab-button {
+    font-size: 16px;
+  }
+
+  
+}
+
+@media (min-width: 1280px) {
+}
+
+@media (min-width: 1536px) {
+}
 </style>

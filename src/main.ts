@@ -74,6 +74,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
     icon: PhHouse,
     text: t('navigation.Home'),
     routeName: 'home',
+    route: null,
     hasSubmenu: false,
   };
   navigations.main.push(homeButton);
@@ -84,12 +85,18 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
     icon: PhBooks,
     text: t('navigation.TemplateContent'),
     routeName: null,
-    hasSubmenu: true,
+    route: null,
+    hasSubmenu: false,
   };
+
+  if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
+    templateContentButton.route = mainNavigation.templateContent.main[0].url;
+    templateContentButton.text = t(mainNavigation.templateContent.main[0].linkName);
+  }
 
   if (isInPreviewMode == true) {
     if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
-      templateContentButton.submenuContent = mainNavigation.templateContent.main;
+      // templateContentButton.submenuContent = mainNavigation.templateContent.main; 
       navigations.main.push(templateContentButton);
       navigations.rail.push(templateContentButton);
     }
@@ -101,6 +108,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
         icon: PhScan,
         text: t('navigation.NatureGuide'),
         routeName: 'nature-guides',
+        route: null,
         hasSubmenu: false,
       };
 
@@ -122,6 +130,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
         icon: PhMapTrifold,
         text: t('navigation.Map'),
         routeName: 'map',
+        route: null,
         hasSubmenu: false,
       };
 
@@ -135,6 +144,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
         icon: PhBinoculars,
         text: t('navigation.Observations'),
         routeName: 'observations',
+        route: null,
         hasSubmenu: false,
       };
       navigations.main.push(genericFormButton);
@@ -146,6 +156,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
       icon: PhBookOpenText,
       text: t('navigation.TaxonProfiles'),
       routeName: 'taxon-profiles',
+      route: null,
       hasSubmenu: false,
     };
     navigations.main.push(taxonProfilesButton);
@@ -153,7 +164,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
 
     if (features.TemplateContent) {
       if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
-        templateContentButton.submenuContent = mainNavigation.templateContent.main;
+        //templateContentButton.submenuContent = mainNavigation.templateContent.main;
         navigations.main.push(templateContentButton);
         navigations.rail.push(templateContentButton);
       }
@@ -165,6 +176,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
         icon: PhListBullets,
         text: t('navigation.Glossary'),
         routeName: 'glossary',
+        route: null,
         hasSubmenu: false,
       };
       navigations.main.push(glossaryButton);
@@ -174,27 +186,58 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
     // create the bottom navigation
     // replace 5th button with the Stack Button
     // move the Home button into the stack
-    if (navigations.main.length > 5) {
-      const stackedButtons:NavigationButton[] = navigations.main.slice(5, navigations.main.length);
-      stackedButtons.push(navigations.main[0]);
-      navigations.bottom = navigations.main.slice(1, 5);
-      navigations.rail = navigations.rail.slice(1, 5);
+    const maxBottomButtons = 5;
+    const maxRailButtons = 5
 
-      const stackButton:NavigationButton = {
+    // bottom navigation
+    // the bottom navigation can only have 5 buttons visible
+    if (navigations.main.length > maxBottomButtons) {
+      console.log(navigations.main)
+      const bottomStackedButtons:NavigationButton[] = navigations.main.slice(5, navigations.main.length);
+
+      console.log('bottomStackedButtons', bottomStackedButtons);
+      
+      bottomStackedButtons.push(navigations.main[0]);
+      navigations.bottom = navigations.main.slice(1, 5);
+
+      console.log('navigations.bottom before stack button', navigations.bottom);
+
+      const bottomStackButton:NavigationButton = {
         genericContent: 'Stack',
         icon: PhStack,
         text: t('navigation.More'),
         routeName: null,
+        route: null,
         hasSubmenu: false,
-        stackedButtons: stackedButtons,
+        stackedButtons: bottomStackedButtons,
       };
-      
 
-      navigations.bottom.push(stackButton);
-      navigations.main.push(stackButton);
-      navigations.rail.push(stackButton);
+      navigations.bottom.push(bottomStackButton);
+
+      console.log('navigations.bottom after stack button', navigations.bottom);
+      console.log('stacked buttons', bottomStackedButtons);
+      
     } else {
       navigations.bottom = navigations.main;
+    }
+
+    // rail navigation
+    if (navigations.rail.length > maxRailButtons) {
+      const railStackedButtons:NavigationButton[] = navigations.rail.slice(5, navigations.rail.length);
+
+      const railStackButton:NavigationButton = {
+        genericContent: 'Stack',
+        icon: PhStack,
+        text: t('navigation.More'),
+        routeName: null,
+        route: null,
+        hasSubmenu: false,
+        stackedButtons: railStackedButtons,
+      };
+      navigations.rail = navigations.rail.slice(1, 5);
+      navigations.rail.push(railStackButton);
+    } else {
+      navigations.rail = navigations.main;
     }
 
   }

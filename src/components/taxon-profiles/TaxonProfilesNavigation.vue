@@ -6,6 +6,7 @@ import TaxonProfilesNavigationNode from './TaxonProfilesNavigationNode.vue';
 import ImageCarousel from '../images/ImageCarousel.vue';
 import { t } from 'i18next';
 import type { TaxonProfiles, TaxonProfilesNavigationNodeChild, TaxonProfilesNavigationNode as TaxonProfilesNavigationNodeType, TaxonWithSlugsAndImages } from 'localcosmos-client';
+import TaxonProfileLink from '@/components/ui/TaxonProfileLink.vue';
 
 type TranslatedTaxonProfilesNavigationNodeChild = TaxonProfilesNavigationNodeChild & {
   vernacularName: string|null,
@@ -200,7 +201,7 @@ onMounted(async () => {
               v-if="navigationNode.description"
               class="padding-bottom"
             >
-              {{ navigationNode.description }}
+              <div v-html="navigationNode.description"></div>
             </div>
             <div
               ref="nodesContainer"
@@ -237,39 +238,19 @@ onMounted(async () => {
                 class="tp-result"
                 :class="getImageCountClass(taxonProfile.images.length)"
               >
-                <div
-                  v-if="taxonProfile.slug"
-                  class="h-full"
+                <TaxonProfileLink
+                  :taxon="taxonProfile"
+                  class="nolinkstyle"
                 >
-                  <RouterLink
-                    :to="{ name: 'taxon-profile', params: { slug: taxonProfile.slug } }"
-                    class="nolinkstyle"
+                  <TaxonProfilesNavigationNode
+                    :taxon-latname="taxonProfile.taxonLatname"
+                    :taxon-author="taxonProfile.taxonAuthor"
+                    :vernacular-name="taxonProfile.vernacularName"
+                    :images="taxonProfile.images"
+                    :is-terminal-node="navigationNode.isTerminalNode"
                   >
-                    <TaxonProfilesNavigationNode
-                      :taxon-latname="taxonProfile.taxonLatname"
-                      :taxon-author="taxonProfile.taxonAuthor"
-                      :vernacular-name="taxonProfile.vernacularName"
-                      :images="taxonProfile.images"
-                      :is-terminal-node="navigationNode.isTerminalNode"
-                    >
-                    </TaxonProfilesNavigationNode>
-                  </RouterLink>
-                </div>
-                <div v-else class="h-full">
-                  <RouterLink
-                    :to="{ name: 'taxon-profile-nameuuid', params: { nameUuid: taxonProfile.nameUuid } }"
-                    class="nolinkstyle"
-                  >
-                    <TaxonProfilesNavigationNode
-                      :taxon-latname="taxonProfile.taxonLatname"
-                      :taxon-author="taxonProfile.taxonAuthor"
-                      :vernacular-name="taxonProfile.vernacularName"
-                      :images="taxonProfile.images"
-                      :is-terminal-node="navigationNode.isTerminalNode"
-                    >
-                    </TaxonProfilesNavigationNode>
-                  </RouterLink>
-                </div>
+                  </TaxonProfilesNavigationNode>
+                </TaxonProfileLink>
               </div>
             </div>
           </div>

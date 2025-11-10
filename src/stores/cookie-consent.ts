@@ -30,6 +30,11 @@ export const useCookieConsentStore = defineStore('cookieConsent', {
       this.saveToLocalStorage();
     },
 
+    handleYoutubeToggle(value: boolean) {
+      this.youtube = value;
+      this.saveToLocalStorage();
+    },
+
     acceptVimeo() {
       this.vimeo = true;
       this.saveToLocalStorage();
@@ -37,6 +42,11 @@ export const useCookieConsentStore = defineStore('cookieConsent', {
 
     rejectVimeo() {
       this.vimeo = false;
+      this.saveToLocalStorage();
+    },
+
+    handleVimeoToggle(value: boolean) {
+      this.vimeo = value;
       this.saveToLocalStorage();
     },
 

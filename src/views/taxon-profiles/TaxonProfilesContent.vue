@@ -76,6 +76,8 @@ const getNewRandomTaxa = () => {
           v-if="nodeKey == 'start'"
           id="taxon-profiles"
           :tabs="tabButtons"
+          :explode-on-large-screens="false"
+          :show-nav-on-large-screens="true"
           @update:searchText="handleSearchText"
         >
           <template #tab1>

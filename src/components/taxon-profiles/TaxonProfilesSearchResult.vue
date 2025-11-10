@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { SearchTaxon } from 'localcosmos-client';
 import ImageWithLicence from '@/components/images/ImageWithLicence.vue';
+import TaxonProfileLink from '../ui/TaxonProfileLink.vue';
 
 const props = defineProps<{
   taxon: SearchTaxon,
@@ -9,8 +10,8 @@ const props = defineProps<{
 </script>
 
 <template>
-  <RouterLink
-      :to="{ name: 'taxon-profile-nameuuid', params: { nameUuid: taxon.nameUuid } }"
+  <TaxonProfileLink
+      :taxon="taxon"
       class="nolinkstyle"
     >
     <div class="taxon-row bg-translucent-light">
@@ -41,7 +42,7 @@ const props = defineProps<{
           />
       </div>
     </div>
-  </RouterLink>
+  </TaxonProfileLink>
 </template>
 
 <style scoped>

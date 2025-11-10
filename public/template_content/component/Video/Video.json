@@ -1,6 +1,7 @@
 {
   "templateName" : "Video",
   "type": "component",
+  "icon": "video",
   "version" : 1,
   "identifierContent": "title",
   "contents": {

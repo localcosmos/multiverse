@@ -5,6 +5,8 @@ import ImageCard from '@/components/ui/ImageCard.vue';
 import TaxonName from '@/components/ui/TaxonName.vue';
 import { getTodaysHero } from '@/composables/getTodaysHero';
 
+import TaxonProfileLink from './ui/TaxonProfileLink.vue';
+
 import LoadingSpinner from './ui/LoadingSpinner.vue';
 
 const taxonProfiles = inject('taxonProfiles') as TaxonProfiles;
@@ -37,10 +39,7 @@ onMounted(async()=>{
         v-if="todaysHero"
         class="hero"
       >
-        <RouterLink
-          :to="{ name: 'taxon-profile-nameuuid', params: { nameUuid: todaysHero.nameUuid } }"
-          class="nolinkstyle"
-        >
+        <TaxonProfileLink :taxon="todaysHero" class="nolinkstyle">
           <ImageCard :image="todaysHero.image">
             <TaxonName
               :taxon-latname="todaysHero.taxonLatname"
@@ -52,7 +51,7 @@ onMounted(async()=>{
               <div v-html="todaysHero.shortProfile" />
             </div>
           </ImageCard>
-        </RouterLink>
+        </TaxonProfileLink>
       </div>
       <div
         v-if="randomTaxa.length"
@@ -66,8 +65,8 @@ onMounted(async()=>{
             v-for="(taxon, counter) in randomTaxa"
             :key="counter"
           >
-            <RouterLink
-              :to="{ name: 'taxon-profile-nameuuid', params: { nameUuid: taxon.nameUuid } }"
+            <TaxonProfileLink
+              :taxon="taxon"
               class="nolinkstyle"
             >
               <ImageCard :image="taxon.image">
@@ -78,7 +77,7 @@ onMounted(async()=>{
                 >
                 </TaxonName>
               </ImageCard>
-            </RouterLink>
+            </TaxonProfileLink>
           </div>
         </div>
       </div>

@@ -15,12 +15,12 @@ const searchResults = ref<SearchTaxon[]>([]);
 const searched = ref<boolean>(false);
 
 // Define the searchTaxon function
-const searchTaxon = async (query: string) => {
+const searchTaxon = (query: string) => {
   if (query.length >= 2) {
     searched.value = true;
     try {
       // Use the taxonProfiles search function to fetch results
-      const results = await taxonProfiles.search(query);
+      const results = taxonProfiles.search(query);
       searchResults.value = results; // Update the search results
     } catch (error) {
       console.error('Error during search:', error);

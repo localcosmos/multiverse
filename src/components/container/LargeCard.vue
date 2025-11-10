@@ -1,14 +1,22 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+    const props = defineProps<{
+        rounded?: boolean;
+    }>();
+</script>
 <template>
-    <div class="large-card">
+    <div class="large-card" :class="{'rounded': rounded}">
         <slot />
     </div>
 </template>
 
 <style scoped>
 .large-card {
+    background-color: rgba(255, 255, 255, .75);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius-sm);
+}
+
+.large-card.rounded {
     border-radius: var(--border-radius);
-    padding: var(--size-xl) var(--size-md);
-    background-color: rgba(255, 255, 255, 0.75);
 }
 </style>

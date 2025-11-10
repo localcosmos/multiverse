@@ -1,6 +1,7 @@
 {
   "templateName" : "Paragraph",
   "type": "component",
+  "icon": "text",
   "version" : 1,
   "identifierContent": "heading",
   "contents": {

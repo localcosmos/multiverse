@@ -6,6 +6,7 @@ import { useMapStore } from '@/stores/map';
 import HomeView from '@/views/HomeView.vue';
 import TextView from '@/views/template-content/TextView.vue';
 import StoryView from '@/views/template-content/StoryView.vue';
+import ArticleView from '@/views/template-content/ArticleView.vue';
 import TaxonProfiles from '@/views/taxon-profiles/TaxonProfiles.vue';
 import TaxonProfile from '@/views/taxon-profiles/TaxonProfile.vue';
 import ObservationsHub from '@/views/observations/ObservationsHub.vue';
@@ -30,6 +31,7 @@ import EditRemoteObservation from '@/views/observations/EditRemoteObservation.vu
 import MapView from '@/views/maps/MapView.vue';
 import ObservationDetail from '@/views/observations/ObservationDetail.vue';
 import UserDetail from '@/views/account/UserDetail.vue';
+import PrivacySettings from '@/views/legal/PrivacySettings.vue';
 
 import { useAuthStore } from '@/stores/auth';
 import { usePermissionsStore } from '@/stores/permissions';
@@ -73,6 +75,14 @@ const router = createRouter({
       path: '/pages/story/:slug',
       name: 'story',
       component: StoryView,
+      meta: {
+        showBackbutton: true,
+      }
+    },
+    {
+      path: '/pages/article/:slug',
+      name: 'article',
+      component: ArticleView,
       meta: {
         showBackbutton: true,
       }
@@ -320,6 +330,15 @@ const router = createRouter({
       meta: {
         showBackbutton: false,
         deactivateMainMenuButton: true,
+      }
+    },
+    {
+      path: '/privacy-settings',
+      name: 'privacy-settings',
+      component: PrivacySettings,
+      meta: {
+        title: 'pageTitles.PrivacySettings',
+        showBackbutton: true,
       }
     },
     {

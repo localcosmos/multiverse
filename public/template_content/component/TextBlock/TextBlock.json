@@ -1,6 +1,7 @@
 {
   "templateName" : "TextBlock",
   "type": "component",
+  "icon": "text",
   "version": 1,
   "identifierContent": "text",
   "contents": {

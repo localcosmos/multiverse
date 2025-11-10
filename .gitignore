@@ -32,4 +32,12 @@ cordova/
 *.tsbuildinfo
 
 .DS_Store
+Thumbs.db
 .vscode
+
+/public/localcosmos_sc/
+/public/locales_sc/
+/public/settings_sc.json
+/public/locales_build/
+/public/localcosmos_local/
+/public/locales_local/

@@ -1,6 +1,7 @@
 {
   "templateName" : "Heading",
   "type": "component",
+  "icon": "heading",
   "version": 1,
   "identifierContent": "heading",
   "contents": {

@@ -5,6 +5,7 @@ import ImageCarousel from '@/components/images/ImageCarousel.vue';
 
 const props = defineProps<{
   texts: TaxonText[]
+  smallImages?: boolean
 }>();
 </script>
 
@@ -13,7 +14,7 @@ const props = defineProps<{
     v-for="(text, counter) in texts"
     :key="counter"
     >
-    <div class="container page-padding-x">
+    <div>
       <div
         :class="counter == 0 ? 'margin-top' : 'mt-xl'"
       >
@@ -21,17 +22,18 @@ const props = defineProps<{
       </div>
       <div class="taxon-text">
           <GlossarizedText
-          v-if="text.shortText" :html-text="text.shortText"
+            v-if="text.shortText" :html-text="text.shortText"
           />
           <GlossarizedText
-          v-if="text.longText" :html-text="text.longText"
+            v-if="text.longText" :html-text="text.longText"
           />
       </div>
     </div>
-    <div v-if="text.images" class="carousel-container">
+    <div v-if="text.images" class="w-100">
         <ImageCarousel
-        :images="text.images"
-        :modal-id="`MODAL_IMAGES_${text.taxonTextType}`"
+          :images="text.images"
+          :small-images="smallImages"
+          :modal-id="`MODAL_IMAGES_${text.taxonTextType}`"
         />
     </div>
   </div>
@@ -40,5 +42,6 @@ const props = defineProps<{
 <style scoped>
 .taxon-text {
   text-align:justify;
+  line-height: 1.5;
 }
 </style>

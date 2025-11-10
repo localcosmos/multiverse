@@ -24,6 +24,11 @@ html {
   padding-right: var(--size-md);
 }
 
+.sm-page-padding-x {
+  padding-left: var(--size-sm);
+  padding-right: var(--size-sm);
+}
+
 .page-padding-bottom {
   padding-bottom: calc(var(--size-md) + var(--size-md) + env(safe-area-inset-bottom, 0px) + var(--bottom-navigation-height));
 }
@@ -542,6 +547,11 @@ input[type="text"] {
 @media (min-width: 1024px) {
   .form-page-container {
     max-width: 540px;
+  }
+
+  .sm-page-padding-x {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 

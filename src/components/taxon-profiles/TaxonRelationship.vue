@@ -1,13 +1,12 @@
 <script setup lang="ts">
 import type { TaxonRelationship, TaxonRelationshipType, Taxon } from 'localcosmos-client';
-import { RouterLink } from 'vue-router';
 
 import SlotCard from '../ui/SlotCard.vue';
 import TaxonName from '../ui/TaxonName.vue';
 import { imageUrlsToSrcSet } from '@/composables/imageUrlsToSrcSet';
 import GlossarizedText from '../text/GlossarizedText.vue';
 
-import { PhLinkSimpleHorizontal } from '@phosphor-icons/vue';
+import TaxonProfileLink from '../ui/TaxonProfileLink.vue';
 
 const props = defineProps<{
   relationshipType: TaxonRelationshipType;
@@ -31,7 +30,6 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
       relatedTaxon = props.relationship.taxon;
     }
   }
-  console.log(props.relationship)
 }
 </script>
 
@@ -39,8 +37,8 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
   <div>
     <component 
       v-if="mode === 'simple'"
-      :is="relatedTaxon?.hasTaxonProfile ? RouterLink : 'div'"
-      :to="relatedTaxon?.hasTaxonProfile ? `/taxon-profile/generic/${relatedTaxon.nameUuid}/` : undefined"
+      :is="relatedTaxon?.hasTaxonProfile ? TaxonProfileLink : 'div'"
+      :taxon="relatedTaxon"
       :class="relatedTaxon?.hasTaxonProfile ? 'nolinkstyle' : ''"
     >
       <SlotCard>

@@ -1,35 +1,37 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, nextTick, onMounted } from 'vue';
 import TabButton from '../ui/tabs/TabButton.vue';
-import { useTabsStore } from '@/stores/tabs'; // Import the tabs store
+import { useTabsStore } from '@/stores/tabs';
 import type { TabButtonDefinition } from '@/types/navigation';
 
 const props = withDefaults(
   defineProps<{
-    id: string; // Mandatory TabbedPage ID
+    id: string;
     tabs: TabButtonDefinition[];
     initialTab?: number;
     explodeOnLargeScreens?: boolean;
+    showNavOnLargeScreens?: boolean;
   }>(),
   {
     explodeOnLargeScreens: false,
+    showNavOnLargeScreens: false,
     initialTab: 0,
   }
 );
 
 const emit = defineEmits<{
-  (e: 'update:searchText', value: string): void; // Emit search text further up
+  (e: 'update:searchText', value: string): void;
 }>();
 
-const tabsStore = useTabsStore(); // Initialize the tabs store
+const tabsStore = useTabsStore();
 const activeTab = ref<number>(props.initialTab);
 
 // Initialize the active tab from the store if it exists
 if (tabsStore.getActiveTab(props.id) !== null) {
   activeTab.value = tabsStore.getActiveTab(props.id)!;
 } else {
-  tabsStore.registerTabNavigation(props.id); // Register the tabbed page in the store
-  tabsStore.setActiveTab(props.id, props.initialTab); // Set the initial tab in the store
+  tabsStore.registerTabNavigation(props.id);
+  tabsStore.setActiveTab(props.id, props.initialTab);
 }
 
 // Watch for changes in `activeTab` and update the store
@@ -37,18 +39,96 @@ watch(activeTab, (newTab) => {
   tabsStore.setActiveTab(props.id, newTab);
 });
 
+// Check if we're in exploded mode on large screens
+const isExplodedMode = () => {
+  return props.explodeOnLargeScreens && window.innerWidth >= 1024;
+};
+
+// Scroll to the appropriate tab section in exploded mode
+const scrollToTab = (tabIndex: number) => {
+  if (isExplodedMode()) {
+    nextTick(() => {
+      const tabElement = document.getElementById(`${props.id}-tab${tabIndex + 1}`);
+      if (tabElement) {
+        const headerOffset = -180; // Adjust based on your header height
+        const elementPosition = tabElement.offsetTop;
+        const offsetPosition = elementPosition - headerOffset;
+        
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: 'smooth'
+        });
+      }
+    });
+  }
+};
+
 const activateTab = (tabIndex: number) => {
   activeTab.value = tabIndex;
+  
+  // In exploded mode, scroll to the tab instead of switching
+  if (isExplodedMode()) {
+    scrollToTab(tabIndex);
+  } else {
+    // scroll to the top of the tab for mobile phones
+    if (window.innerWidth < 768) {
+      //window.scrollTo({ top: 200, behavior: 'smooth' });
+    }
+  }
 };
 
 // Function to handle search text emitted by TabButton
 const handleSearchText = (text: string) => {
-  emit('update:searchText', text); // Emit the search text further up
+  emit('update:searchText', text);
 };
+
+// Set up intersection observer to update active tab based on scroll position in exploded mode
+onMounted(() => {
+  if (props.explodeOnLargeScreens) {
+    const observerOptions = {
+      root: null,
+      rootMargin: '-20% 0px -70% 0px', // Trigger when tab is in the middle portion of viewport
+      threshold: 0
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      if (!isExplodedMode()) return;
+      
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const tabId = entry.target.id;
+          const tabMatch = tabId.match(/tab(\d+)$/);
+          if (tabMatch) {
+            const tabIndex = parseInt(tabMatch[1]) - 1;
+            if (tabIndex !== activeTab.value) {
+              activeTab.value = tabIndex;
+            }
+          }
+        }
+      });
+    }, observerOptions);
+
+    // Observe all tab elements
+    nextTick(() => {
+      props.tabs.forEach((_, index) => {
+        const tabElement = document.getElementById(`${props.id}-tab${index + 1}`);
+        if (tabElement) {
+          observer.observe(tabElement);
+        }
+      });
+    });
+
+    // Cleanup observer on unmount
+    return () => observer.disconnect();
+  }
+});
 </script>
 
 <template>
-  <div :class="explodeOnLargeScreens === true ? 'explode' : ''">
+  <div :class="[
+    explodeOnLargeScreens === true ? 'explode' : '',
+    showNavOnLargeScreens === true ? 'show-nav-large' : ''
+  ]">
     <div
       v-if="tabs.length > 1"
       class="tabs-navigation page-padding-x bg-solid backdrop-filter"
@@ -71,6 +151,7 @@ const handleSearchText = (text: string) => {
       <div
         v-for="(button, index) in tabs"
         :key="index"
+        :id="`${id}-tab${index + 1}`"
         :class="['tab', `tab${index + 1}`, { active: activeTab === index }]"
       >
         <slot :name="'tab' + (index + 1)"></slot>
@@ -83,8 +164,8 @@ const handleSearchText = (text: string) => {
 .tabs-navigation {
   padding-bottom: var(--size-md);
   padding-top: var(--size-md);
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
   overflow-x: scroll;
   position: sticky;
   top: var(--header-bar-height);
@@ -114,6 +195,8 @@ const handleSearchText = (text: string) => {
   right: 0;
   top: 0;
   width: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 .tabs .tab.active {
@@ -133,6 +216,12 @@ const handleSearchText = (text: string) => {
 @media (min-width: 1024px) {
   .explode .tabs-navigation {
     display: none;
+  }
+
+  /* Show navigation on large screens when prop is true */
+  .show-nav-large .tabs-navigation {
+    display: block;
+    border-bottom: 1px solid rgb(230,230,230);
   }
 
   .explode .tab1 {
@@ -177,12 +266,34 @@ const handleSearchText = (text: string) => {
   .explode .tabs .tab {
     display: flex;
     position: relative;
+    min-height: auto;
+    scroll-margin-top: calc(var(--header-bar-height) + 80px); /* Offset for sticky navigation */
+  }
+
+  .explode.show-nav-large .tabs .tab:last-child {
+    min-height: 100vh;
+    min-height: 100dvh;
   }
 }
 
 @media (min-width: 1280px) {
+
+  .tabs-navigation {
+    top: var(--desktop-header-bar-height);
+  }
+
   .tabs-navigation > div {
     justify-content: center;
+  }
+
+    /* In exploded mode with navigation, make it sticky */
+  .explode.show-nav-large .tabs-navigation {
+    display: block;
+    position: sticky;
+    top: var(--desktop-header-bar-height);
+    z-index: var(--layer-1);
+    border-bottom: 1px solid rgb(230,230,230);
+    background: var(--bg-solid);
   }
 }
 

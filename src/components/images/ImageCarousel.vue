@@ -10,6 +10,8 @@ import { useModalsStore, MODAL_TYPES } from '@/stores/modals';
 
 const props = defineProps<{
   images: ImageWithTextAndLicence[],
+  smallImages?: boolean,
+  safeCenter?: boolean,
   zoomable?: boolean,
   modalId?: string,
 }>();
@@ -206,7 +208,10 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="carousel noselect nohighlight">
+  <div
+    class="carousel noselect nohighlight"
+    :class="{ 'small-images': smallImages }"
+  >
     <!-- Left Navigation Button -->
     <div
       class="carousel-left"
@@ -222,6 +227,7 @@ onUnmounted(() => {
     <div
       ref="imagesContainer"
       class="carousel-images-container"
+      :class="{ 'safe-center': safeCenter }"
     >
       <!-- Images -->
       <div
@@ -375,6 +381,10 @@ onUnmounted(() => {
   scrollbar-width: none; /* Firefox */
 }
 
+.carousel-images-container.safe-center {
+  justify-content: safe center;
+}
+
 .carousel-images-container::-webkit-scrollbar {
   display: none; /* Chrome, Safari */
 }
@@ -390,6 +400,10 @@ onUnmounted(() => {
   width: 100%;
   height: auto;
   border-radius: var(--border-radius-sm);
+}
+
+.carousel.small-images .carousel-image-container {
+  width: 120px;
 }
 
 .carousel-image-container:first-child {
@@ -481,7 +495,7 @@ onUnmounted(() => {
   }
 
   .carousel-images-container {
-    scroll-padding: 0; /* Ensure snapping respects left padding */
+    /*scroll-padding: 0;*/ /* Ensure snapping respects left padding */
     padding: 0;
   }
 
@@ -489,8 +503,16 @@ onUnmounted(() => {
     margin-left: 0; /* Add left margin to the first image */
   }
 
+  .carousel-images-container.safe-center:first-child {
+    margin-left: var(--size-md);
+  }
+
   .carousel-image-container:last-child {
     margin-right: 0; /* Add left margin to the first image */
+  }
+
+  .carousel-images-container.safe-center:last-child {
+    margin-right: var(--size-md);
   }
 }
 

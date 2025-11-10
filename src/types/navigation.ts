@@ -10,6 +10,7 @@ export type NavigationButton = {
   icon: Component,
   text: string,
   routeName:string|null,
+  route: string | null,
   routeParams?: Record<string, string>,
   hasSubmenu: boolean,
   submenuContent?: TemplateContentNavigation,

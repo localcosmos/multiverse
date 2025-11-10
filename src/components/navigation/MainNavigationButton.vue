@@ -42,6 +42,8 @@ const buttonAction = () => {
       } else {
         router.push({name: props.button.routeName});
       }
+    } else if (props.button.route) {
+      router.push(props.button.route);
     }
     mainNavigation.closeSubmenu();
   }
@@ -57,8 +59,13 @@ const submenuButtonAction = (submenuUrl: string) => {
   }
 };
 
-const stackButtonAction = (routeName:string) => {
-  router.push({name: routeName});
+const stackButtonAction = (stackButton: NavigationButton) => {
+  if (stackButton.routeName) {
+    router.push({name: stackButton.routeName});
+  } else if (stackButton.route) {
+    router.push(stackButton.route);
+  }
+  
   mainNavigation.closeSubmenu();
 };
 
@@ -101,9 +108,9 @@ onMounted( () => {
         :key="index"
       >
         <div
-          v-if="stackButton.routeName"
+          v-if="stackButton.routeName || stackButton.route"
           class="stack-button bg-light backdrop-filter"
-          @click="stackButtonAction(stackButton.routeName)"
+          @click="stackButtonAction(stackButton)"
         >
           <div class="navicon-container">
             <div class="navicon-indicator"></div>
