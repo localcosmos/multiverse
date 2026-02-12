@@ -74,10 +74,14 @@ const logoSrc = ref<string>('/images/logos/LocalCosmos.svg');
   height: var(--header-bar-height);
   position: fixed;
   top: 0;
-  width: 100vw;
+  left: 0;
+  right: 0;
+  width: 100%;
   display: grid;
   grid-template-columns: var(--header-bar-height) auto var(--header-bar-height);
   z-index: var(--layer-1);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden; /* Safari/iOS */
 }
 
 #header-right, #header-left {

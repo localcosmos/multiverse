@@ -125,7 +125,7 @@ const clear = () => {
 }
 
 .current-value {
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-2xl);
 }
 </style>
 

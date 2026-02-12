@@ -1,0 +1,47 @@
+[
+    {
+        "taxonLatname": "Betula pendula",
+        "taxonAuthor": "Roth",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "a748aec5-9656-4451-831c-b55325ae38a9",
+        "taxonNuid": "00600800600p00100201n",
+        "slug": "betula-pendula",
+        "localizedSlug": {
+            "de": "birke"
+        },
+        "gbifNubkey": 5331916,
+        "image": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-39-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-39-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-39-1000.webp"
+            }
+        },
+        "shortProfile": null,
+        "hasTaxonProfile": true,
+        "nameType": "scientific",
+        "name": "Betula pendula Roth",
+        "isPreferredName": true,
+        "acceptedNameUuid": "a748aec5-9656-4451-831c-b55325ae38a9"
+    },
+    {
+        "taxonLatname": "Betula alba pendula",
+        "taxonAuthor": "(Roth) W.T.Aiton",
+        "taxonSource": "taxonomy.sources.col",
+        "nameUuid": "ce83a4f8-7dc6-489d-8191-a53f3a72fa36",
+        "taxonNuid": "00600800600p00100201n",
+        "slug": "betula-alba-pendula",
+        "localizedSlug": {},
+        "gbifNubkey": 8146640,
+        "image": null,
+        "shortProfile": null,
+        "hasTaxonProfile": false,
+        "nameType": "scientific",
+        "name": "Betula alba pendula (Roth) W.T.Aiton",
+        "isPreferredName": false,
+        "acceptedNameUuid": "a748aec5-9656-4451-831c-b55325ae38a9"
+    }
+]

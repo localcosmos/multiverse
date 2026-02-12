@@ -11,22 +11,24 @@ const props = defineProps<{
 
 <template>
   <TaxonProfileLink
-      :taxon="taxon"
-      class="nolinkstyle"
-    >
-    <div class="taxon-row bg-translucent-light">
+    :taxon="taxon"
+    class="nolinkstyle"
+  >
+    <div class="taxon-row bg-translucent-light rounded-sm">
       <div class="taxon-name-container">
         <div>
           <div>
             <span class="taxon-primary-name">{{ taxon.name }}</span>
           </div>
           <div>
-            <span class="taxon-latname">
+            <div class="taxon-latname">
               {{ taxon.taxonLatname }}
-              <span v-if="taxon.taxonAuthor">
+              <!--
+              <span v-if="taxon.taxonAuthor" class="taxon-author">
                 {{ taxon.taxonAuthor }}
               </span>
-            </span>
+            -->
+            </div>
           </div>
         </div>
       </div>
@@ -39,6 +41,7 @@ const props = defineProps<{
             :image="taxon.image"
             :rounded="'rounded-xs'"
             :title="taxon.name"
+            :show-caption="false"
           />
       </div>
     </div>
@@ -71,8 +74,15 @@ const props = defineProps<{
   font-weight: bold;
 }
 
+/* single line */
 .taxon-latname {
   font-style: italic;
+  font-size: var(--font-size-md);
+  color: var(--text-muted);
+}
+
+.taxon-author {
+  font-style: normal;
 }
 
 .taxon-profile-image-container {

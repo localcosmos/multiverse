@@ -1,0 +1,122 @@
+{
+    "taxonLatname": "Acer pseudoplatanus",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+    "taxonNuid": "00600800601d00800102r",
+    "slug": "acer-pseudoplatanus",
+    "localizedSlug": {
+        "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+    },
+    "gbifNubkey": 3189870,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 36,
+    "morphotype": "Blatt",
+    "vernacular": {
+        "de": "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn",
+            "Bergahorn"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Nutzung",
+            "shortText": "<p>Obwohl die Blätter des Bergahorns (<i>Acer pseudoplatanus</i>) heute eher selten bewusst genutzt werden, kennt die traditionelle Volksmedizin und Landwirtschaft mehrere praktische Anwendungen.</p><p>In der <strong>Volksheilkunde</strong> galten frische oder leicht angedrückte Blätter lange als kühlendes und entzündungshemmendes Mittel. Man legte sie zerquetscht oder als Brei direkt auf Insektenstiche, Prellungen, leichte Schwellungen oder entzündete Hautstellen – ähnlich wie Spitzahorn- oder Lindeblätter. Ein Aufguss (Tee) aus getrockneten Blättern wurde bei fiebrigen Erkältungen, leichten Magen-Darm-Beschwerden oder zur allgemeinen „Entgiftung“ getrunken; die Wirkung wird vor allem den enthaltenen Gerbstoffen und Flavonoiden zugeschrieben.</p><p>Kulinarisch spielen die Blätter eine kleinere, aber interessante Rolle:</p><ul><li><strong>Junge, zarte Blätter</strong> (im Frühjahr) können roh in Salaten oder als essbare Garnitur verwendet werden – sie schmecken mild-grün und leicht herb.</li><li>Getrocknet und fein gemahlen dienen sie manchen als würzende Beigabe zu Suppen, Eierspeisen oder Brotteig (ähnlich wie getrocknete Kräuter).</li><li>In manchen Regionen wickelte man früher frische Blätter um Brot oder andere Backwaren beim Backen im Ofen oder in der Asche – sie gaben ein dezentes Aroma ab und verhinderten Anbrennen.</li><li>In Osteuropa und Asien gibt es vergleichbare Traditionen bei anderen Ahorn-Arten (z. B. Ahornblatt-Tempura in Japan), die zeigen, dass Ahornblätter grundsätzlich essbar und vielseitig sind.</li></ul><p>In der <strong>traditionellen Landwirtschaft</strong> dienten die Blätter als willkommenes <strong>Viehfutter</strong> (vor allem für Schafe und Ziegen) oder als weiche, nährstoffreiche <strong>Streu</strong> im Stall. Beim Vergären im Kompost oder Laubhaufen liefern sie schnell hochwertigen Mullhumus.</p><p>Heute sind diese Nutzungen weitgehend in Vergessenheit geraten – wer mag, kann sie aber leicht wiederbeleben: Ein einfacher Bergahorn-Blatt-Tee im Herbst oder ein kühlender Umschlag bei einem Mückenstich zeigt, dass selbst ein „normaler“ Waldbaum kleine Schätze bereithält.</p>",
+            "shortTextKey": "taxon_text_33_84",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Lebensraum",
+            "texts": [
+                {
+                    "taxonTextType": "Baum als Lebensraum",
+                    "shortText": "<p>Die großflächigen, handförmig gelappten Blätter des Bergahorns (<i>Acer pseudoplatanus</i>) bilden nicht nur im Sommer ein dichtes, schattenspendendes Kronendach, sondern dienen gleichzeitig als hochdynamischer Mikro-Lebensraum für eine Vielzahl von Organismen.</p><p>Auf und in den Blättern siedeln sich regelmäßig Kolonien von <strong>Blattläusen</strong> (z. B. Periphyllus-Arten), die mit ihrem Honigtau wiederum Ameisen, Schwebfliegen, Marienkäfer und Ohrwürmer anlocken. Die weichen Blattspreiten werden von zahlreichen Minierern durchzogen – darunter die Larven der Ahorn-Miniermotte und verschiedener Gallmückenarten (z. B. Dasineura vitrina), die charakteristische Gallen oder „Fenster“ erzeugen.</p><p>Mindestens 35–40 Schmetterlingsarten nutzen die Blätter als Raupenfutterpflanze, darunter einige spezialisierte Arten wie die Ahorn-Eule oder der Ahorn-Spinner. Diese Raupen wiederum bilden eine wichtige Nahrungsgrundlage für <strong>Vögel</strong> – insbesondere Meisen, Kleiber, Laubsänger und verschiedene Grasmücken suchen im Laub aktiv nach Larven und Puppen.</p><p>Auch Spinnentiere wie Springspinnen und Krabbenspinnen nutzen die Blattflächen als Jagdrevier, während sich unter den Blättern kleine Blattwespenlarven und Gallwespen (Pediaspis aceris) entwickeln. Im Herbst, wenn die Blätter langsam vergilben und abfallen, dienen sie schließlich als Winterversteck für zahlreiche Kleininsekten und als Ausgangsmaterial für den nährstoffreichen Mullhumus des Waldbodens.</p><p>Kurz gesagt: Ein einziger, gesunder Bergahorn-Blattschirm ist im Sommer ein kleines, summendes Ökosystem für sich – ein Miniatur-Wald im Wald.</p>",
+                    "shortTextKey": "taxon_text_3_86",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-115-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-115-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-115-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-115-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-115-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-115-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [
+        {
+            "slug": "streams",
+            "title": "Streams",
+            "templateName": "Article"
+        }
+    ],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

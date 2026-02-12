@@ -18,10 +18,13 @@ import GlossaryBubble from '@/components/glossary/GlossaryBubble.vue';
 import ModalBottomSheet from './components/ui/ModalBottomSheet.vue';
 import LoginModal from '@/views/account/LoginModal.vue';
 import ModalOverlay from '@/components/modals/ModalOverlay.vue';
+import { useKeyboardViewport } from '@/composables/useKeyboardViewport';
 
 const router = useRouter();
 const mainNavigation = useMainNavigationStore();
 const modals = useModalsStore();
+
+useKeyboardViewport();
 
 const glossaryBubble = ref<GlossaryBubbleParameters|null>(null);
 provide('glossaryBubble', glossaryBubble);

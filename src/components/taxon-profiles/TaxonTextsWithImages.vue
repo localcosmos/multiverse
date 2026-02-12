@@ -14,7 +14,7 @@ const props = defineProps<{
     v-for="(text, counter) in texts"
     :key="counter"
     >
-    <div>
+    <div class="page-padding-x">
       <div
         :class="counter == 0 ? 'margin-top' : 'mt-xl'"
       >

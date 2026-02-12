@@ -25,21 +25,26 @@ export const useModalsStore = defineStore('modals', {
   }),
   getters: {
     isOpen: (state) => (type: ModalType) => state.open === type,
+    hasOpenModal: (state) => state.open !== '',
   },
   actions: {
     openModal(type: ModalType, id?: string) {
+      console.log('Opening modal:', type, id);
       this.open = '';
       this.id = '';
       // Push a new state for any modal (not just burger)
       if (!window.history.state || window.history.state.modalType !== type) {
+        console.log('Pushing new history state for modal:', type);
         window.history.pushState({ ...window.history.state, modalType: type }, '', window.location.href);
       }
       this.open = type;
       if (id) this.id = id;
     },
     closeModal() {
+      console.log('Closing modal:', this.open);
       // If a modal is open and the current history state matches, go back
       if (this.open && window.history.state && window.history.state.modalType === this.open && this.open !== '') {
+        console.log('Going back in history for modal:', this.open);
         window.history.back();
       }
       this.open = '';
@@ -48,5 +53,6 @@ export const useModalsStore = defineStore('modals', {
     isModalOpen(type: ModalType): boolean {
       return this.open === type;
     }
+    
   },
 });

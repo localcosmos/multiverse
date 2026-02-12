@@ -4,9 +4,10 @@ import { t } from 'i18next';
 const props = defineProps<{
   taxonLatname: string,
   taxonAuthor?: string|null,
-  vernacularName?: string|null;
-  singleLine?: boolean;
-  hideTaxonAuthor?: boolean;
+  vernacularName?: string|null,
+  singleLine?: boolean,
+  hideTaxonAuthor?: boolean,
+  morphotype?: string,
 }>();
 
 let scientificName: string = props.taxonLatname;
@@ -20,6 +21,10 @@ if (props.vernacularName) {
   usedVernacularName = props.vernacularName;
 } else if (usedVernacularName.indexOf(props.taxonLatname) == 0) {
   usedVernacularName = null;
+}
+
+if (usedVernacularName && props.morphotype) {
+  usedVernacularName = `${usedVernacularName} (${props.morphotype})`;
 }
 </script>
 
@@ -41,7 +46,8 @@ if (props.vernacularName) {
         class="alternative-primary-name"
       >
         <i>{{ taxonLatname }}</i> <br>
-        <span class="scientific-name">{{ taxonAuthor }}</span>
+        <span v-if="taxonAuthor" class="scientific-name">{{ taxonAuthor }}</span>
+        <span v-if="props.morphotype" class="morphotype">({{ props.morphotype }})</span>
       </span>
     </div>
     <div
@@ -49,7 +55,8 @@ if (props.vernacularName) {
       class="scientific-name secondary"
       :class="singleLine ? 'single-line' : ''"
     >
-      <i>{{ taxonLatname }}</i> <span v-if="!hideTaxonAuthor">{{ taxonAuthor }}</span>
+      <i>{{ taxonLatname }}</i>
+      <span v-if="!hideTaxonAuthor">{{ taxonAuthor }}</span>
     </div>
   </div>
 </template>

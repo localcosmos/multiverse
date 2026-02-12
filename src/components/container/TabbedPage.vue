@@ -1,8 +1,11 @@
 <script setup lang="ts">
 import { ref, watch, nextTick, onMounted } from 'vue';
-import TabButton from '../ui/tabs/TabButton.vue';
 import { useTabsStore } from '@/stores/tabs';
 import type { TabButtonDefinition } from '@/types/navigation';
+
+import TabButton from '../ui/tabs/TabButton.vue';
+import TabSearchButton from '../ui/tabs/TabSearchButton.vue';
+import TabAlphabetButton from '../ui/tabs/TabAlphabetButton.vue';
 
 const props = withDefaults(
   defineProps<{
@@ -15,12 +18,14 @@ const props = withDefaults(
   {
     explodeOnLargeScreens: false,
     showNavOnLargeScreens: false,
-    initialTab: 0,
+    initialTab: 1,
   }
 );
 
 const emit = defineEmits<{
   (e: 'update:searchText', value: string): void;
+  (e: 'selectLetter', value: string): void;
+  (e: 'unselectLetter'): void;
 }>();
 
 const tabsStore = useTabsStore();
@@ -45,10 +50,10 @@ const isExplodedMode = () => {
 };
 
 // Scroll to the appropriate tab section in exploded mode
-const scrollToTab = (tabIndex: number) => {
+const scrollToTab = (tabNumber: number) => {
   if (isExplodedMode()) {
     nextTick(() => {
-      const tabElement = document.getElementById(`${props.id}-tab${tabIndex + 1}`);
+      const tabElement = document.getElementById(`${props.id}-tab${tabNumber}`);
       if (tabElement) {
         const headerOffset = -180; // Adjust based on your header height
         const elementPosition = tabElement.offsetTop;
@@ -64,16 +69,41 @@ const scrollToTab = (tabIndex: number) => {
 };
 
 const activateTab = (tabIndex: number) => {
+
   activeTab.value = tabIndex;
   
   // In exploded mode, scroll to the tab instead of switching
   if (isExplodedMode()) {
-    scrollToTab(tabIndex);
+    const tabNumber = props.tabs[tabIndex].tabIndex;
+    scrollToTab(tabNumber);
   } else {
-    // scroll to the top of the tab for mobile phones
-    if (window.innerWidth < 768) {
-      //window.scrollTo({ top: 200, behavior: 'smooth' });
-    }
+    // Scroll to the top of the tabs navigation to keep it visible at the top
+    setTimeout(() => {
+      const pageHeader = document.getElementById('HeaderBar') as HTMLElement;
+      const tabNav = document.getElementById('tabs-navigation') as HTMLElement;
+      const tabId = `${props.id}-tab${tabIndex}`;
+
+      const activeTabElement = document.getElementById(tabId) as HTMLElement;
+
+      if (pageHeader && tabNav && activeTabElement) {
+        const topValue = pageHeader.offsetHeight + tabNav.offsetHeight;
+
+        const navTop = tabNav.getBoundingClientRect().top;
+
+        const tabElementTop = activeTabElement.getBoundingClientRect().top;
+
+        // only scroll if the tabNav is lower on the screen than pageHeader.offsetHeight
+        // only scroll if the heading is not already fully visible
+        if (navTop > pageHeader.offsetHeight || tabElementTop > topValue) {
+          return;
+        }
+
+        const scrollTo = window.scrollY + tabElementTop - topValue;
+        // make it smooth
+        window.scrollTo({ top: scrollTo, behavior: 'smooth' });
+      }
+
+    }, 100);
   }
 };
 
@@ -82,8 +112,20 @@ const handleSearchText = (text: string) => {
   emit('update:searchText', text);
 };
 
+const handleSelectLetter = (letter: string) => {
+  emit('selectLetter', letter);
+};
+
+const handleUnselectLetter = () => {
+  emit('unselectLetter');
+};
+
 // Set up intersection observer to update active tab based on scroll position in exploded mode
 onMounted(() => {
+
+  // check the active tab
+  console.log('Mounted TabbedPage, activeTab:', activeTab.value);
+
   if (props.explodeOnLargeScreens) {
     const observerOptions = {
       root: null,
@@ -99,9 +141,10 @@ onMounted(() => {
           const tabId = entry.target.id;
           const tabMatch = tabId.match(/tab(\d+)$/);
           if (tabMatch) {
-            const tabIndex = parseInt(tabMatch[1]) - 1;
-            if (tabIndex !== activeTab.value) {
-              activeTab.value = tabIndex;
+            const tabNumber = parseInt(tabMatch[1]);
+            const arrayIndex = props.tabs.findIndex(tab => tab.tabIndex === tabNumber);
+            if (arrayIndex !== -1 && arrayIndex !== activeTab.value) {
+              activeTab.value = arrayIndex;
             }
           }
         }
@@ -131,19 +174,22 @@ onMounted(() => {
   ]">
     <div
       v-if="tabs.length > 1"
+      id="tabs-navigation"
       class="tabs-navigation page-padding-x bg-solid backdrop-filter"
     >
       <div>
-        <TabButton
+        <!-- select button component-->
+         <component
           v-for="(button, counter) in tabs"
-          :search-mode="button.searchMode"
+          :is="button.type === 'search' ? TabSearchButton : button.type === 'alphabet' ? TabAlphabetButton : TabButton"
           :key="counter"
           :text="button.text"
           :icon="button.icon ? button.icon : null"
           class="cursor-pointer"
-          :active="counter === activeTab"
-          @click="activateTab(counter)"
-          @update:searchText="handleSearchText"
+          :active="button.tabIndex === activeTab"
+          :letters="button.letters ? button.letters : []"
+          @click="activateTab(button.tabIndex)"
+          v-on="{ ...(button.type === 'alphabet' ? { selectLetter: handleSelectLetter, unselectLetter: handleUnselectLetter } : {}), ...(button.type === 'search' ? { 'update:searchText': handleSearchText } : {}) }"
         />
       </div>
     </div>
@@ -151,10 +197,10 @@ onMounted(() => {
       <div
         v-for="(button, index) in tabs"
         :key="index"
-        :id="`${id}-tab${index + 1}`"
-        :class="['tab', `tab${index + 1}`, { active: activeTab === index }]"
+        :id="`${id}-tab${button.tabIndex}`"
+        :class="['tab', `tab${button.tabIndex}`, { active: activeTab === button.tabIndex}]"
       >
-        <slot :name="'tab' + (index + 1)"></slot>
+        <slot :name="'tab' + (button.tabIndex)"></slot>
       </div>
     </div>
   </div>

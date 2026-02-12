@@ -1,0 +1,120 @@
+{
+    "taxonLatname": "Corylus avellana",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "d4410c4d-8b56-4561-a22a-2e94cfe2873e",
+    "taxonNuid": "00600800600p001004002",
+    "slug": "corylus-avellana",
+    "localizedSlug": {},
+    "gbifNubkey": 2875979,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-82-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-82-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-82-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 20,
+    "morphotype": null,
+    "vernacular": {
+        "de": null
+    },
+    "allVernacularNames": {
+        "de": []
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "Wünschelruten zum Aufspüren von Wasser wurden früher aus Hasel hergestellt. Mit einem Stab aus Hasel kann man in Dimensionen hineinsprüren, die normalerweise unserem Alltagsbewusstsein verborgen sind, heißt es. Die Haselnuss ist aber eine Brücke in beide Richtungen. Das Jenseitige kann über die Hasel auch in unsere Alltagswelt hineinwirken.",
+            "shortTextKey": "taxon_text_1_35",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Lebensraum",
+            "texts": [
+                {
+                    "taxonTextType": "Baum als Lebensraum",
+                    "shortText": "Die Haselnuss ist kein Baum, sondern ein Strauch. Man findet in der Regel also keinen einzelnen Stamm vor, sondern mehrere Triebe, die nah beieinander aus dem Boden kommen. Der Blütenstaub der Hasel – ein Frühlingsanzeiger – ist eine wichtige Nahrungsquelle für Bienen. Die Früchte der Hasel, die Haselnüsse, werden von Eichhörnchen, Rehen oder auch Mäusen gefressen. Außerdem ist die Hasel eine Nahrungsquelle für die Larven von 44 Schmetterlingsarten.",
+                    "shortTextKey": "taxon_text_3_36",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": []
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-82-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-82-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-82-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-82-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-82-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-82-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Corylus sylvestris",
+            "taxonAuthor": "Salisb., nom. superfl."
+        },
+        {
+            "taxonLatname": "Corylus avellana sylvestris",
+            "taxonAuthor": "Aiton, not validly publ."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

@@ -15,8 +15,8 @@ const props = defineProps<{
 
 <style scoped>
 .text-only-filter-space {
-  width: 200px;
-  aspect-ratio: 2 / 1;
+  width: 100%;
+  aspect-ratio: 3 / 2;
   background: #FFF;
   border-radius: var(--border-radius-sm);
   padding: var(--size-md);

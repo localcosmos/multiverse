@@ -5,28 +5,30 @@ import ContentContainer from '@/components/container/ContentContainer.vue';
 import type { LocalizedGlossary } from 'localcosmos-client';
 import { Glossary } from 'localcosmos-client';
 import { useLanguageStore } from '@/stores/language';
+import type { TabButtonDefinition } from '@/types/navigation';
+import { t } from 'i18next';
 
-import LetterSelector from '@/components/ui/LetterSelector.vue';
-import TabButton from '@/components/ui/tabs/TabButton.vue';
+import { TabButtonType } from '@/types/navigation';
+
+import TabbedPage from '@/components/container/TabbedPage.vue';
+import TermsList from '@/components/glossary/TermsList.vue';
 
 const glossary = inject('glossary') as Glossary | null;
 const languageStore = useLanguageStore();
 
 const localizedGlossary = ref<LocalizedGlossary|null>(null);
+const startLetterGlossary = ref<LocalizedGlossary|null>(null);
+const searchGlossary = ref<LocalizedGlossary|null>(null);
 
 const termIdPrefix = 'id-term-';
 const glossaryName = ref<string>('');
-const searchActive = ref<boolean>(false);
-const hasResults = ref<boolean>(false);
 
-const getHeaderHeight = (): number => {
-  const glossaryButtons = document.querySelector('.glossary-buttons') as HTMLElement | null;
-  if (glossaryButtons) {
-    const rect = glossaryButtons.getBoundingClientRect();
-    return Math.round(rect.bottom);
-  }
-  return 0;
-};
+const startLetter = ref<null|string>(null);
+const searched = ref<boolean>(false);
+
+const availableStartLetters = ref<string[]>([]);
+
+const tabButtons = ref<TabButtonDefinition[]>([]);
 
 const loadGlossary = async () => {
   if (glossary) {
@@ -34,6 +36,25 @@ const loadGlossary = async () => {
     try {
       // Use language from store
       localizedGlossary.value = await glossary.getLocalizedGlossary(languageStore.currentLanguage);
+      startLetterGlossary.value = localizedGlossary.value;
+      if (localizedGlossary.value) {
+        availableStartLetters.value = Object.keys(localizedGlossary.value).sort();
+
+        tabButtons.value = [{
+            tabIndex: 1,
+            text: t('taxonProfiles.Alphabet'),
+            type: TabButtonType.ALPHABET,
+            letters: availableStartLetters.value,
+          },
+          {
+            text: t('taxonProfiles.Search'),
+            icon: PhMagnifyingGlass,
+            tabIndex: 2,
+            type: TabButtonType.SEARCH,
+          },
+
+        ];
+      }
     } catch (error) {
       console.error('Error fetching localized glossary:', error);
     }
@@ -42,62 +63,53 @@ const loadGlossary = async () => {
   }
 };
 
-function getScrollBehavior(): ScrollBehavior {
-  return navigator.userAgent.match(/Android/i) ? 'auto' : 'smooth';
-}
+const setStartLetter = (letter: string) => {
+  startLetter.value = letter;
 
-const jumpToTerm = async (searchText: string) => {
-  if (glossary && searchText.length > 2) {
-    const results = await glossary.searchLocalizedTerms(searchText, languageStore.currentLanguage);
-    if (results.length > 0) {
-      hasResults.value = true;
-      searchActive.value = true;
-      const bestResult = results[0];
-      const id = `${termIdPrefix}${bestResult.term}`;
-      const element = document.getElementById(id);
+  if (localizedGlossary.value && letter in localizedGlossary.value) {
+    startLetterGlossary.value = {
+      [letter]: localizedGlossary.value[letter],
+    };
+  }
+};
 
-      if (element) {
-        const headerOffset = getHeaderHeight();
-        const elementPosition = element.getBoundingClientRect().top;
-        const offsetPosition = Math.round(elementPosition + window.pageYOffset - headerOffset);
+const removeStartLetter = () => {
+  startLetter.value = null;
+  startLetterGlossary.value = localizedGlossary.value;
+};
 
-        window.scrollTo({
-          top: offsetPosition,
-          behavior: getScrollBehavior(),
-        });
+const handleSearchText = (text: string) => {
+  // search localized glossary terms and synonyms
+
+  if (!text) {
+    // if search text is empty, reset search glossary
+    searchGlossary.value = null;
+    searched.value = false;
+    return;
+  }
+
+  if (localizedGlossary.value) {
+    const searchTerm = text.toLowerCase();
+    const filteredGlossary: LocalizedGlossary = {};
+
+    for (const [letter, terms] of Object.entries(localizedGlossary.value)) {
+      for (const [term, definition] of Object.entries(terms)) {
+        const termLower = term.toLowerCase();
+        const synonymsLower = definition.synonyms ? definition.synonyms.map(s => s.toLowerCase()) : [];
+
+        if (termLower.startsWith(searchTerm) || synonymsLower.some(syn => syn.startsWith(searchTerm))) {
+
+          if (!filteredGlossary[letter]) {
+            filteredGlossary[letter] = {};
+          }
+          filteredGlossary[letter][term] = definition;
+        }
       }
-    } else {
-      hasResults.value = false;
-      searchActive.value = true;
     }
+
+    searchGlossary.value = filteredGlossary;
+    searched.value = true;
   }
-  else {
-    hasResults.value = false;
-    searchActive.value = false;
-  }
-};
-
-const jumpToLetter = (letter: string) => {
-  const id = `glossary-${letter}`;
-  const element: HTMLElement | null = document.getElementById(id);
-
-  if (element) {
-    const headerOffset = getHeaderHeight();
-    const elementPosition = element.getBoundingClientRect().top;
-    const offsetPosition = Math.round(elementPosition + window.pageYOffset - headerOffset);
-
-    window.scrollTo({
-      top: offsetPosition,
-      behavior: getScrollBehavior(),
-    });
-  }
-};
-
-const jumpToTop = () => {
-  window.scrollTo({
-    top: 0,
-    behavior: getScrollBehavior(),
-  });
 };
 
 // Load glossary when component mounts
@@ -106,149 +118,52 @@ onMounted(loadGlossary);
 
 <template>
   <ContentContainer>
-    <div class="page">
-
-      <div v-if="glossary && localizedGlossary">
-        <div class="glossary-buttons bg-translucent-light">
-          <div class="glossary-search">
-            <TabButton
-              :text="$t('glossary.Search')"
-              :icon="PhMagnifyingGlass"
-              :active="false"
-              :search-mode="true"
-              :no-results="!hasResults && searchActive"
-              @update:search-text="jumpToTerm"
-            />
-          </div>
-          <LetterSelector
-            id="glossary-letter-selector"
-            :letters="Object.keys(localizedGlossary).sort()"
-            :slim="true"
-            @select="jumpToLetter"
-            @unselect="jumpToTop"
-          />
-        </div>
-        <div class="container">
-          <div class="page-padding">
-            <div class="glossary-container">
-              <div
-                v-for="(terms, letter) in localizedGlossary"
-                :key="letter"
-                class="glossary-letter"
-                :id="`glossary-${letter}`"
-              >
-                <div
-                  v-for="(definition, term) in terms"
-                  :key="term"
-                  class="glossary-item"
-                >
-                  <div
-                    :id="`${termIdPrefix}${term}`"
-                    class="glossary-terms"
-                  >
-                    <div class="glossary-term">
-                      {{ term }}
-                    </div>
-                    <div class="glossary-definition">
-                      {{ definition.definition }}
-                    </div>
-                  </div>
+    <div class="page header-padding-top">
+      <div class="container">
+        <TabbedPage
+          id="GlossaryTabs"
+          :tabs="tabButtons"
+          :explode-on-large-screens="false"
+          :show-nav-on-large-screens="true"
+          @update:searchText="handleSearchText"
+          @select-letter="setStartLetter"
+          @unselect-letter="removeStartLetter"
+        >
+          <template #tab1>
+            <div v-if="glossary && localizedGlossary">
+              <div class="letter-padding page-padding-x page-padding-bottom">
+                <TermsList
+                  :localized-glossary="startLetterGlossary!"
+                  :term-id-prefix="termIdPrefix"
+                />
+              </div>
+            </div>
+            <div v-else class="page-padding-x">
+              {{ $t('glossary.NoGlossaryAvailable') }}
+            </div>
+          </template>
+          <template #tab2>
+            <div class="page-padding-x">
+              <div v-if="searched">
+                <TermsList
+                  v-if="glossary && searchGlossary"
+                  :localized-glossary="searchGlossary!"
+                  term-id-prefix="id-term-search-"
+                />
+                <div v-else class="page-padding-x page-padding-bottom">
+                  {{ $t('glossary.NoSearchResults') }}
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <div v-else>
-        <div class="container">
-          {{ $t('glossary.NoGlossaryAvailable') }}
-        </div>
+          </template>
+        </TabbedPage>
       </div>
     </div>
   </ContentContainer>
 </template>
 
 <style scoped>
-/* For smallest screens (mobile): term above definition */
-.glossary-terms {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--size-md);
-  padding: var(--size-md) 0;
-}
-
-.glossary-search {
-  padding: 0 var(--size-md);
-  display: flex;
-  justify-content: flex-start;
-  flex-direction: row;
-  width: auto;
-  align-self: flex-start;
-}
-
-.glossary-term {
-  font-weight: bold;
-}
-
-.glossary-buttons {
-  position: sticky;
-  top: var(--header-bar-height); /* Adjust this value to match your header bar height */
-  z-index: 10;
-  padding-top: var(--size-md);
-  padding-bottom: var(--size-md);
-  backdrop-filter: var(--backdrop-filter-blur);
-  display: flex;
-  flex-direction: column;
-  gap: var(--size-md);
-}
-
-.glossary-container {
-  padding-bottom: 100vh;
-}
-
-/* For tablets and up: term next to definition */
-@media (min-width: 640px) {
-  .glossary-terms {
-    grid-template-columns: 1fr 2fr;
-    gap: 1rem;
-    align-items: start;
-  }
-  
-  .glossary-term {
-    padding-right: 1rem;
-  }
-}
-
-@media (min-width: 768px) {
-  .glossary-terms {
-    grid-template-columns: 1fr 3fr;
-  }
-
-  .glossary-buttons {
-    top: 0px;
-    margin-left: var(--navigation-rail-width);
-  }
-
-  .glossary-search {
-    justify-content: center;
-    align-self: center; /* <-- Add this line */
-  }
-}
-
-@media (min-width: 1024px) {
-  .glossary-terms {
-    grid-template-columns: 1fr 4fr;
-  }
-}
-
-@media (min-width: 1280px) {
-  .glossary-terms {
-    grid-template-columns: 1fr 5fr;
-  }
-
-  .glossary-buttons {
-    top: var(--desktop-header-bar-height); /* Adjust this value for desktop header bar height */
-    margin-left: 0
-  }
+.letter-padding {
+  padding-top: calc(var(--tabs-navigation-height) + var(--size-sm));
 }
 </style>

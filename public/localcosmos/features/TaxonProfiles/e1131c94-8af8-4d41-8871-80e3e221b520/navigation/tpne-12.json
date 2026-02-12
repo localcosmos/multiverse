@@ -1,0 +1,222 @@
+{
+    "name": null,
+    "description": null,
+    "verboseName": "Pinales",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-79-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-79-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-79-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 0,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Pinus sylvestris",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "30d9bad8-2d96-4fed-a732-30e08b071572",
+            "taxonNuid": "00600800700100500802s",
+            "slug": "pinus-sylvestris",
+            "localizedSlug": {
+                "de": "kiefer"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-65-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-65-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-65-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-65-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-65-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-65-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Picea abies",
+            "taxonAuthor": "(L.) H. Karst.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "948f5b3f-8789-4900-8022-d586dbf88071",
+            "taxonNuid": "006008007001005007001",
+            "slug": "picea-abies",
+            "localizedSlug": {
+                "de": "fichte"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-62-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-62-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-62-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-62-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-62-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-62-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Abies alba",
+            "taxonAuthor": "Mill.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "01ad3dc7-e744-499f-9097-abb4760fdbc4",
+            "taxonNuid": "006008007001005001001",
+            "slug": "abies-alba",
+            "localizedSlug": {
+                "de": "weitanne"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-64-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-64-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-64-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-64-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-64-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-64-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Larix decidua",
+            "taxonAuthor": "Mill.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c8089bf0-7401-4434-98f1-1be9a39118d2",
+            "taxonNuid": "006008007001005005002",
+            "slug": "larix-decidua",
+            "localizedSlug": {
+                "de": "larche"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-63-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-63-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-63-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-63-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-63-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-63-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pseudotsuga menziesii",
+            "taxonAuthor": "(Mirb.) Franco",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9f1efd3c-6d3e-4241-adba-62489fccc247",
+            "taxonNuid": "00600800700100500a003",
+            "slug": "pseudotsuga-menziesii",
+            "localizedSlug": {
+                "de": "douglasie"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-66-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-66-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-66-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-66-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-66-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-66-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pinus hartwegii",
+            "taxonAuthor": "Roezl",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3abf9848-60d6-445b-b406-2634a8440bd7",
+            "taxonNuid": "006008007001005008014",
+            "slug": "pinus-hartwegii",
+            "localizedSlug": {
+                "de": "kiefer-syno"
+            },
+            "images": [],
+            "primaryImage": null
+        }
+    ]
+}

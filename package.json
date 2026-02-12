@@ -22,6 +22,7 @@
     "exifreader": "^4.31.1",
     "i18next-http-backend": "^2.5.2",
     "i18next-vue": "^4.0.0",
+    "localcosmos-client": "^1.6.0",
     "ol": "^10.6.1",
     "pinia": "^2.1.7",
     "vee-validate": "^4.15.0",

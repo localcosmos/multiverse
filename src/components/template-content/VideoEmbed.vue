@@ -162,10 +162,10 @@ const getEmbedUrl = (url: string, videoType: string) => {
   justify-content: center;
   height: 100%;
   text-align: center;
-  gap: var(--size-xxl);
+  gap: var(--size-2xl);
   background: #000;
   color: rgb(200,200,200);
-  padding: var(--size-xxl);
+  padding: var(--size-2xl);
 }
 
 .video-placeholder-statement {
@@ -174,7 +174,7 @@ const getEmbedUrl = (url: string, videoType: string) => {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: var(--size-xxl);
+  gap: var(--size-2xl);
 }
 
 .video-provider-logo {

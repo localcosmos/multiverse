@@ -6,6 +6,7 @@ import type { ComputedRef } from 'vue';
 interface Props {
   id: string; // Mandatory ID for the LetterSelector
   letters?: string[];
+  initialLetter?: string | null;
   slim?: boolean; // Optional prop to indicate if the selector should be slim
 }
 
@@ -21,7 +22,8 @@ const letterSelectorStore = useLetterSelectorStore();
 letterSelectorStore.registerLetterSelector(props.id);
 
 // Reactive variable for the current letter
-const currentLetter = ref<string | null>(letterSelectorStore.getSelectedLetter(props.id));
+// the initial letter should be: letterSelectorStore.getSelectedLetter(props.id), fallback1: props.initialLetter, fallback2: null
+const currentLetter = ref<string | null>(letterSelectorStore.getSelectedLetter(props.id) ?? props.initialLetter ?? null);
 
 // Watch for changes in `currentLetter` and update the store
 watch(currentLetter, (newLetter) => {
@@ -175,4 +177,17 @@ const selectLetter = (letter: string) => {
     padding-bottom: 4px;
   }
 }
+
+@media (orientation: landscape ) {
+  .start-letters-wrap {
+    padding: 0;
+  }
+}
+
+@media ((orientation: landscape) and (min-width: 1280px) ) {
+  .start-letters-wrap {
+    padding: 14px 0px 14px 0px;
+  }
+}
+
 </style>

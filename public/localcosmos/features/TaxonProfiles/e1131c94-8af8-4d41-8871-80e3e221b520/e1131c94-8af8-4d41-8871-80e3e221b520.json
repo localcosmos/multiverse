@@ -1,0 +1,56 @@
+{
+    "uuid": "e1131c94-8af8-4d41-8871-80e3e221b520",
+    "version": 4,
+    "options": {
+        "enableObservationButton": {
+            "id": 1,
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "model": "GenericForm",
+            "action": "GenericForm",
+            "app_label": "generic_forms"
+        },
+        "enableTaxonomicNavigation": true,
+        "enableGbifOccurrenceMapButton": true,
+        "includeOnlyTaxonProfilesFromNatureGuides": true
+    },
+    "globalOptions": {},
+    "name": "Baumporträts",
+    "slug": "26-baumportrats",
+    "startLetters": {
+        "taxonLatname": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F",
+            "J",
+            "L",
+            "P",
+            "Q",
+            "S",
+            "T"
+        ],
+        "vernacular": {
+            "de": [
+                "B",
+                "D",
+                "E",
+                "F",
+                "K",
+                "L",
+                "S",
+                "W"
+            ]
+        }
+    },
+    "navigationSlugs": {
+        "start": "start",
+        "plantae": "tpne-4",
+        "mehlbeeren": "tpne-16",
+        "pinales": "tpne-12",
+        "rosales": "tpne-13",
+        "lippenblutlerartige": "tpne-14",
+        "malpighienartige": "tpne-15",
+        "seifenbaumartige": "tpne-11"
+    }
+}

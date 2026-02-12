@@ -14,7 +14,7 @@
   --size-sm: 10px;
   --size-md: 14px;
   --size-xl: 24px;
-  --size-xxl: 32px;
+  --size-2xl: 32px;
   --gap-medium: 8px;
   --gap-large: 16px;
   --header-bar-height: 54px;
@@ -23,6 +23,8 @@
   --bottom-navigation-height: 64px;
   --bottom-navigation-offset-bottom: 14px;
   --navigation-rail-width: 80px;
+  --tabs-navigation-height: 59px;
+  --desktop-tabs-navigation-height: 64px;
   --color-white: rgb(255,255,255);
   --color-white-translucent: rgba(255,255,255,0.84);
   --color-white-translucent-medium: rgba(255,255,255,0.7);
@@ -51,8 +53,8 @@
   --font-size-md: 12px;
   --font-size-lg: 16px;
   --font-size-xl: 20px;
-  --font-size-xxl: 24px;
-  --font-size-xxxl: 28px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 28px;
   --collapsed-bottomsheet-height: 54px;
   --matrix-filter-selection-highlight: rgba(150,150,150,.8);
   --text-muted: rgb(150,150,150);
@@ -200,16 +202,24 @@ body.dark .text-solid {
   padding-bottom: var(--size-xl);
 }
 
-.pb-xxl {
-  padding-bottom: var(--size-xxl);
+.pb-2xl {
+  padding-bottom: var(--size-2xl);
+}
+
+.pt-sm {
+  padding-top: var(--size-sm);
+}
+
+.pt-md {
+  padding-top: var(--size-md);
 }
 
 .pt-xl {
   padding-top: var(--size-xl);
 }
 
-.pt-xxl {
-  padding-top: var(--size-xxl);
+.pt-2xl {
+  padding-top: var(--size-2xl);
 }
 
 .mb-m {
@@ -227,12 +237,12 @@ body.dark .text-solid {
   margin-bottom: var(--size-xl);
 }
 
-.mb-xxl {
-  margin-bottom: var(--size-xxl);
+.mb-2xl {
+  margin-bottom: var(--size-2xl);
 }
 
-.mt-xxl {
-  margin-top: var(--size-xxl);
+.mt-2xl {
+  margin-top: var(--size-2xl);
 }
 
 .my-xl {
@@ -250,9 +260,14 @@ body.dark .text-solid {
   padding-right: var(--size-md);
 }
 
-.py-xxl {
-  padding-top: var(--size-xxl);
-  padding-bottom: var(--size-xxl);
+.py-xl {
+  padding-top: var(--size-xl);
+  padding-bottom: var(--size-xl);
+}
+
+.py-2xl {
+  padding-top: var(--size-2xl);
+  padding-bottom: var(--size-2xl);
 }
 
 

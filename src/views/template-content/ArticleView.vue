@@ -61,10 +61,10 @@ onMounted(async() => {
 <template>
   <TemplateContentContainer :loading="loading">
     <div v-if="templateData" class="container page-padding">
-      <LargeCard class="article pb-xxl">
+      <LargeCard class="article pb-2xl">
         <div class="container-md sm-page-padding-x">
-          <div class="py-xxl">
-            <h1 class="mt-xxl">{{ templateData.title }}</h1>
+          <div class="py-2xl">
+            <h1 class="mt-2xl">{{ templateData.title }}</h1>
           </div>
         </div>
         <div>
@@ -80,7 +80,7 @@ onMounted(async() => {
           v-if="templateData.linkedTaxonProfiles && templateData.linkedTaxonProfiles.length > 0"
           class="container-md sm-page-padding-x"
         >
-          <div class=mt-xxl>
+          <div class=mt-2xl>
             <h2>{{ $t('templateContent.linkedTaxonProfiles') }}</h2>
             <LinkedTaxonProfilesList
               :linked-taxon-profiles="templateData.linkedTaxonProfiles"

@@ -43,6 +43,7 @@ if (props.images && props.images.length) {
         <ImageWithLicence
           :image="image"
           :rounded="`rounded-xs`"
+          :show-caption="false"
           sizes="(max-width: 349px) 100vw, (max-width: 767px) 33vw, (max-width: 1023px) 17vw, 15vw"
         />
       </div>

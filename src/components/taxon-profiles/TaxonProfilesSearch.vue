@@ -16,11 +16,15 @@ const searched = ref<boolean>(false);
 
 // Define the searchTaxon function
 const searchTaxon = (query: string) => {
+
+  console.log('Executing search for query:', query);
+
   if (query.length >= 2) {
     searched.value = true;
     try {
       // Use the taxonProfiles search function to fetch results
       const results = taxonProfiles.search(query);
+      console.log('Search results:', results);
       searchResults.value = results; // Update the search results
     } catch (error) {
       console.error('Error during search:', error);
@@ -45,7 +49,7 @@ watch(
 <template>
   <div>
     <div v-if="searchResults.length > 0">
-      <div v-for="(taxon, index) in searchResults" :key="index">
+      <div v-for="(taxon, index) in searchResults" :key="index" class="taxon-search-result">
         <TaxonProfilesSearchResult :taxon="taxon" />
       </div>
     </div>
@@ -56,4 +60,7 @@ watch(
 </template>
 
 <style scoped>
+.taxon-search-result {
+  margin-bottom: var(--size-xs);
+}
 </style>

@@ -1,0 +1,84 @@
+{
+    "title": "Streams",
+    "templateName": "Article",
+    "templatePath": "/template_content/page/article/article.html",
+    "version": 1,
+    "contents": {
+        "content": [
+            {
+                "uuid": "d4904090-b7db-4311-8d4a-6a104a251e95",
+                "heading": "heading",
+                "templateName": "Heading"
+            },
+            {
+                "text": "<p>text 1<strong> formatting</strong></p>",
+                "uuid": "50cf0bda-f19b-4250-bda3-b9111242910f",
+                "templateName": "TextBlock",
+                "image": {
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/published-content:50cf0bda-f19b-4250-bda3-b9111242910f:image-20-s-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/published-content:50cf0bda-f19b-4250-bda3-b9111242910f:image-20-s-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/published-content:50cf0bda-f19b-4250-bda3-b9111242910f:image-20-s-1000.webp",
+                        "8x": "/localcosmos/user_content/content_images/published-content:50cf0bda-f19b-4250-bda3-b9111242910f:image-20-s-2000.webp"
+                    },
+                    "licence": {
+                        "licence": "CC0",
+                        "licenceVersion": "1.0",
+                        "creatorName": "Thomas Uher",
+                        "creatorLink": "",
+                        "sourceLink": ""
+                    }
+                }
+            },
+            {
+                "url": "vimeo.com/9011932",
+                "uuid": "650dd018-91ff-426d-8535-8ea80b1e962d",
+                "title": "Pizza Time!",
+                "videoType": "Vimeo",
+                "templateName": "Video"
+            }
+        ]
+    },
+    "linkedTaxa": [
+        {
+            "taxonSource": "taxonomy.sources.col",
+            "taxonLatname": "Acer pseudoplatanus",
+            "taxonAuthor": "L.",
+            "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+            "taxonNuid": "00600800601d00800102r"
+        }
+    ],
+    "linkedTaxonProfiles": [
+        {
+            "taxonLatname": "Acer pseudoplatanus",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+            "taxonNuid": "00600800601d00800102r",
+            "slug": "acer-pseudoplatanus",
+            "localizedSlug": {
+                "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+            },
+            "gbifNubkey": 3189870,
+            "image": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                }
+            },
+            "shortProfile": "",
+            "hasTaxonProfile": true
+        }
+    ],
+    "publishedAt": "2025-10-17T08:12:21.366194+00:00",
+    "createdAt": "2025-10-15T06:32:56.415736+00:00",
+    "lastModified": "2025-10-20T09:40:16.350413+00:00",
+    "uuid": "6ca258c5-54b1-49d8-bcc7-e4fc06b0586e",
+    "language": "de",
+    "slug": "streams",
+    "author": null
+}

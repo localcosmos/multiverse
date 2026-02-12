@@ -35,6 +35,7 @@ import PrivacySettings from '@/views/legal/PrivacySettings.vue';
 
 import { useAuthStore } from '@/stores/auth';
 import { usePermissionsStore } from '@/stores/permissions';
+import { useModalsStore } from '@/stores/modals';
 
 import 'vue-router'
 
@@ -162,6 +163,14 @@ const router = createRouter({
     {
       path: '/taxon-profile/:slug',
       name: 'taxon-profile',
+      component: TaxonProfile,
+      meta: {
+        showBackbutton: true,
+      }
+    },
+    {
+      path: '/taxon-profile/:slug/:morphotype',
+      name: 'morphotype-profile',
       component: TaxonProfile,
       meta: {
         showBackbutton: true,
@@ -370,13 +379,18 @@ const router = createRouter({
 router.beforeEach((to, from) => {
   const mainNavigation = useMainNavigationStore();
   const modalBottomSheet = useModalBottomSheet();
+  const modals = useModalsStore();
   const auth = useAuthStore();
   const permissions = usePermissionsStore();
   const accountsEnabled = inject('accountsEnabled', false);
 
   // Destroy the ModalBottomSheet if navigating to a new page
-  if (to.name !== from.name) {
+  if (to.name !== from.name || to.path !== from.path) {
     modalBottomSheet.destroy();
+  }
+
+  if (modals.hasOpenModal === true) {
+    modals.closeModal();
   }
 
   if (to.meta.requiresCanUseDatasetsPermission === true && !permissions.canUseDatasets) {
@@ -418,6 +432,8 @@ router.beforeEach((to, from) => {
     }
 
     mainNavigation.setBackbutton(to.meta.showBackbutton);
+
+    console.log('Navigating to:', to.fullPath, 'from:', from.fullPath);
  
   }
 });

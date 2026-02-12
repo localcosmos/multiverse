@@ -1,0 +1,457 @@
+{
+    "taxonLatname": "Acer pseudoplatanus",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+    "taxonNuid": "00600800601d00800102r",
+    "slug": "acer-pseudoplatanus",
+    "localizedSlug": {
+        "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+    },
+    "gbifNubkey": 3189870,
+    "image": {
+        "text": null,
+        "altText": null,
+        "title": null,
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 8,
+    "morphotype": null,
+    "vernacular": {
+        "de": "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn",
+            "Bergahorn"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Interessantes",
+            "shortText": "<p>Unsere Vorfahren zählten den Bergahorn zu den 'heiteren' Bäumen. Er stand unter anderem für Ruhe, Gelassenheit und Harmonie. Türschwellen aus Ahornholz boten Schutz vor Hexen und Zauberern. Für die Kelten symbolisierte das weiße Holz eine besondere innere Reinheit. Bei den Griechen war der Bergahorn dem Kriegsgott Ares geweiht. Der botanische Gattungsname Acer ist lateinisch und bedeutet spitz, scharf. Das Wort bezieht sich auf die spitzen Blätter.<br><br>Der Bergahorn wurde früher ebenso wie der amerikanische Zuckerahorn zur Zuckerherstellung verwendet. Wirtschaftliche Bedeutung erhielt der Ahornsirup vor allem in Not- und Kriegszeiten. 100 Liter Baumsaft waren nötig um etwa ein Kilogramm Zucker zu gewinnen. Dabei musste sehr sorgsam vorgegangen werden, um ein Verbluten des Baumes zu verhindern.</p>",
+            "shortTextKey": "taxon_text_1_10",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Waldschutz",
+            "shortText": "<p>Vor allem im Jugendstadium treten Gefährdungen auf. Neben einer mäßigen Spätfrostgefährdung ist Wildverbiss der wichtigste Gefährdungsfaktor. Auch Fege- und Schälschäden machen dem Bergahorn zu schaffen. Auf vergrasten Flächen leiden die jungen Pflanzen häufig unter Mäusefraß.</p>",
+            "shortTextKey": "taxon_text_2_11",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-101-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-101-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-101-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-100-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-100-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-100-1000.webp"
+                    }
+                }
+            ]
+        }
+    ],
+    "categorizedTexts": [
+        {
+            "category": "Lebensraum",
+            "texts": [
+                {
+                    "taxonTextType": "Baum als Lebensraum",
+                    "shortText": "<p>Bergahorne sind Lebensraum für viele Vogelarten, Insekten, Pilze und Misteln. Besonders Blattläuse mögen den Baum wegen seines hohen Zuckergehaltes, und dementsprechend auch die Ameisen, die die Blattläuse melken. Auch Vögel und Mäuse ritzen gelegentlich die <span class=\"glossary_link tap\" action=\"glossary\" data-term=\"UmluZGU=\">Rinde</span> an, um an den zuckerhaltigen Frühjahrssaft zu gelangen. Die Samen werden von zahlreichen Tieren gefressen.</p>",
+                    "shortTextKey": "taxon_text_3_12",
+                    "longText": null,
+                    "longTextKey": null,
+                    "images": [
+                        {
+                            "text": "",
+                            "altText": "",
+                            "title": "",
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-95-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-95-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-95-1000.webp"
+                            }
+                        },
+                        {
+                            "text": "",
+                            "altText": "",
+                            "title": "",
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-99-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-99-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-99-1000.webp"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "images": {
+        "primary": {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                }
+            },
+            {
+                "text": "<p>Caption</p>",
+                "altText": "Alt text",
+                "title": "Title",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-80-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-80-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-80-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": [
+            {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-36-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-36-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-36-1000.webp"
+                }
+            }
+        ]
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Acer erythrocarpum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer montanum",
+            "taxonAuthor": "Garsault"
+        },
+        {
+            "taxonLatname": "Acer opulifolium",
+            "taxonAuthor": "Thuill. ex Loud."
+        },
+        {
+            "taxonLatname": "Acer quinquelobum",
+            "taxonAuthor": "Gilib."
+        },
+        {
+            "taxonLatname": "Acer villosum",
+            "taxonAuthor": "C. Presl"
+        },
+        {
+            "taxonLatname": "Acer majus",
+            "taxonAuthor": "S. F. Gray"
+        },
+        {
+            "taxonLatname": "Acer melliodorum",
+            "taxonAuthor": "Opiz"
+        },
+        {
+            "taxonLatname": "Acer atropurpureum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer dittrichii",
+            "taxonAuthor": "Opiz"
+        },
+        {
+            "taxonLatname": "Acer euchlorum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer leopoldii",
+            "taxonAuthor": "Hort. ex K. Koch"
+        },
+        {
+            "taxonLatname": "Acer nebrodense",
+            "taxonAuthor": "Tineo ex Pax"
+        },
+        {
+            "taxonLatname": "Acer procerum",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Acer purpureum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer rafinesquianum",
+            "taxonAuthor": "Hort. ex Dippel"
+        },
+        {
+            "taxonLatname": "Acer ramosum",
+            "taxonAuthor": "Schwerin"
+        },
+        {
+            "taxonLatname": "Acer worleei",
+            "taxonAuthor": "Hort. ex Dippel"
+        }
+    ],
+    "templateContents": [
+        {
+            "slug": "streams",
+            "title": "Streams",
+            "templateName": "Article"
+        }
+    ],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [
+        {
+            "relationshipType": {
+                "name": "Similar species",
+                "taxonRole": null,
+                "relatedTaxonRole": null
+            },
+            "relationships": [
+                {
+                    "taxon": {
+                        "taxonLatname": "Acer pseudoplatanus",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+                        "taxonNuid": "00600800601d00800102r",
+                        "slug": "acer-pseudoplatanus",
+                        "localizedSlug": {
+                            "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+                        },
+                        "gbifNubkey": 3189870,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                            }
+                        },
+                        "shortProfile": "",
+                        "hasTaxonProfile": true
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Acer campestre",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "dcb4db1b-d1b7-4135-b997-72d080a59ccb",
+                        "taxonNuid": "00600800601d00800100d",
+                        "slug": "acer-campestre",
+                        "localizedSlug": {
+                            "de": "feldahorn"
+                        },
+                        "gbifNubkey": 3189863,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-44-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-44-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-44-1000.webp"
+                            }
+                        },
+                        "shortProfile": "<p>Der Feldahorn wird in spirituellen Traditionen als Symbol für Schutz und Erdung verehrt. Seine Energie soll Klarheit und innere Stärke fördern.</p>",
+                        "hasTaxonProfile": true
+                    },
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "relationshipType": {
+                "name": "Predation",
+                "taxonRole": "Predator",
+                "relatedTaxonRole": "Prey"
+            },
+            "relationships": [
+                {
+                    "taxon": {
+                        "taxonLatname": "Acer",
+                        "taxonAuthor": "",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "bd143912-7a66-4f7f-ad25-c3c16a361273",
+                        "taxonNuid": "00600800601d008001",
+                        "slug": "acer",
+                        "localizedSlug": {},
+                        "gbifNubkey": 3189834,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Lumbricidae",
+                        "taxonAuthor": null,
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "b5a219e5-9456-470e-a0b8-aead98e1d1af",
+                        "taxonNuid": "001002001005004",
+                        "slug": "lumbricidae",
+                        "localizedSlug": {},
+                        "gbifNubkey": 6103,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "description": "description of eating worms updated"
+                },
+                {
+                    "taxon": {
+                        "taxonLatname": "Turdus merula",
+                        "taxonAuthor": "Linnaeus, 1758",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "5675cbf3-9d3d-4b03-99a1-1b76234244a2",
+                        "taxonNuid": "00100800500p03b00k017",
+                        "slug": "turdus-merula",
+                        "localizedSlug": {
+                            "de": "merle-noir"
+                        },
+                        "gbifNubkey": 2490719,
+                        "image": null,
+                        "shortProfile": null,
+                        "hasTaxonProfile": false
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Acer pseudoplatanus",
+                        "taxonAuthor": "L.",
+                        "taxonSource": "taxonomy.sources.col",
+                        "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+                        "taxonNuid": "00600800601d00800102r",
+                        "slug": "acer-pseudoplatanus",
+                        "localizedSlug": {
+                            "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+                        },
+                        "gbifNubkey": 3189870,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                            }
+                        },
+                        "shortProfile": "",
+                        "hasTaxonProfile": true
+                    },
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "seo": {
+        "title": "Bergahorn - Acer campestre",
+        "metaDescription": "Beschreibung Bergahorn"
+    },
+    "externalMedia": [
+        {
+            "mediaType": "youtube",
+            "mediaCategory": "video",
+            "url": "https://www.youtube.com/watch?v=v5ekOVJ5uzU",
+            "title": "Patchwork Cuttlefish",
+            "author": "Sea Change Project",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        }
+    ],
+    "morphotypeProfiles": [
+        {
+            "taxonProfileId": 36,
+            "parentTaxonProfileId": 8,
+            "morphotype": "Blatt",
+            "taxon": {
+                "taxonLatname": "Acer pseudoplatanus",
+                "taxonAuthor": "L.",
+                "taxonSource": "taxonomy.sources.col",
+                "nameUuid": "7b5d2554-7db4-46b1-b1c5-8908126a14d0",
+                "taxonNuid": "00600800601d00800102r",
+                "slug": "acer-pseudoplatanus",
+                "localizedSlug": {
+                    "de": "bergahorn-bergahorn-bergahorn-bergahorn-bergahorn"
+                },
+                "gbifNubkey": 3189870,
+                "image": {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-81-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-81-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-81-1000.webp"
+                    }
+                },
+                "shortProfile": "",
+                "hasTaxonProfile": true
+            },
+            "vernacular": {
+                "de": "Bergahorn Bergahorn Bergahorn Bergahorn Bergahorn"
+            },
+            "image": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-115-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-115-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-115-1000.webp"
+                }
+            }
+        }
+    ],
+    "isFeatured": true
+}

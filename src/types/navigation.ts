@@ -19,9 +19,16 @@ export type NavigationButton = {
 
 export type Navigations = Record<string, NavigationButton[]>;
 
+export enum TabButtonType {
+  STANDARD = 'standard',
+  SEARCH = 'search',
+  ALPHABET = 'alphabet',
+}
+
 export type TabButtonDefinition = {
   tabIndex : number,
   text: string,
   icon?: Component | null,
-  searchMode?: boolean,
+  type: TabButtonType,
+  letters?: string[],
 }

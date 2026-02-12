@@ -38,11 +38,11 @@ onMounted(async() => {
 
 <template>
   <TemplateContentContainer :loading="loading">
-    <div v-if="templateData" class="container page-padding-y">
-      <LargeCard class="pb-xxl">
+    <div v-if="templateData" class="container">
+      <LargeCard class="pb-2xl page-padding-y">
         <div class="container-md sm-page-padding-x">
-          <div class="py-xxl">
-          <h1 class="mt-xxl">{{ templateData.title }}</h1>
+          <div class="py-2xl">
+          <h1 class="mt-2xl">{{ templateData.title }}</h1>
           </div>
         </div>
         <div class="mt-xl">

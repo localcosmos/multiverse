@@ -1,0 +1,338 @@
+{
+    "taxonLatname": "Ascophyllum nodosum",
+    "taxonAuthor": "",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "3fa9e8b7-59cb-48e1-adcf-0558e715839a",
+    "taxonNuid": "003001",
+    "slug": "ascophyllum-nodosum",
+    "localizedSlug": {
+        "de": "knotentang"
+    },
+    "gbifNubkey": 3196524,
+    "image": {
+        "text": "Gasblasen können über 5 cm groß sein. Die Seitenzweige sind im Spätwinter keulenförmig.",
+        "altText": null,
+        "title": "Große Blase und Winterform der Seitenzweige",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+        }
+    },
+    "shortProfile": "Felswatt-Braunalge mit Gasblasen im Stängel",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 40,
+    "morphotype": null,
+    "vernacular": {
+        "de": "Knotentang"
+    },
+    "allVernacularNames": {
+        "de": [
+            "Knotentang"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Lebensraum",
+            "shortText": "Felswatt mittlere Gezeitenzone",
+            "shortTextKey": "taxon_text_23_64",
+            "longText": "Der Knotentang wächst an Felsküsten in der mittleren Gezeitenzone (ca. +1,1 bis -1,5 Meter, allerdings wurden auch Exemplare in -34 m Tiefe gefunden!). An brandungsgeschützten Stellen kann er dichte Bestände bilden, bei stärkerer Wellenexposition wird er aber von Spiral- und Blasentang ersetzt. In Deutschland kommt er nur bei Helgoland vor.",
+            "longTextKey": "taxon_text_23_64_long",
+            "images": []
+        },
+        {
+            "taxonTextType": "Nutzung",
+            "shortText": "45.000 Tonnen jährliche Ernte für Biotechnologie, Pharma- und Lebensmittelindustrie, Tierfutter, Dünger, Packmaterial für Seafood",
+            "shortTextKey": "taxon_text_33_74",
+            "longText": "Extrakte des Knotentanges finden in Schönheits- und Hautcremes gegen Zellulitis und ähnliche Leiden Verwendung. Außerdem finden Bestandteile des Tanges in der Lebensmittelindustrie und Biotechnologie Anwendung. In manchen Regionen werden lebende Hummer oder Taschenkrebse mit Knotentang als Packmaterial versendet. Jahresernte weltweit etwa 45.000 Tonnen, jeweils etwa 1/3 in Irland, Island und Kanada.",
+            "longTextKey": "taxon_text_33_74_long",
+            "images": []
+        },
+        {
+            "taxonTextType": "Gefährdung",
+            "shortText": "ungefährdet",
+            "shortTextKey": "taxon_text_34_75",
+            "longText": "es sind aktuell keine Gefährdungen der Art bekannt",
+            "longTextKey": "taxon_text_34_75_long",
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "Gasblasen können über 5 cm groß sein. Die Seitenzweige sind im Spätwinter keulenförmig.",
+            "altText": null,
+            "title": "Große Blase und Winterform der Seitenzweige",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "Gasblasen können über 5 cm groß sein. Die Seitenzweige sind im Spätwinter keulenförmig.",
+                "altText": null,
+                "title": "Große Blase und Winterform der Seitenzweige",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+                }
+            },
+            {
+                "text": "Die Hauptstiele gabeln sich im Frühling und bilden neue Blasen. Die Seitenzweige schwellen an.",
+                "altText": null,
+                "title": "Wachsender Knotentang im Frühjahr",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-105-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-105-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-105-1000.webp"
+                }
+            },
+            {
+                "text": "Im Sommer bilden die keulenförmigen Seitenstiele Poren zum Entlassen der Eier und Spermien",
+                "altText": null,
+                "title": "Knotentang mit Vermehrungsblasen",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-106-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-106-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-106-1000.webp"
+                }
+            },
+            {
+                "text": "Nach der Paarngszeit fallen die Geschlechtsblasen ab und der Tang wächst kräftig",
+                "altText": null,
+                "title": "Wachsender Knotentang im Spätsommer",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-107-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-107-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-107-1000.webp"
+                }
+            },
+            {
+                "text": "Dank seiner Gasblasen bleibt der Tang der Oberfläche und der Sonne nah",
+                "altText": null,
+                "title": "Kotentangbestand bei Flut im Felswatt",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-108-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-108-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-108-1000.webp"
+                }
+            },
+            {
+                "text": "Plastikmüll wickelt sich oft um Algen und kann zum Abreißen der Alge führen",
+                "altText": null,
+                "title": "Kontentang mit Ballonschnur",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-109-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-109-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-109-1000.webp"
+                }
+            },
+            {
+                "text": "Eine Künstlerin in Nordisland macht Schmuck aus getrockneten Knotentang-Blasen",
+                "altText": null,
+                "title": "Schmuck aus polierten Knotentang-Blasen",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-110-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-110-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-110-1000.webp"
+                }
+            },
+            {
+                "text": "Der Knotentang ist eine Braunalge, kann aber viele Grün- und Gelbtöne aufweisen",
+                "altText": null,
+                "title": "Knotentang in verschiedenen Farbtönen",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-102-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-102-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-102-1000.webp"
+                }
+            },
+            {
+                "text": "Die Gasblasen des Knotentangs sitzen einzeln in der Mitte des ledrigen Stängels",
+                "altText": null,
+                "title": "Arttypisch sind knotenförmige Blasen im Stiel",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": "Knotentang - Felswatt-Braunalge mit Gasblasen im Stängel",
+        "metaDescription": "Aussehen: Keine Mittelrippe, dicke Gasblasen im „Stiel“ / Verbreitung: Nordatlantik, Spanien bis Spitzbergen, Nordsee und Kattegat"
+    },
+    "externalMedia": [
+        {
+            "mediaType": "image",
+            "mediaCategory": null,
+            "url": "https://commons.wikimedia.org/wiki/Category:Ascophyllum_nodosum#/media/File:Ascophyllum_nodosum_natural_range.jpg/2",
+            "title": "Verbreitungskarte des Knotentangs",
+            "author": "Wikipedia.org / Channer",
+            "licence": "CC BY-SA 3.0",
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "image",
+            "mediaCategory": null,
+            "url": "https://commons.wikimedia.org/wiki/Category:Ascophyllum_nodosum#/media/File:Seaweed_harvest_-_geograph.org.uk_-_1546557.jpg",
+            "title": "LKW voll Knotentang in Irland",
+            "author": "Wikipedia.org / Jonathan Wilkins",
+            "licence": "CC BY-SA 2.0",
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "youtube",
+            "mediaCategory": "video",
+            "url": "https://www.youtube.com/watch?v=x4l33xYB5Y8",
+            "title": "Knotentang-Ernte in Neufundland",
+            "author": "Acadian Plant Health",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "youtube",
+            "mediaCategory": "video",
+            "url": "https://www.youtube.com/watch?v=33VqBH7c1o4",
+            "title": "Vorteile von Knotentang-Zusatz im Viehfutter",
+            "author": "Total Feeds",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "youtube",
+            "mediaCategory": "video",
+            "url": "https://www.youtube.com/watch?v=MVn_77rQROc",
+            "title": "Sehr laute chinesische Algenchip-Produktion",
+            "author": "Tracy Wong",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "pdf",
+            "mediaCategory": "document",
+            "url": "https://repository.library.noaa.gov/view/noaa/38001",
+            "title": "Fishery Management Plan für Rockweed",
+            "author": "Maine Department of Marine Resources",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "pdf",
+            "mediaCategory": "document",
+            "url": "https://link.springer.com/article/10.1007/s10811-021-02427-x",
+            "title": "Biomasseentwicklung nach 20 Jahren Nutzung",
+            "author": "Springer Nature Link / Jean-Sébastien Lauzon-Guay et al",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "file",
+            "mediaCategory": null,
+            "url": "https://www.researchgate.net/publication/355855331_Potential_Use_of_Ascophyllum_nodosum_as_a_Biostimulant_for_Improving_the_Growth_Performance_of_Vigna_aconitifolia_Jacq_Marechal",
+            "title": "Wachstumsförderung bei Nutzpflanzen",
+            "author": "MDPI / Nidhi Verma et al.",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "file",
+            "mediaCategory": null,
+            "url": "https://www.scielo.cl/scielo.php?pid=S0718-58392023000200127&script=sci_arttext",
+            "title": "Fadenwurm-Bekämpfung mit Knotentang-Pulver",
+            "author": "Chilean Journal of Agricultural Research / Luanna Karoline Rinaldi",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "website",
+            "mediaCategory": null,
+            "url": "https://de.wikipedia.org/wiki/Knotentang",
+            "title": "Knotentang auf Wikipedia",
+            "author": "Wikipedia.org",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "website",
+            "mediaCategory": null,
+            "url": "https://www.algaebase.org/search/species/detail/?species_id=5",
+            "title": "Knotentang in der AlgaeBase-Datenbank",
+            "author": "AlgaeBase",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "website",
+            "mediaCategory": null,
+            "url": "https://www.fao.org/4/x5819e/x5819e04.htm",
+            "title": "Knotentang und seine Nutzung in Kanada",
+            "author": "FAO / Fisheries and Ocean Canada, Glyn Sharp",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "website",
+            "mediaCategory": null,
+            "url": "https://www.naturbasen.dk/art/9183/buletang",
+            "title": "Knotentang-Verbreitung im Artenportal Dänemark",
+            "author": "Naturbasen",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        },
+        {
+            "mediaType": "website",
+            "mediaCategory": null,
+            "url": "https://seaweeds.awi.de/taxon-profile/taxonomy.sources.algaebase/211ad20f-ab14-469d-8c91-beb08c0a235e",
+            "title": "Bestimmungsmerkmale des Knotentangs",
+            "author": "AWI SeaKey",
+            "licence": null,
+            "caption": null,
+            "altText": null
+        }
+    ],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

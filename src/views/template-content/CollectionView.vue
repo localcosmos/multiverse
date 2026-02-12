@@ -90,7 +90,7 @@ onMounted(async() => {
 }
 
 .article-title {
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-2xl);
 }
 
 .article-preview:hover {

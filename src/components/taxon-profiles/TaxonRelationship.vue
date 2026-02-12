@@ -81,18 +81,30 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
           </div>
           <div class="complex-relationship-taxa">
             <div class="relationship-taxon">
-              <TaxonName
-                :taxon-latname="relationship.taxon.taxonLatname"
-                :taxon-author="relationship.taxon.taxonAuthor"
-                :single-line="true"
-              />
+              <component 
+                :is="(relationship.taxon?.hasTaxonProfile && relationship.taxon.nameUuid == relatedTaxon.nameUuid) ? TaxonProfileLink : 'div'"
+                :taxon="relationship.taxon"
+                :class="relationship.taxon?.hasTaxonProfile ? 'nolinkstyle' : ''"
+              >
+                <TaxonName
+                  :taxon-latname="relationship.taxon.taxonLatname"
+                  :taxon-author="relationship.taxon.taxonAuthor"
+                  :single-line="true"
+                />
+              </component>
             </div>
             <div class="relationship-related-taxon">
-              <TaxonName
-                :taxon-latname="relationship.relatedTaxon.taxonLatname"
-                :taxon-author="relationship.relatedTaxon.taxonAuthor"
-                :single-line="true"
-              />
+              <component 
+                :is="(relationship.relatedTaxon?.hasTaxonProfile && relationship.relatedTaxon.nameUuid == relatedTaxon.nameUuid) ? TaxonProfileLink : 'div'"
+                :taxon="relationship.relatedTaxon"
+                :class="relatedTaxon?.hasTaxonProfile ? 'nolinkstyle' : ''"
+              >
+                <TaxonName
+                  :taxon-latname="relationship.relatedTaxon.taxonLatname"
+                  :taxon-author="relationship.relatedTaxon.taxonAuthor"
+                  :single-line="true"
+                />
+              </component>
             </div>
           </div>
           <div v-if="relationship.description" class="font-size-md relationship-description">
@@ -143,6 +155,7 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
 .complex-relationship-taxa > div {
   padding: var(--size-sm);
   text-align: center;
+  overflow: hidden;
 }
 
 .complex-relationship-taxa > div:last-child {

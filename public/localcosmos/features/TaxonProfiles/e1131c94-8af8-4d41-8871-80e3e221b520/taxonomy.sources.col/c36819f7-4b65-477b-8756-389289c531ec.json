@@ -1,0 +1,80 @@
+{
+    "taxonLatname": "Lacerta agilis",
+    "taxonAuthor": "Linnaeus, 1758",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "c36819f7-4b65-477b-8756-389289c531ec",
+    "taxonNuid": "00100800c00301000m001",
+    "slug": "lacerta-agilis",
+    "localizedSlug": {},
+    "gbifNubkey": 6159223,
+    "image": null,
+    "shortProfile": "",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 24,
+    "morphotype": null,
+    "vernacular": {
+        "de": null
+    },
+    "allVernacularNames": {
+        "de": []
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lacerta stirpium",
+            "taxonAuthor": "Ménétries, 1832"
+        },
+        {
+            "taxonLatname": "Lacerta agilis grusoni",
+            "taxonAuthor": "Kwet & Trapp, 2015"
+        },
+        {
+            "taxonLatname": "Lacerta paradoxa",
+            "taxonAuthor": "Bedriaga, 1886"
+        },
+        {
+            "taxonLatname": "Lacerta agilis garzoni",
+            "taxonAuthor": "Palacios & Castroviejo, 1975"
+        },
+        {
+            "taxonLatname": "Lacerta agilis agilis",
+            "taxonAuthor": "Bischoff, 1988"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [
+        {
+            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
+            "name": "Baumbeobachtung",
+            "slug": "27-baumbeobachtung",
+            "isDefault": true,
+            "taxonomicRestrictions": []
+        },
+        {
+            "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
+            "name": "Test form",
+            "slug": "45-test-form",
+            "isDefault": false,
+            "taxonomicRestrictions": []
+        }
+    ],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

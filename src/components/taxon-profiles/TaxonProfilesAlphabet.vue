@@ -1,67 +1,37 @@
 <script setup lang="ts">
-import { ref, inject, onMounted } from 'vue';
-import type { SearchTaxon, TaxonProfiles } from 'localcosmos-client';
-import LoadingSpinner from '@/components/ui/LoadingSpinner.vue';
+
+import { inject, computed } from 'vue';
+import type { TaxonProfiles } from 'localcosmos-client';
 import LazyRenderer from '@/components/container/LazyRenderer.vue';
-import LetterSelector from '@/components/ui/LetterSelector.vue';
 import TaxonProfilesSearchResult from '@/components/taxon-profiles/TaxonProfilesSearchResult.vue';
+
+const props = defineProps<{
+  selectedLetter: string|null,
+}>();
 
 const taxonProfiles = inject('taxonProfiles') as TaxonProfiles;
 
-const loading = ref<boolean>(true);
-
-const startLetter = ref<null|string>(null);
-const startLetterTaxa = ref<SearchTaxon[]>([]);
-
-const availableScientificStartLetters = taxonProfiles.startLetters.taxonLatname;
-const availableVernacularStartLetters = taxonProfiles.startLetters.vernacular;
-
-const availableStartLetters = ref<string[]>(availableVernacularStartLetters);
-
-
-const setStartLetter = (letter: string) => {
-  startLetter.value = letter;
-  const taxa:SearchTaxon[] = taxonProfiles.searchVernacular(letter, null, true);
-  startLetterTaxa.value = taxa;
-};
-
-const removeStartLetter = () => {
-  startLetter.value = null;
-  startLetterTaxa.value = [];
-};
-
-onMounted(() => {
-  loading.value = false;
-  if (availableVernacularStartLetters.length > 0) {
-    startLetter.value = availableVernacularStartLetters[0];
-   setStartLetter(startLetter.value);
+const startLetterTaxa = computed(() => {
+  if (props.selectedLetter) {
+    return taxonProfiles.searchVernacular(props.selectedLetter, null, true);
+  } else {
+    return [];
   }
 });
+
 </script>
 
 <template>
-  <div class="alphabet-list-container">
-    <div v-if="loading">
-      <LoadingSpinner />
-    </div>
-    <div v-else>
-      <LetterSelector
-        id="taxon-profiles"
-        :letters="availableStartLetters"
-        :current-letter="startLetter"
-        @select="setStartLetter"
-        @unselect="removeStartLetter"
-      />
-      <div
-        v-if="startLetter"
-        class="alphabet-list"
-      >
+  <div>
+    <div class="alphabet-list-container">
+      <div v-if="selectedLetter" class="alphabet-list">
         <LazyRenderer
           v-for="taxon in startLetterTaxa"
           :key="`${taxon.name}-${taxon.nameUuid}`"
           :min-height="60"
+          class="mb-xs"
         >
-          <TaxonProfilesSearchResult :taxon="taxon"></TaxonProfilesSearchResult>
+          <TaxonProfilesSearchResult class="rounded" :taxon="taxon" />
         </LazyRenderer>
         <div
           v-if="startLetterTaxa.length === 0"
@@ -90,6 +60,8 @@ onMounted(() => {
   flex-direction: column; /* Default to a single-column layout */
   width: 100%;
   align-items: center;
+  padding-left: var(--size-md);
+  padding-right: var(--size-md);
 }
 
 .alphabet-list > div {
@@ -104,7 +76,7 @@ onMounted(() => {
   }
 
   .alphabet-list-container {
-    padding-left: calc(var(--navigation-rail-width) + var(--size-md));
+    padding-left: var(--size-md);
     padding-right: var(--size-md);
   }
 }

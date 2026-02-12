@@ -15,7 +15,7 @@ html {
 }
 
 .page-padding-y {
-  padding-top: calc( var(--header-bar-height) + var(--size-md) );
+  padding-top: var(--header-bar-height);
   padding-bottom: calc(var(--size-md) + var(--size-md) + env(safe-area-inset-bottom, 0px) + var(--bottom-navigation-height));
 }
 
@@ -43,6 +43,14 @@ html {
 
 .gap-sm {
   gap: var(--size-sm);
+}
+
+.mb-sm {
+  margin-bottom: var(--size-sm);
+}
+
+.mb-xs {
+  margin-bottom: var(--size-xs);
 }
 
 .inline-block {
@@ -87,7 +95,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-2xl);
   font-weight: bolder;
 }
 
@@ -104,6 +112,10 @@ h2 {
   font-size: var(--font-size-xl);
   font-weight: bold;
   margin-bottom: 8px
+}
+
+h2 > span {
+  font-weight: bold;
 }
 
 .font-weight-bolder {
@@ -185,7 +197,7 @@ input[type="text"] {
 }
 
 .matrix-filter-name {
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-2xl);
   font-weight: bold;
   padding: 0px 0 14px 0;
 }
@@ -343,6 +355,14 @@ input[type="text"] {
   min-height: 40px;
   user-select: none;
   text-decoration: none;
+}
+
+.rounded {
+  border-radius: var(--border-radius);
+}
+
+.rounded-sm {
+  border-radius: var(--border-radius-sm);
 }
 
 
@@ -515,7 +535,7 @@ input[type="text"] {
   .carousel-container {
     width: calc(100vw - var(--navigation-rail-width));
     width: calc(100dvw - var(--navigation-rail-width));
-    margin-left: var(--navigation-rail-width);
+    margin-left: 0;
   }
 
   .h1-margin-top-1st {
@@ -558,11 +578,11 @@ input[type="text"] {
 @media (min-width: 1280px) {
 
   h1 {
-    font-size: var(--font-size-xxxl);
+    font-size: var(--font-size-3xl);
   }
   
   h2 {
-    font-size: var(--font-size-xxl);
+    font-size: var(--font-size-2xl);
   }
 
   h3 {

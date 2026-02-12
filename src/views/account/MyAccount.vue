@@ -146,7 +146,7 @@ onBeforeMount(async() => {
               </div>
             </div>
           </div>
-          <div class="container-small mt-xxl">
+          <div class="container-small mt-2xl">
             <div class="mt-xl">
               <h2>{{ $t('logout') }}</h2>
             </div>

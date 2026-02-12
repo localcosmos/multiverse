@@ -427,6 +427,8 @@ onUnmounted(() => {
   touch-action: pan-y; /* Only allow vertical touch gestures, disable horizontal swiping */
   opacity: 0; /* Start hidden to prevent flash */
   transition: opacity 0.2s ease;
+  width: 100%;
+  height: 100%;
 }
 
 .modal-images-container.images-ready {
@@ -445,10 +447,14 @@ onUnmounted(() => {
 }
 
 .gallery-fsm-outer {
-  width: calc(min(100vw, 100vh));
-  width: calc(min(100dvw, 100dvh));
-  aspect-ratio: 1/1;
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .close-btn {
@@ -500,7 +506,7 @@ onUnmounted(() => {
   }
 
   .carousel-image-container:first-child {
-    margin-left: 0; /* Add left margin to the first image */
+    /*margin-left: 0; */
   }
 
   .carousel-images-container.safe-center:first-child {
@@ -508,7 +514,7 @@ onUnmounted(() => {
   }
 
   .carousel-image-container:last-child {
-    margin-right: 0; /* Add left margin to the first image */
+    /*margin-right: 0; */
   }
 
   .carousel-images-container.safe-center:last-child {

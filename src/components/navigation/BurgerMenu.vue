@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, onMounted, inject } from 'vue';
-import { useRouter } from 'vue-router';
 import type { GestureEvent } from 'contactjs';
 import { PointerListener, Pan } from 'contactjs';
 import type { PointerListenerOptions } from 'contactjs';
@@ -17,16 +16,11 @@ const isInPreviewMode = inject('isInPreviewMode') as boolean;
 const frontend = inject('frontend') as Frontend;
 const accountsEnabled = inject('accountsEnabled', false) as boolean;
 
-const router = useRouter();
-router.beforeEach(() => {
-  emit('closeBurger');
-});
-
 const emit = defineEmits(['openBurger', 'closeBurger']);
 
-const panActive = ref(false);
-const panPossible = ref(true);
-const ticking = ref(false);
+const panActive = ref<boolean>(false);
+const panPossible = ref<boolean>(true);
+const ticking = ref<boolean>(false);
 const eventTarget = ref();
 
 const burgerMenuPosition = ref<string>('left');

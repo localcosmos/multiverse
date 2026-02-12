@@ -22,6 +22,15 @@ const componentKey = ref<string>(`${slug}`);
 
 const nameUuid = ref<string|null>(null);
 
+const morphotype = computed<string|null>(() => {
+  const morphotypeParam = route.params.morphotype;
+  if (typeof morphotypeParam === 'string') {
+    return morphotypeParam;
+  }
+  return null;
+});
+
+
 if (route.params.nameUuid) {
   nameUuid.value = route.params.nameUuid as string;
 } else {
@@ -55,6 +64,15 @@ watch(
     }
   }
 );
+
+watch(
+  () => route.params.morphotype,
+  async (newMorphotype, oldMorphotype) => {
+    if (newMorphotype !== oldMorphotype) {
+      componentKey.value = `${route.params.slug}-${newMorphotype}`;
+    }
+  }
+);
 </script>
 
 <template>
@@ -63,7 +81,7 @@ watch(
       <div>loading</div>
     </template>
     <ContentContainer>
-      <TaxonProfileContent :key="componentKey" :nameUuid="nameUuid"/>
+      <TaxonProfileContent :key="componentKey" :nameUuid="nameUuid" :morphotype="morphotype"/>
     </ContentContainer>
   </Suspense>
 </template>

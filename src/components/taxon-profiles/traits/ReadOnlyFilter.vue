@@ -25,13 +25,12 @@ const spaceComponent = resolveReadOnlySpaceComponent(props.filter.type);
     </div>
     <div class="matrix-filter-ro-spaces">
       <!-- Render spaces using the resolved component -->
-      <div v-for="(space, counter) in filter.space" :key="counter">
-        <component
-          :is="spaceComponent"
-          :space="space"
-          :unit="filter.definition?.unit || null"
-        />
-      </div>
+      <component
+        v-for="(space, counter) in filter.space" :key="counter"
+        :is="spaceComponent"
+        :space="space"
+        :unit="filter.definition?.unit || null"
+      />
     </div>
   </div>
 </template>
@@ -47,5 +46,7 @@ const spaceComponent = resolveReadOnlySpaceComponent(props.filter.type);
   flex-direction: row;
   flex-wrap: wrap;
   gap: var(--size-md);
+  margin-top: var(--size-sm);
+  width: 100%;
 }
 </style>

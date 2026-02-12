@@ -4,7 +4,9 @@
     }>();
 </script>
 <template>
-    <div class="large-card" :class="{'rounded': rounded}">
+    <div class="large-card" :class="{
+        'rounded': props.rounded
+    }">
         <slot />
     </div>
 </template>
@@ -13,6 +15,9 @@
 .large-card {
     background-color: rgba(255, 255, 255, .75);
     box-shadow: var(--box-shadow);
+}
+
+.large-card.rounded-sm {
     border-radius: var(--border-radius-sm);
 }
 

@@ -1,0 +1,321 @@
+{
+    "name": null,
+    "description": null,
+    "verboseName": "Plantae",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-77-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-77-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-77-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-76-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-76-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-76-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-78-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-78-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-78-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 2,
+            "minImages": 0,
+            "modeImages": 2
+        },
+        "taxonProfiles": {
+            "maxImages": 9,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-12",
+            "parentKey": "tpne-4",
+            "name": null,
+            "verboseName": "Pinales",
+            "taxa": [
+                {
+                    "taxonLatname": "Pinales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d2d67377-52f1-425e-b393-967788f21b08",
+                    "taxonNuid": "006008007001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-79-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-79-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-79-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-86-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-86-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-86-1000.webp"
+                }
+            },
+            "slug": "pinales"
+        },
+        {
+            "key": "tpne-13",
+            "parentKey": "tpne-4",
+            "name": null,
+            "verboseName": "Rosales",
+            "taxa": [
+                {
+                    "taxonLatname": "Rosales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "60b70cfb-0970-457d-ab7b-a4b04902e14b",
+                    "taxonNuid": "00600800601b"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "rosales"
+        },
+        {
+            "key": "tpne-14",
+            "parentKey": "tpne-4",
+            "name": "Lippenblütlerartige",
+            "verboseName": "Lippenblütlerartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Diadematidae",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "812506a2-f1aa-4bb0-ac67-a3055da92ff1",
+                    "taxonNuid": "00100d003007001"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "lippenblutlerartige"
+        },
+        {
+            "key": "tpne-15",
+            "parentKey": "tpne-4",
+            "name": "Malpighienartige",
+            "verboseName": "Malpighienartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Malpighiales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "73d62fd1-3d21-4a80-ab7c-8aa721f7f8bb",
+                    "taxonNuid": "00600800600z"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "malpighienartige"
+        },
+        {
+            "key": "tpne-11",
+            "parentKey": "tpne-4",
+            "name": "Seifenbaumartige",
+            "verboseName": "Seifenbaumartige",
+            "taxa": [
+                {
+                    "taxonLatname": "Sapindales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "39ea117f-5a0f-47b3-bd36-9a27f5b3e2f6",
+                    "taxonNuid": "00600800601d"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "seifenbaumartige"
+        }
+    ],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Fraxinus excelsior",
+            "taxonAuthor": "L.",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7fa38327-7b07-430e-a385-fe0a8a049233",
+            "taxonNuid": "00600800600w00c00a00j",
+            "slug": "fraxinus-excelsior",
+            "localizedSlug": {
+                "de": "esche"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-38-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-38-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-38-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ascophyllum nodosum",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "3fa9e8b7-59cb-48e1-adcf-0558e715839a",
+            "taxonNuid": "003001",
+            "slug": "ascophyllum-nodosum",
+            "localizedSlug": {
+                "de": "knotentang"
+            },
+            "images": [
+                {
+                    "text": "Gasblasen können über 5 cm groß sein. Die Seitenzweige sind im Spätwinter keulenförmig.",
+                    "altText": null,
+                    "title": "Große Blase und Winterform der Seitenzweige",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+                    }
+                },
+                {
+                    "text": "Die Hauptstiele gabeln sich im Frühling und bilden neue Blasen. Die Seitenzweige schwellen an.",
+                    "altText": null,
+                    "title": "Wachsender Knotentang im Frühjahr",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-105-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-105-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-105-1000.webp"
+                    }
+                },
+                {
+                    "text": "Im Sommer bilden die keulenförmigen Seitenstiele Poren zum Entlassen der Eier und Spermien",
+                    "altText": null,
+                    "title": "Knotentang mit Vermehrungsblasen",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-106-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-106-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-106-1000.webp"
+                    }
+                },
+                {
+                    "text": "Nach der Paarngszeit fallen die Geschlechtsblasen ab und der Tang wächst kräftig",
+                    "altText": null,
+                    "title": "Wachsender Knotentang im Spätsommer",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-107-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-107-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-107-1000.webp"
+                    }
+                },
+                {
+                    "text": "Dank seiner Gasblasen bleibt der Tang der Oberfläche und der Sonne nah",
+                    "altText": null,
+                    "title": "Kotentangbestand bei Flut im Felswatt",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-108-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-108-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-108-1000.webp"
+                    }
+                },
+                {
+                    "text": "Plastikmüll wickelt sich oft um Algen und kann zum Abreißen der Alge führen",
+                    "altText": null,
+                    "title": "Kontentang mit Ballonschnur",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-109-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-109-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-109-1000.webp"
+                    }
+                },
+                {
+                    "text": "Eine Künstlerin in Nordisland macht Schmuck aus getrockneten Knotentang-Blasen",
+                    "altText": null,
+                    "title": "Schmuck aus polierten Knotentang-Blasen",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-110-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-110-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-110-1000.webp"
+                    }
+                },
+                {
+                    "text": "Der Knotentang ist eine Braunalge, kann aber viele Grün- und Gelbtöne aufweisen",
+                    "altText": null,
+                    "title": "Knotentang in verschiedenen Farbtönen",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-102-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-102-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-102-1000.webp"
+                    }
+                },
+                {
+                    "text": "Die Gasblasen des Knotentangs sitzen einzeln in der Mitte des ledrigen Stängels",
+                    "altText": null,
+                    "title": "Arttypisch sind knotenförmige Blasen im Stiel",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-103-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-103-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-103-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "Gasblasen können über 5 cm groß sein. Die Seitenzweige sind im Spätwinter keulenförmig.",
+                "altText": null,
+                "title": "Große Blase und Winterform der Seitenzweige",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-104-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-104-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-104-1000.webp"
+                }
+            }
+        }
+    ]
+}

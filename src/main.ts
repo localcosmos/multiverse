@@ -192,15 +192,15 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
     // bottom navigation
     // the bottom navigation can only have 5 buttons visible
     if (navigations.main.length > maxBottomButtons) {
-      console.log(navigations.main)
+      //console.log(navigations.main)
       const bottomStackedButtons:NavigationButton[] = navigations.main.slice(5, navigations.main.length);
 
-      console.log('bottomStackedButtons', bottomStackedButtons);
+      //console.log('bottomStackedButtons', bottomStackedButtons);
       
       bottomStackedButtons.push(navigations.main[0]);
       navigations.bottom = navigations.main.slice(1, 5);
 
-      console.log('navigations.bottom before stack button', navigations.bottom);
+      //console.log('navigations.bottom before stack button', navigations.bottom);
 
       const bottomStackButton:NavigationButton = {
         genericContent: 'Stack',
@@ -214,8 +214,8 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
 
       navigations.bottom.push(bottomStackButton);
 
-      console.log('navigations.bottom after stack button', navigations.bottom);
-      console.log('stacked buttons', bottomStackedButtons);
+      //console.log('navigations.bottom after stack button', navigations.bottom);
+      //console.log('stacked buttons', bottomStackedButtons);
       
     } else {
       navigations.bottom = navigations.main;

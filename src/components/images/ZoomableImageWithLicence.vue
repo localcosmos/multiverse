@@ -33,14 +33,26 @@ const sharpLicenceCircle = !props.rounded || (hasCaption && (
   props.rounded === 'rounded-sm'
 ));
 
-const interactiveImage = ref<HTMLElement | null>(null);
+const maxZoom = 8;
+
 const imageContainer = ref<HTMLElement | null>(null);
-const zoomWrapper = ref<HTMLElement | null>(null);
+// Must be an HTMLImageElement to access naturalWidth/naturalHeight
+const staticImage = ref<HTMLImageElement | null>(null);
+
+// initial counding box of the image, used for enabling focal point
+const staticImageBoundingBox = ref<DOMRect | null>(null);
 
 // Zoom and pan state
 const zoomLevel = ref<number>(1); // Default zoom level
+const backgroundPositionX = ref<number>(0); // Background position X
+const backgroundPositionY = ref<number>(0); // Background position Y
+const prevBgW = ref<number>(0); // Previous background width (px)
+const prevBgH = ref<number>(0); // Previous background height (px)
 const portraitBaseScale = 1; // Base scale to fit image in container
 const landscapeBaseScale = ref<number>(1); // Base scale to fit image in container
+
+
+  
 const startScale = ref<number>(1); // Initial scale for pinch zoom
 const startX = ref<number>(0); // Initial X position for panning
 const startY = ref<number>(0); // Initial Y position for panning
@@ -52,19 +64,6 @@ const useTransition = ref<boolean>(false); // Enable transitions only for mouse 
 
 const isZoomed = ref<boolean>(false); // Track if the image is zoomed in
 
-const getViewportDimensions = () => {
-  if (window.visualViewport) {
-    return {
-      width: window.visualViewport.width,
-      height: window.visualViewport.height
-    };
-  }
-  // Fallback
-  return {
-    width: window.innerWidth,
-    height: window.innerHeight
-  };
-};
 
 const isLandscape = () => {
   return window.innerWidth > window.innerHeight;
@@ -78,126 +77,216 @@ const getBaseScale = () => {
   }
 }
 
-const setImageScaleAndTransform = () => {
-  if (zoomWrapper.value) {
-    zoomWrapper.value.style.transform = `scale(${zoomLevel.value}) translate3d(${panX.value}px, ${panY.value}px, 0)`;
+/**
+ * first, scale the background image according to zoom level
+ * then, adjust the background position so that the focal point remains under the cursor
+ */
+const setBackgroundScaleAndPosition = (zoomLevel: number, focalX: number, focalY: number) => {
+  // Pixel-based sizing using intrinsic image dimensions + contain scale
+  if (imageContainer.value && staticImage.value) {
+    const rect = imageContainer.value.getBoundingClientRect();
+    const nW = staticImage.value.naturalWidth;
+    const nH = staticImage.value.naturalHeight;
+    if (!nW || !nH) return;
+
+    // Base contain scale
+    const s0 = Math.min(rect.width / nW, rect.height / nH);
+    const s = s0 * zoomLevel;
+    const bgW = nW * s;
+    const bgH = nH * s;
+
+    // Set background-size in pixels for consistent anchoring
+    imageContainer.value.style.backgroundSize = `${bgW}px ${bgH}px`;
+
+    // Contained image box at base (unzoomed)
+    const w0 = nW * s0;
+    const h0 = nH * s0;
+
+    // Container-relative anchor
+    const anchorX = focalX - rect.left;
+    const anchorY = focalY - rect.top;
+
+    // If no focal provided, center on current zoom
+    if (anchorX === 0 && anchorY === 0) {
+      const centerPosX = (rect.width - bgW) / 2;
+      const centerPosY = (rect.height - bgH) / 2;
+      backgroundPositionX.value = centerPosX;
+      backgroundPositionY.value = centerPosY;
+      imageContainer.value.style.backgroundPosition = `${backgroundPositionX.value}px ${backgroundPositionY.value}px`;
+      prevBgW.value = bgW;
+      prevBgH.value = bgH;
+      return;
+    }
+
+    // Stateful focal anchoring: compute image-space focal from previous state
+    const clamp = (v: number, min: number, max: number) => Math.max(min, Math.min(max, v));
+    const prevW = prevBgW.value || w0; // fall back to base contained width
+    const prevH = prevBgH.value || h0; // fall back to base contained height
+    let fx = (anchorX - backgroundPositionX.value) / prevW; // image-space x at anchor
+    let fy = (anchorY - backgroundPositionY.value) / prevH; // image-space y at anchor
+    // Clamp within image bounds
+    fx = clamp(fx, 0, 1);
+    fy = clamp(fy, 0, 1);
+
+    const newPosX = anchorX - fx * bgW;
+    const newPosY = anchorY - fy * bgH;
+
+    backgroundPositionX.value = newPosX;
+    backgroundPositionY.value = newPosY;
+    imageContainer.value.style.backgroundPosition = `${newPosX}px ${newPosY}px`;
+    prevBgW.value = bgW;
+    prevBgH.value = bgH;
   }
 };
 
-const zoomIn = (zoomStep: number) => {
 
-  const baseScale = getBaseScale();
+const resetZoom = () => {
 
-  let newZoomLevel: number = 0;
+  useTransition.value = true; // Enable smooth transition for reset
+  zoomLevel.value = 1;
 
-  if (isZoomed.value == false) {
-    // first zoom in
-    newZoomLevel = (zoomLevel.value * baseScale) + zoomStep;
-    isZoomed.value = true;
-    emit('zoomed', isZoomed.value);
-  } else {
-    newZoomLevel = zoomLevel.value + zoomStep;
-    useTransition.value = true;
+  isZoomed.value = false;
+  if (imageContainer.value && staticImageBoundingBox.value) {
+    imageContainer.value.style.backgroundSize = `${staticImageBoundingBox.value.width}px ${staticImageBoundingBox.value.height}px`;
+    imageContainer.value.style.backgroundPosition = `center center`;
+    imageContainer.value.style.backgroundImage = 'none';
   }
-
-  zoomLevel.value = Math.min(3, newZoomLevel);
-
-  setImageScaleAndTransform();
-
+  
+  // Disable transitions after animation
   setTimeout(() => {
     useTransition.value = false;
-  }, 300); // Match the CSS transition duration
+  }, 300);
 
 };
 
-const zoomOut = (zoomStep: number) => {
-  if (isZoomed.value == true) {
 
-    const newZoomLevel = zoomLevel.value - zoomStep;
+const setInitialBackgroundPosition = () => {
+  if (imageContainer.value && staticImage.value) {
 
-    zoomLevel.value = Math.max(getBaseScale(), newZoomLevel);
-    useTransition.value = true;
-    setImageScaleAndTransform();
-    setTimeout(() => {
-      useTransition.value = false;
+    if (staticImageBoundingBox.value === null) {
+      staticImageBoundingBox.value = staticImage.value.getBoundingClientRect();
+    }
 
-      if (zoomLevel.value <= getBaseScale()) {
-        // reset pan and zoom
-        resetZoom();
+    // set background image
+    imageContainer.value.style.backgroundImage = `url('${props.image.imageUrl['4x']}')`;
 
-        setImageScaleAndTransform();
-
-        isZoomed.value = false;
-        emit('zoomed', isZoomed.value);
-      }
-
-    });
+    const rect = imageContainer.value.getBoundingClientRect();
+    const nW = staticImage.value.naturalWidth;
+    const nH = staticImage.value.naturalHeight;
+    if (nW && nH) {
+      const s0 = Math.min(rect.width / nW, rect.height / nH);
+      const w0 = nW * s0;
+      const h0 = nH * s0;
+      backgroundPositionX.value = (rect.width - w0) / 2;
+      backgroundPositionY.value = (rect.height - h0) / 2;
+      prevBgW.value = w0;
+      prevBgH.value = h0;
+      // Set the base background size and position immediately to avoid a first-zoom jump
+      imageContainer.value.style.backgroundSize = `${w0}px ${h0}px`;
+      imageContainer.value.style.backgroundPosition = `${backgroundPositionX.value}px ${backgroundPositionY.value}px`;
+    }
   }
 };
 
-const onPan = (event: GestureEvent) => {
-  if (isZoomed.value === false) {
-    return; // Ignore panning if not zoomed in
+// Clamp zoom to allowed range
+const clampZoom = (z: number) => Math.max(getBaseScale(), Math.min(maxZoom, z));
+
+// Ensure first-time zoom is initialized (centered contain and event emission)
+const ensureZoomInitialized = () => {
+  if (!isZoomed.value) {
+    setInitialBackgroundPosition();
+    isZoomed.value = true;
+    emit('zoomed', isZoomed.value);
   }
-  
-  const currentZoom = zoomLevel.value;
-  const deltaX = (event.detail.global.deltaX + startX.value) / currentZoom;
-  const deltaY = (event.detail.global.deltaY + startY.value) / currentZoom;
-  
-  isPanning.value = true;
-  panX.value = deltaX;
-  panY.value = deltaY;
-  
+};
+
+// Apply a target zoom level with optional transition and focal anchoring
+const applyZoomTo = (targetZoom: number, focalX: number, focalY: number, withTransition: boolean) => {
+  zoomLevel.value = clampZoom(targetZoom);
+  useTransition.value = withTransition;
   requestAnimationFrame(() => {
-    setImageScaleAndTransform();
+    setBackgroundScaleAndPosition(zoomLevel.value, focalX, focalY);
   });
 };
 
-const onPanEnd = () => {
-  isPanning.value = false;
-  startX.value = panX.value * zoomLevel.value;
-  startY.value = panY.value * zoomLevel.value;
+const onPanStart = () => {
+  // Initialize baseline and enable panning
+  if (!isZoomed.value) {
+    return;
+  }
+  isPanning.value = true;
+  useTransition.value = false;
+  startX.value = backgroundPositionX.value;
+  startY.value = backgroundPositionY.value;
+  panX.value = 0;
+  panY.value = 0;
 };
 
-const onPinch = (event: GestureEvent) => {
-  
-  const scale = event.detail.global.scale;
-  const baseScale = getBaseScale();
-
-  if (isZoomed.value === false) {
-    startScale.value = baseScale;
-  } 
-
-  const newZoomLevel = scale * startScale.value;
-
-  if (Math.abs(newZoomLevel - zoomLevel.value) > 0.01) {
-
-    if (isZoomed.value === false) {
-      isZoomed.value = true;
-      emit('zoomed', isZoomed.value);
-    }
-
-    zoomLevel.value = newZoomLevel;
-
-    requestAnimationFrame(() => {
-      setImageScaleAndTransform();
-    });
+const onPan = (event: GestureEvent) => {
+  if (!isZoomed.value || !isPanning.value) {
+    return; // Ignore panning if not zoomed or not active
   }
 
+  useTransition.value = false;
+  const translationX = event.detail?.global?.deltaX ?? 0;
+  const translationY = event.detail?.global?.deltaY ?? 0;
+  panX.value = translationX;
+  panY.value = translationY;
+  const newPosX = startX.value + panX.value;
+  const newPosY = startY.value + panY.value;
+  backgroundPositionX.value = newPosX;
+  backgroundPositionY.value = newPosY;
+  if (imageContainer.value) {
+    imageContainer.value.style.backgroundPosition = `${newPosX}px ${newPosY}px`;
+  }
+};
+
+const onPanEnd = () => {
+  if (!isPanning.value) return;
+  // Persist final positions as new baseline
+  startX.value = backgroundPositionX.value;
+  startY.value = backgroundPositionY.value;
+  isPanning.value = false;
+  useTransition.value = false;
+};
+
+const onPinchStart = () => {
+  // Use current zoom as pinch baseline; only initialize origin if not zoomed yet
+  startScale.value = zoomLevel.value || getBaseScale();
+  useTransition.value = false;
+  if (!isZoomed.value) {
+    setInitialBackgroundPosition();
+    isZoomed.value = true;
+    emit('zoomed', isZoomed.value);
+  }
+}
+
+const onPinch = (event: GestureEvent) => {
+
+  useTransition.value = false; 
+
+  const scale = event.detail.global.scale;
+  const baseScale = getBaseScale();
+
+  const focalX = event.detail.global.center.x;
+  const focalY = event.detail.global.center.y;
+
+  // startScale is set on pinchstart to the current zoom level
+
+  const newZoomLevel = Math.max(baseScale, Math.min(maxZoom, scale * startScale.value));
+
+  if (Math.abs(newZoomLevel - zoomLevel.value) > 0.01) {
+    ensureZoomInitialized();
+    applyZoomTo(newZoomLevel, focalX, focalY, false);
+  }
   
 };
 
-const onPinchEnd = (event: GestureEvent) => {
-  const scale = event.detail.global.scale;
-  startScale.value = scale * startScale.value; // Update the start scale
-  const baseScale = getBaseScale();
+const onPinchEnd = () => {
 
   if (isZoomed.value === true) {
-    if (zoomLevel.value <= baseScale) {
+    if (zoomLevel.value <= 1.1) {
       resetZoom();
-      requestAnimationFrame(() => {
-        setImageScaleAndTransform();
-      });
       isZoomed.value = false;
       emit('zoomed', isZoomed.value);
     }
@@ -206,60 +295,41 @@ const onPinchEnd = (event: GestureEvent) => {
 
 // Handle zooming with mouse wheel
 const handleWheelZoom = (event: WheelEvent) => {
-  
+
   event.preventDefault();
+  // Avoid a jumpy first zoom: enable transition only after initial zoom
+  useTransition.value = false; 
 
   const zoomStep = 0.1;
+  const focalX = event.clientX;
+  const focalY = event.clientY;
 
-  if (event.deltaY < 0) {
-    zoomIn(zoomStep);
-  } else {
-    zoomOut(zoomStep);
+  ensureZoomInitialized();
+  const target = event.deltaY < 0 ? (zoomLevel.value + zoomStep) : (zoomLevel.value - zoomStep);
+  applyZoomTo(target, focalX, focalY, true);
+  // If clamped back to base scale, treat as reset
+  if (zoomLevel.value <= getBaseScale()) {
+    resetZoom();
+    isZoomed.value = false;
+    emit('zoomed', isZoomed.value);
   }
-};
-
-// Reset zoom to default state
-const resetZoom = () => {
-  useTransition.value = true; // Enable smooth transition for reset
-  zoomLevel.value = 1;
-  panX.value = 0;
-  panY.value = 0;
-  startX.value = 0;
-  startY.value = 0;
-  startScale.value = 1;
-  isPanning.value = false;
-  
-  // Disable transitions after animation
+  // Disable transitions shortly after the zoom finishes
   setTimeout(() => {
     useTransition.value = false;
   }, 300);
+  
 };
 
-// Expose the resetZoom method to parent components
-defineExpose({
-  resetZoom
-});
 
 onMounted(() => {
-  // calculate baseScale for landscape zooming
-  if (imageContainer.value) {
-    const originalRect = imageContainer.value.getBoundingClientRect();
-    const viewportDimensions = getViewportDimensions();
-    const viewportWidth = viewportDimensions.width;
-    const viewportHeight = viewportDimensions.height;
-
-    const largerEdge = Math.max(viewportHeight, viewportWidth);
-    landscapeBaseScale.value = (originalRect.width * 0.95 / largerEdge);
-  }
-
   const options = {
     supportedGestures: [Pan, Pinch],
-    handleTouchEvents: false, // keep the swipe-through-images alive
+    handleTouchEvents: true,
   };
 
   nextTick(() => {
-    if (interactiveImage.value) {
-      new PointerListener(interactiveImage.value, options);
+    if (imageContainer.value) {
+      new PointerListener(imageContainer.value, options);
     }
   });
 
@@ -283,47 +353,40 @@ onMounted(() => {
 <template>
   <div
     ref="imageContainer"
-    class="image-container zoomable"
-    :class="{ zoomed: isZoomed }"
+    class="image-container"
+    :class="{ 'with-transition': useTransition, 'zoomed': isZoomed }"
     @wheel="handleWheelZoom"
+    @pinchstart="onPinchStart"
     @pinch="onPinch"
     @pinchend="onPinchEnd"
-    @touchstart.passive="true"
-    @touchmove.prevent
+    @panstart="onPanStart"
+    @pan="onPan"
+    @panend="onPanEnd"
   >
-    <!-- Wrapper for zooming -->
-    <div
-      ref="zoomWrapper"
-      class="zoom-wrapper"
-      :class="{ 'with-transition': useTransition }"
-    >
-      <!-- Image for panning -->
-      <img
-        ref="interactiveImage"
-        @pan="onPan"
-        @panend="onPanEnd"
-        loading="lazy"
-        draggable="false"
-        :src="image.imageUrl['2x']"
-        :srcset="srcSetFn(image.imageUrl)"
-        :sizes="sizes ? sizes : ''"
-        :alt="`{{ taxonLatname }} {{ taxonAuthor }}`"
-        :class="rounded ? rounded : 'sharp'"
-        :title="title ? title : undefined"
-      />
-      
-      <LicenceCircle
-        v-if="!isZoomed"
-        :imageUrl="image.imageUrl['1x']"
-        class="image-licence-circle"
-        :sharp="sharpLicenceCircle"
-      />
-      <!-- Caption overlay -->
-      <div v-if="showCaption && image.text" class="caption-overlay">
-        <div class="caption-content" v-html="image.text"></div>
-      </div>
+    <img
+      ref="staticImage"
+      loading="lazy"
+      draggable="false"
+      :src="image.imageUrl['2x']"
+      :srcset="srcSetFn(image.imageUrl)"
+      @panstart="onPanStart"
+      :sizes="sizes ? sizes : ''"
+      :alt="`{{ taxonLatname }} {{ taxonAuthor }}`"
+      :class="rounded ? rounded : 'sharp'"
+      @pan="onPan"
+      @panend="onPanEnd"
+      :title="title ? title : undefined"
+    />
+    <LicenceCircle
+      v-if="!isZoomed"
+      :imageUrl="image.imageUrl['4x']"
+      class="image-licence-circle"
+      :sharp="sharpLicenceCircle"
+    />
+    <!-- Caption overlay -->
+    <div v-if="showCaption && image.text" class="caption-overlay">
+      <div class="caption-content" v-html="image.text"></div>
     </div>
-    
   </div>
 </template>
 
@@ -331,94 +394,31 @@ onMounted(() => {
 .image-container {
   width: 100%;
   height: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
-  overflow: hidden; /* Prevent any overflow from affecting layout */
-  cursor: grab; /* Indicate panning is possible */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-}
-
-.image-container.zoomed {
-  cursor: grabbing;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  width: 100dvw;
-  height: 100vh;
-  height: 100dvh;
-  background: #000;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   overflow: hidden;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior: none;
-  /* iOS Safari specific fixes */
-  inset: 0; /* Modern way to set top, right, bottom, left to 0 */
-  z-index: 9999; /* Ensure it's above everything */
 }
 
-.image-container.zoomed {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-
-.image-container.zoomed::-webkit-scrollbar {
-  display: none;
-}
-
-.image-container:active {
-  cursor: grabbing; /* Indicate panning is active */
-}
-
-.zoom-wrapper {
-  position: relative; /* Needed for absolute overlay positioning */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
-  transform-origin: center center; /* Zoom from the center */
-  will-change: transform;
-  transform: translate3d(0, 0, 0); /* Force hardware acceleration */
-  -webkit-transform: translate3d(0, 0, 0); /* WebKit prefix für Android */
-  backface-visibility: hidden; 
-  -webkit-backface-visibility: hidden;
-}
-
-/* When zoomed, ensure wrapper fills entire screen */
-.image-container.zoomed .zoom-wrapper {
-  width: 100vw;
-  height: 100vh;
-  width: 100dvw;
-  height: 100dvh;
-}
-
-.zoom-wrapper.with-transition {
-  transition: transform 0.3s ease; /* Smooth transition for zooming */
-}
 
 .image-container img {
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
-  display: block;
+  object-position: center center;
+}
+
+.image-container.with-transition {
+  transition: background-size 0.3s ease, background-position 0.3s ease; /* Smooth transition for zooming */
+  will-change: background-size, background-position;
 }
 
 .image-container.zoomed img {
-  width: auto;
-  height: auto;
-  max-width: none;
-  max-height: none;
-  object-fit: contain;
-  /* iOS Safari specific fixes */
-  -webkit-transform: translateZ(0); /* Force hardware acceleration */
-  transform: translateZ(0); /* Standard property */
+  display: none; /* Hide the img element when zoomed */
 }
 
 .image-licence-circle {
@@ -428,9 +428,6 @@ onMounted(() => {
   z-index: 3; /* Above caption overlay */
 }
 
-.image-container[style*="scale(1)"] {
-  cursor: default; /* Disable grab cursor when zoomLevel is 1 */
-}
 
 .caption-overlay {
   position: absolute;
@@ -445,7 +442,7 @@ onMounted(() => {
 }
 
 .caption-content {
-  text-align: left;
+  text-align: center;
   font-family: 'RobotoCondensed';
   font-weight: 400;
   font-size: var(--font-size-lg);
