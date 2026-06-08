@@ -1,31 +1,28 @@
 {
-    "NAME": "Seaforest Species Explorer",
-    "PACKAGE_NAME": "org.localcosmos.seaforestspecies",
+    "NAME": "Bäume der Wälder Bayerns",
+    "PACKAGE_NAME": "org.localcosmos.baumederwalderbayerns",
     "LANGUAGES": [
-        "en"
+        "de"
     ],
-    "PRIMARY_LANGUAGE": "en",
-    "APP_UID": "seaforest",
-    "APP_UUID": "31c7ccbe-0dea-4959-bd41-d5755fd68889",
-    "APP_VERSION": 1,
-    "BUILD_NUMBER": 139,
-    "API_URL": "https://seaforest.seachangeproject-apps.com/api/",
-    "MEDIA_URL": "https://seaforest.seachangeproject-apps.com/media/",
-    "SERVER_URL": "https://seaforest.seachangeproject-apps.com/",
+    "PRIMARY_LANGUAGE": "de",
+    "APP_UID": "treesofbavaria",
+    "APP_UUID": "2dbc48ce-a922-4860-a540-825874a592eb",
+    "APP_VERSION": 5,
+    "BUILD_NUMBER": 13,
+    "API_URL": "http://treesofbavaria.tomwork.sisol:8080/api/",
+    "MEDIA_URL": "http://treesofbavaria.tomwork.sisol:8080/media/",
+    "SERVER_URL": "http://treesofbavaria.tomwork.sisol:8080/",
     "PREVIEW": false,
     "OPTIONS": {
-        "allowAnonymousObservations": false,
-        "doNotBuildLargeImages": false
+        "allowAnonymousObservations": true,
+        "doNotBuildLargeImages": false,
+        "version": "1.0",
+        "localcosmosPrivateApiUrl": "http://localhost:8080/api/"
     },
     "frontend": "MultiverseBeta",
-    "version": "0.10",
+    "version": "0.7",
     "userContent": {
-        "configuration": {
-            "geonamesUsername": {
-                "required": false,
-                "helpText": "Enables Geonames search functionality"
-            }
-        },
+        "configuration": {},
         "images": {
             "appLauncherIcon": {
                 "restrictions": {
@@ -66,26 +63,6 @@
                 },
                 "helpText": "Will be displayed in the browser tab",
                 "required": true
-            },
-            "protraitBackground" : {
-                "restrictions": {
-                    "fileType": [
-                        "png", "jpg", "jpeg", "webp"
-                    ],
-                    "ratio": "9:16"
-                },
-                "helpText": "Will be displayed on the apps main page in portrait orientation",
-                "required": false
-            },
-            "landscapeBackground" : {
-                "restrictions": {
-                    "fileType": [
-                        "png", "jpg", "jpeg", "webp"
-                    ],
-                    "ratio": "16:9"
-                },
-                "helpText": "Will be displayed on the apps main page in landscape orientation",
-                "required": false
             }
         },
         "texts": {
@@ -111,12 +88,12 @@
     },
     "cordova": {
         "platforms": {
-            "android": "android@14.0.1",
-            "ios": "ios@7.1.1",
+            "android": "android@13.0.0",
+            "ios": "ios@7.1.0",
             "browser": "browser@7.0.0"
         },
         "plugins": [
-            "cordova-plugin-camera@8.0.0",
+            "cordova-plugin-camera@6.0.0",
             "cordova-plugin-device@2.1.0",
             "cordova-plugin-geolocation@4.1.0",
             "cordova-plugin-network-information@3.0.0",

@@ -41,4 +41,6 @@ Thumbs.db
 /public/locales_build/
 /public/localcosmos_local/
 /public/locales_local/
+/public/localcosmos/
+/public/settings.json
 node_modules

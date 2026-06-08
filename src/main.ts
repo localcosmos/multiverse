@@ -52,6 +52,33 @@ const setBootloaderLogo = (frontend: Frontend) => {
   }
 };
 
+const setDocumentBackground = (frontend: Frontend) => {
+  const portraitBackground = frontend.userContent.images.backgroundImage?.imageUrl?.['4x']
+    || frontend.userContent.images.backgroundImage?.imageUrl?.['2x']
+    || frontend.userContent.images.backgroundImage?.imageUrl?.['1x'];
+
+  const landscapeBackground = frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['4x']
+    || frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['2x']
+    || frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['1x']
+    || portraitBackground;
+
+  if (!portraitBackground && !landscapeBackground) {
+    return;
+  }
+
+  const root = document.documentElement;
+
+  if (portraitBackground) {
+    root.style.setProperty('--app-background-image-portrait', `url("${portraitBackground}")`);
+  }
+
+  if (landscapeBackground) {
+    root.style.setProperty('--app-background-image-landscape', `url("${landscapeBackground}")`);
+  }
+
+  document.body.classList.add('has-app-background');
+};
+
 const loadFeatures = (async ()=> {
   setBootloaderText('loading features');
   const featuresResponse = await fetch('/localcosmos/features.json');
@@ -309,6 +336,8 @@ const onDeviceReady = (async () => {
     const frontendResponse = await fetch(features.Frontend.path);
     const frontendData:Frontend = await frontendResponse.json();
     app.provide('frontend', frontendData);
+
+    setDocumentBackground(frontendData);
 
     setBootloaderText('loading licences');
     const licenceRegistry = new LicenceRegistry();

@@ -7,6 +7,24 @@ html {
   background-attachment: fixed;
 }
 
+body.has-app-background {
+  background-image: var(--app-background-image-portrait);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+@media (orientation: landscape) {
+  body.has-app-background {
+    background-image: var(--app-background-image-landscape, var(--app-background-image-portrait));
+  }
+}
+
+body.has-app-background .bootloader {
+  background: transparent;
+}
+
 .subheader-padding-top {
   padding-top: var(--header-bar-height);
 }
