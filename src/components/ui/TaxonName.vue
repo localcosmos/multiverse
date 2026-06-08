@@ -64,7 +64,7 @@ if (usedVernacularName && props.morphotype) {
 
 <style scoped>
 .narrow {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
 }
 
 .primary-name {

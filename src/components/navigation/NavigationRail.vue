@@ -278,7 +278,7 @@ const handleSearchText = (text: string) => {
     text-overflow: ellipsis;
     font-size: 20px;
     font-weight: bold;
-    font-family: 'Inter Tight', sans-serif;
+    font-family: --var(font-family-tight);
   }
 }
 

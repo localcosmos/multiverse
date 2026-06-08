@@ -237,7 +237,7 @@ const handleSearchText = (text: string) => {
   white-space: nowrap; 
   overflow: hidden;
   text-overflow: ellipsis;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
 }
 
 @media (min-width: 640px) {

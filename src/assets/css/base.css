@@ -60,6 +60,8 @@
   --collapsed-bottomsheet-height: 54px;
   --matrix-filter-selection-highlight: rgba(150,150,150,.8);
   --text-muted: rgb(150,150,150);
+  --font-family-primary: 'Inter', sans-serif;
+  --font-family-tight: 'Inter Tight', sans-serif;
 }
 
 
@@ -91,14 +93,14 @@ html, body {
   width: 100%;
   min-height: 100vh;
   min-height: 100dvh;
-  font-family: 'Inter', sans-serif;
+  font-family: --var(font-family-primary);
   font-size: 16px;
   color: var(--color-black);
 }
 
 
 .font-narrow {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
 }
 
 h1, h2, h3 {
@@ -107,19 +109,19 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
   font-size: 28px;
   font-weight: 600;
 }
 
 h2 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
   font-size: 24px;
   font-weight: 500;
 }
 
 h3 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
   font-size: 20px;
   font-weight: 400;
 }

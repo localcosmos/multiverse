@@ -122,7 +122,7 @@ const searchInputClass = computed(() =>
   border-radius: 5em;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
   transition: var(--transition-cubic);
   transform-origin: center center;
   display: flex;
@@ -168,7 +168,7 @@ body.dark .tab-button.active {
   min-width: 0;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: 'Inter Tight', sans-serif;
+  font-family: --var(font-family-tight);
   border: 1px solid var(--color-black-translucent);
   border-radius: 5em;
   outline: none;
