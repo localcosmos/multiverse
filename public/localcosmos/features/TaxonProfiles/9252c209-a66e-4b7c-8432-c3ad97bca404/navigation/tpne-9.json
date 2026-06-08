@@ -1,0 +1,190 @@
+{
+    "name": "Annelids (segmented worms)",
+    "description": null,
+    "verboseName": "Annelids (segmented worms)",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-678-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-678-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-678-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-682-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-682-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-682-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-687-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-687-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-687-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-13",
+            "parentKey": "tpne-9",
+            "name": "Bristle worms",
+            "verboseName": "Bristle worms",
+            "taxa": [],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-679-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-679-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-679-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-683-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-683-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-683-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-689-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-689-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-689-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-679-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-679-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-679-1000.webp"
+                }
+            },
+            "slug": "bristle-worms"
+        },
+        {
+            "key": "tpne-12",
+            "parentKey": "tpne-9",
+            "name": "Other worms",
+            "verboseName": "Other worms",
+            "taxa": [
+                {
+                    "taxonLatname": "Echiura",
+                    "taxonAuthor": "Sedgwick, 1898",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5e5003e2-b782-4e4e-a7f7-c2e46d0f46d6",
+                    "taxonNuid": "001002002012"
+                },
+                {
+                    "taxonLatname": "Sipuncula",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "141ae050-9ebb-460c-b044-1add0259214a",
+                    "taxonNuid": "00100w"
+                },
+                {
+                    "taxonLatname": "Myzostomida",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "37980c55-21f0-43fb-9897-781361d2c8ed",
+                    "taxonNuid": "00100c002001"
+                },
+                {
+                    "taxonLatname": "Clitellata",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "55cd1452-7839-4791-87fa-bb2bc928bbc8",
+                    "taxonNuid": "001002001"
+                },
+                {
+                    "taxonLatname": "Listriolobus",
+                    "taxonAuthor": "Fischer, 1926 [not Spengel, 1912]",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "bf783cce-1d0b-4e6e-8664-b38557f59745",
+                    "taxonNuid": "001002002012001002002005"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-800-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-800-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-800-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-802-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-802-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-802-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-805-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-805-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-805-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-800-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-800-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-800-1000.webp"
+                }
+            },
+            "slug": "other-worms"
+        }
+    ],
+    "taxonProfiles": []
+}

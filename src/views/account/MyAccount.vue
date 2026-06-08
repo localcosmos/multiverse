@@ -17,12 +17,14 @@ import fallBackProfilePicture from '@/assets/images/no-image.svg';
 
 const authStore = useAuthStore();
 
-const account = ref<Record<string,string>>({
+const initialData = ref<Record<string, string>>({
   email: '',
   // username: '',
   firstName: '',
   lastName: '',
 });
+
+const formKey = ref<number>(0);
 
 const validation: AnyObjectSchema = Yup.object({
   // username: Yup.string().required().min(4),
@@ -41,13 +43,17 @@ if (authStore.user?.profilePicture) {
 
 const profilePicture = ref(profilePictureUrl);
 
-const onSubmit = async () => {
+const onSubmit = async (data: Record<string, any>) => {
   if (loading.value) {
     return;
   }
 
   loading.value = true;
-  await authStore.updateUser(account.value);
+  await authStore.updateUser({
+    email: data.email,
+    firstName: data.firstName ?? '',
+    lastName: data.lastName ?? '',
+  });
   loading.value = false;
   editSuccess.value = true;
   setTimeout(() => {
@@ -67,14 +73,17 @@ const reloadPicture = async () => {
 onBeforeMount(async() => {
   await authStore.loadUser();
   if (authStore.user) {
-    // account.value.username = authStore.user.username;
-    account.value.email = authStore.user.email;
+    // initialData.value.username = authStore.user.username;
+    initialData.value.email = authStore.user.email;
     if (authStore.user.firstName) {
-      account.value.firstName = authStore.user.firstName;
+      initialData.value.firstName = authStore.user.firstName;
     }
     if (authStore.user.lastName) {
-      account.value.lastName = authStore.user.lastName;
+      initialData.value.lastName = authStore.user.lastName;
     }
+
+    // Re-mount the form so async initial data is applied.
+    formKey.value += 1;
   }
 });
 </script>
@@ -106,49 +115,51 @@ onBeforeMount(async() => {
                 <h2>{{ $t('MyAccount.accountDetails') }}</h2>
               </div>
               <div class="edit-account-form">
-                <FormWrapper :validation="validation" @submit="onSubmit">
-                  <!--<BasicFormField
-                    v-model="account.username"
-                    name="username"
-                    label="Benutzername"
-                    type="text"
-                    icon="Person"
-                  /> -->
-                  <BasicFormField
-                    v-model="account.email"
-                    name="email"
-                    label="Email"
-                    type="email"
-                    :icon="PhEnvelope"
-                  />
-                  <BasicFormField
-                    v-model="account.firstName"
-                    name="firstName"
-                    label="Vorname"
-                    type="text"
-                    :icon="PhIdentificationCard"
-                  />
-                  <BasicFormField
-                    v-model="account.lastName"
-                    name="lastName"
-                    label="Nachname"
-                    type="text"
-                    :icon="PhIdentificationCard"
-                  />
+                <FormWrapper :key="formKey" :validation="validation" :initial-data="initialData" @submit="onSubmit">
+                  
+                  <div>
+                    <!--<BasicFormField
+                      v-model="initialData.username"
+                      name="username"
+                      label="Benutzername"
+                      type="text"
+                      icon="Person"
+                    /> -->
+                    <BasicFormField
+                      name="email"
+                      label="Email"
+                      type="email"
+                      :icon="PhEnvelope"
+                    />
+                    <BasicFormField
+                      name="firstName"
+                      label="Vorname"
+                      type="text"
+                      :icon="PhIdentificationCard"
+                    />
+                    <BasicFormField
+                      name="lastName"
+                      label="Nachname"
+                      type="text"
+                      :icon="PhIdentificationCard"
+                    />
+                  </div>
+                  <template #success>
+                    <div v-if="editSuccess" class="alert alert-success w-full mt-xl">
+                      {{ $t('MyAccount.editSuccess') }}
+                    </div>
+                  </template>
                   <template #actions>
                     <AsyncButton :text="t('save')" :submitting="loading">
                     </AsyncButton>
                   </template>
                 </FormWrapper>
               </div>
-              <div v-if="editSuccess" class="alert alert-success w-full mt-xl">
-                {{ $t('MyAccount.editSuccess') }}
-              </div>
             </div>
           </div>
           <div class="container-small mt-2xl">
             <div class="mt-xl">
-              <h2>{{ $t('logout') }}</h2>
+              <h2 class="mb-md">{{ $t('logout') }}</h2>
             </div>
             <div class="flex">
               <ColorButton
@@ -159,7 +170,7 @@ onBeforeMount(async() => {
               </ColorButton>
             </div>
             <div class="mt-xl">
-              <h2>{{ $t('MyAccount.changePasswordTitle') }}</h2>
+              <h2 class="mb-md">{{ $t('MyAccount.changePasswordTitle') }}</h2>
             </div>
             <div class="flex">
               <RouterLink :to="{ name: 'password-reset' }" class="nolinkstyle">
@@ -167,7 +178,7 @@ onBeforeMount(async() => {
               </RouterLink>
             </div>
             <div class="mt-xl">
-              <h2>{{ $t('MyAccount.deleteAccountTitle') }}</h2>
+              <h2 class="mb-md">{{ $t('MyAccount.deleteAccountTitle') }}</h2>
             </div>
             <div class="flex">
               <ProfileDeleteModal />

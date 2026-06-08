@@ -12,7 +12,7 @@ const props = defineProps<{
 }>();
 
 const emit = defineEmits<{
-  (e: 'update:searchText', value: string): void; // Emit event for search text
+  (e: 'update:search-text', value: string): void; // Emit event for search text
 }>();
 
 // Reactive state to toggle between button and input field
@@ -45,13 +45,13 @@ const handleInteraction = (event: Event) => {
   hasInteracted.value = true; // Mark as interacted when typing or clicking
   const target = event.target as HTMLInputElement;
   searchText.value = target.value; // Update the search text
-  emit('update:searchText', searchText.value); // Emit the updated search text
+  emit('update:search-text', searchText.value); // Emit the updated search text
 };
 
 // Function to clear the input field
 const clearSearch = () => {
   searchText.value = ''; // Clear the search text
-  emit('update:searchText', ''); // Emit an empty search text
+  emit('update:search-text', ''); // Emit an empty search text
   searchInputRef.value?.focus(); // Refocus the input field
 };
 
@@ -111,17 +111,18 @@ const searchInputClass = computed(() =>
 .tab-button-container {
   display: flex;
   align-items: center;
+  flex: 0 0 auto;
 }
 
 .tab-button-container.search-mode {
-  flex-grow: 1;
+  max-width: 100%;
 }
 
 .tab-button {
   border-radius: 5em;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: 'UbuntuCondensed';
+  font-family: 'Inter Tight', sans-serif;
   transition: var(--transition-cubic);
   transform-origin: center center;
   display: flex;
@@ -156,16 +157,18 @@ body.dark .tab-button.active {
 .tab-input {
   display: flex;
   align-items: center;
-  width: 100%;
+  width: clamp(140px, 42vw, 240px);
+  max-width: 100%;
   position: relative;
+  flex: 0 0 auto;
 }
 
 .search-input {
   width: 100%;
-  flex-grow: 1;
+  min-width: 0;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: 'UbuntuCondensed';
+  font-family: 'Inter Tight', sans-serif;
   border: 1px solid var(--color-black-translucent);
   border-radius: 5em;
   outline: none;
@@ -203,7 +206,11 @@ body.dark .tab-button.active {
 @media (min-width: 1024px) {
   .tab-button {
     font-size: 16px;
-  }  
+  }
+
+  .tab-input {
+    width: clamp(180px, 28vw, 320px);
+  }
 }
 
 @media (min-width: 1280px) {

@@ -89,7 +89,7 @@ const loadTaxonProfile = async (nameUuid: string) => {
 
   if (data) {
 
-    console.log('Loaded taxon profile data:', data);
+    // console.log('Loaded taxon profile data:', data);
 
     if (data.vernacular && data.vernacular[i18next.language]) {
       vernacularName.value = data.vernacular[i18next.language];
@@ -183,37 +183,44 @@ watch(() => props.nameUuid, async (newNameUuid) => {
       pending
     </div>
     <div v-else>
-      <div class="container">   
+      <div
+        class="container md-title-header-padding-top"
+        :class="{
+          'subheader-padding-top': tabButtons.length > 1,
+          'header-padding-top': tabButtons.length <= 1,
+        }"
+      >
         <LargeCard
-          class="page-padding-y"
+          class="content-padding-y"
         >
-          <div class="container-md pb-sm page-padding-x">
-            <div class="taxon-profile-title">
-              <h1 class="h1 pt-md">
-                <span v-if=vernacularName>{{ vernacularName }}</span>
-                <span v-else>
-                  <span v-if="taxon">
-                    <i>{{ taxon.taxonLatname }}</i> <span v-if=taxon.taxonAuthor>{{ taxon.taxonAuthor }}</span>
-                  </span>
-                </span>
-                <span v-if="taxonProfile?.morphotype"> ({{ taxonProfile.morphotype }})</span>
-              </h1>
-              <span v-if="vernacularName && taxon">
-                <i>{{ taxon.taxonLatname }}</i> <span v-if=taxon.taxonAuthor>{{ taxon.taxonAuthor }}</span>
-              </span>
-            </div>
-          </div>
           <TabbedPage
             id="taxon-profile"
             :tabs="tabButtons"
             :explode-on-large-screens="false"
             :show-nav-on-large-screens="true"
             :initial-tab="initialTab"
+            class="page-padding-bottom"
           >
             <template #tab1>
               <div class="w-100">
+                <div class="container-md pb-sm page-padding-x">
+                  <div class="taxon-profile-title">
+                    <h1 class="h1">
+                      <span v-if=vernacularName>{{ vernacularName }}</span>
+                      <span v-else>
+                        <span v-if="taxon">
+                          <i>{{ taxon.taxonLatname }}</i> <span v-if=taxon.taxonAuthor>{{ taxon.taxonAuthor }}</span>
+                        </span>
+                      </span>
+                      <span v-if="taxonProfile?.morphotype"> ({{ taxonProfile.morphotype }})</span>
+                    </h1>
+                    <span v-if="vernacularName && taxon">
+                      <i>{{ taxon.taxonLatname }}</i> <span v-if=taxon.taxonAuthor>{{ taxon.taxonAuthor }}</span>
+                    </span>
+                  </div>
+                </div>
                 <div v-if="images.length" class="taxon-profile-images m-centered">
-                  <div class="w-100 mt-xl">
+                  <div class="w-100">
                     <ImageCarousel
                       :images="images"
                       :safe-center="true"
@@ -264,7 +271,7 @@ watch(() => props.nameUuid, async (newNameUuid) => {
                   {{ t('taxonProfiles.noDescription') }}
                 </div>
                 <div v-if="taxonProfile?.morphotypeProfiles.length" class="container-md page-padding-x">
-                  <div class="py-2xl">
+                  <div>
                     <h1>{{ t('taxonProfiles.Morphotypes') }}</h1>
                     <div class="morphotypes-list mt-xl">
                       <div
@@ -291,7 +298,7 @@ watch(() => props.nameUuid, async (newNameUuid) => {
                 v-if="taxonProfile?.traits.length"
                 class="container-md page-padding-x"
               >
-                <div class="py-2xl">
+                <div class="pb-2xl">
                   <h1>{{ t('taxonProfiles.Traits') }}</h1>
                   <div class="trait-list mt-xl">
                     <div
@@ -311,7 +318,7 @@ watch(() => props.nameUuid, async (newNameUuid) => {
                 v-if="taxonProfile && hasTaxonRelationships"
                 class="container-md page-padding-x"
               >
-                <div class="py-2xl">
+                <div class="pb-2xl">
                   <h1>{{ t('taxonProfiles.RelatedSpeciesTitle') }}</h1>
                   <div
                     v-for="(typedRelationships, trIndex) in taxonProfile.taxonRelationships"
@@ -338,7 +345,7 @@ watch(() => props.nameUuid, async (newNameUuid) => {
                 v-if="features.GenericForm?.list.length"
                 class="container-md page-padding-x"
               >
-                <div class="py-2xl">
+                <div class="pb-2xl">
                   <h1>{{ t('Observations') }}</h1>
                 </div>
               </div>
@@ -348,7 +355,7 @@ watch(() => props.nameUuid, async (newNameUuid) => {
                 v-if="taxonProfile?.templateContents?.length"
                 class="container-md page-padding-x"
               >
-                <div class="py-2xl">
+                <div class="pb-2xl">
                   <h1>{{ t('taxonProfiles.TemplateContents') }}</h1>
                   <div class="mt-xl">
                     <TemplateContentPreview

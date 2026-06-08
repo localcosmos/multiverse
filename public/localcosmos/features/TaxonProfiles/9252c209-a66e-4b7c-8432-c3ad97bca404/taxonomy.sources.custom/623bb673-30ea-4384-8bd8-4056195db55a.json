@@ -1,0 +1,194 @@
+{
+    "taxonLatname": "Chamberlainium impar",
+    "taxonAuthor": "(Fosie) Puckree-Padua, Gabrielson & Maneveld 2020",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "623bb673-30ea-4384-8bd8-4056195db55a",
+    "taxonNuid": "003002001003004",
+    "slug": "chamberlainium-impar",
+    "localizedSlug": {
+        "en": "scrolled-coralline-crust"
+    },
+    "gbifNubkey": null,
+    "image": {
+        "text": "<p>Sea Point</p>",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3212-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3212-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3212-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1086,
+    "vernacular": {
+        "en": "Scrolled coralline crust"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Scrolled coralline crust"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Lithophyllum impar </i>Foslie 1909<i>, Pseudolithophyllum impar </i>(Foslie) W. H. Adey 1970, <i>Spongites impar </i>(Foslie) Y. M. Chamberlain 1994</p>",
+            "shortTextKey": "taxon_text_9_10411",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Forms moderately thick, discrete crusts that are orbicular when young. Sheets become confluent with increased growth and then neighbouring discs form raised and twisted ridges where individuals meet, creating a scrolled encrusting irregular pattern of seemingly fused individual crusts of variable sizes and shapes (<i>impar </i>meaning unequal). Also described as ﻿roughly ridged to strongly pachydermatous like an elephant’s skin. Characteristically chalky-beige, yellowish to yellow brown, with ridges being lighter in colour.</p>",
+            "shortTextKey": "taxon_text_1_10412",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Colonies 2 mm thick, ridges 10 mm high.</p>",
+            "shortTextKey": "taxon_text_2_10413",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional</u><i><u>:</u> </i>Only on the west coast, Atlantic side of Cape Peninsula to Cape St. Martin.</p>",
+            "shortTextKey": "taxon_text_3_10414",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Forms moderately thick sheets on bedrock in mid- to low intertidal, common where wave action is strong, but weakly attached and breaks off easily when manipulated. Not adapted to being permanently grazed in the way that other species in this genus have strong associations with grazing limpets. Probably competing for space with mussels and grazers and overgrow thinner species or limpet gardens unless grazing pressure is high.</p>",
+            "shortTextKey": "taxon_text_4_10415",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10416",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Fairly easily identified by the combination of yellow colouration and roughly ridged, unequal sheets, and by locality. Occurs on the Atlantic west coast whereas the perhaps most similar species, <i>Chamberlainium natalense </i>is a south coast species. However, the two species may have a very small distributional overlap on the southern part of the Cape Peninsula.</p>",
+            "shortTextKey": "taxon_text_7_10418",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "<p>Sea Point</p>",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3212-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3212-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3212-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "<p>Sea Point</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3212-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3212-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3212-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [
+        {
+            "relationshipType": {
+                "name": "Similar Species",
+                "taxonRole": "Main taxon",
+                "relatedTaxonRole": "similar species"
+            },
+            "relationships": [
+                {
+                    "taxon": {
+                        "taxonLatname": "Chamberlainium impar",
+                        "taxonAuthor": "(Fosie) Puckree-Padua, Gabrielson & Maneveld 2020",
+                        "taxonSource": "taxonomy.sources.custom",
+                        "nameUuid": "623bb673-30ea-4384-8bd8-4056195db55a",
+                        "taxonNuid": "003002001003004",
+                        "slug": "chamberlainium-impar",
+                        "localizedSlug": {
+                            "en": "scrolled-coralline-crust"
+                        },
+                        "gbifNubkey": null,
+                        "image": {
+                            "text": "<p>Sea Point</p>",
+                            "altText": "",
+                            "title": "",
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-3212-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-3212-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-3212-1000.webp"
+                            }
+                        },
+                        "shortProfile": "",
+                        "hasTaxonProfile": true
+                    },
+                    "relatedTaxon": {
+                        "taxonLatname": "Chamberlainium natalense (Foslie)",
+                        "taxonAuthor": "Puckree-Padua, Haywood, P. W. Gabrielson & Maneveldt, 2020",
+                        "taxonSource": "taxonomy.sources.custom",
+                        "nameUuid": "3974507c-8610-4dea-a973-f4ff3571d1c7",
+                        "taxonNuid": "003002001003003",
+                        "slug": "chamberlainium-natalense-foslie",
+                        "localizedSlug": {
+                            "en": "natal-coralline-crust"
+                        },
+                        "gbifNubkey": null,
+                        "image": {
+                            "text": null,
+                            "altText": null,
+                            "title": null,
+                            "imageUrl": {
+                                "1x": "/localcosmos/user_content/content_images/image-1188-250.webp",
+                                "2x": "/localcosmos/user_content/content_images/image-1188-500.webp",
+                                "4x": "/localcosmos/user_content/content_images/image-1188-1000.webp"
+                            }
+                        },
+                        "shortProfile": null,
+                        "hasTaxonProfile": true
+                    },
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

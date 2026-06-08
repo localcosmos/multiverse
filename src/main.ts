@@ -224,6 +224,7 @@ const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<strin
     // rail navigation
     if (navigations.rail.length > maxRailButtons) {
       const railStackedButtons:NavigationButton[] = navigations.rail.slice(5, navigations.rail.length);
+      railStackedButtons.push(homeButton);
 
       const railStackButton:NavigationButton = {
         genericContent: 'Stack',
@@ -328,7 +329,7 @@ const onDeviceReady = (async () => {
     if (features.Glossary) {
       setBootloaderText('loading glossary');
       glossary = new Glossary(features.Glossary);
-      await glossary.load();
+      await glossary.load(languageStore.currentLanguage);
       i18nNamespaces.push('glossarized');
     }
 

@@ -33,8 +33,8 @@ const newObservation = () => {
 
 <template>
   <ContentContainer>
-    <div class="page page-padding">
-      <div class="container">
+    <div class="page">
+      <div class="subheader-page-padding container">
         <div v-if="permissions.canUseDatasets" class="flex">
           <ColorButton
             :text="t('navigation.NewObservation')"

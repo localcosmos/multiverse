@@ -19,7 +19,7 @@ import { NON_FIELD_ERROR_KEY } from '@/composables/parseServerErrors';
 const authStore = useAuthStore();
 const router = useRouter();
 
-const registrationParameters = ref<Registration>({
+const initialData = {
   email: '',
   email2: '',
   firstName: '',
@@ -27,10 +27,7 @@ const registrationParameters = ref<Registration>({
   password: '',
   password2: '',
   username: '',
-  clientId: authStore.getDeviceUuid(),
-  //  @ts-ignore
-  platform: device.platform,
-});
+};
 
 const loading = ref<boolean>(false);
 
@@ -50,8 +47,21 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
     return;
   }
 
+  const registrationParameters: Registration = {
+    username: data.username,
+    email: data.email,
+    email2: data.email2,
+    firstName: data.firstName ?? '',
+    lastName: data.lastName ?? '',
+    password: data.password,
+    password2: data.password2,
+    clientId: authStore.getDeviceUuid(),
+    // @ts-ignore
+    platform: device.platform,
+  };
+
   loading.value = true;
-  const user = await authStore.register(registrationParameters.value);
+  await authStore.register(registrationParameters);
 
   loading.value = false;
 
@@ -72,8 +82,8 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
 
 <template>
   <ContentContainer>
-    <div class="page page-padding">
-      <div class="form-page-container">
+    <div class="page subheader-padding-top">
+      <div class="form-page-container page-padding">
         <div class="my-xl">
           <h1 class="h1">
             {{ $t('registration.title') }}
@@ -81,29 +91,25 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
         </div>
         <div>
           <div>
-            <FormWrapper :validation="validation" @submit="onSubmit">
+            <FormWrapper :validation="validation" :initial-data="initialData" @submit="onSubmit">
               <BasicFormField
-                v-model="registrationParameters.username"
                 name="username"
                 :label="$t('user.username')"
                 type="text"
                 :icon="PhUser"
               />
               <BasicFormField
-                v-model="registrationParameters.email"
                 name="email"
                 :label="$t('user.email')"
                 type="email"
                 :icon="PhEnvelope"
               />
               <BasicFormField
-                v-model="registrationParameters.email2"
                 name="email2"
                 :label="$t('user.email2')"
                 type="email"
               />
               <BasicFormField
-                v-model="registrationParameters.firstName"
                 name="firstName"
                 :label="$t('user.firstName')"
                 type="text"
@@ -111,7 +117,6 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
                 :icon="PhIdentificationCard"
               />
               <BasicFormField
-                v-model="registrationParameters.lastName"
                 name="lastName"
                 :label="$t('user.lastName')"
                 type="text"
@@ -119,14 +124,12 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
                 :icon="PhIdentificationCard"
               />
               <BasicFormField
-                v-model="registrationParameters.password"
                 name="password"
                 :label="$t('user.password')"
                 type="password"
                 :icon="PhPassword"
               />
               <BasicFormField
-                v-model="registrationParameters.password2"
                 name="password2"
                 :label="$t('user.password2')"
                 type="password"

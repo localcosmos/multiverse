@@ -8,6 +8,7 @@ const props = defineProps<{
   singleLine?: boolean,
   hideTaxonAuthor?: boolean,
   morphotype?: string,
+  narrow?: boolean,
 }>();
 
 let scientificName: string = props.taxonLatname;
@@ -32,7 +33,7 @@ if (usedVernacularName && props.morphotype) {
   <div>
     <div
       class="name-container"
-      :class="singleLine ? 'single-line' : ''"
+      :class="{ 'single-line': singleLine, 'narrow': narrow }"
     >
       <span
         v-if="usedVernacularName"
@@ -62,6 +63,10 @@ if (usedVernacularName && props.morphotype) {
 </template>
 
 <style scoped>
+.narrow {
+  font-family: 'Inter Tight', sans-serif;
+}
+
 .primary-name {
   font-weight: bold;
 }

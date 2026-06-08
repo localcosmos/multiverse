@@ -6,10 +6,12 @@ import { ref, provide, onMounted, onUnmounted } from 'vue';
 import { useRouter } from 'vue-router';
 import { RouterView } from 'vue-router';
 import { useModalsStore, MODAL_TYPES } from './stores/modals';
+import { useNetworkInformationStore } from '@/stores/network-information';
 import HeaderBar from '@/components/navigation/HeaderBar.vue';
 import BurgerMenu from '@/components/navigation/BurgerMenu.vue';
 import BottomNavigation from './components/navigation/BottomNavigation.vue';
 import NavigationRail from './components/navigation/NavigationRail.vue';
+import DesktopHeaderBar from '@/components/navigation/DesktopHeaderBar.vue';
 import { useMainNavigationStore } from '@/stores/main-navigation';
 import CTAObservationButton from './components/ui/CTAObservationButton.vue';
 import LicenceBubble from '@/components/legal/LicenceBubble.vue';
@@ -23,6 +25,8 @@ import { useKeyboardViewport } from '@/composables/useKeyboardViewport';
 const router = useRouter();
 const mainNavigation = useMainNavigationStore();
 const modals = useModalsStore();
+const networkInformation = useNetworkInformationStore();
+networkInformation.init();
 
 useKeyboardViewport();
 
@@ -106,6 +110,7 @@ onUnmounted(() => {
 
 <template>
   <HeaderBar />
+  <DesktopHeaderBar />
   <BottomNavigation />
   <NavigationRail />
   <!-- Use modal store for burger menu state -->

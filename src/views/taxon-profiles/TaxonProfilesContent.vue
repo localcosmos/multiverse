@@ -1,5 +1,7 @@
 <script setup lang="ts">
-import { ref, inject } from 'vue';
+import { ref, inject, computed } from 'vue';
+import { useTabsStore } from '@/stores/tabs';
+import { useLetterSelectorStore } from '@/stores/letter-selector';
 import ContentContainer from '@/components/container/ContentContainer.vue';
 import { t } from 'i18next';
 import TabbedPage from '@/components/container/TabbedPage.vue';
@@ -52,24 +54,17 @@ if (features.TaxonProfiles.options && features.TaxonProfiles.options.enableTaxon
   tabButtons.unshift(groupsButton);
 }
 
+const tabsStore = useTabsStore();
+const letterSelectorStore = useLetterSelectorStore();
+
+if (nodeKey === 'start') {
+  letterSelectorStore.registerLetterSelector('taxon-profiles');
+}
+
+const selectedLetter = computed(() => letterSelectorStore.letters['taxon-profiles']?.selectedLetter ?? null);
+const searchText = computed(() => tabsStore.tabs['taxon-profiles']?.searchText ?? '');
+
 const randomTaxa = ref<SearchTaxon[]>([]);
-
-// Reactive variable to store the search text
-const searchText = ref<string>('');
-  const selectedLetter = ref<string|null>(null);
-
-// Function to handle the search text emitted by TabbedPage
-const handleSearchText = (text: string) => {
-  searchText.value = text; // Update the search text
-};
-
-const handleSelectLetter = (letter: string) => {
-  selectedLetter.value = letter;
-};
-
-const handleUnselectLetter = () => {
-  selectedLetter.value = null;
-};
 
 const getNewRandomTaxa = () => {
   randomTaxa.value = taxonProfiles.getRandomTaxonProfiles(4, true);
@@ -81,22 +76,19 @@ const getNewRandomTaxa = () => {
   <ContentContainer>
     <div
       class="page"
-      :class="nodeKey == 'start' ? 'header-padding-top page-padding-bottom' : 'page-padding-y'"
+      :class="nodeKey == 'start' ? 'subheader-padding-top' : 'page-padding-top'"
     >
-      <div class="container">
+      <div class="container page-padding-bottom">
         <TabbedPage
           v-if="nodeKey == 'start'"
           id="taxon-profiles"
           :tabs="tabButtons"
           :explode-on-large-screens="false"
           :show-nav-on-large-screens="true"
-          @update:searchText="handleSearchText"
-          @selectLetter="handleSelectLetter"
-          @unselectLetter="handleUnselectLetter"
         >
           <template #tab1>
             <div v-if="taxonProfilesNavigation">
-              <TaxonProfilesNavigation :node-key="nodeKey" />
+              <TaxonProfilesNavigation :node-key="nodeKey" class="padding-top-xl" />
             </div>
           </template>
           <template #tab2>
@@ -127,7 +119,7 @@ const getNewRandomTaxa = () => {
 
 <style scoped>
 .letter-padding {
-  padding-top: calc(var(--tabs-navigation-height) + var(--size-sm));
+  padding-top: calc(var(--header-bar-height) + var(--size-xl));
 }
 
 @media (min-width: 640px) {

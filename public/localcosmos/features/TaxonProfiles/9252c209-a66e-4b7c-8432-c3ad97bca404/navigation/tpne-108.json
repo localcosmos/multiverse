@@ -1,0 +1,240 @@
+{
+    "name": "Worm-snails",
+    "description": null,
+    "verboseName": "Worm-snails",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1142-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1142-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1142-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1144-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1144-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1144-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1143-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1143-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1143-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 10,
+            "minImages": 4,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Dendropoma corallinaceum",
+            "taxonAuthor": "(Tomlin, 1939)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "64dc0c82-4319-4790-b973-68ca58dff444",
+            "taxonNuid": "00100k00700300c00g002006003",
+            "slug": "dendropoma-corallinaceum",
+            "localizedSlug": {
+                "en": "colonial-worm-shell"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-973-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-973-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-973-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-974-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-974-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-974-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-976-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-976-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-976-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-82-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-82-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-82-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-973-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-973-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-973-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Thylacodes natalensis",
+            "taxonAuthor": "Mörch, 1862",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9d0033c0-c9f4-4a32-9be2-d7ace6bfb594",
+            "taxonNuid": "00100k00700300c00g00200b00u",
+            "slug": "thylacodes-natalensis",
+            "localizedSlug": {
+                "en": "solitary-worm-snail"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1068-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1068-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1068-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2283-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2283-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2283-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1065-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1065-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1065-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>animal without shell</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1071-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1071-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1071-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>animal without shell</p>",
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1070-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1070-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1070-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-89-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-89-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-89-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1069-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1069-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1069-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1066-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1066-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1066-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1067-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1067-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1067-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>dead shell on a washed-up rock</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2271-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2271-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2271-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1068-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1068-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1068-1000.webp"
+                }
+            }
+        }
+    ]
+}

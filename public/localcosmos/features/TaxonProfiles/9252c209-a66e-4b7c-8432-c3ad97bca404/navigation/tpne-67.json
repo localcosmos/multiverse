@@ -1,0 +1,278 @@
+{
+    "name": "Ascidians (Sea squirts)",
+    "description": null,
+    "verboseName": "Ascidians (Sea squirts)",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2474-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2474-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2474-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2475-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2475-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2475-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2476-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2476-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2476-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 4,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-198",
+            "parentKey": "tpne-67",
+            "name": "Solitary ascidians",
+            "verboseName": "Solitary ascidians",
+            "taxa": [
+                {
+                    "taxonLatname": "Ascidia",
+                    "taxonAuthor": "Linnaeus, 1767",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "25c70c04-2478-4968-94e5-51c8e403f6d9",
+                    "taxonNuid": "001007002002002002001"
+                },
+                {
+                    "taxonLatname": "Asterocarpa",
+                    "taxonAuthor": "Brewin, 1946",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "da2049dc-f632-4833-9363-87bdb43e3d03",
+                    "taxonNuid": "001007002002003003004"
+                },
+                {
+                    "taxonLatname": "Pyura",
+                    "taxonAuthor": "Molina, 1782",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "0300f83a-6e9a-4fa6-b3b8-1621a9947ecc",
+                    "taxonNuid": "00100700200200300200g"
+                },
+                {
+                    "taxonLatname": "Styela",
+                    "taxonAuthor": "Fleming, 1822",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c5f3afa6-1784-4eaf-86b9-11f34515250c",
+                    "taxonNuid": "00100700200200300300z"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2517-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2517-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2517-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2526-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2526-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2526-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2516-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2516-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2516-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2517-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2517-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2517-1000.webp"
+                }
+            },
+            "slug": "solitary-ascidians"
+        },
+        {
+            "key": "tpne-199",
+            "parentKey": "tpne-67",
+            "name": "Colonial ascidians",
+            "verboseName": "Colonial ascidians",
+            "taxa": [
+                {
+                    "taxonLatname": "Aplidium",
+                    "taxonAuthor": "Savigny, 1816",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a8357e52-f8af-4b7f-b542-0a0d2d9d77bb",
+                    "taxonNuid": "001007002002001008002"
+                },
+                {
+                    "taxonLatname": "Botrylloides",
+                    "taxonAuthor": "Milne Edwards, 1841",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "7b9d9b28-6182-4eb9-bbd3-8f2d313568ec",
+                    "taxonNuid": "001007002002003003009"
+                },
+                {
+                    "taxonLatname": "Botryllus",
+                    "taxonAuthor": "Gaertner, 1774",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "2ffd87d8-d82c-4bf5-894a-6cf53f1172b3",
+                    "taxonNuid": "00100700200200300300a"
+                },
+                {
+                    "taxonLatname": "Ciona",
+                    "taxonAuthor": "Fleming, 1822",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "edd4e44e-0cfc-4605-af47-1706f2af6057",
+                    "taxonNuid": "001007002002002003002"
+                },
+                {
+                    "taxonLatname": "Clavelina",
+                    "taxonAuthor": "Savigny, 1816",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d9bb6214-87a2-4fbf-ac8a-979542752990",
+                    "taxonNuid": "001007002002001001001"
+                },
+                {
+                    "taxonLatname": "Diplosoma",
+                    "taxonAuthor": "Schwantes",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "87fc4eca-eb58-47d8-aaa4-9b3baacfef60",
+                    "taxonNuid": "00600600500d00300400y"
+                },
+                {
+                    "taxonLatname": "Gynandrocarpa",
+                    "taxonAuthor": "Michaelsen, 1900",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e571af12-f1ee-4976-a1fd-3213697aa288",
+                    "taxonNuid": "00100700200200300300j"
+                },
+                {
+                    "taxonLatname": "Pycnoclavella",
+                    "taxonAuthor": "Garstang, 1891",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "940fc300-1c0d-4e27-bfa0-9e23e2463657",
+                    "taxonNuid": "001007002002001001004"
+                },
+                {
+                    "taxonLatname": "Sigillina",
+                    "taxonAuthor": "Savigny, 1816",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "cb445798-1e5c-4ffd-b6a0-baba82c48a32",
+                    "taxonNuid": "001007002002001005009"
+                },
+                {
+                    "taxonLatname": "Sycozoa",
+                    "taxonAuthor": "Lesson, 1832",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1e489c9a-70e7-4b66-a9bf-29b502201e57",
+                    "taxonNuid": "00100700200200100500a"
+                },
+                {
+                    "taxonLatname": "Trididemnum",
+                    "taxonAuthor": "Della Valle, 1881",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5fdf7777-1cd3-4118-8393-df6d4cdee9ae",
+                    "taxonNuid": "001007002002001003009"
+                },
+                {
+                    "taxonLatname": "Diplosoma",
+                    "taxonAuthor": "Macdonald, 1859",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "ed43f972-71dd-4bf6-b162-26f713d974d6",
+                    "taxonNuid": "001007002002001003005"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2529-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2529-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2529-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2528-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2528-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2528-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2530-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2530-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2530-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2527-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2527-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2527-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2529-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2529-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2529-1000.webp"
+                }
+            },
+            "slug": "colonial-ascidians"
+        }
+    ],
+    "taxonProfiles": []
+}

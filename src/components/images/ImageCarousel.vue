@@ -361,11 +361,11 @@ onUnmounted(() => {
 }
 
 .carousel-left, .modal-carousel-left {
-  left: calc(var(--size-md) / 2);
+  left: calc(var(--size-xl) / 2);
 }
 
 .carousel-right, .modal-carousel-right {
-  right: calc(var(--size-md) / 2);
+  right: calc(var(--size-xl) / 2);
 }
 
 .carousel-images-container {
@@ -374,7 +374,7 @@ onUnmounted(() => {
   flex-wrap: nowrap;
   overflow-x: auto; /* Enable horizontal scrolling */
   scroll-snap-type: x mandatory; /* Enable snapping on the x-axis */
-  scroll-padding-left: var(--size-md); /* Ensure snapping respects left padding */
+  scroll-padding-left: var(--size-xl); /* Ensure snapping respects left padding */
   gap: 6px;
   padding: 0;
   -webkit-overflow-scrolling: touch; /* Smooth scrolling for iOS */
@@ -407,11 +407,11 @@ onUnmounted(() => {
 }
 
 .carousel-image-container:first-child {
-  margin-left: var(--size-md);
+  margin-left: var(--size-xl);
 }
 
 .carousel-image-container:last-child {
-  margin-right: var(--size-md);
+  margin-right: var(--size-xl);
 }
 
 .modal-images-container {
@@ -497,7 +497,7 @@ onUnmounted(() => {
 
 @media (min-width: 1280px) {
   .carousel-image-container { 
-    width: calc( (1280px - ( var(--size-md) * 2) - (6px * 3) ) / 4 ); /* 4 images fully visible with padding and gaps */
+    width: calc( (1280px - ( var(--size-xl) * 2) - (6px * 3) ) / 4 ); /* 4 images fully visible with padding and gaps */
   }
 
   .carousel-images-container {
@@ -506,11 +506,11 @@ onUnmounted(() => {
   }
 
   .carousel-image-container:first-child {
-    /*margin-left: 0; */
+    margin-left: 0;
   }
 
   .carousel-images-container.safe-center:first-child {
-    margin-left: var(--size-md);
+    margin-left: var(--size-xl);
   }
 
   .carousel-image-container:last-child {
@@ -518,7 +518,7 @@ onUnmounted(() => {
   }
 
   .carousel-images-container.safe-center:last-child {
-    margin-right: var(--size-md);
+    margin-right: var(--size-xl);
   }
 }
 

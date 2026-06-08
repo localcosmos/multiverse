@@ -1,0 +1,289 @@
+{
+    "name": "Phytoplankton & Red tides",
+    "description": null,
+    "verboseName": "Phytoplankton & Red tides",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1799-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1799-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1799-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2815-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2815-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2815-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1797-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1797-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1797-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Alexandrium catenella (Whedon & Kufoid)",
+            "taxonAuthor": "Balech, 1985",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c3acabfe-0b3f-487f-a81a-e9abee9e7234",
+            "taxonNuid": "003003001001001",
+            "slug": "alexandrium-catenella-whedon-kufoid",
+            "localizedSlug": {
+                "en": "paralytic-red-tide-dinoflagellate"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1251-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1251-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1251-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1251-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1251-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1251-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Anaulus birostratus (Grunow)",
+            "taxonAuthor": "Grunow, 1882",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "efbc5136-274c-4350-9117-b934dca6ec31",
+            "taxonNuid": "003004001001001",
+            "slug": "anaulus-birostratus-grunow",
+            "localizedSlug": {
+                "en": "surf-zone-diatom"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1252-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1252-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1252-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1252-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1252-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1252-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dunaliella salina (Dunal)",
+            "taxonAuthor": "Teodoresco, 1905",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "8b0cc807-535e-4d68-a363-b02fe9b88d5f",
+            "taxonNuid": "003005001001001",
+            "slug": "dunaliella-salina-dunal",
+            "localizedSlug": {
+                "en": "bloody-brine"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2155-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2155-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2155-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2154-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2154-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2154-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1253-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1253-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1253-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1254-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1254-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1254-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2155-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2155-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2155-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Navicula sp.",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "c2a2fc8f-c520-4784-959a-399d92107576",
+            "taxonNuid": "003004002001001",
+            "slug": "navicula-sp",
+            "localizedSlug": {
+                "en": "colonial-jelly-diatom"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1256-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1256-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1256-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1255-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1255-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1255-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1256-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1256-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1256-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Noctiluca scintillans (Macartney)",
+            "taxonAuthor": "Kofoid & Swezy, 1921",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "0d24c9e6-da53-4ef2-9191-ae8bccb33d0d",
+            "taxonNuid": "003006001001001",
+            "slug": "noctiluca-scintillans-macartney",
+            "localizedSlug": {
+                "en": "red-tide"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1276-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1276-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1276-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2798-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2798-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2798-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1273-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1273-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1273-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1278-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1278-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1278-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1276-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1276-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1276-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -1,10 +1,12 @@
 <script setup lang="ts">
-import { ref, onMounted, inject } from 'vue';
+import { ref, onMounted, inject, computed, watch, markRaw } from 'vue';
 import { PhMagnifyingGlass } from '@phosphor-icons/vue';
 import ContentContainer from '@/components/container/ContentContainer.vue';
 import type { LocalizedGlossary } from 'localcosmos-client';
 import { Glossary } from 'localcosmos-client';
 import { useLanguageStore } from '@/stores/language';
+import { useLetterSelectorStore } from '@/stores/letter-selector';
+import { useTabsStore } from '@/stores/tabs';
 import type { TabButtonDefinition } from '@/types/navigation';
 import { t } from 'i18next';
 
@@ -15,6 +17,8 @@ import TermsList from '@/components/glossary/TermsList.vue';
 
 const glossary = inject('glossary') as Glossary | null;
 const languageStore = useLanguageStore();
+const letterSelectorStore = useLetterSelectorStore();
+const tabsStore = useTabsStore();
 
 const localizedGlossary = ref<LocalizedGlossary|null>(null);
 const startLetterGlossary = ref<LocalizedGlossary|null>(null);
@@ -23,12 +27,14 @@ const searchGlossary = ref<LocalizedGlossary|null>(null);
 const termIdPrefix = 'id-term-';
 const glossaryName = ref<string>('');
 
-const startLetter = ref<null|string>(null);
 const searched = ref<boolean>(false);
 
 const availableStartLetters = ref<string[]>([]);
 
 const tabButtons = ref<TabButtonDefinition[]>([]);
+
+const selectedLetter = computed(() => letterSelectorStore.letters['GlossaryTabs']?.selectedLetter ?? null);
+const searchText = computed(() => tabsStore.tabs['GlossaryTabs']?.searchText ?? '');
 
 const loadGlossary = async () => {
   if (glossary) {
@@ -48,7 +54,7 @@ const loadGlossary = async () => {
           },
           {
             text: t('taxonProfiles.Search'),
-            icon: PhMagnifyingGlass,
+            icon: markRaw(PhMagnifyingGlass),
             tabIndex: 2,
             type: TabButtonType.SEARCH,
           },
@@ -63,24 +69,19 @@ const loadGlossary = async () => {
   }
 };
 
-const setStartLetter = (letter: string) => {
-  startLetter.value = letter;
-
-  if (localizedGlossary.value && letter in localizedGlossary.value) {
+// Watch for selected letter changes
+watch(selectedLetter, (letter) => {
+  if (letter && localizedGlossary.value && letter in localizedGlossary.value) {
     startLetterGlossary.value = {
       [letter]: localizedGlossary.value[letter],
     };
+  } else if (!letter) {
+    startLetterGlossary.value = localizedGlossary.value;
   }
-};
+});
 
-const removeStartLetter = () => {
-  startLetter.value = null;
-  startLetterGlossary.value = localizedGlossary.value;
-};
-
-const handleSearchText = (text: string) => {
-  // search localized glossary terms and synonyms
-
+// Watch for search text changes
+watch(searchText, (text) => {
   if (!text) {
     // if search text is empty, reset search glossary
     searchGlossary.value = null;
@@ -110,24 +111,24 @@ const handleSearchText = (text: string) => {
     searchGlossary.value = filteredGlossary;
     searched.value = true;
   }
-};
+});
 
 // Load glossary when component mounts
-onMounted(loadGlossary);
+onMounted(() => {
+  letterSelectorStore.registerLetterSelector('GlossaryTabs');
+  loadGlossary();
+});
 </script>
 
 <template>
   <ContentContainer>
-    <div class="page header-padding-top">
+    <div class="page subheader-padding-top">
       <div class="container">
         <TabbedPage
           id="GlossaryTabs"
           :tabs="tabButtons"
           :explode-on-large-screens="false"
           :show-nav-on-large-screens="true"
-          @update:searchText="handleSearchText"
-          @select-letter="setStartLetter"
-          @unselect-letter="removeStartLetter"
         >
           <template #tab1>
             <div v-if="glossary && localizedGlossary">

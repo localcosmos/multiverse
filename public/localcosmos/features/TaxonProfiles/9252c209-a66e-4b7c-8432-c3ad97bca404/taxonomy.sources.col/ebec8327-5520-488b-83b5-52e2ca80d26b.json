@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Eriocephalus racemosus",
+    "taxonAuthor": "L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "ebec8327-5520-488b-83b5-52e2ca80d26b",
+    "taxonNuid": "0060060050040030010br00q",
+    "slug": "eriocephalus-racemosus",
+    "localizedSlug": {
+        "en": "coast-wild-rosemary"
+    },
+    "gbifNubkey": 3130115,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1006,
+    "vernacular": {
+        "en": "Coast wild rosemary"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coast wild rosemary"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dense, erect coastal shrub with silvery or greyish, elongate, pointed leaves that are slightly curled upwards and lie opposite and alternate along the stems. They smell of thyme. Flowers borne in hanging groups on long stems and lack petals. Fruit elliptical and very wooly.</p>",
+            "shortTextKey": "taxon_text_1_9493",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Typically reaches a height of about 150 cm.</p>",
+            "shortTextKey": "taxon_text_2_9494",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Namaqualand to about Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_9495",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Coastal species common on sandy dunes in dryer areas.</p><p>Brandy-based infusions used in traditional medicine as a diuretic. Also used as a source of essential oils for perfumes and has antimicrobial properties.</p><p>The fluff surrounding the seeds is a sought-after nesting material for birds such as the Karoo prinia, but the birds reject the seeds when collecting fluff so play a limited role in seed dispersal.</p>",
+            "shortTextKey": "taxon_text_4_9496",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_9497",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers July to September.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_9498",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The closely-related Wild rosemary <i>E. africanus</i> occurs in the same region, but also extends much further inland. It can be distinguished by the presence of conspicuous white petals on the flowers that are absent in <i>E. racemosus</i>.</p>",
+            "shortTextKey": "taxon_text_7_9499",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 432).<br><br>Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 448).<br><br>Manning, J & Goldblatt, P (2000). South African Wild Flower Guide 7: West Coast. Botanical Society of South Africa (p. 196).<br><br>Njenga, EW, Van Vuuren, SF, Viljoen, AM & Eloff, JN (2005). Antimicrobial activity of <i>Eriocephalus</i> L. species. <i>South African Journal of Botany</i>, 71(1), 81-87.<br><br>Rohwer, VG, Pauw, A & Martin, PR (2017). Fluff-thieving birds sabotage seed dispersal. <i>Royal Society Open Science</i>, 4(1), 160538.",
+            "shortTextKey": "taxon_text_8_9500",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2789-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2789-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2789-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Eriocephalus affinis",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Eriocephalus spicatus",
+            "taxonAuthor": "Burm. ex DC."
+        },
+        {
+            "taxonLatname": "Eriocephalus simplicifolius",
+            "taxonAuthor": "Salisb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

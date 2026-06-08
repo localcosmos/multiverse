@@ -1,0 +1,162 @@
+{
+    "taxonLatname": "Cullumia squarrosa",
+    "taxonAuthor": "(L.) R. Br.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0f6d1e1b-bdb5-4e3e-84f5-57a5de2e38d0",
+    "taxonNuid": "00600600500400300f01300f",
+    "slug": "cullumia-squarrosa",
+    "localizedSlug": {
+        "en": "coastal-snake-thistle"
+    },
+    "gbifNubkey": 3098595,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3078-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3078-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3078-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1079,
+    "vernacular": {
+        "en": "Coastal snake thistle"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Coastal snake thistle"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p><i>Berkheya squarrosa</i></p>",
+            "shortTextKey": "taxon_text_9_10256",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Spiny, dense, sprawling shrub with small, arched and pointed leaves that have the margins rolled under and are packed tightly around the stems, giving these a cylindrical, ’snake-like’ look. Young parts can be cobwebby. Typical daisy-like flowers yellow and borne singly at ends of branches. Ray florets sterile, disc florets fertile.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_10257",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Can reach a height of 60 cm and diameter of over 1 m, leaves about 15-25 mm long, flowers 25-35 mm across.</p>",
+            "shortTextKey": "taxon_text_2_10258",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Cape Peninsula to Agulhas Plain.</p>",
+            "shortTextKey": "taxon_text_3_10259",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Forms dense, rounded shrubs in coastal bush and is considered vulnerable due to both coastal development across its restricted distributional range and due to invasion of it habitat by alien plants.</p>",
+            "shortTextKey": "taxon_text_4_10260",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10261",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers September to November.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_10262",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Several similar species in the region. Both Bristly snake thistle <i>C. setosa</i> and Mountain snake thistle <i>C. reticulata</i> have similar ranges but extend further inland and their leaf margins are thickened and not rolled under.</p>",
+            "shortTextKey": "taxon_text_7_10263",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 404).",
+            "shortTextKey": "taxon_text_8_10264",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3078-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3078-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3078-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3078-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3078-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3078-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Berkheya squarrosa",
+            "taxonAuthor": "(L.) Willd."
+        },
+        {
+            "taxonLatname": "Gorteria squarrosa",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Rohria squarrosa",
+            "taxonAuthor": "(L.) Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

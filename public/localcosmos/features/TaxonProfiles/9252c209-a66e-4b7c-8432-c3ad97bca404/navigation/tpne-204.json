@@ -1,0 +1,170 @@
+{
+    "name": "Plants",
+    "description": null,
+    "verboseName": "Plants",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2787-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2787-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2787-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2791-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2791-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2791-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2954-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2954-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2954-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-205",
+            "parentKey": "tpne-204",
+            "name": "Monocots",
+            "verboseName": "Monocots",
+            "taxa": [
+                {
+                    "taxonLatname": "Liliopsida",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "78759eef-0710-41cf-ac83-0db50c47f640",
+                    "taxonNuid": "006006003"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3003-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3003-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3003-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3005-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3005-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3005-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3007-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3007-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3007-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3003-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3003-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3003-1000.webp"
+                }
+            },
+            "slug": "monocots"
+        },
+        {
+            "key": "tpne-206",
+            "parentKey": "tpne-204",
+            "name": "Eudicots",
+            "verboseName": "Eudicots",
+            "taxa": [
+                {
+                    "taxonLatname": "Magnoliopsida",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "55dd7f97-5f79-4ff5-a36a-a3a59c469e28",
+                    "taxonNuid": "006006005"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2991-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2991-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2991-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2997-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2997-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2997-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3000-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3000-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3000-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2991-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2991-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2991-1000.webp"
+                }
+            },
+            "slug": "eudicots"
+        }
+    ],
+    "taxonProfiles": []
+}

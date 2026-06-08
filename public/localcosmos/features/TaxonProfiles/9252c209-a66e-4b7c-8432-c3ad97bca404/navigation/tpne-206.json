@@ -1,0 +1,354 @@
+{
+    "name": "Eudicots",
+    "description": null,
+    "verboseName": "Eudicots",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2991-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2991-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2991-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2997-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2997-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2997-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3000-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3000-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3000-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-211",
+            "parentKey": "tpne-206",
+            "name": "Rosids",
+            "verboseName": "Rosids",
+            "taxa": [
+                {
+                    "taxonLatname": "Fabales",
+                    "taxonAuthor": "Bromhead",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "25e1925e-382b-4cbb-9684-e438310d7365",
+                    "taxonNuid": "00600600500o"
+                },
+                {
+                    "taxonLatname": "Geraniales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "10b5cebf-fcdf-4dc9-a7c1-a64b154f0b1c",
+                    "taxonNuid": "00600600500s"
+                },
+                {
+                    "taxonLatname": "Euphorbia",
+                    "taxonAuthor": "L.",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c8c6a206-2b00-4d6d-a08b-52262299ff09",
+                    "taxonNuid": "00600600500z00d02t"
+                },
+                {
+                    "taxonLatname": "Malvales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "94aeb5c9-6f99-4c07-addb-f1188de5edb9",
+                    "taxonNuid": "006006005010"
+                },
+                {
+                    "taxonLatname": "Oxalidales",
+                    "taxonAuthor": "Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1ed418d7-7d82-416c-97e2-ab335fa21c24",
+                    "taxonNuid": "006006005014"
+                },
+                {
+                    "taxonLatname": "Sapindales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9e4bf517-2a67-4625-a10c-740bb69a54f4",
+                    "taxonNuid": "00600600501c"
+                },
+                {
+                    "taxonLatname": "Zygophyllales",
+                    "taxonAuthor": "Link",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d3cb4229-780e-421f-892f-f03cd1d7706f",
+                    "taxonNuid": "00600600501i"
+                },
+                {
+                    "taxonLatname": "Rosales",
+                    "taxonAuthor": "Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "9fca63ae-372e-43a3-94b5-660d53e7d631",
+                    "taxonNuid": "00600600501a"
+                },
+                {
+                    "taxonLatname": "Tylecodon",
+                    "taxonAuthor": "Toelken",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "de923f7a-dff7-44f8-ad1b-38ab24ea88c0",
+                    "taxonNuid": "00600600501d004002004"
+                },
+                {
+                    "taxonLatname": "Aspalathus spp.",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "e8ce7685-03c7-4597-ab84-ad4c8a18928c",
+                    "taxonNuid": "00300a001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2995-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2995-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2995-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2996-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2996-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2996-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2998-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2998-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2998-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2995-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2995-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2995-1000.webp"
+                }
+            },
+            "slug": "rosids"
+        },
+        {
+            "key": "tpne-212",
+            "parentKey": "tpne-206",
+            "name": "Superasterids",
+            "verboseName": "Superasterids",
+            "taxa": [
+                {
+                    "taxonLatname": "Caryophyllales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "304615f5-6bd8-425f-8c5f-56b7acaad91a",
+                    "taxonNuid": "00600600500d"
+                },
+                {
+                    "taxonLatname": "Manochlamys",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "ba0ff1c9-639e-4a3f-b729-31e514a85586",
+                    "taxonNuid": "00300b001"
+                },
+                {
+                    "taxonLatname": "Ruschia",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "ede635a7-00fd-421b-851c-e1a7eec53377",
+                    "taxonNuid": "00300d001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2999-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2999-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2999-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3001-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3001-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3001-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3002-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3002-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3002-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2999-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2999-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2999-1000.webp"
+                }
+            },
+            "slug": "superasterids"
+        },
+        {
+            "key": "tpne-210",
+            "parentKey": "tpne-206",
+            "name": "Asterids",
+            "verboseName": "Asterids",
+            "taxa": [
+                {
+                    "taxonLatname": "Apiales",
+                    "taxonAuthor": "Nakai",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "758d90d0-f615-4ed7-b7e3-6ec3b356c636",
+                    "taxonNuid": "006006005002"
+                },
+                {
+                    "taxonLatname": "Asterales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "8bfa0e09-81f3-4f8d-a2cc-9b92e0530cd6",
+                    "taxonNuid": "006006005004"
+                },
+                {
+                    "taxonLatname": "Ericales",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "d5388c76-f0ea-4af2-bb00-755e2a4a35a1",
+                    "taxonNuid": "00600600500m"
+                },
+                {
+                    "taxonLatname": "Gentianales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "3c9ee894-c86d-4f75-b742-7266df31d701",
+                    "taxonNuid": "00600600500r"
+                },
+                {
+                    "taxonLatname": "Lamiales",
+                    "taxonAuthor": "Bromhead",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "41fd16c6-fccf-4d4a-972e-ca220527ec88",
+                    "taxonNuid": "00600600500w"
+                },
+                {
+                    "taxonLatname": "Solanales",
+                    "taxonAuthor": "Juss. ex Bercht. & J. Presl",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "8fe9d29a-7ebc-4ae6-8564-e4554d8191d6",
+                    "taxonNuid": "00600600501e"
+                },
+                {
+                    "taxonLatname": "Dimorphotheca",
+                    "taxonAuthor": "Moench (1794)",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "5d2991c2-c697-40fe-a639-8d056a5b3447",
+                    "taxonNuid": "003009001"
+                },
+                {
+                    "taxonLatname": "Felicia",
+                    "taxonAuthor": "Cass.",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "a255d362-bf07-4761-9312-67187cf60f6d",
+                    "taxonNuid": "0060060050040030010co"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2992-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2992-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2992-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2993-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2993-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2993-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2994-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2994-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2994-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2992-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2992-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2992-1000.webp"
+                }
+            },
+            "slug": "asterids"
+        }
+    ],
+    "taxonProfiles": []
+}

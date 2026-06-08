@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref } from 'vue';
 import { useModalsStore } from '@/stores/modals';
 import * as Yup from 'yup';
 import { useAuthStore } from '@/stores/auth';
@@ -24,13 +24,10 @@ const router = useRouter();
 
 const loading = ref<boolean>(false);
 
-const loginParameters = ref<TokenObtainPairSerializerWithClientID>({
+const initialData = {
 	username: '',
 	password: '',
-  // @ts-ignore
-	platform: device.platform,
-	clientId: authStore.getDeviceUuid(),
-});
+};
 
 const validation: AnyObjectSchema = Yup.object({
 	username: Yup.string().min(3).required(),
@@ -43,7 +40,16 @@ const onSubmit = async (data: Record<string, any>, setServerErrors:Function) => 
 	}
 
 	loading.value = true;
-	await authStore.login(loginParameters.value);
+
+  const loginParameters: TokenObtainPairSerializerWithClientID = {
+    username: data.username,
+    password: data.password,
+    // @ts-ignore
+    platform: device.platform,
+    clientId: authStore.getDeviceUuid(),
+  };
+
+  await authStore.login(loginParameters);
 
   if (authStore.user) {
     // close the login modal
@@ -65,11 +71,7 @@ const onSubmit = async (data: Record<string, any>, setServerErrors:Function) => 
       setServerErrors(serverErrors);
     }
   }
-	loading.value = false;
-};
-
-const logout = () => {
-  authStore.logout();
+  loading.value = false;
 };
 </script>
 
@@ -84,17 +86,16 @@ const logout = () => {
     <div v-else>
       <FormWrapper
         :validation="validation"
+        :initial-data="initialData"
         @submit="onSubmit"
       >
         <BasicFormField
-          v-model="loginParameters.username"
           name="username"
           label="Benutzername"
           type="text"
           :icon="PhUser"
         />
         <BasicFormField
-          v-model="loginParameters.password"
           name="password"
           label="Passwort"
           type="password"

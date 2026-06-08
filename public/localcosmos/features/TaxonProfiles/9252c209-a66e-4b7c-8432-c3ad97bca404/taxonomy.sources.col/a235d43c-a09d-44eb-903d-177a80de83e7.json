@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Manulea tomentosa",
+    "taxonAuthor": "(L.) L.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "a235d43c-a09d-44eb-903d-177a80de83e7",
+    "taxonNuid": "00600600500w00m00500g01x",
+    "slug": "manulea-tomentosa",
+    "localizedSlug": {
+        "en": "woolly-manulea"
+    },
+    "gbifNubkey": 5560122,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3040-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3040-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3040-1000.webp"
+        }
+    },
+    "shortProfile": "",
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1065,
+    "vernacular": {
+        "en": "Woolly manulea"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Woolly manulea"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Perennial herb branching from the base into a series of fleshy upright stems covered in short white hairs. The leaves are fleshy and spoon-shaped, opposite, crowded and extend upward into the inflorescence. The leaf margins are toothed and they are hairy on both upper and lower surfaces.</p><p>The inflorescence is finger-like and consists of brownish-yellow to orange flowers each with a long hairy corolla tube topped by five slightly-rolled petals.</p>",
+            "shortTextKey": "taxon_text_1_10028",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants about 20-60 cm tall. Flowers about 7-10 mmm long.</p>",
+            "shortTextKey": "taxon_text_2_10029",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> About Saldanha to Cape Agulhas.</p>",
+            "shortTextKey": "taxon_text_3_10030",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found mostly on coastal sands in the Western Cape but also more inland. Coastal specimens tend to be more compact with closely packed leaves and denser flower-heads, while those further from the coast tend to be thinner, less compact and less hairy. Other species in this genus that have similar dull flowers are adapted to be pollinated by moths and are fragrant at night.</p><p>Has potential as an ornamental species for coastal gardens.</p>",
+            "shortTextKey": "taxon_text_4_10031",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10032",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to December. Can be propagated both by seed and from cuttings.</p>",
+            "shortTextKey": "taxon_text_6_10033",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>This is a large and complex genus with over 70 regional species of which about 40 occur in the fynbos biome, but this species is fairly easily distinguished by its orange flowers and coastal habits.</p>",
+            "shortTextKey": "taxon_text_7_10034",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 428).<br><br>Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 496).<br><br>Manning, J & Goldblatt, P (2000). South African Wild Flower Guide 7: West Coast. Botanical Society of South Africa (p. 180).",
+            "shortTextKey": "taxon_text_8_10035",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3040-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3040-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3040-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3040-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3040-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3040-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Lychnidea tomentosa",
+            "taxonAuthor": "(L.) Moench"
+        },
+        {
+            "taxonLatname": "Selago tomentosa",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Manettia tomentosa",
+            "taxonAuthor": "(L.) Crantz"
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

@@ -3,14 +3,8 @@ import { storeToRefs } from 'pinia';
 import { useNetworkInformationStore } from '@/stores/network-information';
 import TransitionedPage from '@/components/container/TransitionedPage.vue';
 import NoNetworkConnectionAlert from '@/components/ui/NoNetworkConnectionAlert.vue';
-import { onBeforeMount } from 'vue';
-
 const networkInformationStore = useNetworkInformationStore();
-const { isOnline } = storeToRefs(networkInformationStore); 
-
-onBeforeMount(() => {
-  networkInformationStore.check();
-});
+const { isOnline } = storeToRefs(networkInformationStore);
 </script>
 
 <template>

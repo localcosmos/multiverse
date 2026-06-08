@@ -75,17 +75,12 @@ const toggleObservationFormFilter = (name:string|number) => {
 
 <style>
 .map-filters {
-  position: absolute;
-  top: var(--header-bar-height);
-  width: 100vw;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: var(--size-md);
   gap: var(--size-md);
-  z-index: var(--layer-1);
 }
 
 @media (min-width: 550px) {

@@ -22,7 +22,7 @@ if (props.initialData) {
   formOptions.initialValues = props.initialData;
 }
 
-const { handleSubmit, setErrors, setFieldValue, setValues, resetForm, values, errors } = useForm(formOptions);
+const { handleSubmit, setErrors, errors } = useForm(formOptions);
 
 const nonFieldErrors = ref<string | string[] | null>(null);
 const hasErrors = ref<boolean>(false);
@@ -64,30 +64,33 @@ const onSubmit = handleSubmit((data) => {
 <template>
   <form @submit.prevent="onSubmit">
     <slot name="default" />
-    <div v-if="showUserInputErrorMessage">
-      <div  class="alert alert-error w-full mb-2">
-        {{ $t('validation.formHasErrors') }}
-      </div>
-    </div>
-    <div v-if="nonFieldErrors !== null">
-      <div>
-        <div v-if="typeof nonFieldErrors === 'string'" class="alert alert-error w-full">
-          <span>{{ nonFieldErrors }}</span>
-        </div>
-        <div
-          v-for="v in nonFieldErrors"
-          v-else
-          :key="v"
-          class="alert alert-error w-full mb-2"
-        >
-          <span>
-            {{ v }}
-          </span>
-        </div>
-      </div>
-    </div>
     <div class="form-actions">
       <slot name="actions" />
+    </div>
+    <slot name="success" />
+    <div class="error-container mt-xl">
+      <div v-if="showUserInputErrorMessage" class="mb-xl">
+        <div  class="alert alert-error w-full mb-2">
+          {{ $t('validation.formHasErrors') }}
+        </div>
+      </div>
+      <div v-if="nonFieldErrors !== null" class="mb-xl">
+        <div>
+          <div v-if="typeof nonFieldErrors === 'string'" class="alert alert-error w-full">
+            <span>{{ nonFieldErrors }}</span>
+          </div>
+          <div
+            v-for="v in nonFieldErrors"
+            v-else
+            :key="v"
+            class="alert alert-error w-full mb-2"
+          >
+            <span>
+              {{ v }}
+            </span>
+          </div>
+        </div>
+      </div>
     </div>
   </form>
 </template>
@@ -98,5 +101,9 @@ const onSubmit = handleSubmit((data) => {
   justify-content: flex-end;
   gap: 0.5rem;
   margin-top: 1.5rem;
+}
+
+.error-container {
+  min-height: 100px;
 }
 </style>

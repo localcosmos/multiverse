@@ -4,6 +4,7 @@ import ImageWithLicence from '../images/ImageWithLicence.vue';
 
 const props = defineProps<{
   image: ImageWithTextAndLicence,
+  showCaption?: boolean,
 }>();
 
 </script>
@@ -11,7 +12,7 @@ const props = defineProps<{
 <template>
   <div class="card bg-translucent-light padding-medium">
     <div>
-      <ImageWithLicence :image="image" rounded="rounded" />
+      <ImageWithLicence :image="image" rounded="rounded" :show-caption="showCaption" />
     </div>
     <div class="card-content">
       <slot></slot>

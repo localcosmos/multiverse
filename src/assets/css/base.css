@@ -13,15 +13,17 @@
   --size-xs: 7px;
   --size-sm: 10px;
   --size-md: 14px;
+  --size-lg: 18px;
   --size-xl: 24px;
   --size-2xl: 32px;
+  --gap-small: 4px;
   --gap-medium: 8px;
   --gap-large: 16px;
   --header-bar-height: 54px;
   --header-bar-padding: var(--size-md);
   --desktop-header-bar-height: 64px;
   --bottom-navigation-height: 64px;
-  --bottom-navigation-offset-bottom: 14px;
+  --bottom-navigation-offset-bottom: 7px;
   --navigation-rail-width: 80px;
   --tabs-navigation-height: 59px;
   --desktop-tabs-navigation-height: 64px;
@@ -89,9 +91,55 @@ html, body {
   width: 100%;
   min-height: 100vh;
   min-height: 100dvh;
-  font-family: 'Roboto';
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   color: var(--color-black);
+}
+
+
+.font-narrow {
+  font-family: 'Inter Tight', sans-serif;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+h2 {
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Inter Tight', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.h1-margin {
+  margin-top: 28px;
+  margin-bottom: 16px;
+}
+
+.h1-margin-top {
+  margin-top: 28px;
+}
+
+h2 > span {
+  font-weight: bold;
+}
+
+p {
+  margin: 0;
+  padding: 0;
 }
 
 .absolute {
@@ -101,6 +149,8 @@ html, body {
 #app {
   min-height: 100vh;
   min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
 }
 
 body.dark {
@@ -194,8 +244,12 @@ body.dark .text-solid {
   padding-bottom: var(--size-sm);
 }
 
-.pb-m {
+.pb-md {
   padding-bottom: var(--size-md);
+}
+
+.pb-lg {
+  padding-bottom: var(--size-lg);
 }
 
 .pb-xl {
@@ -222,13 +276,25 @@ body.dark .text-solid {
   padding-top: var(--size-2xl);
 }
 
-.mb-m {
+.mb-md {
   margin-bottom: var(--size-md);
 }
-.mt-m {
-  margin-top: var(--size-md);
+
+.mb-lg {
+  margin-bottom: var(--size-lg);
 }
 
+.mb-sm {
+  margin-bottom: var(--size-sm);
+}
+
+.mb-xs {
+  margin-bottom: var(--size-xs);
+}
+
+.mb-lg {
+  margin-bottom: var(--size-lg);
+}
 .mt-xl {
   margin-top: var(--size-xl);
 }
@@ -255,7 +321,7 @@ body.dark .text-solid {
   margin-bottom: var(--size-md);
 }
 
-.px-m {
+.px-md {
   padding-left: var(--size-md);
   padding-right: var(--size-md);
 }
@@ -269,7 +335,6 @@ body.dark .text-solid {
   padding-top: var(--size-2xl);
   padding-bottom: var(--size-2xl);
 }
-
 
 .font-size-md {
   font-size: var(--font-size-md);

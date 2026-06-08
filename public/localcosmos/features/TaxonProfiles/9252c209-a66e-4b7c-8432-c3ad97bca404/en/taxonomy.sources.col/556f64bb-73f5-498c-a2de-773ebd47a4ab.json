@@ -1,0 +1,154 @@
+{
+    "taxonLatname": "Syncarpha argyropsis",
+    "taxonAuthor": "(DC.) B. Nord.",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "556f64bb-73f5-498c-a2de-773ebd47a4ab",
+    "taxonNuid": "0060060050040030010vz001",
+    "slug": "syncarpha-argyropsis",
+    "localizedSlug": {
+        "en": "white-everlasting"
+    },
+    "gbifNubkey": 3149796,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3043-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3043-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3043-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1070,
+    "vernacular": {
+        "en": "White everlasting"
+    },
+    "allVernacularNames": {
+        "en": [
+            "White everlasting"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Dense, low-growing, rounded shrublet with shiny, silvery stems and narrow, paddle-shaped leaves that are densely silvery on both surfaces. Numerous clusters of showy white flowers project above the leaves and bear several rows of characteristic pointed, dry, papery bracts surrounding a central disc of yellow florets.&nbsp;</p>",
+            "shortTextKey": "taxon_text_1_10076",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to about 70 cm tall, flowers about 20 mm across.</p>",
+            "shortTextKey": "taxon_text_2_10077",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Coastal strip from Betty’s Bay to Algoa Bay.</p>",
+            "shortTextKey": "taxon_text_3_10078",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Common species on rocky outcrops and sands along the South Coast from False Bay eastwards (absent from West coast except where artificially planted). The silvery foliage reflects heat and the hairs on the leaves and stems trap moisture, allowing the plant to survive harsh conditions of high winds, salt spray and hot, dry summers.</p><p>A popular garden plant and often used in dry arrangements where it can last for years.</p>",
+            "shortTextKey": "taxon_text_4_10079",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10080",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers August to November.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_10081",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A fairly diverse genus with about 28 species, all found in the fynbos region and characterised by their dry, papery flowers. Some can be distinguished by colour, such as the red Strawberry everlasting <i>S. eximia</i>, or the Gold everlasting <i>S. chlorochrysum</i>. Other white species with similar distributions include the Cape snow <i>S. vestita,</i> but this has considerably larger flowers 35-40 mm across.</p>",
+            "shortTextKey": "taxon_text_7_10082",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Branch, G, Griffiths, CL, Branch, M & Beckley, L (2016). Two Oceans: A Guide to the Marine Life of Southern Africa (Fourth edition). Struik Nature, Cape Town. (p. 432).<br><br>Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 388).",
+            "shortTextKey": "taxon_text_8_10083",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3043-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3043-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3043-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3043-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3043-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3043-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Argyrocome argyropsis",
+            "taxonAuthor": "(DC.) Kuntze"
+        },
+        {
+            "taxonLatname": "Helipterum argyropsis",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Helipterum argyreum",
+            "taxonAuthor": "St.-Lag."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

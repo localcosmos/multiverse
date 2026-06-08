@@ -148,7 +148,7 @@ const getEmbedUrl = (url: string, videoType: string) => {
 <style scoped>
 .video-embed-container {
   width: 100%;
-  aspect-ratio: 16/9;
+  /*aspect-ratio: 16/9;*/
 }
 
 .video-embed-container > div {

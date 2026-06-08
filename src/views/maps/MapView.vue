@@ -10,7 +10,6 @@ import { getTaxonomicImageFileName } from '@/composables/getTaxonomicImageFileNa
 import { transform } from 'ol/proj';
 import MapPopup from './MapPopup.vue';
 import Overlay from 'ol/Overlay.js';
-import MapFilters from './MapFilters.vue';
 import { useMapStore } from '@/stores/map';
 
 type LocalCosmosCluster = KmeansCluster & {
@@ -167,7 +166,7 @@ onMounted(async () => {
   <OnlinePage>
     <div class="map-container">
       <div id="ObservationsMap"></div>
-      <MapFilters />
+      
       <div
         id="mapPopupContainer"
         v-show="overlayOpen"

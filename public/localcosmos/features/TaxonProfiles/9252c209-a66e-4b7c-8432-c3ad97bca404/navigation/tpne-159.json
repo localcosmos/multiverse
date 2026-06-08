@@ -1,0 +1,250 @@
+{
+    "name": "Sea hares",
+    "description": null,
+    "verboseName": "Sea hares",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2068-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2068-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2068-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2080-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2080-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2080-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1913-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1913-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1913-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2076-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2076-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2076-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2075-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2075-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2075-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 9,
+            "minImages": 4,
+            "modeImages": 9
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Bursatella africana",
+            "taxonAuthor": "(Engel, 1926)",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "46aa65c5-ed73-4adb-957e-8526aa6b9f34",
+            "taxonNuid": "001005002005001001",
+            "slug": "bursatella-africana",
+            "localizedSlug": {
+                "en": "shaggy-sea-hare"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2069-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2069-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2069-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2073-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2073-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2073-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2074-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2074-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2074-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2072-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2072-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2072-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2071-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2071-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2071-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2070-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2070-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2070-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1927-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1927-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1927-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1544-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1544-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1544-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1543-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1543-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1543-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2069-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2069-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2069-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aplysia sp. 1",
+            "taxonAuthor": "",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "dbf4ca71-0301-4a59-9180-fbaa53dcac1e",
+            "taxonNuid": "001005002005002001",
+            "slug": "aplysia-sp-1",
+            "localizedSlug": {
+                "en": "daisy-sea-hare"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2078-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2078-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2078-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2077-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2077-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2077-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1926-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1926-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1926-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1925-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1925-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1925-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2078-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2078-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2078-1000.webp"
+                }
+            }
+        }
+    ]
+}

@@ -31,7 +31,7 @@ const navigations = inject('navigations') as Navigations;
   z-index: var(--layer-1);
   height: var(--bottom-navigation-height);
   bottom: var(--bottom-navigation-offset-bottom);
-  left: var(--size-md); right: var(--size-md);
+  left: var(--size-xs); right: var(--size-xs);
   border-radius: var(--border-radius);
 }
 

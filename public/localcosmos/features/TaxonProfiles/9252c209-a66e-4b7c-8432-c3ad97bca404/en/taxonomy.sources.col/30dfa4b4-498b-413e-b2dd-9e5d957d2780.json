@@ -1,0 +1,225 @@
+{
+    "taxonLatname": "Arctotheca calendula",
+    "taxonAuthor": "(L.) Levyns",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "30dfa4b4-498b-413e-b2dd-9e5d957d2780",
+    "taxonNuid": "00600600500400300f00c001",
+    "slug": "arctotheca-calendula",
+    "localizedSlug": {
+        "en": "cape-weed"
+    },
+    "gbifNubkey": 3114986,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3039-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3039-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3039-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1064,
+    "vernacular": {
+        "en": "Cape weed"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Cape weed",
+            "Cape Marigold"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Sprawling annual with no stem and dense rosette of large, fleshy leaves with deeply incised, scalloped margins. Leaves hairy above and white-woolly below. The solitary flowerheads are borne on long roughly-hairy stems that are ridged longitudinally. The flowerhead has a single ring of deep yellow ray florets that may be slightly darker towards the base. The disc florets are mostly black becoming yellower as they open.</p>",
+            "shortTextKey": "taxon_text_1_10019",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Plants up to at least 250 mm tall, leaves vary widely in size from about 30 mm to over 200 mm long, flowerheads up to 60 mm across.</p>",
+            "shortTextKey": "taxon_text_2_10020",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa but widely naturalised elsewhere</p><p><u>Local/Regional:</u> Namaqualand to KwaZulu-Natal.</p>",
+            "shortTextKey": "taxon_text_3_10021",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Very common species found in a wide range of habitats both along the shore, where it can grow right down to highwater mark, and inland, particularly on sparsely vegetated soils and disturbed sites, where it can become a weed.&nbsp;</p><p>Has been introduced to many regions including California, Spain, Italy, Portugal, Australia and New Zealand and is considered a pest in some of these areas.</p>",
+            "shortTextKey": "taxon_text_4_10022",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10023",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers June to November.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_10024",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Easily confused with various other yellow daisy species both in <i>Arctotheca</i> and <i>Arctotis</i>, which contains over 30 regional species. The closely-related Sea pumpkin <i>Arctotheca populifera</i> is easily distinguished as it has paddle-shaped, white-felted leaves and much smaller flowers.</p>",
+            "shortTextKey": "taxon_text_7_10025",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 414).<br><br>Manning, J & Goldblatt, P (2000). South African Wild Flower Guide 7: West Coast. Botanical Society of South Africa (p. 218).<br><br>Wood, H (1994). The introduction and spread of capeweed, <i>Arctotheca calendula</i> (L.) Levyns (Asteraceae) in Australia. <i>Plant Protection Quarterly</i>, 9, 94-94.",
+            "shortTextKey": "taxon_text_8_10026",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3039-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3039-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3039-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3038-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3038-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3038-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3039-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3039-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3039-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Arctotis speciosa",
+            "taxonAuthor": "Salisb."
+        },
+        {
+            "taxonLatname": "Arctotis sulphurea",
+            "taxonAuthor": "Gaertn."
+        },
+        {
+            "taxonLatname": "Arctotis calendulacea",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Arctotis acaulis",
+            "taxonAuthor": "Brot."
+        },
+        {
+            "taxonLatname": "Cynotis hypochondriaca",
+            "taxonAuthor": "(Willd.) Hoffmanns."
+        },
+        {
+            "taxonLatname": "Arctotis calendula",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Arctotis tristis",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Cryptostemma runcinatum",
+            "taxonAuthor": "R. Br."
+        },
+        {
+            "taxonLatname": "Cryptostemma calendula",
+            "taxonAuthor": "(L.) Druce"
+        },
+        {
+            "taxonLatname": "Cryptostemma triste",
+            "taxonAuthor": "(L.) Domin"
+        },
+        {
+            "taxonLatname": "Cryptostemma hypochondriacum",
+            "taxonAuthor": "(Willd.) R. Br."
+        },
+        {
+            "taxonLatname": "Arctotis superba",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Arctotis corruscans",
+            "taxonAuthor": "DC."
+        },
+        {
+            "taxonLatname": "Arctotheca tristis",
+            "taxonAuthor": "(L.) M. Talavera & Talavera"
+        },
+        {
+            "taxonLatname": "Arctotheca calendulacea",
+            "taxonAuthor": "(L.) K. Lewin"
+        },
+        {
+            "taxonLatname": "Cryptostemma calendulaceum",
+            "taxonAuthor": "(L.) R. Br."
+        },
+        {
+            "taxonLatname": "Alloiozonium arctotideum",
+            "taxonAuthor": "Kunze"
+        },
+        {
+            "taxonLatname": "Arctotis hypochondriaca",
+            "taxonAuthor": "Willd."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

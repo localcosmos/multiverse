@@ -33,7 +33,7 @@ const goToNewObservation = () => {
 .cta-button {
   position: fixed;
   bottom: 100px;
-  right: var(--size-md);
+  right: var(--size-sm);
   z-index: var(--layer-1);
   border-radius: 50%;
   width: 80px;

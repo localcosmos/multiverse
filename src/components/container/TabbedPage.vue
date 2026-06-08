@@ -1,11 +1,8 @@
 <script setup lang="ts">
-import { ref, watch, nextTick, onMounted } from 'vue';
+import { computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue';
 import { useTabsStore } from '@/stores/tabs';
 import type { TabButtonDefinition } from '@/types/navigation';
 
-import TabButton from '../ui/tabs/TabButton.vue';
-import TabSearchButton from '../ui/tabs/TabSearchButton.vue';
-import TabAlphabetButton from '../ui/tabs/TabAlphabetButton.vue';
 
 const props = withDefaults(
   defineProps<{
@@ -14,60 +11,70 @@ const props = withDefaults(
     initialTab?: number;
     explodeOnLargeScreens?: boolean;
     showNavOnLargeScreens?: boolean;
+    showInMobileHeader?: boolean;
   }>(),
   {
     explodeOnLargeScreens: false,
     showNavOnLargeScreens: false,
+    showInMobileHeader: true,
     initialTab: 1,
   }
 );
 
-const emit = defineEmits<{
-  (e: 'update:searchText', value: string): void;
-  (e: 'selectLetter', value: string): void;
-  (e: 'unselectLetter'): void;
-}>();
-
 const tabsStore = useTabsStore();
-const activeTab = ref<number>(props.initialTab);
+let intersectionObserver: IntersectionObserver | null = null;
 
-// Initialize the active tab from the store if it exists
-if (tabsStore.getActiveTab(props.id) !== null) {
-  activeTab.value = tabsStore.getActiveTab(props.id)!;
-} else {
-  tabsStore.registerTabNavigation(props.id);
-  tabsStore.setActiveTab(props.id, props.initialTab);
+tabsStore.registerTabNavigation(props.id, {
+  tabs: props.tabs,
+  initialTab: props.initialTab,
+  showInMobileHeader: props.showInMobileHeader,
+});
+
+if (props.showInMobileHeader && props.tabs.length > 1) {
+  tabsStore.setHeaderTabNavigation(props.id);
 }
 
-// Watch for changes in `activeTab` and update the store
-watch(activeTab, (newTab) => {
-  tabsStore.setActiveTab(props.id, newTab);
+// Single source of truth: store drives activeTab, no local ref needed
+const activeTab = computed({
+  get: () => tabsStore.tabs[props.id]?.activeTab ?? props.initialTab,
+  set: (value: number) => tabsStore.setActiveTab(props.id, value),
 });
+
+watch(
+  () => props.tabs,
+  (newTabs) => {
+    tabsStore.setTabDefinitions(props.id, newTabs);
+    
+    // If tabs were previously empty and now have content, set header navigation
+    if (props.showInMobileHeader && newTabs.length > 1) {
+      tabsStore.setHeaderTabNavigation(props.id);
+    }
+  },
+  { deep: true }
+);
+
+watch(
+  () => props.showInMobileHeader,
+  (showInMobileHeader) => {
+    tabsStore.setShowInMobileHeader(props.id, showInMobileHeader);
+
+    if (showInMobileHeader && props.tabs.length > 1) {
+      tabsStore.setHeaderTabNavigation(props.id);
+      return;
+    }
+
+    if (tabsStore.headerTabNavigationId === props.id) {
+      tabsStore.clearHeaderTabNavigation();
+    }
+  }
+);
 
 // Check if we're in exploded mode on large screens
 const isExplodedMode = () => {
   return props.explodeOnLargeScreens && window.innerWidth >= 1024;
 };
 
-// Scroll to the appropriate tab section in exploded mode
-const scrollToTab = (tabNumber: number) => {
-  if (isExplodedMode()) {
-    nextTick(() => {
-      const tabElement = document.getElementById(`${props.id}-tab${tabNumber}`);
-      if (tabElement) {
-        const headerOffset = -180; // Adjust based on your header height
-        const elementPosition = tabElement.offsetTop;
-        const offsetPosition = elementPosition - headerOffset;
-        
-        window.scrollTo({
-          top: offsetPosition,
-          behavior: 'smooth'
-        });
-      }
-    });
-  }
-};
-
+/*
 const activateTab = (tabIndex: number) => {
 
   activeTab.value = tabIndex;
@@ -106,19 +113,7 @@ const activateTab = (tabIndex: number) => {
     }, 100);
   }
 };
-
-// Function to handle search text emitted by TabButton
-const handleSearchText = (text: string) => {
-  emit('update:searchText', text);
-};
-
-const handleSelectLetter = (letter: string) => {
-  emit('selectLetter', letter);
-};
-
-const handleUnselectLetter = () => {
-  emit('unselectLetter');
-};
+*/
 
 // Set up intersection observer to update active tab based on scroll position in exploded mode
 onMounted(() => {
@@ -133,7 +128,7 @@ onMounted(() => {
       threshold: 0
     };
 
-    const observer = new IntersectionObserver((entries) => {
+    intersectionObserver = new IntersectionObserver((entries) => {
       if (!isExplodedMode()) return;
       
       entries.forEach((entry) => {
@@ -142,9 +137,8 @@ onMounted(() => {
           const tabMatch = tabId.match(/tab(\d+)$/);
           if (tabMatch) {
             const tabNumber = parseInt(tabMatch[1]);
-            const arrayIndex = props.tabs.findIndex(tab => tab.tabIndex === tabNumber);
-            if (arrayIndex !== -1 && arrayIndex !== activeTab.value) {
-              activeTab.value = arrayIndex;
+            if (tabNumber !== activeTab.value) {
+              activeTab.value = tabNumber;
             }
           }
         }
@@ -153,16 +147,22 @@ onMounted(() => {
 
     // Observe all tab elements
     nextTick(() => {
-      props.tabs.forEach((_, index) => {
-        const tabElement = document.getElementById(`${props.id}-tab${index + 1}`);
+      props.tabs.forEach((button) => {
+        const tabElement = document.getElementById(`${props.id}-tab${button.tabIndex}`);
         if (tabElement) {
-          observer.observe(tabElement);
+          intersectionObserver?.observe(tabElement);
         }
       });
     });
+  }
+});
 
-    // Cleanup observer on unmount
-    return () => observer.disconnect();
+onBeforeUnmount(() => {
+  intersectionObserver?.disconnect();
+  intersectionObserver = null;
+
+  if (tabsStore.headerTabNavigationId === props.id) {
+    tabsStore.clearHeaderTabNavigation();
   }
 });
 </script>
@@ -172,27 +172,6 @@ onMounted(() => {
     explodeOnLargeScreens === true ? 'explode' : '',
     showNavOnLargeScreens === true ? 'show-nav-large' : ''
   ]">
-    <div
-      v-if="tabs.length > 1"
-      id="tabs-navigation"
-      class="tabs-navigation page-padding-x bg-solid backdrop-filter"
-    >
-      <div>
-        <!-- select button component-->
-         <component
-          v-for="(button, counter) in tabs"
-          :is="button.type === 'search' ? TabSearchButton : button.type === 'alphabet' ? TabAlphabetButton : TabButton"
-          :key="counter"
-          :text="button.text"
-          :icon="button.icon ? button.icon : null"
-          class="cursor-pointer"
-          :active="button.tabIndex === activeTab"
-          :letters="button.letters ? button.letters : []"
-          @click="activateTab(button.tabIndex)"
-          v-on="{ ...(button.type === 'alphabet' ? { selectLetter: handleSelectLetter, unselectLetter: handleUnselectLetter } : {}), ...(button.type === 'search' ? { 'update:searchText': handleSearchText } : {}) }"
-        />
-      </div>
-    </div>
     <div class="tabs">
       <div
         v-for="(button, index) in tabs"
@@ -207,26 +186,6 @@ onMounted(() => {
 </template>
 
 <style scoped>
-.tabs-navigation {
-  padding-bottom: var(--size-md);
-  padding-top: var(--size-md);
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-  overflow-x: scroll;
-  position: sticky;
-  top: var(--header-bar-height);
-  z-index: var(--layer-1);
-}
-
-.tabs-navigation::-webkit-scrollbar {
-  display: none;
-}
-
-.tabs-navigation > div {
-  display: flex;
-  flex-direction: row;
-  gap: var(--gap-medium);
-}
 
 .tabs {
   width: 100%;
@@ -254,9 +213,6 @@ onMounted(() => {
 }
 
 @media (min-width: 768px) {
-  .tabs-navigation {
-    top: 0;
-  }
 }
 
 @media (min-width: 1024px) {
@@ -323,15 +279,6 @@ onMounted(() => {
 }
 
 @media (min-width: 1280px) {
-
-  .tabs-navigation {
-    top: var(--desktop-header-bar-height);
-  }
-
-  .tabs-navigation > div {
-    justify-content: center;
-  }
-
     /* In exploded mode with navigation, make it sticky */
   .explode.show-nav-large .tabs-navigation {
     display: block;

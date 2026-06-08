@@ -6,6 +6,7 @@ const props = defineProps<{
   text: string,
   active: boolean,
   letters: string[] | [],
+  letterSelectorId?: string,
   icon?: Component | null,
   noResults?: boolean
   variant?: 'solid' | 'translucent',
@@ -16,17 +17,17 @@ const initialLetter = props.letters.length > 0 ? props.letters[0] : null;
 
 // emit the selected letter
 const emit = defineEmits<{
-  (e: 'selectLetter', value: string): void; // Emit event for selected letter
-  (e: 'unselectLetter', value: string): void; // Emit event for unselected letter
+  (e: 'select-letter', value: string): void; // Emit event for selected letter
+  (e: 'unselect-letter', value: string): void; // Emit event for unselected letter
 }>();
 
 
 const selectLetter = (letter: string) => {
-  emit('selectLetter', letter);
+  emit('select-letter', letter);
 };
 
 const unselectLetter = () => {
-  emit('unselectLetter', '');
+  emit('unselect-letter', '');
 };
 </script>
 
@@ -55,9 +56,9 @@ const unselectLetter = () => {
         class="alphabet-overlay"
       >
         <div>
-          <div class="letter-container page-padding-x bg-translucent-light backdrop-filter">
+          <div class="letter-container page-padding-x backdrop-filter">
             <LetterSelector
-              id="tab-alphabet"
+              :id="letterSelectorId ?? 'tab-alphabet'"
               :slim="true"
               :letters="letters"
               :initial-letter="initialLetter"
@@ -75,7 +76,7 @@ const unselectLetter = () => {
 /* Full-width overlay positioned relative to viewport */
 .alphabet-overlay {
   position: fixed;
-  top: calc(var(--header-bar-height) + var(--tabs-navigation-height));
+  top: calc(var(--header-bar-height));
   left: 0;
   right: 0;
   z-index: var(--layer-2);
@@ -84,6 +85,7 @@ const unselectLetter = () => {
 .letter-container {
   padding-top: var(--size-sm);
   padding-bottom: var(--size-sm);
+  background-color: var(--color-white-translucent-light);
 }
 
 @media (min-width: 640px) {

@@ -24,5 +24,10 @@ export const useLetterSelectorStore = defineStore('letterSelector', {
     getSelectedLetter(selectorId: string): string | null {
       return this.letters[selectorId]?.selectedLetter ?? null; // Retrieve the selected letter
     },
+    clearSelectedLetter(selectorId: string) {
+      if (this.letters[selectorId]) {
+        this.letters[selectorId].selectedLetter = null;
+      }
+    },
   },
 });

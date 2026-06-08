@@ -34,6 +34,7 @@ const nodesContainer = ref<HTMLElement|null>(null);
 const resultsContainer = ref<HTMLElement|null>(null);
 
 const nodeDisplayClass = ref<string>('');
+const isDescriptionExpanded = ref<boolean>(false);
 
 /** it is required to translate all names and then sort the nodes / profiles */
 const subNodes = ref<TranslatedTaxonProfilesNavigationNodeChild[]>([]);
@@ -186,22 +187,31 @@ onMounted(async () => {
             :images="navigationNode.images"
           />
         </div>
-        <div class="page-padding-x pt-m">
+        <div class="page-padding-x">
           <h1
             v-if="navigationNode.isStartNode == false"
             class="padding-bottom"
-            :class="navigationNode.isTerminalNode == true ? '' : ' h1-margin-top'"
+            :class="{ 'mt-xl': navigationNode.isTerminalNode == false, 'text-italic': navigationNode.name == null }"
           >
-            <span class="font-weight-bolder" :class="navigationNode.name == null ? 'scientific-name' : ''">
-              {{ $t(navigationNode.verboseName) }}
-            </span>
+            {{ $t(navigationNode.verboseName) }}
           </h1>
           <div>
             <div
               v-if="navigationNode.description"
               class="padding-bottom"
             >
-              <div v-html="navigationNode.description"></div>
+              <div
+                class="tp-navigation-description"
+                :class="{ 'is-collapsed': !isDescriptionExpanded }"
+                v-html="navigationNode.description"
+              ></div>
+              <button
+                type="button"
+                class="tp-navigation-description-toggle"
+                @click="isDescriptionExpanded = !isDescriptionExpanded"
+              >
+                {{ isDescriptionExpanded ? t('taxonProfiles.readLess') : t('taxonProfiles.readMore') }}
+              </button>
             </div>
             <div
               ref="nodesContainer"
@@ -280,8 +290,40 @@ onMounted(async () => {
   margin-bottom: var(--gap-medium);
 }
 
+.tp-navigation-description {
+  overflow: hidden;
+  line-height: 1.5;
+  max-height: 1000px;
+  transition: max-height 280ms ease;
+}
+
+.tp-navigation-description.is-collapsed {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  max-height: 3em;
+}
+
+.tp-navigation-description.is-collapsed :deep(*) {
+  display: inline;
+  margin-top: 0;
+  margin-bottom: 0;
+  overflow: hidden;
+}
+
+.tp-navigation-description-toggle {
+  margin-top: var(--gap-small);
+  border: 0;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--color-link);
+}
+
 .tp-navigation-nodes .tp-node-name, .tp-navigation-results .tp-node-name {
-  width: calc( ( 100dvw - (var(--size-md) * 4)) );
+  width: calc( ( 100dvw - (var(--size-xl) * 4)) );
 }
 
 .tp-navigation-nodes > div, .tp-navigation-nodes a {
@@ -363,21 +405,21 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 4) ) );
+    width: calc( ( 100dvw - (var(--size-xl) * 4) ) );
   }
 
   .tp-navigation-results .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 6) - (var(--gap-medium) * 2) ) / 2 );
+    width: calc( ( 100dvw - (var(--size-xl) * 6) - (var(--gap-medium) * 2) ) / 2 );
   }
 
   /** FLEX VERSION */
   .tp-navigation-nodes.flex .tp-node-image {
-    width: calc( ( 100dvw - (var(--size-md) * 4) - (var(--gap-medium) * 2) ) / 3 );
+    width: calc( ( 100dvw - (var(--size-xl) * 4) - (var(--gap-medium) * 2) ) / 3 );
   }
 
   /** terminal node is optimized for two cards next to each other while both cards have 1 image */
   .tp-navigation-nodes.flex.terminal .tp-node-image, .tp-navigation-nodes.flex.terminal .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 6) - (var(--gap-medium) * 1) ) / 2 );
+    width: calc( ( 100dvw - (var(--size-xl) * 6) - (var(--gap-medium) * 1) ) / 2 );
   }
 
   /** max-images-1 is optimized for two cards next to each other while both cards have 1 image */
@@ -386,7 +428,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes.max-images-1 .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 6) - (var(--gap-medium) * 2) ) / 2 );
+    width: calc( ( 100dvw - (var(--size-xl) * 6) - (var(--gap-medium) * 2) ) / 2 );
   }
 
 }
@@ -402,21 +444,21 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 4) - var(--navigation-rail-width) ) );
+    width: calc( ( 100dvw - (var(--size-xl) * 4) - var(--navigation-rail-width) ) );
   }
 
   .tp-navigation-results .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 3 );
+    width: calc( ( 100dvw - (var(--size-xl) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 3 );
   }
 
   /** FLEX VERSION */
   .tp-navigation-nodes.flex .tp-node-image {
-    width: calc( ( 100dvw - (var(--size-md) * 6) - (var(--gap-medium) * 5) - var(--navigation-rail-width) ) / 6 );
+    width: calc( ( 100dvw - (var(--size-xl) * 6) - (var(--gap-medium) * 5) - var(--navigation-rail-width) ) / 6 );
   }
 
   /** terminal node is optimized for two cards next to each other while both cards have 1 image */
   .tp-navigation-nodes.flex.terminal .tp-node-image, .tp-navigation-nodes.flex.terminal .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 10) - (var(--gap-medium) * 3) - var(--navigation-rail-width) ) / 4 );
+    width: calc( ( 100dvw - (var(--size-xl) * 10) - (var(--gap-medium) * 3) - var(--navigation-rail-width) ) / 4 );
   }
 
   /** max-images-1: 3 cols */
@@ -425,7 +467,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes.max-images-1 .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 3 );
+    width: calc( ( 100dvw - (var(--size-xl) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 3 );
   }
 }
 
@@ -440,7 +482,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 6) - var(--gap-medium) - var(--navigation-rail-width) ) / 2);
+    width: calc( ( 100dvw - (var(--size-xl) * 6) - var(--gap-medium) - var(--navigation-rail-width) ) / 2);
   }
 
   .tp-navigation-results  {
@@ -448,7 +490,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-results .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 14) - (var(--gap-medium) * 5) - var(--navigation-rail-width) ) / 6 );
+    width: calc( ( 100dvw - (var(--size-xl) * 14) - (var(--gap-medium) * 5) - var(--navigation-rail-width) ) / 6 );
   }
 
   .tp-navigation-nodes .tp-node-images {
@@ -461,7 +503,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes.max-images-1 .tp-node-name {
-    width: calc( ( 100dvw - (var(--size-md) * 10) - (var(--gap-medium) * 3) - var(--navigation-rail-width) ) / 4 );
+    width: calc( ( 100dvw - (var(--size-xl) * 10) - (var(--gap-medium) * 3) - var(--navigation-rail-width) ) / 4 );
   }
 
   /** FLEX VERSION */
@@ -469,18 +511,18 @@ onMounted(async () => {
     display: flex;
   }
   .tp-navigation-nodes.flex .tp-node-image {
-    width: calc( ( 100dvw - (var(--size-md) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 6 );
+    width: calc( ( 100dvw - (var(--size-xl) * 8) - (var(--gap-medium) * 2) - var(--navigation-rail-width) ) / 6 );
   }
 }
 
 @media (min-width: 1280px) {
 
   .tp-navigation-nodes .tp-node-name {
-    width: calc( ( 1280px - (var(--size-md) * 6) - var(--gap-medium) ) / 2);
+    width: calc( ( 1280px - (var(--size-xl) * 6) - var(--gap-medium) ) / 2);
   }
 
   .tp-navigation-results .tp-node-name {
-    width: calc( ( 1280px - (var(--size-md) * 14) - (var(--gap-medium) * 5) ) / 6 );
+    width: calc( ( 1280px - (var(--size-xl) * 14) - (var(--gap-medium) * 5) ) / 6 );
   }
 
   .tp-navigation-nodes.terminal, .tp-navigation-nodes.max-images-1 {
@@ -497,17 +539,17 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes.max-images-2 .tp-node-name {
-    width: calc( ( 1280px - (var(--size-md) * 8) - (var(--gap-medium) * 3) ) / 3 );
+    width: calc( ( 1280px - (var(--size-xl) * 8) - (var(--gap-medium) * 3) ) / 3 );
   }
 
   /** Flex version: optimized for two cards of 3 images each */
   .tp-navigation-nodes.flex .tp-node-image {
-    width: calc( ( 1280px - (var(--size-md) * 6) - (var(--gap-medium) * 5) ) / 6 );
+    width: calc( ( 1280px - (var(--size-xl) * 6) - (var(--gap-medium) * 5) ) / 6 );
   }
 
   /** terminal node is optimized for 6 cards next to each other */
   .tp-navigation-nodes.flex.terminal .tp-node-image, .tp-navigation-nodes.flex.terminal .tp-node-name {
-    width: calc( ( 1280px - (var(--size-md) * 14) - (var(--gap-medium) * 5) ) / 6 );
+    width: calc( ( 1280px - (var(--size-xl) * 14) - (var(--gap-medium) * 5) ) / 6 );
   }
 
   /** max-images-1: 5 cols */
@@ -516,7 +558,7 @@ onMounted(async () => {
   }
 
   .tp-navigation-nodes.max-images-1 .tp-node-name {
-    width: calc( ( 1280px - (var(--size-md) * 12) - (var(--gap-medium) * 5) ) / 5 );
+    width: calc( ( 1280px - (var(--size-xl) * 12) - (var(--gap-medium) * 5) ) / 5 );
   }
 }
 

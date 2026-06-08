@@ -1,0 +1,150 @@
+{
+    "name": "Toadfishes",
+    "description": null,
+    "verboseName": "Toadfishes",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1269-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1269-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1269-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1270-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1270-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1270-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1788-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1788-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1788-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 2,
+            "modeImages": 2
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Batrichthys apiatus",
+            "taxonAuthor": "(Valenciennes, 1837)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "16f10daa-c437-45a1-8d2f-64dae9079263",
+            "taxonNuid": "001007003002002001008001008002",
+            "slug": "batrichthys-apiatus",
+            "localizedSlug": {
+                "en": "snakeheaded-toadfish"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1789-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1789-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1789-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-183-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-183-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-183-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1789-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1789-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1789-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chatrabus felinus",
+            "taxonAuthor": "(Smith, 1952)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f9664e0c-414b-48d6-a566-a578f66404b9",
+            "taxonNuid": "00100700300200200100800100a001",
+            "slug": "chatrabus-felinus",
+            "localizedSlug": {
+                "en": "pleated-toadfish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1266-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1266-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1266-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1267-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1267-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1267-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1268-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1268-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1268-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1266-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1266-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1266-1000.webp"
+                }
+            }
+        }
+    ]
+}

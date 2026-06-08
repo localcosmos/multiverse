@@ -1,0 +1,333 @@
+{
+    "name": "Clingfishes",
+    "description": null,
+    "verboseName": "Clingfishes",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1553-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1553-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1553-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 12,
+            "minImages": 5,
+            "modeImages": 5
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Apletodon pellegrini",
+            "taxonAuthor": "(Chabanaud, 1925)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b45f79cb-20c6-4b58-87d5-9813567a1b77",
+            "taxonNuid": "00100700300200200100k001004005",
+            "slug": "apletodon-pellegrini",
+            "localizedSlug": {
+                "en": "chubby-clingfish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1549-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1549-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1549-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1550-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1550-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1550-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1552-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1552-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1552-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1754-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1754-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1754-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1551-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1551-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1551-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1549-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1549-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1549-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chorisochismus dentex",
+            "taxonAuthor": "(Pallas, 1769)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "82ea6ba0-b520-4eb9-b72c-62e2a89b3849",
+            "taxonNuid": "00100700300200200100k00100b001",
+            "slug": "chorisochismus-dentex",
+            "localizedSlug": {
+                "en": "rocksucker"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1342-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1342-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1342-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1413-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1413-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1413-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2412-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2412-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2412-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1414-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1414-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1414-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1636-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1636-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1636-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1637-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1637-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1637-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1759-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1759-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1759-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1756-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1756-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1756-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1757-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1757-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1757-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1755-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1755-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1755-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1758-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1758-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1758-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-251-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-251-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-251-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1342-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1342-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1342-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Eckloniaichthys scylliorhiniceps",
+            "taxonAuthor": "Smith, 1943",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "34514970-c70c-4d79-b86e-64fde1677fe9",
+            "taxonNuid": "00100700300200200100k00100l001",
+            "slug": "eckloniaichthys-scylliorhiniceps",
+            "localizedSlug": {
+                "en": "kelpsucker"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-856-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-856-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-856-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-857-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-857-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-857-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-858-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-858-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-858-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-859-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-859-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-859-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-860-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-860-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-860-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-863-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-863-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-863-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-856-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-856-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-856-1000.webp"
+                }
+            }
+        }
+    ]
+}

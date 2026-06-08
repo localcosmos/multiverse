@@ -1,0 +1,696 @@
+{
+    "name": "Colonial ascidians",
+    "description": null,
+    "verboseName": "Colonial ascidians",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2529-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2529-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2529-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2528-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2528-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2528-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2530-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2530-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2530-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2527-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2527-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2527-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 6,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Ciona robusta",
+            "taxonAuthor": "Hoshino & Tokioka, 1967",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "76db90d6-a82d-457d-b5e6-ab8f0654ada8",
+            "taxonNuid": "00100700200200200300200c",
+            "slug": "ciona-robusta",
+            "localizedSlug": {
+                "en": "sea-vase"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2464-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2464-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2464-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2464-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2464-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2464-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Clavelina lepadiformis",
+            "taxonAuthor": "(Müller, 1776)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "920c10c3-5f31-4faa-8be5-46649f0897f0",
+            "taxonNuid": "00100700200200100100100n",
+            "slug": "clavelina-lepadiformis",
+            "localizedSlug": {
+                "en": "light-bulb-sea-squirt"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2466-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2466-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2466-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2465-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2465-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2465-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2467-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2467-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2467-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-499-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-499-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-499-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2466-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2466-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2466-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pycnoclavella narcissus",
+            "taxonAuthor": "Kott, 2005",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2ca17d91-4bd5-48a0-976a-f38ac31a588a",
+            "taxonNuid": "00100700200200100100400i",
+            "slug": "pycnoclavella-narcissus",
+            "localizedSlug": {
+                "en": "choirboys"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-641-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-641-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-641-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-641-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-641-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-641-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Diplosoma listerianum",
+            "taxonAuthor": "(Milne Edwards, 1841)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9ce7e8b8-1672-4d47-a743-c03f9d3e8e91",
+            "taxonNuid": "00100700200200100300500f",
+            "slug": "diplosoma-listerianum",
+            "localizedSlug": {
+                "en": "gossamer-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-523-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-523-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-523-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-523-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-523-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-523-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Trididemnum cerebriforme",
+            "taxonAuthor": "Hartmeyer, 1913",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "9ad23e1d-dbce-40fa-8e23-4e126d71d68e",
+            "taxonNuid": "001007002002001003009008",
+            "slug": "trididemnum-cerebriforme",
+            "localizedSlug": {
+                "en": "brain-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-669-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-669-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-669-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-669-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-669-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-669-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sigillina digitata",
+            "taxonAuthor": "(Millar, 1962)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f5ff51c6-9281-4b83-92cf-1c2bd5727d31",
+            "taxonNuid": "001007002002001005009003",
+            "slug": "sigillina-digitata",
+            "localizedSlug": {
+                "en": "bulb-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-650-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-650-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-650-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-651-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-651-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-651-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-650-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-650-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-650-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Sycozoa arborescens",
+            "taxonAuthor": "Hartmeyer, 1912",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "cb533921-09ab-4f33-947c-73cc2903834b",
+            "taxonNuid": "00100700200200100500a002",
+            "slug": "sycozoa-arborescens",
+            "localizedSlug": {
+                "en": "fan-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2497-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2497-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2497-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>False Bay</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2424-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2424-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2424-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2425-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2425-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2425-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2426-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2426-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2426-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>False Bay</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2409-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2409-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2409-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Oudekraal</p><p>&nbsp;</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-659-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-659-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-659-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2497-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2497-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2497-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aplidium circulatum",
+            "taxonAuthor": "(Hartmeyer, 1912)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "411ee074-7510-47a7-9c1d-cb35f7c206de",
+            "taxonNuid": "001007002002001008002014",
+            "slug": "aplidium-circulatum",
+            "localizedSlug": {
+                "en": "mushroom-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-453-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-453-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-453-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-453-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-453-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-453-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Aplidium flavolineatum",
+            "taxonAuthor": "(Sluiter, 1898)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b7864c8a-fad7-4e0b-8564-d77512a5f50f",
+            "taxonNuid": "00100700200200100800202i",
+            "slug": "aplidium-flavolineatum",
+            "localizedSlug": {
+                "en": "rosette-ascidian"
+            },
+            "images": [
+                {
+                    "text": "<p>Porth Nolloth</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2434-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2434-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2434-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Port Nolloth</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2436-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2436-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2436-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Port Nolloth</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2435-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2435-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2435-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-454-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-454-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-454-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-455-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-455-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-455-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "<p>Porth Nolloth</p>",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2434-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2434-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2434-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Botrylloides magnicoecus",
+            "taxonAuthor": "(Hartmeyer, 1912)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d3351c79-6391-44a8-87e7-1c7637712181",
+            "taxonNuid": "00100700200200300300900g",
+            "slug": "botrylloides-magnicoecus",
+            "localizedSlug": {
+                "en": "white-ringed-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2461-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2461-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2461-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2462-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2462-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2462-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2463-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2463-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2463-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2494-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2494-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2494-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2461-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2461-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2461-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Botryllus elegans",
+            "taxonAuthor": "(Quoy & Gaimard, 1834)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2e5e4eb3-55c2-4d34-a5a4-b8438c6da986",
+            "taxonNuid": "00100700200200300300a009",
+            "slug": "botryllus-elegans",
+            "localizedSlug": {
+                "en": "seaweed-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-469-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-469-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-469-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-469-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-469-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-469-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Botryllus maeandrius",
+            "taxonAuthor": "(Sluiter, 1898)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a2fc7cc2-e9ad-48b5-ab4b-ac66565dec5c",
+            "taxonNuid": "00100700200200300300a00j",
+            "slug": "botryllus-maeandrius",
+            "localizedSlug": {
+                "en": "meandering-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-470-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-470-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-470-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-470-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-470-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-470-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Botryllus schlosseri",
+            "taxonAuthor": "(Pallas, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "c7583b34-01f6-474a-83ad-4077099f13da",
+            "taxonNuid": "00100700200200300300a00x",
+            "slug": "botryllus-schlosseri",
+            "localizedSlug": {
+                "en": "golden-star-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-471-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-471-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-471-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-472-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-472-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-472-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-471-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-471-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-471-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gynandrocarpa placenta",
+            "taxonAuthor": "(Herdman, 1886)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "ee30230f-c9af-4895-bcf6-37f4458faf98",
+            "taxonNuid": "00100700200200300300j001",
+            "slug": "gynandrocarpa-placenta",
+            "localizedSlug": {
+                "en": "elephants-ears"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-536-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-536-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-536-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-536-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-536-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-536-1000.webp"
+                }
+            }
+        }
+    ]
+}

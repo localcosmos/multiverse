@@ -2,10 +2,12 @@
 import { ref, inject, onMounted } from 'vue';
 import type { TaxonProfiles, TaxonWithImage, SearchTaxon } from 'localcosmos-client';
 import ImageCard from '@/components/ui/ImageCard.vue';
-import TaxonName from '@/components/ui/TaxonName.vue';
+import VernacularName from './text/VernacularName.vue';
+import TaxonName from './ui/TaxonName.vue';
 import { getTodaysHero } from '@/composables/getTodaysHero';
 
 import TaxonProfileLink from './ui/TaxonProfileLink.vue';
+import HeroCard from './ui/HeroCard.vue';
 
 import LoadingSpinner from './ui/LoadingSpinner.vue';
 
@@ -33,32 +35,40 @@ onMounted(async()=>{
     </div>
     <div v-else class="margin-bottom">
       <div>
-        <h1 class="my-xl">{{ $t("Today's Wonder") }}:</h1>
+        <h1 class="mb-lg">{{ $t("Today's Wonder") }}</h1>
       </div>
       <div
         v-if="todaysHero"
         class="hero"
       >
         <TaxonProfileLink :taxon="todaysHero" class="nolinkstyle">
-          <ImageCard :image="todaysHero.image">
-            <TaxonName
-              :taxon-latname="todaysHero.taxonLatname"
-              :taxon-author="todaysHero.taxonAuthor"
-              :hide-taxon-author="true"
-            >
-            </TaxonName>
+          <HeroCard :image="todaysHero.image" :show-caption="false">
+            <template #title>
+              <div class="text-center mb-lg">
+                <h2>
+                  <VernacularName
+                    :taxon-latname="todaysHero.taxonLatname"
+                    :taxon-author="todaysHero.taxonAuthor"
+                    :hide-taxon-author="true"
+                  />
+                </h2>
+                <div class="text-muted font-narrow">
+                  <i>{{ todaysHero.taxonLatname }}</i>
+                </div>
+              </div>
+            </template>
             <div v-if="todaysHero.shortProfile" class="text-justify">
-              <div v-html="todaysHero.shortProfile" />
+              <div v-html="todaysHero.shortProfile" class="pt-m" />
             </div>
-          </ImageCard>
+          </HeroCard>
         </TaxonProfileLink>
       </div>
       <div
         v-if="randomTaxa.length"
-        class="mt-xl"
+        class="mt-2xl"
       >
-        <div>
-          <h2>{{ $t('Have you heard of it?') }}</h2>
+        <div class="mb-lg">
+          <h1>{{ $t('Have you heard of it?') }}</h1>
         </div>
         <div class="random-taxa">
           <div
@@ -69,11 +79,12 @@ onMounted(async()=>{
               :taxon="taxon"
               class="nolinkstyle"
             >
-              <ImageCard :image="taxon.image">
+              <ImageCard :image="taxon.image" :show-caption="false">
                 <TaxonName
                   :taxon-latname="taxon.taxonLatname"
                   :taxon-author="taxon.taxonAuthor"
                   :hide-taxon-author="true"
+                  :narrow="true"
                 >
                 </TaxonName>
               </ImageCard>

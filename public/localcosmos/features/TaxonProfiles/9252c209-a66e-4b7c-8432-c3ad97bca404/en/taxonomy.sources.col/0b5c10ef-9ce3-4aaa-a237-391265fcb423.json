@@ -1,0 +1,163 @@
+{
+    "taxonLatname": "Helichrysum dasyanthum",
+    "taxonAuthor": "(Willd.) Sweet",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "0b5c10ef-9ce3-4aaa-a237-391265fcb423",
+    "taxonNuid": "0060060050040030010fj03o",
+    "slug": "helichrysum-dasyanthum",
+    "localizedSlug": {
+        "en": "strawflower"
+    },
+    "gbifNubkey": 3131901,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3080-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3080-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3080-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1081,
+    "vernacular": {
+        "en": "Strawflower"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Strawflower",
+            "Fynbos everlasting"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Small shrub with multiple erect stems covered in long, fine, silvery hairs. Leaves oblong and hairy with pointed tips, attached directly to the stems and with margins slightly rolled under. Flowers yellow and densely packed into flowerheads that project above main plant and appear like one big, flat flower.</p>",
+            "shortTextKey": "taxon_text_1_10275",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Stems 30-100 cm cm tall. Leaves up to 30 mm long and 10 mm wide, becoming smaller towards ends of stems. Individual flowers about 4 mm across, entire flowerhead about 40 mm diameter.</p>",
+            "shortTextKey": "taxon_text_2_10276",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to South Africa.</p><p><u>Local/Regional:</u> Broad coastal band from Namaqualand to Eastern Cape.</p>",
+            "shortTextKey": "taxon_text_3_10277",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found on coastal dunes and scrub and also inland. Pollinated by insects including bees and butterflies. Seeds wind dispersed.</p><p>The leaves and twigs of species in this genus are used in traditional medicine to treat chest complaints.</p><p>The derivation of the name suits the plant well, as the genus name is derived from the Greek ‘helios’ meaning sun and ‘chrysos’ meaning gold and the species name from the Greek ‘dasys’ meaning hairy and ‘anthos’ meaning flower</p>",
+            "shortTextKey": "taxon_text_4_10278",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Photosynthetic.</p>",
+            "shortTextKey": "taxon_text_5_10279",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Flowers September to December.&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_10280",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>A diverse genus with many species, of which about 70 occur in the fynbos biome, making identification to species level sometimes challenging. Many species have white or cream flowers, but other similar yellow species include the Golden carpet <i>H. cymosum</i> which has a similar range, but more sparsely silky leaves and smaller, bright canary-yellow flowers.</p>",
+            "shortTextKey": "taxon_text_7_10281",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "Manning, J (2007). Field Guide to Fynbos. Cape Town: Random House Struik. (p. 384).",
+            "shortTextKey": "taxon_text_8_10282",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3080-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3080-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3080-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3080-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3080-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3080-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [
+        {
+            "taxonLatname": "Gnaphalium maritimum",
+            "taxonAuthor": "L."
+        },
+        {
+            "taxonLatname": "Gnaphalium flexuosum",
+            "taxonAuthor": "E. Mey. ex DC."
+        },
+        {
+            "taxonLatname": "Helichrysum maritimum",
+            "taxonAuthor": "(L.) D. Don ex G. Don"
+        },
+        {
+            "taxonLatname": "Gnaphalium dasyanthum",
+            "taxonAuthor": "Willd."
+        },
+        {
+            "taxonLatname": "Gnaphalium molle",
+            "taxonAuthor": "Thunb."
+        }
+    ],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

@@ -81,7 +81,7 @@ onBeforeUnmount(() => {
             </div>
           </div>
           
-          <div class="trait-list mt-m">
+          <div class="trait-list mt-xl">
             <template
               v-for="[uuid, filter] in Object.entries(identificationStep.matrixFilters)" :key="uuid"
             >
@@ -145,10 +145,10 @@ onBeforeUnmount(() => {
 }
 
 .traits-container, .nodelist {
-  padding-left: var(--size-md);
-  padding-right: var(--size-md);
-  padding-top: var(--size-md);
-  padding-bottom: calc( var(--bottom-navigation-height) + var(--bottom-navigation-offset-bottom) + var(--collapsed-bottomsheet-height) + var(--size-md) );
+  padding-left: var(--size-xl);
+  padding-right: var(--size-xl);
+  padding-top: var(--size-xl);
+  padding-bottom: calc( var(--bottom-navigation-height) + var(--bottom-navigation-offset-bottom) + var(--collapsed-bottomsheet-height) + var(--size-xl) );
 }
 
 .node-link {

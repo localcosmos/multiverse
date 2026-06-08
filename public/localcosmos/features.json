@@ -1,171 +1,73 @@
 {
     "slugs": {
-        "24-frontend": "4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc",
-        "34-glossar": "c7337da0-87d5-467a-b612-fbc58cf39672",
-        "25-backbone-taxonomy": "28c345e2-3773-46f5-9d50-798f43cf1b95",
-        "27-baumbeobachtung": "8cc41abd-89af-4266-846d-14940a5c7a1f",
-        "33-waldbaume-bestimmen": "7bb8059f-32e1-40b9-ae17-24b2226af152",
-        "45-test-form": "0ace1225-fc93-4099-be35-1f88891745c9",
-        "46-karte": "499ab280-4737-43ab-9544-0d4cd363b6bd",
-        "26-baumportrats": "e1131c94-8af8-4d41-8871-80e3e221b520"
+        "1-frontend": "6c332424-344d-4311-ab38-21d6e9059fad",
+        "2-backbone-taxonomy": "5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
+        "3-taxon-profiles": "9252c209-a66e-4b7c-8432-c3ad97bca404"
     },
     "Frontend": {
         "genericContentType": "Frontend",
-        "uuid": "4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc",
+        "uuid": "6c332424-344d-4311-ab38-21d6e9059fad",
         "name": "Frontend",
         "description": null,
-        "slug": "24-frontend",
-        "version": 12,
-        "path": "/localcosmos/features/Frontend/4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc/4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc.json",
-        "folder": "/localcosmos/features/Frontend/4f65fc57-1bbc-4cb4-8d97-b3e3752b00dc"
-    },
-    "Glossary": {
-        "genericContentType": "Glossary",
-        "uuid": "c7337da0-87d5-467a-b612-fbc58cf39672",
-        "name": "Glossar",
-        "description": null,
-        "slug": "34-glossar",
-        "version": 2,
-        "path": "/localcosmos/features/Glossary/c7337da0-87d5-467a-b612-fbc58cf39672/c7337da0-87d5-467a-b612-fbc58cf39672.json",
-        "folder": "/localcosmos/features/Glossary/c7337da0-87d5-467a-b612-fbc58cf39672",
-        "localized": {
-            "de": {
-                "usedTerms": "/localcosmos/features/Glossary/c7337da0-87d5-467a-b612-fbc58cf39672/de/used_terms_glossary.json",
-                "allTerms": "/localcosmos/features/Glossary/c7337da0-87d5-467a-b612-fbc58cf39672/de/glossary.json"
-            }
-        }
+        "slug": "1-frontend",
+        "version": 16,
+        "path": "/localcosmos/features/Frontend/6c332424-344d-4311-ab38-21d6e9059fad/6c332424-344d-4311-ab38-21d6e9059fad.json",
+        "folder": "/localcosmos/features/Frontend/6c332424-344d-4311-ab38-21d6e9059fad"
     },
     "BackboneTaxonomy": {
         "genericContentType": "BackboneTaxonomy",
-        "uuid": "28c345e2-3773-46f5-9d50-798f43cf1b95",
+        "uuid": "5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
         "name": "Backbone taxonomy",
         "description": null,
-        "slug": "25-backbone-taxonomy",
-        "version": 2,
-        "path": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/28c345e2-3773-46f5-9d50-798f43cf1b95.json",
-        "folder": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95",
-        "slugs": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/slugs.json",
+        "slug": "2-backbone-taxonomy",
+        "version": 1,
+        "path": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba.json",
+        "folder": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba",
+        "slugs": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/slugs.json",
         "localizedSlugs": {
-            "de": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/slugs/de.json"
+            "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/slugs/en.json"
         },
         "search": {
-            "taxonLatname": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/search/taxon_latname",
+            "taxonLatname": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/search/taxon_latname",
             "vernacular": {
-                "de": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/search/vernacular/de"
+                "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/search/vernacular/en"
             }
         },
         "lookup": {
             "vernacular": {
-                "de": "/localcosmos/features/BackboneTaxonomy/28c345e2-3773-46f5-9d50-798f43cf1b95/lookup/vernacular/de.json"
+                "en": "/localcosmos/features/BackboneTaxonomy/5491f070-e1a2-44fe-9ca3-f5a40c85b0ba/lookup/vernacular/en.json"
             }
         }
-    },
-    "GenericForm": {
-        "list": [
-            {
-                "genericContentType": "GenericForm",
-                "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
-                "name": "Baumbeobachtung",
-                "description": null,
-                "slug": "27-baumbeobachtung",
-                "version": 3,
-                "taxonomicRestrictions": [],
-                "path": "/localcosmos/features/GenericForm/8cc41abd-89af-4266-846d-14940a5c7a1f/8cc41abd-89af-4266-846d-14940a5c7a1f.json",
-                "folder": "/localcosmos/features/GenericForm/8cc41abd-89af-4266-846d-14940a5c7a1f",
-                "isDefault": true
-            },
-            {
-                "genericContentType": "GenericForm",
-                "uuid": "0ace1225-fc93-4099-be35-1f88891745c9",
-                "name": "Test form",
-                "description": null,
-                "slug": "45-test-form",
-                "version": 3,
-                "taxonomicRestrictions": [],
-                "path": "/localcosmos/features/GenericForm/0ace1225-fc93-4099-be35-1f88891745c9/0ace1225-fc93-4099-be35-1f88891745c9.json",
-                "folder": "/localcosmos/features/GenericForm/0ace1225-fc93-4099-be35-1f88891745c9"
-            }
-        ],
-        "lookup": {
-            "8cc41abd-89af-4266-846d-14940a5c7a1f": "/localcosmos/features/GenericForm/8cc41abd-89af-4266-846d-14940a5c7a1f/8cc41abd-89af-4266-846d-14940a5c7a1f.json",
-            "0ace1225-fc93-4099-be35-1f88891745c9": "/localcosmos/features/GenericForm/0ace1225-fc93-4099-be35-1f88891745c9/0ace1225-fc93-4099-be35-1f88891745c9.json"
-        },
-        "default": {
-            "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
-            "name": "Baumbeobachtung"
-        }
-    },
-    "NatureGuide": {
-        "list": [
-            {
-                "genericContentType": "NatureGuide",
-                "uuid": "7bb8059f-32e1-40b9-ae17-24b2226af152",
-                "name": "Waldbäume bestimmen",
-                "description": null,
-                "slug": "33-waldbaume-bestimmen",
-                "version": 2,
-                "imageUrl": null,
-                "startNodeUuid": "17f1895e-16b5-4b31-af19-f614873de454",
-                "startNodeSlug": "1-waldbaume-bestimmen",
-                "path": "/localcosmos/features/NatureGuide/7bb8059f-32e1-40b9-ae17-24b2226af152/7bb8059f-32e1-40b9-ae17-24b2226af152.json",
-                "folder": "/localcosmos/features/NatureGuide/7bb8059f-32e1-40b9-ae17-24b2226af152"
-            }
-        ],
-        "lookup": {
-            "7bb8059f-32e1-40b9-ae17-24b2226af152": "/localcosmos/features/NatureGuide/7bb8059f-32e1-40b9-ae17-24b2226af152/7bb8059f-32e1-40b9-ae17-24b2226af152.json"
-        }
-    },
-    "Map": {
-        "genericContentType": "Map",
-        "uuid": "499ab280-4737-43ab-9544-0d4cd363b6bd",
-        "name": "Karte",
-        "description": null,
-        "slug": "46-karte",
-        "version": 1,
-        "path": "/localcosmos/features/Map/499ab280-4737-43ab-9544-0d4cd363b6bd/499ab280-4737-43ab-9544-0d4cd363b6bd.json",
-        "folder": "/localcosmos/features/Map/499ab280-4737-43ab-9544-0d4cd363b6bd"
     },
     "TaxonProfiles": {
         "genericContentType": "TaxonProfiles",
-        "uuid": "e1131c94-8af8-4d41-8871-80e3e221b520",
-        "name": "Baumporträts",
+        "uuid": "9252c209-a66e-4b7c-8432-c3ad97bca404",
+        "name": "Taxon profiles",
         "description": null,
-        "slug": "26-baumportrats",
-        "version": 4,
-        "folder": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520",
+        "slug": "3-taxon-profiles",
+        "version": 6,
+        "folder": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404",
         "options": {
-            "enableObservationButton": {
-                "id": 1,
-                "uuid": "8cc41abd-89af-4266-846d-14940a5c7a1f",
-                "model": "GenericForm",
-                "action": "GenericForm",
-                "app_label": "generic_forms"
-            },
-            "enableTaxonomicNavigation": true,
-            "enableGbifOccurrenceMapButton": true,
-            "includeOnlyTaxonProfilesFromNatureGuides": true
+            "enableTaxonomicNavigation": true
         },
         "globalOptions": {},
-        "files": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520",
-        "localizedMorphotypeFiles": {
-            "de": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/morphotypes/de"
-        },
+        "files": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404",
         "localizedFiles": {
-            "de": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/de"
+            "en": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/en"
         },
         "localizedRegistries": {
-            "de": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/vernacular/de.json"
+            "en": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/vernacular/en.json"
         },
-        "registry": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/registry.json",
-        "navigation": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/navigation",
-        "featuredProfiles": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/featured_profiles.json",
+        "registry": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/registry.json",
+        "navigation": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/navigation",
+        "featuredProfiles": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/featured_profiles.json",
         "lookup": {
-            "e1131c94-8af8-4d41-8871-80e3e221b520": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/e1131c94-8af8-4d41-8871-80e3e221b520.json"
+            "9252c209-a66e-4b7c-8432-c3ad97bca404": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/9252c209-a66e-4b7c-8432-c3ad97bca404.json"
         },
-        "idToTaxonMap": "/localcosmos/features/TaxonProfiles/e1131c94-8af8-4d41-8871-80e3e221b520/id_to_taxon_map.json"
+        "idToTaxonMap": "/localcosmos/features/TaxonProfiles/9252c209-a66e-4b7c-8432-c3ad97bca404/id_to_taxon_map.json"
     },
     "TemplateContent": {
-        "uuid": "2dbc48ce-a922-4860-a540-825874a592eb",
+        "uuid": "31c7ccbe-0dea-4959-bd41-d5755fd68889",
         "version": 1,
         "options": {},
         "globalOptions": {},
@@ -173,23 +75,23 @@
         "slug": "pages",
         "list": [],
         "lookup": {
-            "055094ac-24ab-4d0c-80df-22a5f549d761": "/localcosmos/features/TemplateContent/de/pages/Story/story-test/story-test.json",
-            "6ca258c5-54b1-49d8-bcc7-e4fc06b0586e": "/localcosmos/features/TemplateContent/de/pages/Article/streams/streams.json"
+            "fa2cbc02-2991-450b-b983-8dde634af4be": "/localcosmos/features/TemplateContent/en/pages/Story/whats-your-name/whats-your-name.json",
+            "593ed3cd-6701-4bdc-8a28-3d6948e049b0": "/localcosmos/features/TemplateContent/en/pages/Collection/stories/stories.json"
         },
         "slugs": {
-            "story-test": {
-                "path": "/localcosmos/features/TemplateContent/de/pages/Story/story-test/story-test.json",
+            "whats-your-name": {
+                "path": "/localcosmos/features/TemplateContent/en/pages/Story/whats-your-name/whats-your-name.json",
                 "templateName": "Story"
             },
-            "streams": {
-                "path": "/localcosmos/features/TemplateContent/de/pages/Article/streams/streams.json",
-                "templateName": "Article"
+            "stories": {
+                "path": "/localcosmos/features/TemplateContent/en/pages/Collection/stories/stories.json",
+                "templateName": "Collection"
             }
         },
         "assignments": {},
         "navigations": {
             "main": {
-                "de": "/localcosmos/features/TemplateContent/de/navigations/main.json"
+                "en": "/localcosmos/features/TemplateContent/en/navigations/main.json"
             }
         }
     }

@@ -40,7 +40,7 @@ const decodeBase64Unicode = (base64String: string): string => {
   }
 };
 
-function positionBubble () {
+const positionBubble = () => {
   if (bubble.value) {
     const leftX = props.x;
     if (leftX + 250 > screen.width) {
@@ -52,7 +52,7 @@ function positionBubble () {
   }
 }
 
-function loadGlossaryEntry () {
+const loadGlossaryEntry = () => {
   if (glossary) {
     const termDefinition = glossary.definition(props.termB64);
     definition.value = t(termDefinition, {ns: 'plain'});

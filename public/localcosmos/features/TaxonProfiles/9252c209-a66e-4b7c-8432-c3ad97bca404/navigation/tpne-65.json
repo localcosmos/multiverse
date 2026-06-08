@@ -1,0 +1,187 @@
+{
+    "name": "Tunicates (Sea squirts & kin)",
+    "description": null,
+    "verboseName": "Tunicates (Sea squirts & kin)",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2472-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2472-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2472-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2473-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2473-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2473-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2422-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2422-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2422-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2505-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2505-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2505-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 3,
+            "minImages": 3,
+            "modeImages": 3
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-66",
+            "parentKey": "tpne-65",
+            "name": "Salps & pyrosomes (Pelagic tunicates)",
+            "verboseName": "Salps & pyrosomes (Pelagic tunicates)",
+            "taxa": [
+                {
+                    "taxonLatname": "Thaliacea",
+                    "taxonAuthor": "Van der Haeven, 1850",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "e4f75bc6-4ba5-484d-bbf3-a3032556a517",
+                    "taxonNuid": "001007002003"
+                },
+                {
+                    "taxonLatname": "Oikopleura",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.custom",
+                    "nameUuid": "4e359501-f4b3-4db5-a4e6-911a6435f400",
+                    "taxonNuid": "00100b001001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2421-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2421-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2421-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2503-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2503-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2503-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2504-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2504-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2504-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2421-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2421-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2421-1000.webp"
+                }
+            },
+            "slug": "salps-pyrosomes-pelagic-tunicates"
+        },
+        {
+            "key": "tpne-67",
+            "parentKey": "tpne-65",
+            "name": "Ascidians (Sea squirts)",
+            "verboseName": "Ascidians (Sea squirts)",
+            "taxa": [
+                {
+                    "taxonLatname": "Ascidiacea",
+                    "taxonAuthor": "Blainville, 1824",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1c2a70fc-85b3-4ddd-a209-86210d083a85",
+                    "taxonNuid": "001007002002"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2474-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2474-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2474-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2475-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2475-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2475-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2476-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2476-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2476-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2474-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2474-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2474-1000.webp"
+                }
+            },
+            "slug": "ascidians-sea-squirts"
+        }
+    ],
+    "taxonProfiles": []
+}

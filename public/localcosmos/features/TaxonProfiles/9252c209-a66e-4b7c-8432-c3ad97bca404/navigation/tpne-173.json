@@ -1,0 +1,262 @@
+{
+    "name": "Codiums",
+    "description": null,
+    "verboseName": "Codiums",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2112-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2112-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2112-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 4,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Codium duthieae",
+            "taxonAuthor": "P.C. Silva, 1956",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "733dcd72-5ee1-4a99-82f2-a14a2741ccf7",
+            "taxonNuid": "003007001003001",
+            "slug": "codium-duthieae",
+            "localizedSlug": {
+                "en": "duthies-upright-codium"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1308-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1308-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1308-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1308-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1308-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1308-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Codium extricatum",
+            "taxonAuthor": "P.C Silva, 1959",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "1daf65eb-9c04-44cf-b451-f12cde5046d9",
+            "taxonNuid": "003007001003002",
+            "slug": "codium-extricatum",
+            "localizedSlug": {
+                "en": "hairy-upright-codium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2110-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2110-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2110-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2109-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2109-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2109-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1309-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1309-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1309-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2111-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2111-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2111-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2110-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2110-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2110-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Codium fragile (Suringar)",
+            "taxonAuthor": "Hariot, 1889",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "7b9929bc-2cf9-45db-aebb-af2b94404a9d",
+            "taxonNuid": "003007001003003",
+            "slug": "codium-fragile-suringar",
+            "localizedSlug": {
+                "en": "fragile-upright-codium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1310-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1310-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1310-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1310-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1310-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1310-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Codium lucasii subsp. capense",
+            "taxonAuthor": "P.C Silva, 1959",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "fcdaf973-fe61-43a6-8d96-6bb98626b3ee",
+            "taxonNuid": "003007001003004",
+            "slug": "codium-lucasii-subsp-capense",
+            "localizedSlug": {
+                "en": "lucas-codium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1311-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1311-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1311-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1311-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1311-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1311-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Codium platylobium",
+            "taxonAuthor": "Areschoug, 1854",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "b794e5a9-404d-4d6a-992a-11f120357cdd",
+            "taxonNuid": "003007001003005",
+            "slug": "codium-platylobium",
+            "localizedSlug": {
+                "en": "flat-lobed-codium"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1815-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1815-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1815-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1815-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1815-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1815-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Codium stephensiae",
+            "taxonAuthor": "C. I. Dickinson, 1932",
+            "taxonSource": "taxonomy.sources.custom",
+            "nameUuid": "e0b6034d-232d-40e0-8ebc-e776f554641e",
+            "taxonNuid": "003007001003006",
+            "slug": "codium-stephensiae",
+            "localizedSlug": {
+                "en": "stephens-codium"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1313-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1313-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1313-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1313-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1313-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1313-1000.webp"
+                }
+            }
+        }
+    ]
+}

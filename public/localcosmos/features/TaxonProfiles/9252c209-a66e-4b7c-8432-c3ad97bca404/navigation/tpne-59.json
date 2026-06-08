@@ -1,0 +1,186 @@
+{
+    "name": "Lesser-known groups",
+    "description": null,
+    "verboseName": "Lesser-known groups",
+    "isTerminalNode": false,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2443-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2443-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2443-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2444-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2444-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2444-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2447-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2447-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2447-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 1,
+            "minImages": 0,
+            "modeImages": 1
+        },
+        "taxonProfiles": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        }
+    },
+    "children": [
+        {
+            "key": "tpne-61",
+            "parentKey": "tpne-59",
+            "name": "Phoronids (horseshoe worms)",
+            "verboseName": "Phoronids (horseshoe worms)",
+            "taxa": [
+                {
+                    "taxonLatname": "Phoronida",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "5a21ff54-ee82-4ff7-954d-28f3a5a37b9d",
+                    "taxonNuid": "00100q"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2448-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2448-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2448-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2448-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2448-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2448-1000.webp"
+                }
+            },
+            "slug": "phoronids-horseshoe-worms"
+        },
+        {
+            "key": "tpne-60",
+            "parentKey": "tpne-59",
+            "name": "Hemichordates (acorn worms)",
+            "verboseName": "Hemichordates (acorn worms)",
+            "taxa": [
+                {
+                    "taxonLatname": "Hemichordata",
+                    "taxonAuthor": "Bateson, 1885",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "c298b58e-c4dd-4fd0-9e4f-e4564fd5caf5",
+                    "taxonNuid": "00100g"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2449-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2449-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2449-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2449-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2449-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2449-1000.webp"
+                }
+            },
+            "slug": "hemichordates-acorn-worms"
+        },
+        {
+            "key": "tpne-62",
+            "parentKey": "tpne-59",
+            "name": "Chaetognaths (arrow worms)",
+            "verboseName": "Chaetognaths (arrow worms)",
+            "taxa": [
+                {
+                    "taxonLatname": "Chaetognatha",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "1fa7a78d-83c9-4e25-817f-124f8e89d3f6",
+                    "taxonNuid": "001006"
+                }
+            ],
+            "images": [],
+            "primaryImage": null,
+            "slug": "chaetognaths-arrow-worms"
+        },
+        {
+            "key": "tpne-63",
+            "parentKey": "tpne-59",
+            "name": "Cephalochordates (lancelets)",
+            "verboseName": "Cephalochordates (lancelets)",
+            "taxa": [
+                {
+                    "taxonLatname": "Cephalochordata",
+                    "taxonAuthor": "",
+                    "taxonSource": "taxonomy.sources.col",
+                    "nameUuid": "6625be5e-d121-4520-beb6-3b7fbc79012f",
+                    "taxonNuid": "001007001"
+                }
+            ],
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2450-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2450-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2450-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2450-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2450-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2450-1000.webp"
+                }
+            },
+            "slug": "cephalochordates-lancelets"
+        }
+    ],
+    "taxonProfiles": []
+}

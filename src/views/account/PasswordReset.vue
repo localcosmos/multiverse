@@ -17,17 +17,17 @@ const validation: AnyObjectSchema = Yup.object({
   email: Yup.string().required().email(),
 });
 
-const resetPassword = ref<Record<string, string>>({
-    email: '',
-});
+const initialData = {
+  email: '',
+};
 
 const resetPasswordEmailSent = ref<boolean>(false);
 
 const submitting = ref<boolean>(false);
 
-const onSubmit = async (data:any, setServerErrors: Function) => {
+const onSubmit = async (data: Record<string, any>, setServerErrors: Function) => {
 
-  const email: string = resetPassword.value.email;
+  const email: string = data.email;
 
   submitting.value = true;
   const result = await LCApi.resetPasswordEmail(email);
@@ -63,10 +63,10 @@ const onSubmit = async (data:any, setServerErrors: Function) => {
           <div v-else>
             <FormWrapper
               :validation="validation"
+              :initial-data="initialData"
               @submit="onSubmit"
             >
               <BasicFormField
-                v-model="resetPassword.email"
                 name="email"
                 :label="$t('user.email')"
                 type="email"

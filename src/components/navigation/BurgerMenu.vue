@@ -4,13 +4,19 @@ import type { GestureEvent } from 'contactjs';
 import { PointerListener, Pan } from 'contactjs';
 import type { PointerListenerOptions } from 'contactjs';
 import type { Frontend } from 'localcosmos-client';
+import { useRouter } from 'vue-router';
 import { useAuthStore } from '@/stores/auth';
+import { useModalsStore, MODAL_TYPES } from '@/stores/modals';
+import { useMainNavigationStore } from '@/stores/main-navigation';
 
 defineProps<{
   isOpen : boolean,
 }>();
 
 const auth = useAuthStore();
+const modals = useModalsStore();
+const mainNavigation = useMainNavigationStore();
+const router = useRouter();
 
 const isInPreviewMode = inject('isInPreviewMode') as boolean;
 const frontend = inject('frontend') as Frontend;
@@ -125,6 +131,18 @@ const panend = (event: GestureEvent) => {
   }
 }
 
+const onMenuClick = () => {
+  if (modals.isModalOpen(MODAL_TYPES.BURGER)) {
+    close();
+  } else {
+    modals.openModal(MODAL_TYPES.BURGER);
+  }
+}
+
+const onBackClick = () => {
+  router.back();
+}
+
 onMounted(() => {
   if (burgerMenu.value) {
 
@@ -152,9 +170,22 @@ onMounted(() => {
       @panend="panend"
     >
       <div>
-        <div class="top">
-          <div class="burger-close cursor-pointer" @click="$emit('closeBurger')">
-            <img src="@/assets/icons/close.svg" />
+        <div
+          v-if="mainNavigation.showBackbutton"
+          @click="onBackClick"
+          class="burger-button cursor-pointer"
+        >
+          <div>
+            <img src="@/assets/icons/back.svg" />
+          </div>
+        </div>
+        <div v-else
+          class="burger-button cursor-pointer"
+          @click="onMenuClick"
+        >
+          <div>
+            <img v-if="isOpen" src="@/assets/icons/close.svg" />
+            <img v-else src="@/assets/icons/menubars.svg" />
           </div>
         </div>
         <div id="burger-content">
@@ -231,7 +262,7 @@ onMounted(() => {
   height: 100dvh; /* new browsers */
   box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.1);
   position: fixed;
-  z-index: 100;
+  z-index: 39;
   top: 0;
   /*right: 0; left: auto;*/
   /*transform: translate3d(103%, 0, 0);*/
@@ -255,25 +286,39 @@ onMounted(() => {
   flex-direction: column;
 }
 
+.burger-button {
+  position: absolute;
+  top: 0;
+  right: calc(var(--header-bar-height) * (-1));
+  width: var(--header-bar-height);
+  height: var(--header-bar-height);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: var(--color-white-translucent-light);
+  border-radius: 0 25px 25px 0;
+  backdrop-filter: none; /** make text below readable */
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+  padding-left: 12px;
+}
+
+.burger-menu.open .burger-button {
+  background: white;
+  box-shadow: none;
+}
+
 .burger-menu .top {
   height: var(--header-bar-height);
   width: 100%;
   flex-grow: 0;
-  z-index: 100;
+  z-index: 39;
   display: flex;
   flex-direction: row;
   align-items: center;
   /*justify-content: flex-start;*/
   justify-content: flex-end;
-}
-
-.burger-close {
-  height: 100%;
-  aspect-ratio: 1/1;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+  position: relative;
 }
 
 .burger-links {
@@ -349,8 +394,8 @@ onMounted(() => {
     background-color: rgba(0,0,0,0.3);
   }
 
-  .burger-menu .top {
-    justify-content: flex-end;
+  .burger-button {
+    display: none;
   }
 }
 
@@ -367,6 +412,10 @@ onMounted(() => {
 
 
 @media (min-width: 1280px) {
+  .burger-button {
+    display: flex;
+    height: var(--desktop-header-bar-height);
+  }
 }
 
 

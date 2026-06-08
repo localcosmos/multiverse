@@ -16,7 +16,7 @@ const props = defineProps<{
     >
     <div class="page-padding-x">
       <div
-        :class="counter == 0 ? 'margin-top' : 'mt-xl'"
+        class="mb-xl mt-2xl"
       >
           <h2>{{ $t(text.taxonTextType) }}</h2>
       </div>
@@ -29,7 +29,7 @@ const props = defineProps<{
           />
       </div>
     </div>
-    <div v-if="text.images" class="w-100">
+    <div v-if="text.images" class="w-100 page-padding-x">
         <ImageCarousel
           :images="text.images"
           :small-images="smallImages"

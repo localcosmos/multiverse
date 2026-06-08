@@ -39,11 +39,17 @@ import { useModalsStore } from '@/stores/modals';
 
 import 'vue-router'
 
+type HeaderMode = 'auto' | 'none' | 'title' | 'tabs' | 'template';
+
 declare module 'vue-router' {
   interface RouteMeta {
     requiresAuth?: boolean,
     requiresAccountFeature?: boolean,
     title?: string,
+    headerTitle?: string,
+    headerMode?: HeaderMode,
+    headerTemplate?: string,
+    headerTemplateProps?: Record<string, unknown>,
     showBackbutton: boolean,
     showObservationCTA?:boolean,
     deactivateMainMenuButton?: boolean,
@@ -60,6 +66,7 @@ const router = createRouter({
       component: HomeView,
       alias: '/index.html',
       meta: {
+        headerMode: 'auto',
         showBackbutton: false,
         showObservationCTA: true,
       }
@@ -69,6 +76,7 @@ const router = createRouter({
       name: 'text',
       component: TextView,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     },
@@ -77,6 +85,7 @@ const router = createRouter({
       name: 'story',
       component: StoryView,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     },
@@ -85,6 +94,7 @@ const router = createRouter({
       name: 'article',
       component: ArticleView,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     },
@@ -93,6 +103,7 @@ const router = createRouter({
       name: 'collection',
       component: CollectionView,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     },
@@ -102,6 +113,7 @@ const router = createRouter({
       component: TaxonProfiles,
       meta: {
         title: 'pageTitles.TaxonProfiles',
+        headerMode: 'tabs',
         showBackbutton: false,
       }
     },
@@ -110,6 +122,7 @@ const router = createRouter({
       name: 'taxon-profiles-node',
       component: TaxonProfiles,
       meta: {
+        headerMode: 'none',
         showBackbutton: true,
       }
     },
@@ -119,6 +132,7 @@ const router = createRouter({
       component: ObservationsHub,
       meta: {
         title: 'pageTitles.ObservationsHub',
+        headerMode: 'title',
         showBackbutton: false,
         showObservationCTA: true,
         requiresAccountFeature: true,
@@ -130,6 +144,7 @@ const router = createRouter({
       component: MyObservations,
       meta: {
         title: 'pageTitles.MyObservations',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -142,6 +157,7 @@ const router = createRouter({
       component: EditObservation,
       meta: {
         title: 'pageTitles.EditObservation',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -154,6 +170,7 @@ const router = createRouter({
       component: EditRemoteObservation,
       meta: {
         title: 'pageTitles.EditObservation',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -165,6 +182,7 @@ const router = createRouter({
       name: 'taxon-profile',
       component: TaxonProfile,
       meta: {
+        headerMode: 'tabs',
         showBackbutton: true,
       }
     },
@@ -173,6 +191,7 @@ const router = createRouter({
       name: 'morphotype-profile',
       component: TaxonProfile,
       meta: {
+        headerMode: 'tabs',
         showBackbutton: true,
       }
     },
@@ -181,6 +200,7 @@ const router = createRouter({
       name: 'taxon-profile-nameuuid',
       component: TaxonProfile,
       meta: {
+        headerMode: 'tabs',
         showBackbutton: true,
       }
     },
@@ -190,6 +210,7 @@ const router = createRouter({
       component: GlossaryView,
       meta: {
         title: 'pageTitles.Glossary',
+        headerMode: 'tabs',
         showBackbutton: false,
         showObservationCTA: false,
       }
@@ -200,6 +221,7 @@ const router = createRouter({
       component: NatureGuidesList,
       meta: {
         title: 'pageTitles.NatureGuidesList',
+        headerMode: 'title',
         showBackbutton: false,
         showObservationCTA: false,
       }
@@ -210,6 +232,7 @@ const router = createRouter({
       component: NatureGuideStart,
       meta: {
         title: 'pageTitles.NatureGuide',
+        headerMode: 'title',
         showBackbutton: false,
         showObservationCTA: false,
       }
@@ -220,6 +243,7 @@ const router = createRouter({
       component: NatureGuide,
       meta: {
         title: 'pageTitles.NatureGuide',
+        headerMode: 'title',
         showBackbutton: true,
         showObservationCTA: false,
       }
@@ -230,6 +254,7 @@ const router = createRouter({
       component: MyAccount,
       meta: {
         title: 'pageTitles.MyAccount',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: true,
         requiresAccountFeature: true,
@@ -241,6 +266,7 @@ const router = createRouter({
       component: RegistrationView,
       meta: {
         title: 'pageTitles.Register',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAccountFeature: true,
       }
@@ -251,6 +277,7 @@ const router = createRouter({
       component: RegistrationSuccessView,
       meta: {
         title: 'pageTitles.RegisterSuccess',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAccountFeature: true,
       }
@@ -261,6 +288,7 @@ const router = createRouter({
       component: UserDeletionSuccess,
       meta: {
         title: 'pageTitles.UserDeletionSuccess',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAccountFeature: true,
       }
@@ -270,6 +298,7 @@ const router = createRouter({
       name: 'password-reset',
       component: PasswordReset,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
         requiresAccountFeature: true,
       }
@@ -280,6 +309,7 @@ const router = createRouter({
       component: UserDetail,
       meta: {
         title: 'pageTitles.UserDetail',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -289,16 +319,25 @@ const router = createRouter({
       path: '/observation-form',
       name: 'observation-form',
       component: ObservationFormView,
+      meta: {
+        showBackbutton: true,
+      }
     },
     {
       path: '/observation-forms',
       name: 'observation-forms-list',
       component: ObservationFormsList,
+      meta: {
+        showBackbutton: true,
+      }
     },
     {
       path: '/observation-form/:slug',
       name: 'observation-form-slug',
       component: ObservationFormView,
+      meta: {
+        showBackbutton: true,
+      }
     },
     {
       path: '/observation-detail/:uuid',
@@ -306,6 +345,7 @@ const router = createRouter({
       component: ObservationDetail,
       meta: {
         title: 'pageTitles.ObservationDetail',
+        headerMode: 'title',
         showBackbutton: true,
         requiresAuth: false,
       }
@@ -314,6 +354,11 @@ const router = createRouter({
       path: '/map',
       name: 'map',
       component: MapView,
+      meta: {
+        headerMode: 'template',
+        headerTemplate: 'map-header',
+        showBackbutton: false,
+      },
       beforeEnter: (to, from) => {
         const mapStore = useMapStore();
         if (from.name === 'observation-detail') {
@@ -329,6 +374,7 @@ const router = createRouter({
       name: 'permission-denied',
       component: PermissionDenied,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     },
@@ -337,6 +383,7 @@ const router = createRouter({
       name: 'legal',
       component: LegalPageView,
       meta: {
+        headerMode: 'auto',
         showBackbutton: false,
         deactivateMainMenuButton: true,
       }
@@ -347,6 +394,7 @@ const router = createRouter({
       component: PrivacySettings,
       meta: {
         title: 'pageTitles.PrivacySettings',
+        headerMode: 'title',
         showBackbutton: true,
       }
     },
@@ -355,6 +403,7 @@ const router = createRouter({
       name: 'not-found',
       component: NotFound,
       meta: {
+        headerMode: 'auto',
         showBackbutton: true,
       }
     }

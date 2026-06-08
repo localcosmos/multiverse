@@ -1,0 +1,133 @@
+{
+    "name": "Reptiles",
+    "description": null,
+    "verboseName": "Reptiles",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2916-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2916-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2916-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Hydrophis platurus",
+            "taxonAuthor": "(Linnaeus, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "51ce6b0d-acd4-40c6-b15f-2da08deb6d05",
+            "taxonNuid": "00100700300200200400600c00300800k012",
+            "slug": "hydrophis-platurus",
+            "localizedSlug": {
+                "en": "yellow-bellied-sea-snake"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-282-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-282-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-282-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-282-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-282-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-282-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Caretta caretta",
+            "taxonAuthor": "(Linnaeus, 1758)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3c1278ec-7a30-4a90-901f-e98e49d45052",
+            "taxonNuid": "001007003002002004007001001001001001",
+            "slug": "caretta-caretta",
+            "localizedSlug": {
+                "en": "loggerhead-turtle"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-283-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-283-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-283-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-283-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-283-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-283-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dermochelys coriacea",
+            "taxonAuthor": "(Vandelli, 1761)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "b8356c13-3ea8-4546-9e51-b95f66465233",
+            "taxonNuid": "001007003002002004007001001002001001",
+            "slug": "dermochelys-coriacea",
+            "localizedSlug": {
+                "en": "leatherback-seaturtle"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-284-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-284-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-284-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-284-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-284-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-284-1000.webp"
+                }
+            }
+        }
+    ]
+}

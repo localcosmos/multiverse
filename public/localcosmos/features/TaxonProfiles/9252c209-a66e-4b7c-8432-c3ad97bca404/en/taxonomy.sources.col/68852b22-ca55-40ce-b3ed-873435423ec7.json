@@ -1,0 +1,194 @@
+{
+    "taxonLatname": "Hymenosoma orbiculare",
+    "taxonAuthor": "Desmarest, 1823",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "68852b22-ca55-40ce-b3ed-873435423ec7",
+    "taxonNuid": "00100300a00600200500600100h00100200e006",
+    "slug": "hymenosoma-orbiculare",
+    "localizedSlug": {
+        "en": "crown-crab"
+    },
+    "gbifNubkey": 5729719,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3057-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3057-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3057-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1072,
+    "vernacular": {
+        "en": "Crown crab"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Crown crab"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>Medium-sized crab usually with pale, mottled brown/green colour, though some known to be red or yellow, often overgrown by microalgae. Carapace (hard upper shell) thin and smooth without granules, dorsally flat with rounded margins, longer than broad. Some setae (hairs) on lateral margins (sides), walking legs with long, fine setae (though juveniles much less setose). Short, triangular spine/projection (rostrum) between eyes. Eyestalks slightly elongated. Four pairs of walking legs long, slender, almost twice carapace width.</p>",
+            "shortTextKey": "taxon_text_1_10135",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Carapace length up to 28 mm.</p>",
+            "shortTextKey": "taxon_text_2_10136",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Regional endemic (Walvis Bay, Namibia and South Africa).</p><p><u>Local/Regional:</u> West coast to East London, intertidal to 5 m depth.</p>",
+            "shortTextKey": "taxon_text_3_10137",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>Found inter- and subtidal in coastal waters, lagoons and estuaries, and in tidal pools as the species is well-adapted to fluctuating salinities. Common in sandy/muddy areas, especially in <i>Zostera</i> beds where they can reach abundances of up to 25 crabs/m2 (Day, 1981). Can be cryptic in their habitat as individuals are usually overgrown by microalgae, but can make up a substantial portion of the benthic biomass in areas they occur in.</p><p>Historically regarded as one species in Southern Africa, but shown to be a species complex with at least five species occurring in South African waters (Edkins et al., 2007, Dawson &amp; Griffiths, 2012). Of these, <i>H. orbiculare </i>is the coastal shallow-water species on the west and south coast, and two deeper water species (around 20m depth) are reported around False Bay.</p>",
+            "shortTextKey": "taxon_text_4_10138",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Opportunistic feeder, known diet includes detritus, small molluscs and crustaceans, as well as microalgae.</p>",
+            "shortTextKey": "taxon_text_5_10139",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>Crown crab males hold the female in a mating embrace prior to the female moulting and then transfer a spermatophore into the female’s genital opening on the ventral basis of the first walking leg. These sperm packages are kept until the female spawns the eggs underneath its body, where the eggs get attached beneath the tail. Here they develop until the larvae are ready to be released into the open water. Incubated embryos showed two zoeal stages for this specific species. Breeding season ranges from winter to spring, with many zoeae (larvae) present during September/October. It is thought that three batches of eggs are produced per breeding season (Hodgson, 2010).&nbsp;</p>",
+            "shortTextKey": "taxon_text_6_10140",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3059-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3059-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3059-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3061-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3061-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3061-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3060-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3060-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3060-1000.webp"
+                    }
+                },
+                {
+                    "text": "<p>Can you spot the female held by the male underneath the body?</p>",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3058-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3058-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3058-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>The most commonly found species of crown crab in the Cape that can be most easily identified by habitat and size, as it is the largest of the South African crown crabs, and only occurs in shallow waters down to 5 m. It is the only species in the Western Cape to occur in lagoons and estuaries, and it has a simple, short rostrum and a fairly smooth carapace with little granulation.</p><p>The two other species recorded around False Bay are only known from deeper waters of about 20 m. <i>Hymenosoma geometricum </i>has a more triangular body, as well as a longer rostrum (extending past the eyes), more spines on the frontal carapace, and all of these are all covered by granules. <i>Hymenosoma trilobatum </i>has a short, trilobed rostrum (not extending the eyes), and a more granular carapace especially near the posterior-lateral border.</p>",
+            "shortTextKey": "taxon_text_7_10141",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3057-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3057-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3057-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3057-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3057-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3057-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3056-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3056-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3056-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3055-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3055-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3055-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

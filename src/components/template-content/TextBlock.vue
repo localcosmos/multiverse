@@ -8,7 +8,7 @@ const props = defineProps<{
 
 
 <template>
-  <div>
+  <div class="page-padding-x pb-xl">
     <div v-html="textBlock.text"></div>
     <div v-if="textBlock.image">
       <ImageWithLicence

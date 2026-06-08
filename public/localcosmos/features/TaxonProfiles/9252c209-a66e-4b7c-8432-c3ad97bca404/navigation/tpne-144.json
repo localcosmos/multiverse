@@ -1,0 +1,253 @@
+{
+    "name": "Soles & Tonguefishes",
+    "description": "Soles (the related flounders), as well as tonguefishes are easily recognised as a group, as they have become extremely flattened and lie on their sides, often partially buried in sediment. The eye from the lower, unpigmented, side of the body has migrated to the upper side, which is typically cryptically patterned. \r\n\r\nSoles lie on their left sides with both eyes placed on their right. Identification to species level is difficult, as there are about 50 regional species and colour patterns are both extremely variable within species and can quickly change in the same individual to match the background. Tonguefish lie on their right side (not left side, as in soles) with both eyes displaced onto the left side. The pectoral fin is absent and the dorsal and anal fins join seamlessly to the anal fin, so the fish comes to a point at the posterior end.",
+    "verboseName": "Soles & Tonguefishes",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1327-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1327-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1327-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1322-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1322-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1322-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1319-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1319-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1319-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 5,
+            "minImages": 3,
+            "modeImages": 5
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Heteromycteris capensis",
+            "taxonAuthor": "Kaup, 1858",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "f8a85d4b-90ac-4ed9-93d6-b6f5291cbbe4",
+            "taxonNuid": "00100700300200200100y00b00d001",
+            "slug": "heteromycteris-capensis",
+            "localizedSlug": {
+                "en": "cape-sole"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1324-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1324-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1324-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2410-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2410-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2410-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1323-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1323-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1323-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2603-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2603-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2603-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-261-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-261-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-261-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1324-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1324-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1324-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Solea turbynei",
+            "taxonAuthor": "Gilchrist, 1904",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "19bbc580-0a54-4448-a38e-542feadace87",
+            "taxonNuid": "00100700300200200100y00b00p009",
+            "slug": "solea-turbynei",
+            "localizedSlug": {
+                "en": "blackhand-sole"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1325-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1325-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1325-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1326-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1326-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1326-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1328-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1328-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1328-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1325-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1325-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1325-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Cynoglossus capensis",
+            "taxonAuthor": "(Kaup, 1858)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "388aa125-0234-4db4-8dc2-096ec9c958e4",
+            "taxonNuid": "00100700300200200100y00500100b",
+            "slug": "cynoglossus-capensis",
+            "localizedSlug": {
+                "en": "sand-tonguefish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1321-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1321-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1321-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1240-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1240-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1240-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1241-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1241-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1241-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1242-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1242-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1242-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1232-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1232-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1232-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1321-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1321-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1321-1000.webp"
+                }
+            }
+        }
+    ]
+}

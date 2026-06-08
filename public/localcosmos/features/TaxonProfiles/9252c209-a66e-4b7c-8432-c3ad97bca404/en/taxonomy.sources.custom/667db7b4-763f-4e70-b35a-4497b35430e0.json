@@ -1,0 +1,56 @@
+{
+    "taxonLatname": "Pedicellina choanata",
+    "taxonAuthor": "O'Donoghue, 1924",
+    "taxonSource": "taxonomy.sources.custom",
+    "nameUuid": "667db7b4-763f-4e70-b35a-4497b35430e0",
+    "taxonNuid": "001007001001",
+    "slug": "pedicellina-choanata-2",
+    "localizedSlug": {
+        "en": "pedicellina-choanata"
+    },
+    "gbifNubkey": 5188749,
+    "image": null,
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1084,
+    "vernacular": {
+        "en": "Pedicellina choanata"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Pedicellina choanata"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Further reading / References",
+            "shortText": "O'donoghue, CH & Day, JH (1957). Some South African Bryozoa. <i>Transactions of the Royal Society of South Africa</i>, 35(2), 71-95.",
+            "shortTextKey": "taxon_text_8_10368",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": null,
+        "taxonProfileImages": [],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

@@ -1,0 +1,173 @@
+{
+    "name": "Mullets, Sardines & Anchovies",
+    "description": null,
+    "verboseName": "Mullets, Sardines & Anchovies",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1340-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1340-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1340-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1567-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1567-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1567-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1578-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1578-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1578-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 3,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Sardinops sagax",
+            "taxonAuthor": "(Jenyns, 1842)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d10bfb40-a6a9-4a48-aa3c-9ea86763566d",
+            "taxonNuid": "00100700300200200100d002018001",
+            "slug": "sardinops-sagax",
+            "localizedSlug": {
+                "en": "pilchard"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1338-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1338-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1338-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1338-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1338-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1338-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Gonorynchus gonorynchus",
+            "taxonAuthor": "(Linnaeus, 1766)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "84809644-933f-46db-bdec-f0ebddb2899c",
+            "taxonNuid": "00100700300200200100l002001003",
+            "slug": "gonorynchus-gonorynchus",
+            "localizedSlug": {
+                "en": "beaked-sandfish"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-254-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-254-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-254-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1558-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1558-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1558-1000.webp"
+                    }
+                },
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1559-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1559-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1559-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-254-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-254-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-254-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Chelon richardsonii",
+            "taxonAuthor": "(Smith, 1846)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "a43f2eb5-4d7c-42c5-aae9-78f0bfe001d0",
+            "taxonNuid": "00100700300200200100q001005009",
+            "slug": "chelon-richardsonii",
+            "localizedSlug": {
+                "en": "southern-mullet"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-255-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-255-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-255-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-255-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-255-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-255-1000.webp"
+                }
+            }
+        }
+    ]
+}

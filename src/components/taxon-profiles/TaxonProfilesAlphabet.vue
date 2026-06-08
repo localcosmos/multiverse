@@ -60,8 +60,8 @@ const startLetterTaxa = computed(() => {
   flex-direction: column; /* Default to a single-column layout */
   width: 100%;
   align-items: center;
-  padding-left: var(--size-md);
-  padding-right: var(--size-md);
+  padding-left: var(--size-xl);
+  padding-right: var(--size-xl);
 }
 
 .alphabet-list > div {
@@ -72,12 +72,12 @@ const startLetterTaxa = computed(() => {
   .alphabet-list {
     display: grid; /* Switch to grid layout */
     grid-template-columns: repeat(2, 1fr); /* Two columns for medium screens */
-    gap: var(--size-md); /* Add spacing between grid items */
+    gap: var(--size-xl); /* Add spacing between grid items */
   }
 
   .alphabet-list-container {
-    padding-left: var(--size-md);
-    padding-right: var(--size-md);
+    padding-left: var(--size-xl);
+    padding-right: var(--size-xl);
   }
 }
 

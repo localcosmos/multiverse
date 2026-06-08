@@ -1,0 +1,153 @@
+{
+    "name": "Snakelet & Brotulas",
+    "description": "While snakelets and brotulas are only distantly related, they are grouped together here for practical reasons, as they share a somewhat similar body shape and lifestyles.",
+    "verboseName": "Snakelet & Brotulas",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1316-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1316-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1316-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1330-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1330-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1330-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-1331-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-1331-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-1331-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 1,
+            "minImages": 1,
+            "modeImages": 1
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Bidenichthys capensis",
+            "taxonAuthor": "Barnard, 1934",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "fcc38d2d-ee29-4c39-9b41-80515a4ebd27",
+            "taxonNuid": "00100700300200200100t002006002",
+            "slug": "bidenichthys-capensis",
+            "localizedSlug": {
+                "en": "freetail-brotula"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-256-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-256-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-256-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-256-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-256-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-256-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Dermatopsoides talboti",
+            "taxonAuthor": "Cohen, 1966",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "5e8e0c86-5a03-4fb5-8ee8-30dd9bc4164f",
+            "taxonNuid": "00100700300200200100t00200h004",
+            "slug": "dermatopsoides-talboti",
+            "localizedSlug": {
+                "en": "lesser-orange-brotula"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-257-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-257-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-257-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-257-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-257-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-257-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Halidesmus scapularis",
+            "taxonAuthor": "Günther, 1872",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "7c9f8397-e967-4077-b86e-fc8096f13723",
+            "taxonNuid": "00100700300200200100w03l009003",
+            "slug": "halidesmus-scapularis",
+            "localizedSlug": {
+                "en": "snakelet"
+            },
+            "images": [
+                {
+                    "text": null,
+                    "altText": null,
+                    "title": null,
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-1279-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-1279-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-1279-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": null,
+                "altText": null,
+                "title": null,
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-1279-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-1279-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-1279-1000.webp"
+                }
+            }
+        }
+    ]
+}

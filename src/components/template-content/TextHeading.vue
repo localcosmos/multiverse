@@ -7,7 +7,9 @@ const props = defineProps<{
 </script>
 
 <template>
-  <h2 class="text-heading" v-html="heading.heading"></h2>
+  <div class="page-padding-x pb-lg">
+    <h2 class="h2" v-html="heading.heading"></h2>
+  </div>
 </template>
 
 <style scoped>

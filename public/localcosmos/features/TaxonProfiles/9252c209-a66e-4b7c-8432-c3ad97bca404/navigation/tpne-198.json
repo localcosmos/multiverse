@@ -1,0 +1,495 @@
+{
+    "name": "Solitary ascidians",
+    "description": null,
+    "verboseName": "Solitary ascidians",
+    "isTerminalNode": true,
+    "isStartNode": false,
+    "images": [
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2517-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2517-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2517-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2526-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2526-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2526-1000.webp"
+            }
+        },
+        {
+            "text": null,
+            "altText": null,
+            "title": null,
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-2516-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-2516-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-2516-1000.webp"
+            }
+        }
+    ],
+    "imageAnalysis": {
+        "nodes": {
+            "maxImages": 0,
+            "minImages": 0,
+            "modeImages": 0
+        },
+        "taxonProfiles": {
+            "maxImages": 7,
+            "minImages": 1,
+            "modeImages": 4
+        }
+    },
+    "children": [],
+    "taxonProfiles": [
+        {
+            "taxonLatname": "Ascidia canaliculata",
+            "taxonAuthor": "Heller, 1878",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "d53d0f0e-c066-4544-8161-01b51dc7dcba",
+            "taxonNuid": "00100700200200200200100i",
+            "slug": "ascidia-canaliculata",
+            "localizedSlug": {
+                "en": "channeled-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2274-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2274-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2274-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2270-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2270-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2270-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2453-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2453-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2453-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2437-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2437-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2437-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2274-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2274-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2274-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pyura herdmani",
+            "taxonAuthor": "(Drasche, 1884)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "59e68c27-3227-48e7-b084-f894172ad99e",
+            "taxonNuid": "00100700200200300200g010",
+            "slug": "pyura-herdmani",
+            "localizedSlug": {
+                "en": "herdmans-red-bait"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2470-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2470-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2470-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2469-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2469-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2469-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2468-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2468-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2468-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2471-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2471-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2471-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2470-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2470-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2470-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Pyura stolonifera",
+            "taxonAuthor": "(Heller, 1878)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "61598141-9990-4201-a2f4-45526de77cab",
+            "taxonNuid": "00100700200200300200g02b",
+            "slug": "pyura-stolonifera",
+            "localizedSlug": {
+                "en": "red-bait"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2498-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2498-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2498-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2502-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2502-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2502-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2499-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2499-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2499-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-644-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-644-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-644-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2500-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2500-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2500-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2501-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2501-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2501-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2498-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2498-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2498-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ascidia incrassata",
+            "taxonAuthor": "Heller, 1878",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "2f9e8e12-0cb6-4a82-af0e-6ab42bdfcf27",
+            "taxonNuid": "00100700200200200200101f",
+            "slug": "ascidia-incrassata",
+            "localizedSlug": {
+                "en": "red-spotted-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2454-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2454-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2454-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2452-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2452-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2452-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2451-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2451-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2451-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-459-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-459-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-459-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2457-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2457-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2457-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2459-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2459-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2459-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2460-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2460-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2460-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-2454-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-2454-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-2454-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Asterocarpa humilis",
+            "taxonAuthor": "(Heller, 1878)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "3efa8a16-868b-4cec-a446-3f5cb4d48b53",
+            "taxonNuid": "001007002002003003004002",
+            "slug": "asterocarpa-humilis",
+            "localizedSlug": {
+                "en": "leathery-seasquirt"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-460-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-460-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-460-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-460-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-460-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-460-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Styela angularis",
+            "taxonAuthor": "(Stimpson, 1855)",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "e7daec6f-0277-4c44-9c4c-fe2f3765e1bb",
+            "taxonNuid": "00100700200200300300z003",
+            "slug": "styela-angularis",
+            "localizedSlug": {
+                "en": "angular-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-655-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-655-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-655-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-655-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-655-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-655-1000.webp"
+                }
+            }
+        },
+        {
+            "taxonLatname": "Ascidia caudata",
+            "taxonAuthor": "Heller, 1878",
+            "taxonSource": "taxonomy.sources.col",
+            "nameUuid": "24969786-7254-4bd4-9c30-e088c5a74a2a",
+            "taxonNuid": "00100700200200200200100l",
+            "slug": "ascidia-caudata",
+            "localizedSlug": {
+                "en": "crevice-ascidian"
+            },
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3018-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3018-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3018-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2439-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2439-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2439-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2438-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2438-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2438-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2440-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2440-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2440-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-2441-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-2441-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-2441-1000.webp"
+                    }
+                }
+            ],
+            "primaryImage": {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3018-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3018-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3018-1000.webp"
+                }
+            }
+        }
+    ]
+}

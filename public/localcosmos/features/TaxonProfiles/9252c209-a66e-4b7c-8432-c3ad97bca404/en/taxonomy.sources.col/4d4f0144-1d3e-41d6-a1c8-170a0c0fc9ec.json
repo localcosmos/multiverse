@@ -1,0 +1,214 @@
+{
+    "taxonLatname": "Melibe rosea",
+    "taxonAuthor": "Rang, 1829",
+    "taxonSource": "taxonomy.sources.col",
+    "nameUuid": "4d4f0144-1d3e-41d6-a1c8-170a0c0fc9ec",
+    "taxonNuid": "00100k00700d00300200100100100300800100f",
+    "slug": "melibe-rosea",
+    "localizedSlug": {
+        "en": "rosy-monkdragon"
+    },
+    "gbifNubkey": 4360147,
+    "image": {
+        "text": "",
+        "altText": "",
+        "title": "",
+        "imageUrl": {
+            "1x": "/localcosmos/user_content/content_images/image-3214-250.webp",
+            "2x": "/localcosmos/user_content/content_images/image-3214-500.webp",
+            "4x": "/localcosmos/user_content/content_images/image-3214-1000.webp"
+        }
+    },
+    "shortProfile": null,
+    "hasTaxonProfile": true,
+    "taxonProfileId": 1085,
+    "vernacular": {
+        "en": "Rosy monkdragon"
+    },
+    "allVernacularNames": {
+        "en": [
+            "Rosy monkdragon",
+            "cowled nudibranch"
+        ]
+    },
+    "nodeNames": [],
+    "nodeDecisionRules": [],
+    "traits": [],
+    "texts": [
+        {
+            "taxonTextType": "Previous names",
+            "shortText": "<p>Cowled nudibranch</p>",
+            "shortTextKey": "taxon_text_9_10380",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Identification features",
+            "shortText": "<p>A medium-sized cladobranch with very prominent, paired globular lateral lobes (ceratal papillae) which are slightly pointed. Unusual in having an oral hood of head or cowl (hence the name) that can be extended for catching prey. Hood covered with very low rounded tubercles and fringed with numerous papillae (resembling ‘soft teeth’). Can be observed in a variety of colours ranging from pink, white, creamy or red. Rhinophoral sheaths (enveloping the rhinophore sensory organ on the head) same colour as body, rhinophores slightly darker. Notum (dorsal surface of body) occasionally with opaque white speckling.</p>",
+            "shortTextKey": "taxon_text_1_10381",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Adult size",
+            "shortText": "<p>Body length up to 50 mm.</p>",
+            "shortTextKey": "taxon_text_2_10382",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Distribution",
+            "shortText": "<p><u>Global:</u> Endemic to southern Africa.</p><p><u>Local/Regional:</u> southern Namibia to Eastern Cape, intertidal to 10 m.</p>",
+            "shortTextKey": "taxon_text_3_10383",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Biology",
+            "shortText": "<p>A relatively common species, usually found intertidally under rocks and crevices, mostly observed in pairs or groups. Avid predators of smaller invertebrates using their hood as a net cast over the prey. Slow-moving but can swim using side-to-side undulations.</p>",
+            "shortTextKey": "taxon_text_4_10384",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        },
+        {
+            "taxonTextType": "Food / prey",
+            "shortText": "<p>Diet not specifically studied in detail for this species, but the oral hood is extended into a considerably wide elastic cowled ‘web’ that is cast over the benthic habitat to trap small crustaceans and molluscs underneath. This cowl is then closed on the rim and the organisms trapped inside are slowly digested.&nbsp;</p>",
+            "shortTextKey": "taxon_text_5_10385",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3220-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3220-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3220-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3219-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3219-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3219-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Reproduction",
+            "shortText": "<p>The species is hermaphrodite. The egg ribbon is a small, neat pale-yellow rosette.</p>",
+            "shortTextKey": "taxon_text_6_10386",
+            "longText": null,
+            "longTextKey": null,
+            "images": [
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3222-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3222-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3222-1000.webp"
+                    }
+                },
+                {
+                    "text": "",
+                    "altText": "",
+                    "title": "",
+                    "imageUrl": {
+                        "1x": "/localcosmos/user_content/content_images/image-3223-250.webp",
+                        "2x": "/localcosmos/user_content/content_images/image-3223-500.webp",
+                        "4x": "/localcosmos/user_content/content_images/image-3223-1000.webp"
+                    }
+                }
+            ]
+        },
+        {
+            "taxonTextType": "Similar species",
+            "shortText": "<p>Can be confused with the Dinosaur monkdragon <i>Melibe liltvedi</i>, though <i>Melibe rosea</i> is smaller, is rarely white in colour, has a shallower distribution and lacks an appendage posterior to rhinophoral sheaths. Preliminary evidence shows that this species may be part of a species complex constituting several species.</p>",
+            "shortTextKey": "taxon_text_7_10387",
+            "longText": null,
+            "longTextKey": null,
+            "images": []
+        }
+    ],
+    "categorizedTexts": [],
+    "images": {
+        "primary": {
+            "text": "",
+            "altText": "",
+            "title": "",
+            "imageUrl": {
+                "1x": "/localcosmos/user_content/content_images/image-3214-250.webp",
+                "2x": "/localcosmos/user_content/content_images/image-3214-500.webp",
+                "4x": "/localcosmos/user_content/content_images/image-3214-1000.webp"
+            }
+        },
+        "taxonProfileImages": [
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3214-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3214-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3214-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3216-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3216-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3216-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3221-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3221-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3221-1000.webp"
+                }
+            },
+            {
+                "text": "",
+                "altText": "",
+                "title": "",
+                "imageUrl": {
+                    "1x": "/localcosmos/user_content/content_images/image-3217-250.webp",
+                    "2x": "/localcosmos/user_content/content_images/image-3217-500.webp",
+                    "4x": "/localcosmos/user_content/content_images/image-3217-1000.webp"
+                }
+            }
+        ],
+        "nodeImages": [],
+        "taxonImages": []
+    },
+    "synonyms": [],
+    "templateContents": [],
+    "genericForms": [],
+    "taxonRelationships": [],
+    "tags": [],
+    "seo": {
+        "title": null,
+        "metaDescription": null
+    },
+    "externalMedia": [],
+    "morphotypeProfiles": [],
+    "isFeatured": false
+}

@@ -121,7 +121,7 @@ onMounted( async () => {
 
 <template>
   <ContentContainer>
-    <div class="page page-padding">
+    <div class="page subheader-page-padding">
       <div class="container">
         <div class="mb-xl">
           <SyncObservationsModal @sync-complete="onSyncComplete" />

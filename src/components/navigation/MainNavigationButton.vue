@@ -210,7 +210,7 @@ onMounted( () => {
 
 .navbuttontext {
   font-size: 11px;
-  font-family: 'UbuntuCondensed';
+  font-family: 'Inter Tight', sans-serif;
   text-align: center;
   height: 16px;
   text-overflow: ellipsis;
@@ -324,7 +324,7 @@ onMounted( () => {
     width: auto;
     font-size: 16px;
     height: auto;
-    font-family: "Ubuntu";
+    font-family: "Inter Tight", sans-serif;
     padding-right: 12px;
   }
 
