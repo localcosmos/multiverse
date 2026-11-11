@@ -16,6 +16,7 @@ import TextareaInput from './fields/TextareaInput.vue';
 import ChoiceField from './fields/ChoiceField.vue';
 import CheckboxField from './fields/CheckboxField.vue';
 import MultipleChoiceField from './fields/MultipleChoiceField.vue';
+import ObjectClassField from './fields/ObjectClassField.vue';
 
 import FormWrapper from '@/components/forms/FormWrapper.vue';
 import AsyncButton from '@/components/ui/AsyncButton.vue';
@@ -76,6 +77,8 @@ const componentForField = (genericField: GenericFormField) => {
       return CheckboxField;
     case GenericFormFieldType.MultipleChoiceField:
       return MultipleChoiceField;
+    case GenericFormFieldType.ObjectClassField:
+      return ObjectClassField;
     default:
       return GenericBasicField;
     // throw new Error(`Unknown field class: ${genericField.fieldClass}`);
@@ -160,6 +163,9 @@ const validationForField = (field: GenericFormField) => {
       break;
     }
     case GenericFormFieldType.TaxonField:
+      fieldValidation = Yup.string();
+      break;
+    case GenericFormFieldType.ObjectClassField:
       fieldValidation = Yup.string();
       break;
     case GenericFormFieldType.DateTimeJSONField:

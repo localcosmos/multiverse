@@ -22,10 +22,10 @@ if (props.taxon) {
 </script>
 
 <template>
-  <div class="dataset-card bg-solid">
-    <div class="dataset-image" :style="`background-image: url(${image});`">
+  <div class="dataset-card">
+    <div class="dataset-card__image" :style="`background-image: url(${image});`">
     </div>
-    <div class="dataset-card-footer">
+    <div class="dataset-card__footer">
       <div>
         <TaxonName
           v-if="taxon"
@@ -35,31 +35,45 @@ if (props.taxon) {
           :single-line="true"
         />
       </div>
-      <div class="observation-date">
+      <div class="dataset-card__observation-date">
         {{ date?.toLocaleDateString() }}
       </div>
     </div>
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --dataset-card-bg: #FFF;
+    --darkmode-dataset-card-bg: #000;
+    --dataset-card__observation-date-color: rgb(150, 150, 150);
+    --darkmode-dataset-card__observation-date-color: rgb(150, 150, 150);
+  }
+}
+
 .dataset-card {
   box-shadow: var(--box-shadow);
   border-radius: var(--border-radius);
   width: 100%;
+  background: var(--dataset-card-bg);
 }
 
-.dataset-image {
+body.dark .dataset-card {
+  background: var(--darkmode-dataset-card-bg);
+}
+
+.dataset-card__image {
   border-radius: var(--border-radius);
   aspect-ratio: 1/1;
   background-size: cover;
 }
 
-.dataset-card-footer {
+.dataset-card__footer {
   padding: var(--size-md)
 }
 
-.observation-date {
-  color: var(--color-grey);
+.dataset-card__observation-date {
+  color: var(--dataset-card__observation-date-color);
 }
 </style>

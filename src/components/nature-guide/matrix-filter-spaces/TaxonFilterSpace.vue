@@ -39,7 +39,7 @@ const { toggleSelection } = useFilterSpace(props.space, props.readOnly);
   align-items: center;
   justify-content: center;
   /*padding: var(--size-md);*/
-  background: var(--color-white-translucent-light);
+  background: var(--bg-translucent-light);
 }
 </style>
 

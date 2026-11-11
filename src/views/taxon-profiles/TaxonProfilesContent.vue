@@ -1,53 +1,59 @@
 <script setup lang="ts">
-import { ref, inject, computed } from 'vue';
-import { useTabsStore } from '@/stores/tabs';
-import { useLetterSelectorStore } from '@/stores/letter-selector';
-import ContentContainer from '@/components/container/ContentContainer.vue';
-import { t } from 'i18next';
-import TabbedPage from '@/components/container/TabbedPage.vue';
-import { PhMagnifyingGlass } from '@phosphor-icons/vue';
+import { ref, inject, computed } from "vue";
+import { useTabsStore } from "@/stores/tabs";
+import { useLetterSelectorStore } from "@/stores/letter-selector";
+import { t } from "i18next";
+import TabbedPage from "@/components/container/TabbedPage.vue";
+import { PhMagnifyingGlass } from "@phosphor-icons/vue";
 
-import type { Features, TaxonProfiles, SearchTaxon } from 'localcosmos-client';
-import type { TabButtonDefinition } from '@/types/navigation';
-import { TabButtonType } from '@/types/navigation';
+import type { Features, TaxonProfiles, SearchTaxon } from "localcosmos-client";
+import type { TabButtonDefinition } from "@/types/navigation";
+import { TabButtonType } from "@/types/navigation";
 
-import TaxonProfilesNavigation from '@/components/taxon-profiles/TaxonProfilesNavigation.vue';
-import TaxonProfilesAlphabet from '@/components/taxon-profiles/TaxonProfilesAlphabet.vue';
-import TaxonProfilesSearch from '@/components/taxon-profiles/TaxonProfilesSearch.vue';
+import GradientContainer from "@/components/container/GradientContainer.vue";
+import { useAppSettingsStore } from "@/stores/app-settings";
+
+const appSettings = useAppSettingsStore();
+import TaxonProfilesNavigation from "@/components/taxon-profiles/TaxonProfilesNavigation.vue";
+import TaxonProfilesAlphabet from "@/components/taxon-profiles/TaxonProfilesAlphabet.vue";
+import TaxonProfilesSearch from "@/components/taxon-profiles/TaxonProfilesSearch.vue";
 
 const props = defineProps<{
-  slug: string,
+  slug: string;
 }>();
 
-const taxonProfiles = inject('taxonProfiles') as TaxonProfiles;
-const features = inject('features') as Features;
+const taxonProfiles = inject("taxonProfiles") as TaxonProfiles;
+const features = inject("features") as Features;
 
-let nodeKey = 'start';
+let nodeKey = "start";
 
 if (props.slug in taxonProfiles.navigationSlugs) {
   nodeKey = taxonProfiles.navigationSlugs[props.slug];
 }
 
-const tabButtons:TabButtonDefinition[] = [
+const tabButtons: TabButtonDefinition[] = [
   {
-    text: t('taxonProfiles.Alphabet'),
+    text: t("taxonProfiles.Alphabet"),
     tabIndex: 2,
     type: TabButtonType.ALPHABET,
     letters: taxonProfiles.startLetters.vernacular,
   },
   {
-    text: t('taxonProfiles.Search'),
+    text: t("taxonProfiles.Search"),
     icon: PhMagnifyingGlass,
     tabIndex: 3,
     type: TabButtonType.SEARCH,
-  }
+  },
 ];
 
 let taxonProfilesNavigation = false;
-if (features.TaxonProfiles.options && features.TaxonProfiles.options.enableTaxonomicNavigation) {
+if (
+  features.TaxonProfiles.options &&
+  features.TaxonProfiles.options.enableTaxonomicNavigation
+) {
   taxonProfilesNavigation = true;
-  const groupsButton =   {
-    text: t('taxonProfiles.Groups'),
+  const groupsButton = {
+    text: t("taxonProfiles.Groups"),
     tabIndex: 1,
     type: TabButtonType.STANDARD,
   };
@@ -57,25 +63,28 @@ if (features.TaxonProfiles.options && features.TaxonProfiles.options.enableTaxon
 const tabsStore = useTabsStore();
 const letterSelectorStore = useLetterSelectorStore();
 
-if (nodeKey === 'start') {
-  letterSelectorStore.registerLetterSelector('taxon-profiles');
+if (nodeKey === "start") {
+  letterSelectorStore.registerLetterSelector("taxon-profiles");
 }
 
-const selectedLetter = computed(() => letterSelectorStore.letters['taxon-profiles']?.selectedLetter ?? null);
-const searchText = computed(() => tabsStore.tabs['taxon-profiles']?.searchText ?? '');
+const selectedLetter = computed(
+  () => letterSelectorStore.letters["taxon-profiles"]?.selectedLetter ?? null,
+);
+const searchText = computed(
+  () => tabsStore.tabs["taxon-profiles"]?.searchText ?? "",
+);
 
 const randomTaxa = ref<SearchTaxon[]>([]);
 
 const getNewRandomTaxa = () => {
   randomTaxa.value = taxonProfiles.getRandomTaxonProfiles(4, true);
 };
-
 </script>
 
 <template>
-  <ContentContainer>
+  <GradientContainer :gradient-type="appSettings.isDark ? 'dark' : 'light'">
     <div
-      class="page"
+      class="taxon-profiles-content page"
       :class="nodeKey == 'start' ? 'subheader-padding-top' : 'page-padding-top'"
     >
       <div class="container page-padding-bottom">
@@ -83,24 +92,27 @@ const getNewRandomTaxa = () => {
           v-if="nodeKey == 'start'"
           id="taxon-profiles"
           :tabs="tabButtons"
+          :initial-tab="taxonProfilesNavigation ? 1 : 2"
           :explode-on-large-screens="false"
           :show-nav-on-large-screens="true"
         >
           <template #tab1>
             <div v-if="taxonProfilesNavigation">
-              <TaxonProfilesNavigation :node-key="nodeKey" class="padding-top-xl" />
+              <TaxonProfilesNavigation
+                :node-key="nodeKey"
+                class="padding-top-xl"
+              />
             </div>
           </template>
           <template #tab2>
             <TaxonProfilesAlphabet
-              class="letter-padding"
+              class="taxon-profiles-content__letter-padding"
               :selected-letter="selectedLetter"
             />
           </template>
           <template #tab3>
             <div class="pt-m">
               <TaxonProfilesSearch
-                class="page-padding-x"
                 :search-text="searchText"
               />
             </div>
@@ -114,11 +126,35 @@ const getNewRandomTaxa = () => {
         </div>
       </div>
     </div>
-  </ContentContainer>
+  </GradientContainer>
 </template>
 
-<style scoped>
-.letter-padding {
+<style>
+@layer defaults {
+  :root {
+    --taxon-profiles-content-bg: #FFF;
+    --taxon-profiles-content-text-color: #000;
+    --taxon-profiles-content-box-shadow: #fff;
+
+    --darkmode-taxon-profiles-content-bg: #000;
+    --darkmode-taxon-profiles-content-text-color: #FFF;
+    --darkmode-taxon-profiles-content-box-shadow: 0 0 60px 40px #000;
+  }
+}
+
+.taxon-profiles-content {
+  background: var(--taxon-profiles-content-bg);
+  color: var(--taxon-profiles-content-text-color);
+  box-shadow: var(--taxon-profiles-content-box-shadow);
+}
+
+body.dark .taxon-profiles-content {
+  background: var(--darkmode-taxon-profiles-content-bg);
+  color: var(--darkmode-taxon-profiles-content-text-color);
+  box-shadow: var(--darkmode-taxon-profiles-content-box-shadow);
+}
+
+.taxon-profiles-content__letter-padding {
   padding-top: calc(var(--header-bar-height) + var(--size-xl));
 }
 
@@ -126,17 +162,16 @@ const getNewRandomTaxa = () => {
 }
 
 @media (min-width: 768px) {
-  .letter-padding {
+  .taxon-profiles-content__letter-padding {
     padding-top: calc(var(--desktop-tabs-navigation-height) + var(--size-xl));
   }
 }
 
 @media (min-width: 1024px) {
-
 }
 
 @media (min-width: 1280px) {
-  .letter-padding {
+  .taxon-profiles-content__letter-padding {
     padding-top: calc(var(--desktop-tabs-navigation-height) + var(--size-xl));
   }
 }

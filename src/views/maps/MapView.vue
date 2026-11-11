@@ -52,7 +52,7 @@ const onFinalClick = (event:MouseEvent, markerList: ReadOnlyDataset[]) => {
     if (mapPopupOverlay.value) {
       mapPopupOverlay.value.setPosition(coordinates);
     }
-    
+
     const mapView = map.value?.map.getView();
     const center = mapView.getCenter();
     const zoom = mapView.getZoom();
@@ -65,7 +65,7 @@ const onFinalClick = (event:MouseEvent, markerList: ReadOnlyDataset[]) => {
 };
 
 const onGotClusters = async () => {
-  
+
 };
 
 const anyclusterSettings: AnyclusterClientSettings = {
@@ -97,8 +97,8 @@ const closeMapPopup = () => {
 const initializeMapPopup = () => {
 
   const popupElement = document.getElementById('mapPopupContainer');
-  
-  if (popupElement && map.value) {    
+
+  if (popupElement && map.value) {
     const overlay = new Overlay({
       element: popupElement,
       autoPan: {
@@ -166,7 +166,7 @@ onMounted(async () => {
   <OnlinePage>
     <div class="map-container">
       <div id="ObservationsMap"></div>
-      
+
       <div
         id="mapPopupContainer"
         v-show="overlayOpen"
@@ -190,7 +190,7 @@ onMounted(async () => {
 .map-container {
   width: 100vw;
   height: 100vh;
-  background-color: var(--color-white-translucent);
+  background-color: var(--bg-translucent);
   position: relative;
 }
 

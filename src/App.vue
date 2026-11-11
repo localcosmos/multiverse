@@ -2,8 +2,9 @@
 import type { LicenceBubbleParameters } from './types/licences';
 import type { GlossaryBubbleParameters } from './types/glossary';
 
-import { ref, provide, onMounted, onUnmounted } from 'vue';
-import { useRouter } from 'vue-router';
+import { ref, provide, onMounted, onUnmounted, computed, watch } from 'vue';
+import { useRouter, useRoute } from 'vue-router';
+import { usePushNotificationsStore } from '@/stores/push-notifications';
 import { RouterView } from 'vue-router';
 import { useModalsStore, MODAL_TYPES } from './stores/modals';
 import { useNetworkInformationStore } from '@/stores/network-information';
@@ -20,15 +21,30 @@ import GlossaryBubble from '@/components/glossary/GlossaryBubble.vue';
 import ModalBottomSheet from './components/ui/ModalBottomSheet.vue';
 import LoginModal from '@/views/account/LoginModal.vue';
 import ModalOverlay from '@/components/modals/ModalOverlay.vue';
+import AlphabetOverlay from '@/components/ui/AlphabetOverlay.vue';
+import PushNotificationBanner from '@/components/ui/PushNotificationBanner.vue';
+import Logo from '@/components/ui/Logo.vue';
 import { useKeyboardViewport } from '@/composables/useKeyboardViewport';
+import { useContentSecurityPolicy } from '@/composables/useContentSecurityPolicy';
+import { useExhibitionModeStore } from '@/stores/exhibition-mode';
+import { useIdleTimer } from '@/composables/useIdleTimer';
 
 const router = useRouter();
+const route = useRoute();
 const mainNavigation = useMainNavigationStore();
 const modals = useModalsStore();
+const pushNotifications = usePushNotificationsStore();
 const networkInformation = useNetworkInformationStore();
 networkInformation.init();
 
+useContentSecurityPolicy();
 useKeyboardViewport();
+
+const exhibitionMode = useExhibitionModeStore();
+useIdleTimer(computed(() => exhibitionMode.isActive));
+watch(() => exhibitionMode.isActive, (active) => {
+  document.body.classList.toggle('exhibition-mode', active);
+}, { immediate: true });
 
 const glossaryBubble = ref<GlossaryBubbleParameters|null>(null);
 provide('glossaryBubble', glossaryBubble);
@@ -39,11 +55,11 @@ provide('licenceBubble', licenceBubble);
 let popstateDetected = false;
 let capturedState: any = null;
 
-window.addEventListener('popstate', (event: PopStateEvent) => {  
+window.addEventListener('popstate', (event: PopStateEvent) => {
   // Capture the state immediately
   capturedState = event.state || {};
   popstateDetected = true;
-  
+
   setTimeout(() => {
     popstateDetected = false;
     capturedState = null;
@@ -52,7 +68,6 @@ window.addEventListener('popstate', (event: PopStateEvent) => {
 
 const addBackButtonListener = () => {
   router.beforeEach((to, from, next) => {
-
     // Detect browser back navigation
     if (popstateDetected === true) {
       popstateDetected = false;
@@ -64,8 +79,8 @@ const addBackButtonListener = () => {
         // Maintain URL/history if you closed a modal
         // @ts-ignore
         window.history.pushState(
-          capturedState || {}, 
-          '', 
+          capturedState || {},
+          '',
           from.fullPath // Stay on the "from" route
         );
 
@@ -73,9 +88,8 @@ const addBackButtonListener = () => {
         return;
       }
     }
-    
+
     next();
-    
   });
 };
 
@@ -83,9 +97,34 @@ addBackButtonListener();
 
 onMounted(() => {
   window.addEventListener('open-login-modal', () => modals.openModal(MODAL_TYPES.LOGIN));
+  //@ts-ignore
+  if (device.platform == 'iOS' || device.platform == 'Android') {
+    pushNotifications.promptIfNeeded();
+  }
 });
 onUnmounted(() => {
   window.removeEventListener('open-login-modal', () => modals.openModal(MODAL_TYPES.LOGIN));
+});
+
+const templateContentViews = [
+  'ArticleView',
+  'CollectionView',
+  'GatewayView',
+  'ShortStoryView',
+  'StoryView',
+  'TaxonArticleCollectionView',
+  'TextView',
+  'VideoCollectionView',
+  'VideoStoryView',
+];
+
+// Exclude the bottom-sheet query param from the component key so that opening
+// or closing the sheet does not remount the active view (which would reset filter
+// selections).  All other query params still form part of the key.
+const routeKey = computed(() => {
+  const { modalbottomsheet: _omit, ...rest } = route.query;
+  const qs = new URLSearchParams(rest as Record<string, string>).toString();
+  return qs ? `${route.path}?${qs}` : route.path;
 });
 
 let lastScrollX = window.scrollX;
@@ -109,16 +148,26 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <HeaderBar />
-  <DesktopHeaderBar />
-  <BottomNavigation />
-  <NavigationRail />
+  <HeaderBar v-if="!exhibitionMode.isActive || route.meta.headerMode === 'tabs'" />
+  <DesktopHeaderBar v-if="!exhibitionMode.isActive || route.meta.headerMode === 'tabs'" />
+  <BottomNavigation v-if="!exhibitionMode.isActive" />
+  <NavigationRail v-if="!exhibitionMode.isActive" />
   <!-- Use modal store for burger menu state -->
-  <BurgerMenu :is-open="modals.isOpen(MODAL_TYPES.BURGER)" @close-burger="modals.closeModal" />
-  <div class="backrop-filter bg-translucent">
-    <RouterView />
+  <BurgerMenu :is-open="modals.isOpen(MODAL_TYPES.BURGER)" :force-button-visible="exhibitionMode.isActive" @close-burger="modals.closeModal" />
+  <div v-if="exhibitionMode.isActive" class="exhibition-logo">
+    <Logo />
   </div>
-  <CTAObservationButton v-if="mainNavigation.observationCTA" :class="mainNavigation.observationCTAvisible ? '' : 'cta-hidden'" />
+  <div>
+    <RouterView v-slot="{ Component }">
+      <keep-alive :include="templateContentViews" :max="50">
+        <component :is="Component" :key="routeKey" />
+      </keep-alive>
+    </RouterView>
+  </div>
+  <CTAObservationButton
+    v-if="mainNavigation.observationCTA && !exhibitionMode.isActive"
+    :class="mainNavigation.observationCTAvisible ? '' : 'cta-hidden'"
+  />
   <LicenceBubble
     v-if="licenceBubble"
     :licence="licenceBubble.licence"
@@ -143,7 +192,9 @@ onUnmounted(() => {
     <LoginModal />
   </ModalOverlay>
 
+  <AlphabetOverlay />
   <ModalsContainer />
+  <PushNotificationBanner />
 </template>
 
 <style scoped>

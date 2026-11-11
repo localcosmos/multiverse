@@ -1,23 +1,24 @@
 <script setup lang="ts">
-import { computed, inject } from 'vue';
-import type { Component } from 'vue';
-import { storeToRefs } from 'pinia';
-import { useRoute, useRouter } from 'vue-router';
-import type { Navigations } from '@/types/navigation';
-import { useMainNavigationStore } from '@/stores/main-navigation';
-import { useTabsStore } from '@/stores/tabs';
-import { useLetterSelectorStore } from '@/stores/letter-selector';
-import { useModalsStore, MODAL_TYPES } from '@/stores/modals';
-import MainNavigationButton from './MainNavigationButton.vue';
-import TabsNavigation from './TabsNavigation.vue';
-import MapHeader from '@/components/headers/MapHeader.vue';
+import { computed, inject } from "vue";
+import type { Component } from "vue";
+import { storeToRefs } from "pinia";
+import { useRoute, useRouter } from "vue-router";
+import type { Navigations } from "@/types/navigation";
+import { useMainNavigationStore } from "@/stores/main-navigation";
+import { useTabsStore } from "@/stores/tabs";
+import { useLetterSelectorStore } from "@/stores/letter-selector";
+import { useModalsStore, MODAL_TYPES } from "@/stores/modals";
+import MainNavigationButton from "./MainNavigationButton.vue";
+import TabsNavigation from "./TabsNavigation.vue";
+import MapHeader from "@/components/headers/MapHeader.vue";
 
-import NavigationRailCTAButton from '../ui/NavigationRailCTAButton.vue';
+import NavigationRailCTAButton from "../ui/NavigationRailCTAButton.vue";
+import { PhCaretLeft, PhList } from "@phosphor-icons/vue";
 
 const router = useRouter();
 const route = useRoute();
 
-const navigations = inject('navigations') as Navigations;
+const navigations = inject("navigations") as Navigations;
 const mainNavigation = useMainNavigationStore();
 const tabsStore = useTabsStore();
 const letterSelectorStore = useLetterSelectorStore();
@@ -28,64 +29,66 @@ const { currentPageTitle } = storeToRefs(mainNavigation);
 const headerTabNavigation = computed(() => tabsStore.getHeaderTabNavigation());
 
 const hasHeaderTabs = computed(() => {
-  return !!headerTabNavigation.value &&
+  return (
+    !!headerTabNavigation.value &&
     headerTabNavigation.value.showInMobileHeader &&
-    headerTabNavigation.value.tabs.length > 1;
+    headerTabNavigation.value.tabs.length > 1
+  );
 });
 
 const headerTemplateRegistry: Record<string, Component> = {
-  'map-header': MapHeader,
+  "map-header": MapHeader,
 };
 
 const headerTemplateComponent = computed<Component | null>(() => {
-  if (typeof route.meta.headerTemplate !== 'string') return null;
+  if (typeof route.meta.headerTemplate !== "string") return null;
   return headerTemplateRegistry[route.meta.headerTemplate] ?? null;
 });
 
 const headerTemplateProps = computed<Record<string, unknown>>(() => {
   const props = route.meta.headerTemplateProps;
-  return props && typeof props === 'object' ? props : {};
+  return props && typeof props === "object" ? props : {};
 });
 
 const headerTitle = computed<string | null>(() => {
-  if (typeof route.meta.headerTitle === 'string' && route.meta.headerTitle.length > 0) {
+  if (typeof route.meta.headerTitle === "string" && route.meta.headerTitle.length > 0) {
     return route.meta.headerTitle;
   }
   return currentPageTitle.value;
 });
 
-const resolvedHeaderMode = computed<'tabs' | 'title' | 'template' | 'none'>(() => {
-  const headerMode = route.meta.headerMode ?? 'auto';
+const resolvedHeaderMode = computed<"tabs" | "title" | "template" | "none">(() => {
+  const headerMode = route.meta.headerMode ?? "auto";
 
-  if (headerMode === 'none') {
-    return 'none';
+  if (headerMode === "none") {
+    return "none";
   }
 
-  if (headerMode === 'template') {
-    if (headerTemplateComponent.value) return 'template';
-    if (headerTitle.value) return 'title';
-    if (hasHeaderTabs.value) return 'tabs';
-    return 'none';
+  if (headerMode === "template") {
+    if (headerTemplateComponent.value) return "template";
+    if (headerTitle.value) return "title";
+    if (hasHeaderTabs.value) return "tabs";
+    return "none";
   }
 
-  if (headerMode === 'tabs') {
-    if (hasHeaderTabs.value) return 'tabs';
-    if (headerTitle.value) return 'title';
-    return 'none';
+  if (headerMode === "tabs") {
+    if (hasHeaderTabs.value) return "tabs";
+    if (headerTitle.value) return "title";
+    return "none";
   }
 
-  if (headerMode === 'title') {
-    if (headerTitle.value) return 'title';
-    if (hasHeaderTabs.value) return 'tabs';
-    return 'none';
+  if (headerMode === "title") {
+    if (headerTitle.value) return "title";
+    if (hasHeaderTabs.value) return "tabs";
+    return "none";
   }
 
-  if (hasHeaderTabs.value) return 'tabs';
-  if (headerTitle.value) return 'title';
-  return 'none';
+  if (hasHeaderTabs.value) return "tabs";
+  if (headerTitle.value) return "title";
+  return "none";
 });
 
-const hasHeaderContent = computed(() => resolvedHeaderMode.value !== 'none');
+const hasHeaderContent = computed(() => resolvedHeaderMode.value !== "none");
 
 const handleSelectTab = (tabIndex: number) => {
   if (!tabsStore.headerTabNavigationId) return;
@@ -110,10 +113,7 @@ const handleSearchText = (text: string) => {
 
 <template>
   <div id="NavigationRailLayout">
-    <nav
-      id="NavigationRail"
-      class="bg-translucent-light backdrop-filter"
-    >
+    <nav id="NavigationRail" class="backdrop-filter">
       <div id="NavigationRailTop">
         <div
           v-if="mainNavigation.showBackbutton"
@@ -121,7 +121,7 @@ const handleSearchText = (text: string) => {
           class="cursor-pointer"
           @click="router.back()"
         >
-          <img src="@/assets/icons/back.svg" />
+          <PhCaretLeft size="24" />
         </div>
         <div
           v-else
@@ -130,7 +130,7 @@ const handleSearchText = (text: string) => {
           @click="modals.openModal(MODAL_TYPES.BURGER)"
         >
           <div>
-            <img src="@/assets/icons/menubars.svg" />
+            <PhList size="24" />
           </div>
         </div>
       </div>
@@ -147,11 +147,16 @@ const handleSearchText = (text: string) => {
       </div>
     </nav>
 
-    <div v-if="hasHeaderContent" id="RailHeaderContent" class="bg-translucent-light backdrop-filter">
+    <div
+      v-if="hasHeaderContent"
+      id="RailHeaderContent"
+      class="bg-translucent-light backdrop-filter"
+    >
       <TabsNavigation
         v-if="resolvedHeaderMode === 'tabs' && headerTabNavigation"
         :tabs="headerTabNavigation.tabs"
         :active-tab="headerTabNavigation.activeTab ?? 1"
+        :search-text="headerTabNavigation.searchText ?? ''"
         :letter-selector-id="tabsStore.headerTabNavigationId ?? undefined"
         @select-tab="handleSelectTab"
         @select-letter="handleSelectLetter"
@@ -173,6 +178,16 @@ const handleSearchText = (text: string) => {
 </template>
 
 <style>
+@layer defaults {
+  :root {
+    --rail-navigation-bg: rgba(255, 255, 255, 0.7);
+    --rail-navigation-burger-color: #000;
+
+    --darkmode-rail-navigation-bg: rgba(0, 0, 0, 0.7);
+    --darkmode-rail-navigation-burger-color: #FFF;
+  }
+}
+
 #NavigationRailLayout {
   display: none;
 }
@@ -189,6 +204,11 @@ const handleSearchText = (text: string) => {
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  background: var(--rail-navigation-bg);
+}
+
+body.dark #NavigationRail {
+  background: var(--darkmode-rail-navigation-bg);
 }
 
 #NavigationRailTop {
@@ -209,13 +229,24 @@ const handleSearchText = (text: string) => {
   gap: var(--size-md);
 }
 
-#RailBurger, #RailBackButton {
+#RailBurger,
+#RailBackButton {
   width: 100%;
   aspect-ratio: 1/1;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
+#RailBurger, #RailBackButton {
+  color: var(--rail-navigation-burger-color);
+}
+
+body.dark #RailBurger,
+body.dark #RailBackButton {
+  color: var(--darkmode-rail-navigation-burger-color);
+}
+
 
 .rail-buttons .navbutton-container.Stack .mn-stack {
   flex-direction: row;
@@ -278,7 +309,7 @@ const handleSearchText = (text: string) => {
     text-overflow: ellipsis;
     font-size: 20px;
     font-weight: bold;
-    font-family: --var(font-family-tight);
+    font-family: var(--font-family-tight);
   }
 }
 

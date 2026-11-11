@@ -1,8 +1,7 @@
 <script setup lang="ts">
-import { computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue';
-import { useTabsStore } from '@/stores/tabs';
-import type { TabButtonDefinition } from '@/types/navigation';
-
+import { computed, watch, nextTick, onMounted, onBeforeUnmount } from "vue";
+import { useTabsStore } from "@/stores/tabs";
+import type { TabButtonDefinition } from "@/types/navigation";
 
 const props = withDefaults(
   defineProps<{
@@ -18,11 +17,14 @@ const props = withDefaults(
     showNavOnLargeScreens: false,
     showInMobileHeader: true,
     initialTab: 1,
-  }
+  },
 );
 
 const tabsStore = useTabsStore();
 let intersectionObserver: IntersectionObserver | null = null;
+
+// Per-tab scroll position storage
+const tabScrollPositions = new Map<number, number>();
 
 tabsStore.registerTabNavigation(props.id, {
   tabs: props.tabs,
@@ -44,13 +46,13 @@ watch(
   () => props.tabs,
   (newTabs) => {
     tabsStore.setTabDefinitions(props.id, newTabs);
-    
+
     // If tabs were previously empty and now have content, set header navigation
     if (props.showInMobileHeader && newTabs.length > 1) {
       tabsStore.setHeaderTabNavigation(props.id);
     }
   },
-  { deep: true }
+  { deep: true },
 );
 
 watch(
@@ -66,7 +68,7 @@ watch(
     if (tabsStore.headerTabNavigationId === props.id) {
       tabsStore.clearHeaderTabNavigation();
     }
-  }
+  },
 );
 
 // Check if we're in exploded mode on large screens
@@ -74,11 +76,23 @@ const isExplodedMode = () => {
   return props.explodeOnLargeScreens && window.innerWidth >= 1024;
 };
 
+watch(activeTab, (newTab, oldTab) => {
+  if (isExplodedMode()) return;
+
+  // Save scroll position of the departing tab
+  tabScrollPositions.set(oldTab, window.scrollY);
+
+  // Restore scroll position of the incoming tab after the DOM updates
+  nextTick(() => {
+    window.scrollTo({ top: tabScrollPositions.get(newTab) ?? 0, behavior: "instant" });
+  });
+});
+
 /*
 const activateTab = (tabIndex: number) => {
 
   activeTab.value = tabIndex;
-  
+
   // In exploded mode, scroll to the tab instead of switching
   if (isExplodedMode()) {
     const tabNumber = props.tabs[tabIndex].tabIndex;
@@ -117,20 +131,19 @@ const activateTab = (tabIndex: number) => {
 
 // Set up intersection observer to update active tab based on scroll position in exploded mode
 onMounted(() => {
-
   // check the active tab
-  console.log('Mounted TabbedPage, activeTab:', activeTab.value);
+  console.log("Mounted TabbedPage, activeTab:", activeTab.value);
 
   if (props.explodeOnLargeScreens) {
     const observerOptions = {
       root: null,
-      rootMargin: '-20% 0px -70% 0px', // Trigger when tab is in the middle portion of viewport
-      threshold: 0
+      rootMargin: "-20% 0px -70% 0px", // Trigger when tab is in the middle portion of viewport
+      threshold: 0,
     };
 
     intersectionObserver = new IntersectionObserver((entries) => {
       if (!isExplodedMode()) return;
-      
+
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           const tabId = entry.target.id;
@@ -168,43 +181,50 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div :class="[
-    explodeOnLargeScreens === true ? 'explode' : '',
-    showNavOnLargeScreens === true ? 'show-nav-large' : ''
-  ]">
-    <div class="tabs">
+  <div
+    class="tabbed-page"
+    :class="[
+      explodeOnLargeScreens === true ? 'explode' : '',
+      showNavOnLargeScreens === true ? 'show-nav-large' : '',
+    ]"
+  >
+    <div class="tabbed-page__tabs">
       <div
         v-for="(button, index) in tabs"
         :key="index"
         :id="`${id}-tab${button.tabIndex}`"
-        :class="['tab', `tab${button.tabIndex}`, { active: activeTab === button.tabIndex}]"
+        :class="[
+          'tab',
+          `tab${button.tabIndex}`,
+          { active: activeTab === button.tabIndex },
+          button.tabClass,
+        ]"
       >
-        <slot :name="'tab' + (button.tabIndex)"></slot>
+        <slot :name="'tab' + button.tabIndex"></slot>
       </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-
-.tabs {
+.tabbed-page__tabs {
   width: 100%;
   min-height: 100%;
   position: relative;
 }
 
-.tabs .tab {
+.tabbed-page__tabs .tab {
   display: none;
   position: absolute;
   left: 0;
   right: 0;
   top: 0;
   width: 100%;
-  min-height: 100vh;
-  min-height: 100dvh;
+  min-height: calc(100vh - var(--mobile-tabs-navigation-height));
+  min-height: calc(100dvh - var(--mobile-tabs-navigation-height));
 }
 
-.tabs .tab.active {
+.tabbed-page__tabs .tab.active {
   display: block;
   position: relative;
 }
@@ -213,6 +233,10 @@ onBeforeUnmount(() => {
 }
 
 @media (min-width: 768px) {
+  .tabbed-page__tabs .tab {
+    min-height: calc(100vh - var(--tabs-navigation-height));
+    min-height: calc(100dvh - var(--tabs-navigation-height));
+  }
 }
 
 @media (min-width: 1024px) {
@@ -223,7 +247,7 @@ onBeforeUnmount(() => {
   /* Show navigation on large screens when prop is true */
   .show-nav-large .tabs-navigation {
     display: block;
-    border-bottom: 1px solid rgb(230,230,230);
+    border-bottom: 1px solid rgb(230, 230, 230);
   }
 
   .explode .tab1 {
@@ -250,7 +274,7 @@ onBeforeUnmount(() => {
     grid-area: tab6;
   }
 
-  .explode .tabs {
+  .explode .tabbed-page__tabs {
     margin-top: var(--size-md);
     display: grid;
     gap: 0;
@@ -265,28 +289,27 @@ onBeforeUnmount(() => {
       "tab6 tab6";
   }
 
-  .explode .tabs .tab {
+  .explode .tabbed-page__tabs .tab {
     display: flex;
     position: relative;
     min-height: auto;
     scroll-margin-top: calc(var(--header-bar-height) + 80px); /* Offset for sticky navigation */
   }
 
-  .explode.show-nav-large .tabs .tab:last-child {
+  .explode.show-nav-large .tabbed-page__tabs .tab:last-child {
     min-height: 100vh;
     min-height: 100dvh;
   }
 }
 
 @media (min-width: 1280px) {
-    /* In exploded mode with navigation, make it sticky */
+  /* In exploded mode with navigation, make it sticky */
   .explode.show-nav-large .tabs-navigation {
     display: block;
     position: sticky;
     top: var(--desktop-header-bar-height);
     z-index: var(--layer-1);
-    border-bottom: 1px solid rgb(230,230,230);
-    background: var(--bg-solid);
+    border-bottom: 1px solid rgb(230, 230, 230);
   }
 }
 

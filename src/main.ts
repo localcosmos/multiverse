@@ -2,6 +2,7 @@ import 'vue-final-modal/style.css';
 import 'ol/ol.css';
 import 'vue-awesome-paginate/dist/style.css';
 import './assets/css/main.css';
+import './assets/css/beachexplorer.css';
 
 import { createApp } from 'vue';
 import { createPinia } from 'pinia';
@@ -9,22 +10,26 @@ import { createPinia } from 'pinia';
 import App from './App.vue';
 import router from './router';
 
-import type { Features, Frontend, FrontendSettings } from 'localcosmos-client';
-import { LocalCosmosApi, Glossary, BackboneTaxonomy, TaxonProfiles, LicenceRegistry } from 'localcosmos-client';
-import { useAuthStore } from '@/stores/auth';
-import { useCookieConsentStore } from './stores/cookie-consent';
+import type { Features, Frontend, FrontendSettings } from "localcosmos-client";
+import {
+  LocalCosmosApi,
+  Glossary,
+  BackboneTaxonomy,
+  TaxonProfiles,
+  TemplateContent,
+  LicenceRegistry,
+} from "localcosmos-client";
+import { useAuthStore } from "@/stores/auth";
+import { useCookieConsentStore } from "./stores/cookie-consent";
 
 import i18next from 'i18next';
 import I18NextVue from 'i18next-vue';
 import HttpApi from 'i18next-http-backend';
 
-import { t } from 'i18next';
-import { PhHouse, PhMapTrifold, PhScan, PhBookOpenText, PhListBullets, PhBooks, PhBinoculars, PhStack } from "@phosphor-icons/vue";
-
 import { useLanguageStore } from '@/stores/language';
 
 import { useMainNavigationStore } from '@/stores/main-navigation';
-import type { NavigationButton } from './types/navigation';
+import { useAppSettingsStore } from '@/stores/app-settings';
 
 import VueAwesomePaginate from "vue-awesome-paginate";
 
@@ -53,18 +58,26 @@ const setBootloaderLogo = (frontend: Frontend) => {
 };
 
 const setDocumentBackground = (frontend: Frontend) => {
-  const portraitBackground = frontend.userContent.images.backgroundImage?.imageUrl?.['4x']
-    || frontend.userContent.images.backgroundImage?.imageUrl?.['2x']
-    || frontend.userContent.images.backgroundImage?.imageUrl?.['1x'];
+  const images = frontend.userContent.images;
 
-  const landscapeBackground = frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['4x']
-    || frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['2x']
-    || frontend.userContent.images.landscapeBackgroundImage?.imageUrl?.['1x']
+  const portraitBackground = images.backgroundImage?.imageUrl?.['4x']
+    || images.backgroundImage?.imageUrl?.['2x']
+    || images.backgroundImage?.imageUrl?.['1x'];
+
+  const landscapeBackground = images.landscapeBackgroundImage?.imageUrl?.['4x']
+    || images.landscapeBackgroundImage?.imageUrl?.['2x']
+    || images.landscapeBackgroundImage?.imageUrl?.['1x']
     || portraitBackground;
 
-  if (!portraitBackground && !landscapeBackground) {
-    return;
-  }
+  const portraitBackgroundDark = images.backgroundImageDarkmode?.imageUrl?.['4x']
+    || images.backgroundImageDarkmode?.imageUrl?.['2x']
+    || images.backgroundImageDarkmode?.imageUrl?.['1x']
+    || portraitBackground;
+
+  const landscapeBackgroundDark = images.landscapeBackgroundImageDarkmode?.imageUrl?.['4x']
+    || images.landscapeBackgroundImageDarkmode?.imageUrl?.['2x']
+    || images.landscapeBackgroundImageDarkmode?.imageUrl?.['1x']
+    || landscapeBackground;
 
   const root = document.documentElement;
 
@@ -74,6 +87,14 @@ const setDocumentBackground = (frontend: Frontend) => {
 
   if (landscapeBackground) {
     root.style.setProperty('--app-background-image-landscape', `url("${landscapeBackground}")`);
+  }
+
+  if (portraitBackgroundDark) {
+    root.style.setProperty('--app-background-image-portrait-dark', `url("${portraitBackgroundDark}")`);
+  }
+
+  if (landscapeBackgroundDark) {
+    root.style.setProperty('--app-background-image-landscape-dark', `url("${landscapeBackgroundDark}")`);
   }
 
   document.body.classList.add('has-app-background');
@@ -86,215 +107,15 @@ const loadFeatures = (async ()=> {
   return features;
 });
 
-const loadNavigations = (isInPreviewMode:boolean, features:Features|Record<string,any>): Record<string, NavigationButton[]> => {
-
-  const navigations: Record<string, NavigationButton[]> = {
-    'main' : [],
-    'rail' : [],
-    'bottom': [],
-  };
-
-  const mainNavigation = useMainNavigationStore();
-
-  const homeButton:NavigationButton = {
-    genericContent: 'Home',
-    icon: PhHouse,
-    text: t('navigation.Home'),
-    routeName: 'home',
-    route: null,
-    hasSubmenu: false,
-  };
-  navigations.main.push(homeButton);
-  navigations.rail.push(homeButton);
-
-  const templateContentButton: NavigationButton = {
-    genericContent: 'TemplateContent',
-    icon: PhBooks,
-    text: t('navigation.TemplateContent'),
-    routeName: null,
-    route: null,
-    hasSubmenu: false,
-  };
-
-  if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
-    templateContentButton.route = mainNavigation.templateContent.main[0].url;
-    templateContentButton.text = t(mainNavigation.templateContent.main[0].linkName);
-  }
-
-  if (isInPreviewMode == true) {
-    if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
-      // templateContentButton.submenuContent = mainNavigation.templateContent.main; 
-      navigations.main.push(templateContentButton);
-      navigations.rail.push(templateContentButton);
-    }
-  } else {
-
-    if (features.NatureGuide) {
-      const natureGuideButton: NavigationButton = {
-        genericContent: 'NatureGuide',
-        icon: PhScan,
-        text: t('navigation.NatureGuide'),
-        routeName: 'nature-guides',
-        route: null,
-        hasSubmenu: false,
-      };
-
-      if (features.NatureGuide && features.NatureGuide.list.length == 1) {
-        natureGuideButton.routeName = 'nature-guide-start';
-        natureGuideButton.routeParams = {
-          guideSlug: features.NatureGuide.list[0].slug,
-        };
-      }
-
-      navigations.main.push(natureGuideButton);
-      navigations.rail.push(natureGuideButton);
-    }
-
-    if (features.Map) {
-
-      const mapButton:NavigationButton = {
-        genericContent: 'Map',
-        icon: PhMapTrifold,
-        text: t('navigation.Map'),
-        routeName: 'map',
-        route: null,
-        hasSubmenu: false,
-      };
-
-      navigations.main.push(mapButton);
-      navigations.rail.push(mapButton);
-    }
-    
-    if (features.GenericForm) {
-      const genericFormButton: NavigationButton = {
-        genericContent: 'GenericForm',
-        icon: PhBinoculars,
-        text: t('navigation.Observations'),
-        routeName: 'observations',
-        route: null,
-        hasSubmenu: false,
-      };
-      navigations.main.push(genericFormButton);
-      navigations.rail.push(genericFormButton);
-    }
-
-    const taxonProfilesButton:NavigationButton = {
-      genericContent: 'TaxonProfiles',
-      icon: PhBookOpenText,
-      text: t('navigation.TaxonProfiles'),
-      routeName: 'taxon-profiles',
-      route: null,
-      hasSubmenu: false,
-    };
-    navigations.main.push(taxonProfilesButton);
-    navigations.rail.push(taxonProfilesButton);
-
-    if (features.TemplateContent) {
-      if (mainNavigation.templateContent && mainNavigation.templateContent.main) {
-        //templateContentButton.submenuContent = mainNavigation.templateContent.main;
-        navigations.main.push(templateContentButton);
-        navigations.rail.push(templateContentButton);
-      }
-    }
-
-    if (features.Glossary) {
-      const glossaryButton: NavigationButton = {
-        genericContent: 'Glossary',
-        icon: PhListBullets,
-        text: t('navigation.Glossary'),
-        routeName: 'glossary',
-        route: null,
-        hasSubmenu: false,
-      };
-      navigations.main.push(glossaryButton);
-      navigations.rail.push(glossaryButton);
-    }
-
-    // create the bottom navigation
-    // replace 5th button with the Stack Button
-    // move the Home button into the stack
-    const maxBottomButtons = 5;
-    const maxRailButtons = 5
-
-    // bottom navigation
-    // the bottom navigation can only have 5 buttons visible
-    if (navigations.main.length > maxBottomButtons) {
-      //console.log(navigations.main)
-      const bottomStackedButtons:NavigationButton[] = navigations.main.slice(5, navigations.main.length);
-
-      //console.log('bottomStackedButtons', bottomStackedButtons);
-      
-      bottomStackedButtons.push(navigations.main[0]);
-      navigations.bottom = navigations.main.slice(1, 5);
-
-      //console.log('navigations.bottom before stack button', navigations.bottom);
-
-      const bottomStackButton:NavigationButton = {
-        genericContent: 'Stack',
-        icon: PhStack,
-        text: t('navigation.More'),
-        routeName: null,
-        route: null,
-        hasSubmenu: false,
-        stackedButtons: bottomStackedButtons,
-      };
-
-      navigations.bottom.push(bottomStackButton);
-
-      //console.log('navigations.bottom after stack button', navigations.bottom);
-      //console.log('stacked buttons', bottomStackedButtons);
-      
-    } else {
-      navigations.bottom = navigations.main;
-    }
-
-    // rail navigation
-    if (navigations.rail.length > maxRailButtons) {
-      const railStackedButtons:NavigationButton[] = navigations.rail.slice(5, navigations.rail.length);
-      railStackedButtons.push(homeButton);
-
-      const railStackButton:NavigationButton = {
-        genericContent: 'Stack',
-        icon: PhStack,
-        text: t('navigation.More'),
-        routeName: null,
-        route: null,
-        hasSubmenu: false,
-        stackedButtons: railStackedButtons,
-      };
-      navigations.rail = navigations.rail.slice(1, 5);
-      navigations.rail.push(railStackButton);
-    } else {
-      navigations.rail = navigations.main;
-    }
-
-  }
-
-  return navigations;
-};
 
 
-window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
-  const isDark = e.matches;
-  console.log('Dark mode changed:', isDark);
-  // Apply your theme update logic here
-});
-
-
-const onDeviceReady = (async () => {
+const onDeviceReady = async () => {
 
   const app = createApp(App);
   app.use(createPinia());
 
-  /**
-   * load color scheme
-   */
-
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      console.log('Dark mode is enabled');
-  } else {
-      console.log('Light mode is enabled');
-  }
+  // Initialize app settings early so dark mode class is applied before rendering
+  useAppSettingsStore();
 
   /**
    * load localcosmos assets
@@ -324,9 +145,11 @@ const onDeviceReady = (async () => {
   let defaultNamespace = 'plain';
   const i18nNamespaces = ['plain'];
 
-  let features:Features|Record<string,any> = {};
+  let features: Features | Record<string, any> = {};
 
   let accountsEnabled = false;
+
+  let frontend: Frontend | null = null;
 
   // load features etc for non-preview mode
   if (isInPreviewMode == false) {
@@ -335,6 +158,7 @@ const onDeviceReady = (async () => {
 
     const frontendResponse = await fetch(features.Frontend.path);
     const frontendData:Frontend = await frontendResponse.json();
+    frontend = frontendData;
     app.provide('frontend', frontendData);
 
     setDocumentBackground(frontendData);
@@ -368,14 +192,23 @@ const onDeviceReady = (async () => {
       defaultNamespace = 'glossarized';
     }
 
-    if (features.GenericForm && features.GenericForm.list.length > 0){
+    if (features.GenericForm && features.GenericForm.list.length > 0) {
       accountsEnabled = true;
+    }
+
+    if (features.TemplateContent) {
+      setBootloaderText('loading template content');
+      const templateContent = new TemplateContent(features.TemplateContent);
+      await templateContent.load(languageStore.currentLanguage);
+      app.provide('templateContent', templateContent);
     }
 
   } else {
     app.provide('features', {});
+    // provide a minimal stub so components injecting 'frontend' don't crash
+    app.provide('frontend', { userContent: { images: {}, texts: {} } });
   }
-  
+
   app.provide('accountsEnabled', accountsEnabled);
 
   setBootloaderText('loading translations');
@@ -391,7 +224,6 @@ const onDeviceReady = (async () => {
         loadPath: '/locales/{{lng}}/{{ns}}.json',
         crossDomain: true,
     },
-
   });
 
   setBootloaderText('loading auth');
@@ -405,16 +237,16 @@ const onDeviceReady = (async () => {
   setBootloaderText('loading navigations');
   const mainNavigation = useMainNavigationStore();
   await mainNavigation.loadTemplateContentNavigations();
-  const navigations = loadNavigations(isInPreviewMode, features);
-  app.provide('navigations', navigations);
+  mainNavigation.buildNavigations();
+  app.provide('navigations', mainNavigation.navigations);
   mainNavigation.loadCTAButtons();
 
   // load cookie sonsent from store
   const cookieConsentStore = useCookieConsentStore();
   cookieConsentStore.loadFromLocalStorage();
-  
+
   app.mount('#app')
 
-});
+};
 
 document.addEventListener('deviceready', onDeviceReady, false);

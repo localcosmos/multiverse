@@ -96,7 +96,7 @@ const loadForm = async () => {
     if (props.isIdbDataset) {
       // get datase by uuid from db
       const datasetResult = await getDataset(props.datasetUuid);
-      
+
       if (datasetResult) {
         genericFormsStore.loadIdbGenericForm(datasetResult);
         dataset.value = datasetResult as IdbDataset;
@@ -156,7 +156,7 @@ const onImageProgress: ProgressCallback = (current: number, total: number, fileN
     total,
     fileName: fileName || ''
   };
-            
+
   if (current === 0 && total > 0) {
     // Start upload - show modal
     // Open modal manually to avoid history state manipulation, progrss is an automated modal
@@ -180,9 +180,9 @@ const onImageError: ErrorCallback = (error: string) => {
 const handleCreateRemoteDataset = async (genericForm: GenericFormType, data: Record<string, any>, setServerErrors: Function) => {
 
   imageError.value = null;
-  
+
   const createResult = await createRemoteDataset(genericForm, data, onImageProgress, onImageError);
-  
+
   if (createResult.success && createResult.result) {
     const datasetUuid = createResult.result.data.uuid;
 
@@ -202,7 +202,7 @@ const handleCreateRemoteDataset = async (genericForm: GenericFormType, data: Rec
 // IDB dataset creation (renamed for consistency)
 const handleCreateIdbDataset = async (genericForm: GenericFormType, data: Record<string, any>) => {
   const createResult = await createDataset(genericForm, data);
-  
+
   if (createResult.success && createResult.uuid) {
 
     const datasetUuid = createResult.uuid;
@@ -223,7 +223,7 @@ const handleCreateIdbDataset = async (genericForm: GenericFormType, data: Record
 
 const handleUpdateIdbDataset = async (dataset: IdbDataset, genericForm: GenericFormType, data: Record<string, any>, setServerErrors: Function) => {
   const updateResult = await updateDataset(dataset.uuid, genericForm, data);
-  
+
   if (updateResult.success && updateResult.uuid) {
     await reloadDataset(updateResult.uuid);
     editSuccess.value = true;
@@ -236,7 +236,7 @@ const handleUpdateIdbDataset = async (dataset: IdbDataset, genericForm: GenericF
 
 const handleUpdateRemoteDataset = async (dataset: ReadOnlyDataset, genericForm: GenericFormType, data: Record<string, any>, setServerErrors: Function) => {
   const updateResult = await updateRemoteDataset(dataset.uuid, genericForm, data, onImageProgress, onImageError);
-  
+
   if (updateResult.success && updateResult.result) {
     isIdbDataset.value = false; // Ensure we mark this as a remote dataset now
     await reloadDataset(updateResult.result.data.uuid);
@@ -273,7 +273,7 @@ const onSubmit = async (data: Record<string, any>, genericForm: GenericFormType,
   if (submitting.value) {
     return; // Early return instead of nested if
   }
-  
+
   submitting.value = true;
 
   try {
@@ -321,7 +321,7 @@ onMounted( async () => {
 
 <template>
   <ContentContainer>
-    <div class="page page-padding">
+    <div class="page page-padding observation-form">
       <div v-if="observationSuccessfullyDeleted" class="container-small">
         <div class="alert alert-success my-xl">
           <h2>
@@ -415,7 +415,23 @@ onMounted( async () => {
   </ContentContainer>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --observation-form-bg: #ffffff;
+
+    --darkmode-observation-form-bg: #1a1a1a;
+  }
+}
+
+.observation-form {
+  background-color: var(--observation-form-bg);
+}
+
+body.dark .observation-form {
+  background-color: var(--darkmode-observation-form-bg);
+}
+
 .obs-delete-modal {
   display: flex;
   justify-content: flex-end;

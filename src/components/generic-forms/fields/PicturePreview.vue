@@ -55,12 +55,12 @@ const loadImage = async () => {
 
 const backgroundString = computed(() => {
   if (loadError.value) {
-    return 'background-color: var(--color-grey-light)';
+    return 'background-color: rgb(150, 150, 150)';
   }
   if (imageUrl.value) {
     return `background-image: url(${imageUrl.value})`;
   }
-  return 'background-color: var(--color-grey-light)';
+  return 'background-color: rgb(150, 150, 150)';
 });
 
 const openDeleteModal = () => {
@@ -141,7 +141,7 @@ onBeforeUnmount(cleanup);
   aspect-ratio: 1/1;
   background-size: cover;
   border-radius: var(--border-radius);
-  border: 2px solid var(--color-grey);
+  border: 2px solid rgb(150, 150, 150);
 }
 
 .remove-picture-button {

@@ -1,6 +1,6 @@
 import { toRaw } from 'vue';
 import { defineStore } from 'pinia';
-import { IdentificationStep } from 'localcosmos-client';
+import { IdentificationStep, IdentificationModes } from 'localcosmos-client';
 import type { Features, NatureGuideComponent } from 'localcosmos-client';
 import { inject } from 'vue';
 
@@ -76,8 +76,14 @@ export const useNatureGuideStore = defineStore('natureGuide', {
         const step = this.identificationStepHistory.pop();
 
         if (step) {
-          this.currentStep = step;
-          this.currentStepUuid = this.currentStep?.uuid;
+          // Polytomous steps must not restore their selection state from history
+          if (step.identificationMode === IdentificationModes.polytomous) {
+            const stepUuid = this.natureGuide.slugs[slug];
+            this.loadIdentificationStep(stepUuid);
+          } else {
+            this.currentStep = step;
+            this.currentStepUuid = this.currentStep?.uuid;
+          }
         }
       } else {
         const stepUuid = this.natureGuide.slugs[slug];

@@ -29,7 +29,13 @@ const goToNewObservation = () => {
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --rail-cta-bg: rgba(255,255,255,.7);
+    --darkmode-rail-cta-bg: rgba(0, 0, 0, 0.7);
+  }
+}
 
 .rail-cta {
   width: 60px;
@@ -38,9 +44,13 @@ const goToNewObservation = () => {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background: rgba(255,255,255,.7);
+  background: var(--rail-cta-bg);
   border-radius: 25%;
   margin-bottom: var(--size-md);
+}
+
+body.dark .rail-cta {
+  background: var(--darkmode-rail-cta-bg);
 }
 
 @media (min-width: 640px) {

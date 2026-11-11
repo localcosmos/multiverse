@@ -1,63 +1,77 @@
 <script setup lang="ts">
-import type { SearchTaxon } from 'localcosmos-client';
-import ImageWithLicence from '@/components/images/ImageWithLicence.vue';
-import TaxonProfileLink from '../ui/TaxonProfileLink.vue';
+import type { SearchTaxon } from "localcosmos-client";
+import ImageWithLicence from "@/components/images/ImageWithLicence.vue";
+import TaxonProfileLink from "../ui/TaxonProfileLink.vue";
 
 const props = defineProps<{
-  taxon: SearchTaxon,
+  taxon: SearchTaxon;
 }>();
-
 </script>
 
 <template>
   <TaxonProfileLink
     :taxon="taxon"
-    class="nolinkstyle"
+    class="taxon-profiles-search-result nolinkstyle"
   >
-    <div class="taxon-row bg-translucent-light rounded-sm">
-      <div class="taxon-name-container">
+    <div class="taxon-profiles-search-result__card">
+      <div class="taxon-profiles-search-result__name-container">
         <div>
           <div>
-            <span class="taxon-primary-name">{{ taxon.name }}</span>
+            <span class="taxon-profiles-search-result__primary-name">{{ taxon.name }}</span>
           </div>
           <div>
-            <div class="taxon-latname">
+            <div class="taxon-profiles-search-result__latname">
               {{ taxon.taxonLatname }}
               <!--
               <span v-if="taxon.taxonAuthor" class="taxon-author">
                 {{ taxon.taxonAuthor }}
               </span>
-            -->
-            </div>
+            --></div>
           </div>
         </div>
       </div>
       <div
         v-if="taxon.image"
-        class="taxon-profile-image-container"
+        class="taxon-profiles-search-result__image-container"
       >
-        
-          <ImageWithLicence
-            :image="taxon.image"
-            :rounded="'rounded-xs'"
-            :title="taxon.name"
-            :show-caption="false"
-          />
+        <ImageWithLicence
+          :image="taxon.image"
+          :title="taxon.name"
+          :show-caption="false"
+        />
       </div>
+      <div v-else class="taxon-profiles-search-result__no-image"></div>
     </div>
   </TaxonProfileLink>
 </template>
 
-<style scoped>
-.taxon-row {
+<style>
+@layer defaults {
+  :root {
+    --taxon-profiles-search-result-border-radius: var(--border-radius-xs);
+    --taxon-profiles-search-result-bg: var(--bg-translucent-light);
+    --taxon-profiles-search-result-latname-color: var(--color-text-muted);
+
+    --darkmode-taxon-profiles-search-result-bg: rgba(255,255,255, .7);
+    --darkmode-taxon-profiles-search-result-latname-color: var(--color-text-muted);
+  }
+}
+
+.taxon-profiles-search-result__card {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  padding: calc(var(--size-md) /2) var(--size-md);
-  border-bottom: 1px solid var(--color-grey-light);
+  padding: var(--size-sm) var(--size-2xl);
+  background: var(--taxon-profiles-search-result-bg);
+  border-radius: var(--taxon-profiles-search-result-border-radius);
 }
 
-.taxon-name-container {
+body.dark .taxon-profiles-search-result__card {
+  background: var(--darkmode-taxon-profiles-search-result-bg);
+}
+
+
+.taxon-profiles-search-result__name-container {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -66,32 +80,37 @@ const props = defineProps<{
   align-items: flex-start;
 }
 
-.taxon-profile-image-container {
+.taxon-profiles-search-result__image-container {
   position: relative;
 }
 
-.taxon-primary-name {
+.taxon-profiles-search-result__no-image {
+  height: 70px;
+  aspect-ratio: 1/1;
+}
+
+.taxon-profiles-search-result__primary-name {
   font-weight: bold;
 }
 
 /* single line */
-.taxon-latname {
+.taxon-profiles-search-result__latname {
   font-style: italic;
   font-size: var(--font-size-md);
-  color: var(--text-muted);
+  color: var(--taxon-profiles-search-result-latname-color);
 }
 
-.taxon-author {
+.taxon-profiles-search-result__author {
   font-style: normal;
 }
 
-.taxon-profile-image-container {
+.taxon-profiles-search-result__image-container {
   height: 70px;
   aspect-ratio: 1/1;
-  border-radius: var(--border-radius-xs);
+  border-radius: var(--taxon-profiles-search-result-border-radius);
 }
 
-.searchresult-image-licence-circle {
+.taxon-profiles-search-result__licence-circle {
   position: absolute;
   bottom: -4px;
   left: -4px;

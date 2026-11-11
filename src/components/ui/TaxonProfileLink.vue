@@ -2,7 +2,7 @@
 import { computed } from 'vue';
 import type { TaxonWithImage, TaxonWithSlugsAndImages, SearchTaxon } from 'localcosmos-client';
 const props = defineProps<{
-  taxon: TaxonWithImage | SearchTaxon | TaxonWithSlugsAndImages | TaxonWithImage;
+  taxon?: TaxonWithImage | SearchTaxon | TaxonWithSlugsAndImages | TaxonWithImage | null;
   morphotype?: string | null;
 }>();
 
@@ -20,6 +20,7 @@ type TaxonProfileRouteParams = {
 };
 
 const routeParams = computed(() => {
+  if (!props.taxon) return {};
   if (props.taxon.slug) {
     const routeParams: TaxonProfileRouteParams = {
       slug: props.taxon.slug,
@@ -38,7 +39,8 @@ const routeParams = computed(() => {
 </script>
 
 <template>
-  <RouterLink :to="{ name: routeName, params: routeParams }">
+  <RouterLink v-if="taxon" :to="{ name: routeName, params: routeParams }">
     <slot />
   </RouterLink>
+  <slot v-else />
 </template>

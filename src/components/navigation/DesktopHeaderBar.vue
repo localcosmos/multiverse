@@ -1,21 +1,27 @@
 <script setup lang="ts">
 import { computed, inject } from 'vue';
 import type { Component } from 'vue';
+import type { Frontend } from 'localcosmos-client';
 import { storeToRefs } from 'pinia';
 import { useRoute } from 'vue-router';
 import { useMainNavigationStore } from '@/stores/main-navigation';
 import { useTabsStore } from '@/stores/tabs';
 import { useLetterSelectorStore } from '@/stores/letter-selector';
+import { useExhibitionModeStore } from '@/stores/exhibition-mode';
 import MainNavigationButton from './MainNavigationButton.vue';
 import TabsNavigation from './TabsNavigation.vue';
 import MapHeader from '@/components/headers/MapHeader.vue';
 import type { Navigations } from '@/types/navigation';
+import LogoWithText from '@/components/ui/LogoWithText.vue';
 
 const navigations = inject('navigations') as Navigations;
 const mainNavigation = useMainNavigationStore();
 const tabsStore = useTabsStore();
 const letterSelectorStore = useLetterSelectorStore();
+const exhibitionMode = useExhibitionModeStore();
 const route = useRoute();
+
+const frontend = inject("frontend") as Frontend;
 
 const { currentPageTitle } = storeToRefs(mainNavigation);
 
@@ -104,15 +110,24 @@ const handleSearchText = (text: string) => {
 
 <template>
   <div id="DesktopHeaderBar">
-    <nav id="DesktopNavigation" class="bg-translucent-light backdrop-filter">
-      <MainNavigationButton
-        v-for="(button, index) in navigations.main"
-        :key="index"
-        :button="button"
-        :button-index="index"
-        navigation="desktop"
-      >
-      </MainNavigationButton>
+    <nav v-if="!exhibitionMode.isActive" id="DesktopNavigation">
+      <div class="DesktopNavigation__content container">
+        <RouterLink
+          v-if="frontend.userContent?.images?.logoWithText?.imageUrl"
+          class="DesktopNavigation__logo"
+          :to="{ name:'home' }"
+        >
+          <LogoWithText />
+        </RouterLink>
+        <MainNavigationButton
+          v-for="(button, index) in navigations.main"
+          :key="index"
+          :button="button"
+          :button-index="index"
+          navigation="desktop"
+        >
+        </MainNavigationButton>
+      </div>
     </nav>
     <div
       v-if="hasHeaderContent"
@@ -123,6 +138,7 @@ const handleSearchText = (text: string) => {
           v-if="resolvedHeaderMode === 'tabs' && headerTabNavigation"
           :tabs="headerTabNavigation.tabs"
           :active-tab="headerTabNavigation.activeTab ?? 1"
+          :search-text="headerTabNavigation.searchText ?? ''"
           :letter-selector-id="tabsStore.headerTabNavigationId ?? undefined"
           @select-tab="handleSelectTab"
           @select-letter="handleSelectLetter"
@@ -146,7 +162,15 @@ const handleSearchText = (text: string) => {
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --desktop-navigation-bg: rgba(255,255,255, 0.8);
+    --desktop-navigation-backgdrop-filter: blur(10px);
+
+    --darkmode-desktop-navigation-bg: rgba(0, 0, 0, 0.8);
+  }
+}
 
 #DesktopHeaderBar {
   display: none;
@@ -154,6 +178,33 @@ const handleSearchText = (text: string) => {
 
 #DesktopNavigation {
   display: none;
+  background: var(--desktop-navigation-bg);
+  backdrop-filter: var(--desktop-navigation-backgdrop-filter);
+}
+
+body.dark #DesktopNavigation {
+  background: var(--darkmode-desktop-navigation-bg);
+}
+
+.DesktopNavigation__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: var(--size-xl);
+}
+
+.DesktopNavigation__logo img {
+  height: 40px;
+  width: auto;
+}
+
+.DesktopNavigation__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
 
 #DesktopHeaderContent {
@@ -198,6 +249,10 @@ const handleSearchText = (text: string) => {
     z-index: var(--layer-1);
   }
 
+  body.exhibition-mode #DesktopHeaderContent {
+    top: 0;
+  }
+
   #DesktopHeaderContentInner {
     width: 100%;
     height: 100%;
@@ -225,7 +280,7 @@ const handleSearchText = (text: string) => {
     text-overflow: ellipsis;
     font-size: 20px;
     font-weight: bold;
-    font-family: --var(font-family-tight);
+    font-family: var(--font-family-tight);
   }
 
 }

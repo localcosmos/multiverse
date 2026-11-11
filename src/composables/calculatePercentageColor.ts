@@ -1,7 +1,7 @@
 export function calculatePercentageColor (points: number, maxPoints: number): string {
   const maxColor = 130; // max% of matrixPoints
   const minColor = 220; // min% of matrixPoints
-  const defaultColor = 'rgba(230,230,230, .5)';
+  const defaultColor = 'var(--node-points-default-color)';
 
   const pointsPercentage = points / maxPoints;
 
@@ -18,14 +18,14 @@ export function calculatePercentageColor (points: number, maxPoints: number): st
 
     // 20% of colorSpan 20% of 105 colorPoints = 21 colorPoints
     const colorPoints = Math.abs(percentPointsOverStartPercentage * colorSpan);
-    
+
     let newColor = maxColor - colorPoints;
     if (minColor > maxColor) {
       newColor = minColor - colorPoints;
     }
-    
+
     return `rgb(${newColor}, 210, 68)`;
-    
+
   }
   else {
     return defaultColor;

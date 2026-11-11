@@ -22,17 +22,27 @@ const goToNewObservation = () => {
 
 <template>
   <div
-    class="cta-button bg-translucent"
+    class="cta-button"
     @click="goToNewObservation"
   >
     <PhNotePencil :size="32" />
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --cta-button-bg: rgba(0,0,0,.7);
+    --cta-button-color: #FFF;
+
+    --darkmode-cta-button-bg: rgba(255,255,255,.7);
+    --darkmode-cta-button-color: #000;
+  }
+}
+
 .cta-button {
   position: fixed;
-  bottom: 100px;
+  bottom: calc(100px + env(safe-area-inset-bottom, 0px));
   right: var(--size-sm);
   z-index: var(--layer-1);
   border-radius: 50%;
@@ -42,9 +52,16 @@ const goToNewObservation = () => {
   justify-content: center;
   align-items: center;
   transform: scale3d(1,1,1);
+  background: var(--cta-button-bg);
   transform-origin: center center;
   transition: var(--transition-cubic);
   opacity: 1;
+  color: var(--cta-button-color);
+}
+
+body.dark .cta-button {
+  background: var(--darkmode-cta-button-bg);
+  color: var(--darkmode-cta-button-color);
 }
 
 .cta-hidden {

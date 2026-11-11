@@ -28,7 +28,7 @@ const percentage = computed(() => {
   .progress-bar {
     width: 100%;
     height: 24px;
-    border: 1px solid var(--color-grey);
+    border: 1px solid rgb(150, 150, 150);
     border-radius: .5em;
   }
 

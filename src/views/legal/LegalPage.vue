@@ -7,9 +7,9 @@ const props = defineProps<{
   textKey: string
 }>();
 
-const frontend =inject('frontend') as FrontendSettings;
+const frontend = inject('frontend') as FrontendSettings;
 
-const frontendText = frontend.userContent?.texts[props.textKey];
+const frontendText = frontend?.userContent?.texts[props.textKey];
 
 const fullTextKey = `burgerMenu.${props.textKey}`;
 

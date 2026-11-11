@@ -7,6 +7,7 @@ import ImageCarousel from '../images/ImageCarousel.vue';
 import { t } from 'i18next';
 import type { TaxonProfiles, TaxonProfilesNavigationNodeChild, TaxonProfilesNavigationNode as TaxonProfilesNavigationNodeType, TaxonWithSlugsAndImages } from 'localcosmos-client';
 import TaxonProfileLink from '@/components/ui/TaxonProfileLink.vue';
+import ColorButton from '@/components/ui/ColorButton.vue';
 
 type TranslatedTaxonProfilesNavigationNodeChild = TaxonProfilesNavigationNodeChild & {
   vernacularName: string|null,
@@ -50,7 +51,7 @@ const getNodeDisplayClass = (node:TaxonProfilesNavigationNodeType): string => {
   if (node.isTerminalNode) {
     displayClass = 'terminal';
   } else {
-    
+
     if (node.imageAnalysis.nodes.modeImages == 0) {
       displayClass += ' mode-images-0';
     } else if (node.imageAnalysis.nodes.modeImages == 1) {
@@ -94,7 +95,7 @@ const getImageCountClass = (imageCount: number) => {
 
 onMounted(async () => {
   const node = await taxonProfiles.getNavigationNode(props.nodeKey);
-  // sort node.taxonProfiles by their translated 
+  // sort node.taxonProfiles by their translated
   navigationNode.value = node;
   if (node != null) {
 
@@ -110,21 +111,21 @@ onMounted(async () => {
 
     node.taxonProfiles.forEach((taxonProfileReference) => {
 
-    let scientificName: string = `${taxonProfileReference.taxonLatname} ${taxonProfileReference.taxonAuthor}`;
-    let vernacularName: string|null = t(scientificName);
-    let primaryName: string = vernacularName; // for sorting
+      let scientificName: string = `${taxonProfileReference.taxonLatname} ${taxonProfileReference.taxonAuthor}`;
+      let vernacularName: string|null = t(scientificName);
+      let primaryName: string = vernacularName; // for sorting
 
-    if (vernacularName === scientificName) {
-      vernacularName = null;
-    }
+      if (vernacularName === scientificName) {
+        vernacularName = null;
+      }
 
-    const translatedTaxon:TranslatedTaxonWithSlugsAndImages = { ...taxonProfileReference, vernacularName, scientificName, primaryName };
-    if (taxonProfileReference.primaryImage) {
-      translatedTaxon.images = [taxonProfileReference.primaryImage];
-    } else if (taxonProfileReference.images.length) {
-      translatedTaxon.images = taxonProfileReference.images.slice(0,1);
-    }
-    attachedTaxonProfiles.push(translatedTaxon);
+      const translatedTaxon:TranslatedTaxonWithSlugsAndImages = { ...taxonProfileReference, vernacularName, scientificName, primaryName };
+      if (taxonProfileReference.primaryImage) {
+        translatedTaxon.images = [taxonProfileReference.primaryImage];
+      } else if (taxonProfileReference.images.length) {
+        translatedTaxon.images = taxonProfileReference.images.slice(0,1);
+      }
+      attachedTaxonProfiles.push(translatedTaxon);
 
     });
 
@@ -159,7 +160,7 @@ onMounted(async () => {
 
     // attachedNodes.sort((a, b) => a.primaryName.localeCompare(b.primaryName));
     subNodes.value = attachedNodes;
-    
+
   }
   loading.value = false;
 
@@ -172,7 +173,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div>
+  <div class="taxon-profiles-navigation">
     <div v-if="loading" class="text-center">
       <LoadingSpinner />
     </div>
@@ -202,16 +203,18 @@ onMounted(async () => {
             >
               <div
                 class="tp-navigation-description"
-                :class="{ 'is-collapsed': !isDescriptionExpanded }"
+                :class="{ 'is-collapsed': !isDescriptionExpanded, 'is-expanded': isDescriptionExpanded }"
                 v-html="navigationNode.description"
               ></div>
-              <button
-                type="button"
-                class="tp-navigation-description-toggle"
-                @click="isDescriptionExpanded = !isDescriptionExpanded"
-              >
-                {{ isDescriptionExpanded ? t('taxonProfiles.readLess') : t('taxonProfiles.readMore') }}
-              </button>
+              <div class="mt-lg mb-xl">
+                  <ColorButton
+                  :text="isDescriptionExpanded ? t('taxonProfiles.readLess') : t('taxonProfiles.readMore')"
+                  size="medium"
+                  type="primary"
+                  @click="isDescriptionExpanded = !isDescriptionExpanded"
+                >
+                </ColorButton>
+              </div>
             </div>
             <div
               ref="nodesContainer"
@@ -293,15 +296,15 @@ onMounted(async () => {
 .tp-navigation-description {
   overflow: hidden;
   line-height: 1.5;
-  max-height: 1000px;
-  transition: max-height 280ms ease;
+  max-height: 3em;
+  transition: max-height 320ms ease;
+}
+
+.tp-navigation-description.is-expanded {
+  max-height: 80vh;
 }
 
 .tp-navigation-description.is-collapsed {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
   max-height: 3em;
 }
 
@@ -392,7 +395,7 @@ onMounted(async () => {
 *
 * Flex version
 * - optimized for one card with 3 images
-* - 
+* -
 */
 @media (min-width: 350px) {
 

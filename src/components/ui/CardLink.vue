@@ -70,6 +70,6 @@ const props = defineProps<{
 
 .card-text {
   font-size: 1rem;
-  color: var(--text-muted);
+  color: var(--color-text-muted);
 }
 </style>

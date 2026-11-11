@@ -117,6 +117,7 @@ const handleSearchText = (text: string) => {
           v-if="resolvedHeaderMode === 'tabs' && headerTabNavigation"
           :tabs="headerTabNavigation.tabs"
           :active-tab="headerTabNavigation.activeTab ?? 1"
+          :search-text="headerTabNavigation.searchText ?? ''"
           :letter-selector-id="tabsStore.headerTabNavigationId ?? undefined"
           @select-tab="handleSelectTab"
           @select-letter="handleSelectLetter"
@@ -137,7 +138,7 @@ const handleSearchText = (text: string) => {
             {{ $t(headerTitle) }}
           </span>
         </div>
-        
+
       </div>
     </div>
   </nav>
@@ -167,7 +168,7 @@ const handleSearchText = (text: string) => {
 }
 
 #header-left.slim-burger {
-  background: var(--color-white-translucent-light);
+  background: var(--bg-translucent-light);
   backdrop-filter: var(--backdrop-filter-blur);
   border-radius: 0 25px 25px 0;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
@@ -234,10 +235,10 @@ const handleSearchText = (text: string) => {
   display: inline-block;
   max-width: calc(100vw - (var(--header-bar-height) * 2));
   max-width: calc(100dvw - (var(--header-bar-height) * 2));
-  white-space: nowrap; 
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-family: --var(font-family-tight);
+  font-family: var(--font-family-tight);
 }
 
 @media (min-width: 640px) {
@@ -246,6 +247,10 @@ const handleSearchText = (text: string) => {
 @media (min-width: 768px) {
   #HeaderBar {
     display: none;
+  }
+
+  body.exhibition-mode #HeaderBar {
+    display: grid;
   }
 }
 

@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import { ref, watch, inject } from 'vue';
-import TaxonProfilesSearchResult from '@/components/taxon-profiles/TaxonProfilesSearchResult.vue';
+import { ref, watch, inject } from "vue";
+import TaxonProfilesSearchResult from "@/components/taxon-profiles/TaxonProfilesSearchResult.vue";
 
-import type { SearchTaxon, TaxonProfiles } from 'localcosmos-client';
+import type { SearchTaxon, TaxonProfiles } from "localcosmos-client";
 
-const taxonProfiles = inject('taxonProfiles') as TaxonProfiles;
+const taxonProfiles = inject("taxonProfiles") as TaxonProfiles;
 
 // Props to receive the search text
 const props = defineProps<{
-  searchText: string, // Search text passed from the parent component
+  searchText: string; // Search text passed from the parent component
 }>();
 
 const searchResults = ref<SearchTaxon[]>([]);
@@ -16,18 +16,17 @@ const searched = ref<boolean>(false);
 
 // Define the searchTaxon function
 const searchTaxon = (query: string) => {
-
-  console.log('Executing search for query:', query);
+  console.log("Executing search for query:", query);
 
   if (query.length >= 2) {
     searched.value = true;
     try {
       // Use the taxonProfiles search function to fetch results
       const results = taxonProfiles.search(query);
-      console.log('Search results:', results);
+      console.log("Search results:", results);
       searchResults.value = results; // Update the search results
     } catch (error) {
-      console.error('Error during search:', error);
+      console.error("Error during search:", error);
       searchResults.value = []; // Clear results on error
     }
   } else {
@@ -42,14 +41,18 @@ watch(
   (newQuery) => {
     searchTaxon(newQuery);
   },
-  { immediate: true } // Run the watcher immediately on component mount
+  { immediate: true }, // Run the watcher immediately on component mount
 );
 </script>
 
 <template>
-  <div>
+  <div class="taxon-profiles-search">
     <div v-if="searchResults.length > 0">
-      <div v-for="(taxon, index) in searchResults" :key="index" class="taxon-search-result">
+      <div
+        v-for="(taxon, index) in searchResults"
+        :key="index"
+        class="taxon-profiles-search__result"
+      >
         <TaxonProfilesSearchResult :taxon="taxon" />
       </div>
     </div>
@@ -59,8 +62,46 @@ watch(
   </div>
 </template>
 
-<style scoped>
-.taxon-search-result {
-  margin-bottom: var(--size-xs);
+<style>
+.taxon-profiles-search {
+
+}
+.taxon-profiles-search > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.taxon-profiles-search__result {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+@media (min-width: 768px) {
+  .taxon-profiles-search {
+
+  }
+
+  .taxon-profiles-search > div {
+  }
+
+  .taxon-profiles-search__result {
+
+  }
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 1024px) {
+
+}
+
+@media (min-width: 1280px) {
+
 }
 </style>

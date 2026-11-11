@@ -40,7 +40,6 @@ const props = defineProps<{
   width: 100px;
   aspect-ratio: 1 / 1;
   background: rgb(220, 220, 220);
-  border-radius: var(--border-radius-sm);
 }
 
 .tcp-text {

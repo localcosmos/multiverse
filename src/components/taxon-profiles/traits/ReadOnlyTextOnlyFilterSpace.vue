@@ -8,14 +8,14 @@ const props = defineProps<{
 </script>
 
 <template>
-  <div class="text-only-filter-space">
+  <div class="ro-text-only-filter-space">
     <div v-html="space.encodedSpace"></div>
   </div>
 </template>
 
-<style scoped>
-.text-only-filter-space {
-  width: 100%;
+<style>
+.ro-text-only-filter-space {
+  width: 200px;
   aspect-ratio: 3 / 2;
   background: #FFF;
   border-radius: var(--border-radius-sm);
@@ -23,5 +23,9 @@ const props = defineProps<{
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.ro-text-only-filter-space p {
+  margin-bottom: 0px;
 }
 </style>

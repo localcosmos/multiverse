@@ -1,37 +1,43 @@
 <script setup lang="ts">
-import { ref, onMounted, nextTick } from 'vue';
-import type { ImageWithTextAndLicence } from 'localcosmos-client';
-import { imageUrlsToSrcSet } from '@/composables/imageUrlsToSrcSet';
-import { templateContentImageUrlsToSrcSet } from '@/composables/templateContentImageUrlsToSrcSet';
-import LicenceCircle from '@/components/legal/LicenceCircle.vue';
+import { ref, onMounted, nextTick } from "vue";
+import type { ImageWithTextAndLicence, ImageUrls } from "localcosmos-client";
+import { imageUrlsToSrcSet } from "@/composables/imageUrlsToSrcSet";
+import { useTemplateContent } from "@/composables/useTemplateContent";
+import type { TemplateContentSource } from "@/composables/useTemplateContent";
+import LicenceCircle from "@/components/legal/LicenceCircle.vue";
 
-import type { GestureEvent } from 'contactjs';
-import { PointerListener, Pinch, Pan } from 'contactjs';
+import type { GestureEvent } from "contactjs";
+import { PointerListener, Pinch, Pan } from "contactjs";
 
-const props = withDefaults(defineProps<{
-  image: ImageWithTextAndLicence,
-  sizes?: string,
-  rounded?: string,
-  title?: string,
-  altText?: string,
-  showCaption?: boolean,
-  isTemplateContentImage?: boolean, // If true, use different styling for template content images
-}>(), {
-  showCaption: true,
-  isTemplateContentImage: false,
-});
+const props = withDefaults(
+  defineProps<{
+    image: ImageWithTextAndLicence;
+    sizes?: string;
+    title?: string;
+    altText?: string;
+    showCaption?: boolean;
+    isTemplateContentImage?: boolean; // If true, use different styling for template content images
+    templateContentSource?: TemplateContentSource | null; // Optional prop to pass the source for template content images
+  }>(),
+  {
+    showCaption: true,
+    isTemplateContentImage: false,
+  },
+);
 
-const emit = defineEmits(['zoomed']); // Define the "zoomed" event
+const emit = defineEmits(["zoomed"]); // Define the "zoomed" event
+
+const { templateContentImageUrlsToSrcSet } = useTemplateContent();
 
 const hasCaption: boolean = !!(props.showCaption && props.image.text);
 
-const srcSetFn = props.isTemplateContentImage ? templateContentImageUrlsToSrcSet : imageUrlsToSrcSet;
-
-const sharpLicenceCircle = !props.rounded || (hasCaption && (
-  props.rounded === 'rounded' ||
-  props.rounded === 'rounded-xs' ||
-  props.rounded === 'rounded-sm'
-));
+const srcSetFn = (imageUrl: ImageUrls): string => {
+  if (props.isTemplateContentImage && props.templateContentSource) {
+    return templateContentImageUrlsToSrcSet(imageUrl, props.templateContentSource);
+  } else {
+    return imageUrlsToSrcSet(imageUrl);
+  }
+};
 
 const maxZoom = 8;
 
@@ -51,8 +57,6 @@ const prevBgH = ref<number>(0); // Previous background height (px)
 const portraitBaseScale = 1; // Base scale to fit image in container
 const landscapeBaseScale = ref<number>(1); // Base scale to fit image in container
 
-
-  
 const startScale = ref<number>(1); // Initial scale for pinch zoom
 const startX = ref<number>(0); // Initial X position for panning
 const startY = ref<number>(0); // Initial Y position for panning
@@ -64,7 +68,6 @@ const useTransition = ref<boolean>(false); // Enable transitions only for mouse 
 
 const isZoomed = ref<boolean>(false); // Track if the image is zoomed in
 
-
 const isLandscape = () => {
   return window.innerWidth > window.innerHeight;
 };
@@ -75,7 +78,7 @@ const getBaseScale = () => {
   } else {
     return portraitBaseScale;
   }
-}
+};
 
 /**
  * first, scale the background image according to zoom level
@@ -139,9 +142,7 @@ const setBackgroundScaleAndPosition = (zoomLevel: number, focalX: number, focalY
   }
 };
 
-
 const resetZoom = () => {
-
   useTransition.value = true; // Enable smooth transition for reset
   zoomLevel.value = 1;
 
@@ -149,26 +150,23 @@ const resetZoom = () => {
   if (imageContainer.value && staticImageBoundingBox.value) {
     imageContainer.value.style.backgroundSize = `${staticImageBoundingBox.value.width}px ${staticImageBoundingBox.value.height}px`;
     imageContainer.value.style.backgroundPosition = `center center`;
-    imageContainer.value.style.backgroundImage = 'none';
+    imageContainer.value.style.backgroundImage = "none";
   }
-  
+
   // Disable transitions after animation
   setTimeout(() => {
     useTransition.value = false;
   }, 300);
-
 };
-
 
 const setInitialBackgroundPosition = () => {
   if (imageContainer.value && staticImage.value) {
-
     if (staticImageBoundingBox.value === null) {
       staticImageBoundingBox.value = staticImage.value.getBoundingClientRect();
     }
 
     // set background image
-    imageContainer.value.style.backgroundImage = `url('${props.image.imageUrl['4x']}')`;
+    imageContainer.value.style.backgroundImage = `url('${props.image.imageUrl["4x"]}')`;
 
     const rect = imageContainer.value.getBoundingClientRect();
     const nW = staticImage.value.naturalWidth;
@@ -196,12 +194,17 @@ const ensureZoomInitialized = () => {
   if (!isZoomed.value) {
     setInitialBackgroundPosition();
     isZoomed.value = true;
-    emit('zoomed', isZoomed.value);
+    emit("zoomed", isZoomed.value);
   }
 };
 
 // Apply a target zoom level with optional transition and focal anchoring
-const applyZoomTo = (targetZoom: number, focalX: number, focalY: number, withTransition: boolean) => {
+const applyZoomTo = (
+  targetZoom: number,
+  focalX: number,
+  focalY: number,
+  withTransition: boolean,
+) => {
   zoomLevel.value = clampZoom(targetZoom);
   useTransition.value = withTransition;
   requestAnimationFrame(() => {
@@ -257,13 +260,12 @@ const onPinchStart = () => {
   if (!isZoomed.value) {
     setInitialBackgroundPosition();
     isZoomed.value = true;
-    emit('zoomed', isZoomed.value);
+    emit("zoomed", isZoomed.value);
   }
-}
+};
 
 const onPinch = (event: GestureEvent) => {
-
-  useTransition.value = false; 
+  useTransition.value = false;
 
   const scale = event.detail.global.scale;
   const baseScale = getBaseScale();
@@ -279,52 +281,48 @@ const onPinch = (event: GestureEvent) => {
     ensureZoomInitialized();
     applyZoomTo(newZoomLevel, focalX, focalY, false);
   }
-  
 };
 
 const onPinchEnd = () => {
-
   if (isZoomed.value === true) {
     if (zoomLevel.value <= 1.1) {
       resetZoom();
       isZoomed.value = false;
-      emit('zoomed', isZoomed.value);
+      emit("zoomed", isZoomed.value);
     }
   }
 };
 
 // Handle zooming with mouse wheel
 const handleWheelZoom = (event: WheelEvent) => {
-
   event.preventDefault();
   // Avoid a jumpy first zoom: enable transition only after initial zoom
-  useTransition.value = false; 
+  useTransition.value = false;
 
   const zoomStep = 0.1;
   const focalX = event.clientX;
   const focalY = event.clientY;
 
   ensureZoomInitialized();
-  const target = event.deltaY < 0 ? (zoomLevel.value + zoomStep) : (zoomLevel.value - zoomStep);
+  const target = event.deltaY < 0 ? zoomLevel.value + zoomStep : zoomLevel.value - zoomStep;
   applyZoomTo(target, focalX, focalY, true);
   // If clamped back to base scale, treat as reset
   if (zoomLevel.value <= getBaseScale()) {
     resetZoom();
     isZoomed.value = false;
-    emit('zoomed', isZoomed.value);
+    emit("zoomed", isZoomed.value);
   }
   // Disable transitions shortly after the zoom finishes
   setTimeout(() => {
     useTransition.value = false;
   }, 300);
-  
 };
-
 
 onMounted(() => {
   const options = {
     supportedGestures: [Pan, Pinch],
-    handleTouchEvents: true,
+    handleTouchEvents: false,
+    capturePointer: false, // allow scroll snap container to claim single-touch swipes
   };
 
   nextTick(() => {
@@ -335,15 +333,15 @@ onMounted(() => {
 
   if (imageContainer.value) {
     // Add gesture event listeners
-    imageContainer.value.addEventListener('gesturestart', (event) => {
+    imageContainer.value.addEventListener("gesturestart", (event) => {
       event.preventDefault(); // Prevent default pinch-to-zoom behavior
     });
 
-    imageContainer.value.addEventListener('gesturechange', (event) => {
+    imageContainer.value.addEventListener("gesturechange", (event) => {
       event.preventDefault(); // Prevent default pinch-to-zoom behavior
     });
 
-    imageContainer.value.addEventListener('gestureend', (event) => {
+    imageContainer.value.addEventListener("gestureend", (event) => {
       event.preventDefault(); // Prevent default pinch-to-zoom behavior
     });
   }
@@ -353,8 +351,12 @@ onMounted(() => {
 <template>
   <div
     ref="imageContainer"
-    class="image-container"
-    :class="{ 'with-transition': useTransition, 'zoomed': isZoomed }"
+    class="zoomable-image-with-licence"
+    :class="{
+      'zoomable-image-with-licence--with-transition': useTransition,
+      'zoomable-image-with-licence--zoomed': isZoomed,
+    }"
+    :style="{ touchAction: isZoomed ? 'none' : 'pan-x' }"
     @wheel="handleWheelZoom"
     @pinchstart="onPinchStart"
     @pinch="onPinch"
@@ -363,35 +365,34 @@ onMounted(() => {
     @pan="onPan"
     @panend="onPanEnd"
   >
-    <img
-      ref="staticImage"
-      loading="lazy"
-      draggable="false"
-      :src="image.imageUrl['2x']"
-      :srcset="srcSetFn(image.imageUrl)"
-      @panstart="onPanStart"
-      :sizes="sizes ? sizes : ''"
-      :alt="`{{ taxonLatname }} {{ taxonAuthor }}`"
-      :class="rounded ? rounded : 'sharp'"
-      @pan="onPan"
-      @panend="onPanEnd"
-      :title="title ? title : undefined"
-    />
-    <LicenceCircle
-      v-if="!isZoomed"
-      :imageUrl="image.imageUrl['4x']"
-      class="image-licence-circle"
-      :sharp="sharpLicenceCircle"
-    />
+    <div class="zoomable-image-with-licence__wrap">
+      <img
+        ref="staticImage"
+        loading="lazy"
+        draggable="false"
+        :src="image.imageUrl['2x']"
+        :srcset="srcSetFn(image.imageUrl)"
+        @panstart="onPanStart"
+        :sizes="sizes ? sizes : ''"
+        :alt="`{{ taxonLatname }} {{ taxonAuthor }}`"
+        @pan="onPan"
+        @panend="onPanEnd"
+        :title="title ? title : undefined"
+      />
+      <div class="zoomable-image-with-licence__licence-circle">
+        <LicenceCircle v-if="!isZoomed" :imageUrl="image.imageUrl['4x']" />
+      </div>
+    </div>
+
     <!-- Caption overlay -->
-    <div v-if="showCaption && image.text" class="caption-overlay">
-      <div class="caption-content" v-html="image.text"></div>
+    <div v-if="showCaption && image.text" class="zoomable-image-with-licence__caption-overlay">
+      <div class="zoomable-image-with-licence__caption-content" v-html="image.text"></div>
     </div>
   </div>
 </template>
 
-<style scoped>
-.image-container {
+<style>
+.zoomable-image-with-licence {
   width: 100%;
   height: 100%;
   background-repeat: no-repeat;
@@ -404,46 +405,54 @@ onMounted(() => {
   overflow: hidden;
 }
 
+.zoomable-image-with-licence__wrap {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
 
-.image-container img {
+.zoomable-image-with-licence img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: contain;
   object-position: center center;
 }
 
-.image-container.with-transition {
-  transition: background-size 0.3s ease, background-position 0.3s ease; /* Smooth transition for zooming */
+.zoomable-image-with-licence--with-transition {
+  transition:
+    background-size 0.3s ease,
+    background-position 0.3s ease; /* Smooth transition for zooming */
   will-change: background-size, background-position;
 }
 
-.image-container.zoomed img {
+.zoomable-image-with-licence--zoomed img {
   display: none; /* Hide the img element when zoomed */
 }
 
-.image-licence-circle {
+.zoomable-image-with-licence__licence-circle {
   position: absolute;
   right: -9px;
   bottom: -9px;
-  z-index: 3; /* Above caption overlay */
 }
 
-
-.caption-overlay {
+.zoomable-image-with-licence__caption-overlay {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
-  padding: 0 var(--size-md);
+  padding: var(--size-md) var(--size-md);
   background: rgba(0, 0, 0, 0.55);
   z-index: 2;
   pointer-events: none; /* Let pointer events pass through to the image */
   max-width: 100%;
 }
 
-.caption-content {
+.zoomable-image-with-licence__caption-content {
   text-align: center;
-  font-family: 'RobotoCondensed';
+  font-family: "Inter";
   font-weight: 400;
   font-size: var(--font-size-lg);
   color: #fff;

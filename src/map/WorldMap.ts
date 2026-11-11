@@ -2,6 +2,8 @@ import View from 'ol/View';
 import Map from 'ol/Map';
 import TileLayer from 'ol/layer/Tile';
 import OSM from 'ol/source/OSM';
+import Zoom from 'ol/control/Zoom';
+import { defaults as defaultControls } from 'ol/control';
 // marker
 import VectorLayer from 'ol/layer/Vector';
 import VectorSource from 'ol/source/Vector';
@@ -22,6 +24,9 @@ export default class WorldMap {
     this.map = new Map({
       target: mapDiv,
       moveTolerance: 5,
+      controls: defaultControls({ zoom: false }).extend([
+        new Zoom({ className: 'ol-zoom ol-zoom-top-right' }),
+      ]),
       layers: [
 
         new TileLayer({
@@ -84,10 +89,11 @@ export default class WorldMap {
     this.drawMarker(x, y, removePreviousMarker);
   }
 
-  setCenter (longitude: number, latitude: number, zoom: number) {
+  setCenter (longitude: number, latitude: number, zoom?: number) {
     const xy: number[] = transform([longitude, latitude], 'EPSG:4326', 'EPSG:3857');
-
     this.map.getView().setCenter(xy);
-    this.map.getView().setZoom(zoom);
+    if (zoom !== undefined) {
+      this.map.getView().setZoom(zoom);
+    }
   }
 }

@@ -18,15 +18,20 @@ if (props.images && props.images.length) {
   displayedImages = props.images.slice(0, 3);
   //displayedImages = props.images;
 }
+
+const fontFamily = props.isTerminalNode === true ? 'var(--font-public-sans-1001)' : 'var(--font-quincy-1001)';
+const fontSize = props.isTerminalNode === true ? '16px' : '20px';
 </script>
 
 <template>
-  <div class="tp-navigation-node bg-translucent-light">
+  <div class="tp-navigation-node">
     <div class="tp-node-name">
       <TaxonName
         :taxon-latname="taxonLatname"
         :vernacular-name="vernacularName"
         :single-line="true"
+        :font-family="fontFamily"
+        :font-size="fontSize"
       >
       </TaxonName>
     </div>
@@ -42,7 +47,6 @@ if (props.images && props.images.length) {
       >
         <ImageWithLicence
           :image="image"
-          :rounded="`rounded-xs`"
           :show-caption="false"
           sizes="(max-width: 349px) 100vw, (max-width: 767px) 33vw, (max-width: 1023px) 17vw, 15vw"
         />
@@ -52,11 +56,26 @@ if (props.images && props.images.length) {
 </template>
 
 <style>
+@layer defaults {
+  :root {
+    --tp-navigation-node-bg: rgba(255, 255, 255, 0.5);
+    --tp-navigation-node-border-radius: var(--border-radius-sm);
+    --tp-navigation-node-box-shadow: var(--box-shadow);
+
+    --darkmode-tp-navigation-node-bg: rgba(0, 0, 0, 0.5);
+  }
+}
+
 .tp-navigation-node {
   padding: var(--size-md);
-  border-radius: var(--border-radius-sm);
-  box-shadow: var(--box-shadow);
+  border-radius: var(--tp-navigation-node-border-radius);
+  box-shadow: var(--tp-navigation-node-box-shadow);
   height: 100%;
+  background: var(--tp-navigation-node-bg);
+}
+
+body.dark .tp-navigation-node {
+  background: var(--darkmode-tp-navigation-node-bg);
 }
 
 .tp-node-name {

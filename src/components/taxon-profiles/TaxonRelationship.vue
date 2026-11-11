@@ -1,31 +1,32 @@
 <script setup lang="ts">
-import type { TaxonRelationship, TaxonRelationshipType, Taxon } from 'localcosmos-client';
+import type { TaxonRelationship, TaxonRelationshipType, Taxon } from "localcosmos-client";
 
-import SlotCard from '../ui/SlotCard.vue';
-import TaxonName from '../ui/TaxonName.vue';
-import { imageUrlsToSrcSet } from '@/composables/imageUrlsToSrcSet';
-import GlossarizedText from '../text/GlossarizedText.vue';
+import SlotCard from "../ui/SlotCard.vue";
+import ImageCard from "../ui/ImageCard.vue";
+import TaxonName from "../ui/TaxonName.vue";
+import { imageUrlsToSrcSet } from "@/composables/imageUrlsToSrcSet";
+import GlossarizedText from "../text/GlossarizedText.vue";
 
-import TaxonProfileLink from '../ui/TaxonProfileLink.vue';
+import TaxonProfileLink from "../ui/TaxonProfileLink.vue";
 
 const props = defineProps<{
   relationshipType: TaxonRelationshipType;
   relationship: TaxonRelationship;
-  taxon: Taxon|null;
+  taxon: Taxon | null;
 }>();
 
-let mode = 'simple';
+let mode = "simple";
 let relatedTaxon = props.relationship.relatedTaxon;
 
 if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole) {
-  mode = 'detailed';
+  mode = "detailed";
 } else {
   if (props.taxon && props.taxon != null) {
     if (
       // test if related Taxon is descendant of props.taxon or vice versa
-      (props.relationship.relatedTaxon.taxonNuid.indexOf(props.taxon.taxonNuid) !== -1 ) || 
-      (props.taxon.taxonNuid.indexOf(props.relationship.relatedTaxon.taxonNuid) !== -1 ) ||
-      (props.relationship.relatedTaxon.nameUuid === props.taxon.nameUuid)
+      props.relationship.relatedTaxon.taxonNuid.indexOf(props.taxon.taxonNuid) !== -1 ||
+      props.taxon.taxonNuid.indexOf(props.relationship.relatedTaxon.taxonNuid) !== -1 ||
+      props.relationship.relatedTaxon.nameUuid === props.taxon.nameUuid
     ) {
       relatedTaxon = props.relationship.taxon;
     }
@@ -34,8 +35,8 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
 </script>
 
 <template>
-  <div>
-    <component 
+  <div class="taxon-relationship">
+    <component
       v-if="mode === 'simple'"
       :is="relatedTaxon?.hasTaxonProfile ? TaxonProfileLink : 'div'"
       :taxon="relatedTaxon"
@@ -44,14 +45,23 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
       <SlotCard>
         <div class="simple-relationship">
           <div class="simple-relationship-image">
-            <img v-if="relatedTaxon && relatedTaxon.image"
+            <img
+              v-if="relatedTaxon && relatedTaxon.image"
               loading="lazy"
               draggable="false"
               :src="relatedTaxon.image.imageUrl['2x']"
               :srcset="imageUrlsToSrcSet(relatedTaxon.image.imageUrl)"
               :sizes="'(min-width: 768px) 320px, 100vw'"
-              :alt="relatedTaxon.image.altText ? relatedTaxon.image.altText : `{{ relatedTaxon.taxonLatname }} {{ relatedTaxon.taxonAuthor }}`"
-              :title="relatedTaxon.image.title ? relatedTaxon.image.title : `{{ relatedTaxon.taxonLatname }} {{ relatedTaxon.taxonAuthor }}`"
+              :alt="
+                relatedTaxon.image.altText
+                  ? relatedTaxon.image.altText
+                  : `{{ relatedTaxon.taxonLatname }} {{ relatedTaxon.taxonAuthor }}`
+              "
+              :title="
+                relatedTaxon.image.title
+                  ? relatedTaxon.image.title
+                  : `{{ relatedTaxon.taxonLatname }} {{ relatedTaxon.taxonAuthor }}`
+              "
             />
           </div>
           <div class="simple-relationship-details">
@@ -67,7 +77,7 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
         </div>
       </SlotCard>
     </component>
-    
+
     <div v-else>
       <SlotCard :flat="true" class="text-center no-padding-card">
         <div class="complex-relationship">
@@ -81,8 +91,13 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
           </div>
           <div class="complex-relationship-taxa">
             <div class="relationship-taxon">
-              <component 
-                :is="(relationship.taxon?.hasTaxonProfile && relationship.taxon.nameUuid == relatedTaxon.nameUuid) ? TaxonProfileLink : 'div'"
+              <component
+                :is="
+                  relationship.taxon?.hasTaxonProfile &&
+                  relationship.taxon.nameUuid == relatedTaxon.nameUuid
+                    ? TaxonProfileLink
+                    : 'div'
+                "
                 :taxon="relationship.taxon"
                 :class="relationship.taxon?.hasTaxonProfile ? 'nolinkstyle' : ''"
               >
@@ -94,8 +109,13 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
               </component>
             </div>
             <div class="relationship-related-taxon">
-              <component 
-                :is="(relationship.relatedTaxon?.hasTaxonProfile && relationship.relatedTaxon.nameUuid == relatedTaxon.nameUuid) ? TaxonProfileLink : 'div'"
+              <component
+                :is="
+                  relationship.relatedTaxon?.hasTaxonProfile &&
+                  relationship.relatedTaxon.nameUuid == relatedTaxon.nameUuid
+                    ? TaxonProfileLink
+                    : 'div'
+                "
                 :taxon="relationship.relatedTaxon"
                 :class="relatedTaxon?.hasTaxonProfile ? 'nolinkstyle' : ''"
               >
@@ -116,8 +136,14 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
   </div>
 </template>
 
-<style scoped>
-.simple-relationship {
+<style>
+@layer defaults {
+  :root {
+
+  }
+}
+
+.taxon-relationship .simple-relationship {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -125,18 +151,18 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
   gap: var(--size-sm);
 }
 
-.simple-relationship-image {
+.taxon-relationship .simple-relationship-image {
   height: 120px;
   aspect-ratio: 1 / 1;
 }
 
-.simple-relationship-image img {
+.taxon-relationship .simple-relationship-image img {
   height: 100%;
   aspect-ratio: 1 / 1;
   border-radius: var(--border-radius-sm);
 }
 
-.simple-relationship-details {
+.taxon-relationship .simple-relationship-details {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -144,7 +170,7 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
   gap: var(--size-xs);
 }
 
-.complex-relationship-taxa {
+.taxon-relationship .complex-relationship-taxa {
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
@@ -152,43 +178,42 @@ if (props.relationshipType.taxonRole && props.relationshipType.relatedTaxonRole)
   border-radius: 0 0 var(--border-radius-sm) var(--border-radius-sm);
 }
 
-.complex-relationship-taxa > div {
+.taxon-relationship .complex-relationship-taxa > div {
   padding: var(--size-sm);
   text-align: center;
   overflow: hidden;
 }
 
-.complex-relationship-taxa > div:last-child {
+.taxon-relationship .complex-relationship-taxa > div:last-child {
   min-width: 0; /* Allow flex items to shrink below content size */
   overflow: hidden;
   border-left: 1px solid #ddd; /* Add this line */
 }
 
-.taxon-roles {
+.taxon-relationship .taxon-roles {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
-.taxon-role-name {
+.taxon-relationship .taxon-role-name {
   background: #919191; /* Darker slate grey */
-  color: #FFF;
-  border-radius:  var(--border-radius-sm) 0 0 0;
+  color: #fff;
+  border-radius: var(--border-radius-sm) 0 0 0;
   padding: var(--size-xs);
 }
-.related-taxon-role-name {
+.taxon-relationship .related-taxon-role-name {
   background: #9b9b9b; /* Medium slate grey */
-  color: #FFF;
+  color: #fff;
   border-radius: 0 var(--border-radius-sm) 0 0;
   padding: var(--size-xs);
 }
 
-.no-padding-card {
+.taxon-relationship .no-padding-card {
   padding: 0;
   border: 1px solid #ddd;
 }
 
-
-.relationship-description {
+.taxon-relationship .relationship-description {
   padding: var(--size-md);
 }
 </style>

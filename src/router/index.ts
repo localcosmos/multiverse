@@ -1,59 +1,70 @@
-import { inject } from 'vue';
-import { createRouter, createWebHistory } from 'vue-router';
-import { useMainNavigationStore } from '@/stores/main-navigation';
-import { useModalBottomSheet } from '@/stores/modal-bottomsheet';
-import { useMapStore } from '@/stores/map';
-import HomeView from '@/views/HomeView.vue';
-import TextView from '@/views/template-content/TextView.vue';
-import StoryView from '@/views/template-content/StoryView.vue';
-import ArticleView from '@/views/template-content/ArticleView.vue';
-import TaxonProfiles from '@/views/taxon-profiles/TaxonProfiles.vue';
-import TaxonProfile from '@/views/taxon-profiles/TaxonProfile.vue';
-import ObservationsHub from '@/views/observations/ObservationsHub.vue';
-import MyObservations from '@/views/observations/MyObservations.vue';
-import GlossaryView from '@/views/GlossaryView.vue';
-import NatureGuidesList from '@/views/nature-guides/NatureGuidesList.vue';
-import NatureGuide from '@/views/nature-guides/NatureGuide.vue';
-import NatureGuideStart from '@/views/nature-guides/NatureGuideStart.vue';
-import LegalPageView from '@/views/legal/LegalPageView.vue';
-import NotFound from '@/views/NotFound.vue';
-import MyAccount from '@/views/account/MyAccount.vue';
-import RegistrationView from '@/views/account/RegistrationView.vue';
-import RegistrationSuccessView from '@/views/account/RegistrationSuccessView.vue';
-import UserDeletionSuccess from '@/views/account/UserDeletionSuccess.vue';
-import PasswordReset from '@/views/account/PasswordReset.vue';
-import CollectionView from '@/views/template-content/CollectionView.vue';
-import ObservationFormView from '@/views/observations/ObservationFormView.vue';
-import ObservationFormsList from '@/views/observations/ObservationFormsList.vue';
-import PermissionDenied from '@/views/PermissionDenied.vue';
-import EditObservation from '@/views/observations/EditObservation.vue';
-import EditRemoteObservation from '@/views/observations/EditRemoteObservation.vue';
-import MapView from '@/views/maps/MapView.vue';
-import ObservationDetail from '@/views/observations/ObservationDetail.vue';
-import UserDetail from '@/views/account/UserDetail.vue';
-import PrivacySettings from '@/views/legal/PrivacySettings.vue';
+import { inject } from "vue";
+import { createRouter, createWebHistory } from "vue-router";
+import { useMainNavigationStore } from "@/stores/main-navigation";
+import { useModalBottomSheet } from "@/stores/modal-bottomsheet";
+import { useMapStore } from "@/stores/map";
+import HomeView from "@/views/HomeView.vue";
+import TypographyView from "@/views/TypographyView.vue";
+import TextView from "@/views/template-content/TextView.vue";
+import StoryView from "@/views/template-content/StoryView.vue";
+import VideoStoryView from "@/views/template-content/VideoStoryView.vue";
+import CollectionView from "@/views/template-content/CollectionView.vue";
+import VideoCollectionView from "@/views/template-content/VideoCollectionView.vue";
+import TaxonArticleCollectionView from "@/views/template-content/TaxonArticleCollectionView.vue";
+import LandingPageView from "@/views/template-content/preview-only/LandingPageView.vue";
+import IncidentReportView from "@/views/template-content/preview-only/IncidentReportView.vue";
+import SponsorStripeView from "@/views/template-content/preview-only/SponsorStripeView.vue";
+import ShortStoryView from "@/views/template-content/ShortStoryView.vue";
+import ArticleView from "@/views/template-content/ArticleView.vue";
+import GatewayView from "@/views/template-content/GatewayView.vue";
+import TaxonProfiles from "@/views/taxon-profiles/TaxonProfiles.vue";
+import TaxonProfile from "@/views/taxon-profiles/TaxonProfile.vue";
+import ObservationsHub from "@/views/observations/ObservationsHub.vue";
+import MyObservations from "@/views/observations/MyObservations.vue";
+import GlossaryView from "@/views/GlossaryView.vue";
+import NatureGuidesList from "@/views/nature-guides/NatureGuidesList.vue";
+import NatureGuide from "@/views/nature-guides/NatureGuide.vue";
+import NatureGuideStart from "@/views/nature-guides/NatureGuideStart.vue";
+import LegalPageView from "@/views/legal/LegalPageView.vue";
+import NotFound from "@/views/NotFound.vue";
+import MyAccount from "@/views/account/MyAccount.vue";
+import RegistrationView from "@/views/account/RegistrationView.vue";
+import RegistrationSuccessView from "@/views/account/RegistrationSuccessView.vue";
+import UserDeletionSuccess from "@/views/account/UserDeletionSuccess.vue";
+import PasswordReset from "@/views/account/PasswordReset.vue";
+import ObservationFormView from "@/views/observations/ObservationFormView.vue";
+import ObservationFormsList from "@/views/observations/ObservationFormsList.vue";
+import PermissionDenied from "@/views/PermissionDenied.vue";
+import EditObservation from "@/views/observations/EditObservation.vue";
+import EditRemoteObservation from "@/views/observations/EditRemoteObservation.vue";
+import MapView from "@/views/maps/MapView.vue";
+import ObservationDetail from "@/views/observations/ObservationDetail.vue";
+import UserDetail from "@/views/account/UserDetail.vue";
+import PrivacySettings from "@/views/legal/PrivacySettings.vue";
+import AppSettingsView from "@/views/AppSettingsView.vue";
+import ExhibitionModeSettingsView from "@/views/exhibition/ExhibitionModeSettingsView.vue";
 
-import { useAuthStore } from '@/stores/auth';
-import { usePermissionsStore } from '@/stores/permissions';
-import { useModalsStore } from '@/stores/modals';
+import { useAuthStore } from "@/stores/auth";
+import { usePermissionsStore } from "@/stores/permissions";
+import { useModalsStore } from "@/stores/modals";
 
-import 'vue-router'
+import "vue-router";
 
-type HeaderMode = 'auto' | 'none' | 'title' | 'tabs' | 'template';
+type HeaderMode = "auto" | "none" | "title" | "tabs" | "template";
 
-declare module 'vue-router' {
+declare module "vue-router" {
   interface RouteMeta {
-    requiresAuth?: boolean,
-    requiresAccountFeature?: boolean,
-    title?: string,
-    headerTitle?: string,
-    headerMode?: HeaderMode,
-    headerTemplate?: string,
-    headerTemplateProps?: Record<string, unknown>,
-    showBackbutton: boolean,
-    showObservationCTA?:boolean,
-    deactivateMainMenuButton?: boolean,
-    requiresCanUseDatasetsPermission?: boolean,
+    requiresAuth?: boolean;
+    requiresAccountFeature?: boolean;
+    title?: string;
+    headerTitle?: string;
+    headerMode?: HeaderMode;
+    headerTemplate?: string;
+    headerTemplateProps?: Record<string, unknown>;
+    showBackbutton: boolean;
+    showObservationCTA?: boolean;
+    deactivateMainMenuButton?: boolean;
+    requiresCanUseDatasetsPermission?: boolean;
   }
 }
 
@@ -61,90 +72,162 @@ const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
-      path: '/',
-      name: 'home',
+      path: "/",
+      name: "home",
       component: HomeView,
-      alias: '/index.html',
+      alias: "/index.html",
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: false,
         showObservationCTA: true,
-      }
+      },
     },
     {
-      path: '/pages/text/:slug',
-      name: 'text',
+      path: "/pages/text/:slug/",
+      name: "text",
       component: TextView,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/pages/story/:slug',
-      name: 'story',
+      path: "/pages/story/:slug/",
+      name: "story",
       component: StoryView,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/pages/article/:slug',
-      name: 'article',
+      path: "/pages/article/:slug/",
+      name: "article",
       component: ArticleView,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/pages/collection/:slug',
-      name: 'collection',
+      path: "/pages/collection/:slug/",
+      name: "collection",
       component: CollectionView,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/taxon-profiles',
-      name: 'taxon-profiles',
+      path: "/pages/taxon-article-collection/:slug/",
+      name: "taxon-article-collection",
+      component: TaxonArticleCollectionView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/short-story/:slug/",
+      name: "short-story",
+      component: ShortStoryView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/gateway/:slug/",
+      name: "gateway",
+      component: GatewayView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/video-story/:slug/",
+      name: "video-story",
+      component: VideoStoryView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/video-collection/:slug/",
+      name: "video-collection",
+      component: VideoCollectionView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/Landing-Page/:slug/",
+      name: "landing-page",
+      component: LandingPageView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/features/Incident-Report/:slug/",
+      name: "incident-report",
+      component: IncidentReportView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/pages/sponsor-stripe/:slug/",
+      name: "sponsor-stripe",
+      component: SponsorStripeView,
+      meta: {
+        headerMode: "auto",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/taxon-profiles",
+      name: "taxon-profiles",
       component: TaxonProfiles,
       meta: {
-        title: 'pageTitles.TaxonProfiles',
-        headerMode: 'tabs',
+        title: "pageTitles.TaxonProfiles",
+        headerMode: "tabs",
         showBackbutton: false,
-      }
+      },
     },
     {
-      path: '/taxon-profiles/group/:slug',
-      name: 'taxon-profiles-node',
+      path: "/taxon-profiles/group/:slug",
+      name: "taxon-profiles-node",
       component: TaxonProfiles,
       meta: {
-        headerMode: 'none',
+        headerMode: "none",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/observations',
-      name: 'observations',
+      path: "/observations",
+      name: "observations",
       component: ObservationsHub,
       meta: {
-        title: 'pageTitles.ObservationsHub',
-        headerMode: 'title',
+        title: "pageTitles.ObservationsHub",
+        headerMode: "title",
         showBackbutton: false,
         showObservationCTA: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/observations/my-observations',
-      name: 'my-observations',
+      path: "/observations/my-observations",
+      name: "my-observations",
       component: MyObservations,
       meta: {
-        title: 'pageTitles.MyObservations',
-        headerMode: 'title',
+        title: "pageTitles.MyObservations",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -152,12 +235,12 @@ const router = createRouter({
       },
     },
     {
-      path: '/observations/my-observations/edit/local/:uuid',
-      name: 'edit-local-observation',
+      path: "/observations/my-observations/edit/local/:uuid",
+      name: "edit-local-observation",
       component: EditObservation,
       meta: {
-        title: 'pageTitles.EditObservation',
-        headerMode: 'title',
+        title: "pageTitles.EditObservation",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -165,12 +248,12 @@ const router = createRouter({
       },
     },
     {
-      path: '/observations/my-observations/edit/remote/:uuid',
-      name: 'edit-remote-observation',
+      path: "/observations/my-observations/edit/remote/:uuid",
+      name: "edit-remote-observation",
       component: EditRemoteObservation,
       meta: {
-        title: 'pageTitles.EditObservation',
-        headerMode: 'title',
+        title: "pageTitles.EditObservation",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
@@ -178,251 +261,295 @@ const router = createRouter({
       },
     },
     {
-      path: '/taxon-profile/:slug',
-      name: 'taxon-profile',
+      path: "/taxon-profile/:slug",
+      name: "taxon-profile",
       component: TaxonProfile,
       meta: {
-        headerMode: 'tabs',
+        headerMode: "tabs",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/taxon-profile/:slug/:morphotype',
-      name: 'morphotype-profile',
+      path: "/taxon-profile/:slug/:morphotype",
+      name: "morphotype-profile",
       component: TaxonProfile,
       meta: {
-        headerMode: 'tabs',
+        headerMode: "tabs",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/taxon-profile/generic/:nameUuid',
-      name: 'taxon-profile-nameuuid',
+      path: "/taxon-profile/generic/:nameUuid",
+      name: "taxon-profile-nameuuid",
       component: TaxonProfile,
       meta: {
-        headerMode: 'tabs',
+        headerMode: "tabs",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/glossary',
-      name: 'glossary',
+      path: "/glossary",
+      name: "glossary",
       component: GlossaryView,
       meta: {
-        title: 'pageTitles.Glossary',
-        headerMode: 'tabs',
+        title: "pageTitles.Glossary",
+        headerMode: "tabs",
         showBackbutton: false,
         showObservationCTA: false,
-      }
+      },
     },
     {
-      path: '/nature-guides',
-      name: 'nature-guides-list',
+      path: "/nature-guides",
+      name: "nature-guides-list",
       component: NatureGuidesList,
       meta: {
-        title: 'pageTitles.NatureGuidesList',
-        headerMode: 'title',
+        title: "pageTitles.NatureGuidesList",
+        headerMode: "title",
         showBackbutton: false,
         showObservationCTA: false,
-      }
+      },
     },
     {
-      path: '/nature-guide/:guideSlug',
-      name: 'nature-guide-start',
+      path: "/nature-guide/:guideSlug",
+      name: "nature-guide-start",
       component: NatureGuideStart,
       meta: {
-        title: 'pageTitles.NatureGuide',
-        headerMode: 'title',
+        title: "pageTitles.NatureGuide",
+        headerMode: "none",
         showBackbutton: false,
         showObservationCTA: false,
-      }
+      },
     },
     {
-      path: '/nature-guide/:guideSlug/:nodeSlug',
-      name: 'nature-guide',
+      path: "/nature-guide/:guideSlug/:nodeSlug",
+      name: "nature-guide",
       component: NatureGuide,
       meta: {
-        title: 'pageTitles.NatureGuide',
-        headerMode: 'title',
+        title: "pageTitles.NatureGuide",
+        headerMode: "none",
         showBackbutton: true,
         showObservationCTA: false,
-      }
+      },
     },
     {
-      path: '/my-account',
-      name: 'my-account',
+      path: "/my-account",
+      name: "my-account",
       component: MyAccount,
       meta: {
-        title: 'pageTitles.MyAccount',
-        headerMode: 'title',
+        title: "pageTitles.MyAccount",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/account/register',
-      name: 'register',
+      path: "/account/register",
+      name: "register",
       component: RegistrationView,
       meta: {
-        title: 'pageTitles.Register',
-        headerMode: 'title',
+        title: "pageTitles.Register",
+        headerMode: "title",
         showBackbutton: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/account/register/success',
-      name: 'registration-success',
+      path: "/account/register/success",
+      name: "registration-success",
       component: RegistrationSuccessView,
       meta: {
-        title: 'pageTitles.RegisterSuccess',
-        headerMode: 'title',
+        title: "pageTitles.RegisterSuccess",
+        headerMode: "title",
         showBackbutton: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/my-account/user-delete-success',
-      name: 'user-delete-success',
+      path: "/my-account/user-delete-success",
+      name: "user-delete-success",
       component: UserDeletionSuccess,
       meta: {
-        title: 'pageTitles.UserDeletionSuccess',
-        headerMode: 'title',
+        title: "pageTitles.UserDeletionSuccess",
+        headerMode: "title",
         showBackbutton: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/my-account/password-reset',
-      name: 'password-reset',
+      path: "/my-account/password-reset",
+      name: "password-reset",
       component: PasswordReset,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/user/detail/:uuid',
-      name: 'user-profile',
+      path: "/user/detail/:uuid",
+      name: "user-profile",
       component: UserDetail,
       meta: {
-        title: 'pageTitles.UserDetail',
-        headerMode: 'title',
+        title: "pageTitles.UserDetail",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: false,
         requiresAccountFeature: true,
-      }
+      },
     },
     {
-      path: '/observation-form',
-      name: 'observation-form',
+      path: "/observation-form",
+      name: "observation-form",
       component: ObservationFormView,
       meta: {
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/observation-forms',
-      name: 'observation-forms-list',
+      path: "/observation-forms",
+      name: "observation-forms-list",
       component: ObservationFormsList,
       meta: {
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/observation-form/:slug',
-      name: 'observation-form-slug',
+      path: "/observation-form/:slug",
+      name: "observation-form-slug",
       component: ObservationFormView,
       meta: {
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/observation-detail/:uuid',
-      name: 'observation-detail',
+      path: "/observation-detail/:uuid",
+      name: "observation-detail",
       component: ObservationDetail,
       meta: {
-        title: 'pageTitles.ObservationDetail',
-        headerMode: 'title',
+        title: "pageTitles.ObservationDetail",
+        headerMode: "title",
         showBackbutton: true,
         requiresAuth: false,
-      }
+      },
     },
     {
-      path: '/map',
-      name: 'map',
+      path: "/map",
+      name: "map",
       component: MapView,
       meta: {
-        headerMode: 'template',
-        headerTemplate: 'map-header',
+        headerMode: "template",
+        headerTemplate: "map-header",
         showBackbutton: false,
       },
       beforeEnter: (to, from) => {
         const mapStore = useMapStore();
-        if (from.name === 'observation-detail') {
+        if (from.name === "observation-detail") {
           mapStore.setUseLastMapView(true);
-        }
-        else {
+        } else {
           mapStore.setUseLastMapView(false);
         }
       },
     },
     {
-      path: '/permission-denied',
-      name: 'permission-denied',
+      path: "/permission-denied",
+      name: "permission-denied",
       component: PermissionDenied,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/legal/:id',
-      name: 'legal',
+      path: "/legal/:id",
+      name: "legal",
       component: LegalPageView,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: false,
         deactivateMainMenuButton: true,
-      }
+      },
     },
     {
-      path: '/privacy-settings',
-      name: 'privacy-settings',
+      path: "/privacy-settings",
+      name: "privacy-settings",
       component: PrivacySettings,
       meta: {
-        title: 'pageTitles.PrivacySettings',
-        headerMode: 'title',
+        title: "pageTitles.PrivacySettings",
+        headerMode: "none",
         showBackbutton: true,
-      }
+      },
     },
     {
-      path: '/:pathMatch(.*)*',
-      name: 'not-found',
+      path: "/app-settings",
+      name: "app-settings",
+      component: AppSettingsView,
+      meta: {
+        title: "pageTitles.AppSettings",
+        headerMode: "none",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/app-settings/exhibition-mode",
+      name: "exhibition-mode-settings",
+      component: ExhibitionModeSettingsView,
+      meta: {
+        title: "pageTitles.ExhibitionModeSettings",
+        headerMode: "none",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/typography",
+      name: "typography",
+      component: TypographyView,
+      meta: {
+        headerMode: "title",
+        showBackbutton: true,
+      },
+    },
+    {
+      path: "/:pathMatch(.*)*",
+      name: "not-found",
       component: NotFound,
       meta: {
-        headerMode: 'auto',
+        headerMode: "auto",
         showBackbutton: true,
-      }
-    }
+      },
+    },
   ],
   scrollBehavior(to, from, savedPosition) {
+    const keepAliveRouteNames = [
+      "text",
+      "story",
+      "article",
+      "collection",
+      "taxon-article-collection",
+      "short-story",
+      "gateway",
+      "video-story",
+      "video-collection",
+    ];
+
     if (savedPosition) {
-      window.addEventListener('restore-scroll', () => {
-        window.scrollTo(savedPosition.left, savedPosition.top);
-      }, { once: true });
+      if (keepAliveRouteNames.includes(to.name as string)) {
+        return savedPosition;
+      }
+      window.addEventListener(
+        "restore-scroll",
+        () => {
+          window.scrollTo(savedPosition.left, savedPosition.top);
+        },
+        { once: true },
+      );
       return false;
     }
     if (to.hash) {
-      return { el: to.hash, behavior: 'smooth' };
+      return { el: to.hash, behavior: "smooth" };
     }
-    window.addEventListener('restore-scroll', () => {
-      window.scrollTo(0, 0);
-    }, { once: true });
-    return false;
-  }
+    return { top: 0, left: 0 };
+  },
 });
 
 router.beforeEach((to, from) => {
@@ -431,7 +558,7 @@ router.beforeEach((to, from) => {
   const modals = useModalsStore();
   const auth = useAuthStore();
   const permissions = usePermissionsStore();
-  const accountsEnabled = inject('accountsEnabled', false);
+  const accountsEnabled = inject("accountsEnabled", false);
 
   // Destroy the ModalBottomSheet if navigating to a new page
   if (to.name !== from.name || to.path !== from.path) {
@@ -439,33 +566,32 @@ router.beforeEach((to, from) => {
   }
 
   if (modals.hasOpenModal === true) {
-    modals.closeModal();
+    modals.closeModalSilently();
   }
 
   if (to.meta.requiresCanUseDatasetsPermission === true && !permissions.canUseDatasets) {
     // Redirect to 404 if user does not have permission to use datasets
-    return { name: 'permission-denied' };
+    return { name: "permission-denied" };
   }
 
   if (to.meta.requiresAuth && !auth.isAuthenticated) {
     auth.redirectAfterLogin = to.fullPath;
     // Open login modal (emit event or use a global state)
-    window.dispatchEvent(new CustomEvent('open-login-modal'));
+    window.dispatchEvent(new CustomEvent("open-login-modal"));
     // Prevent navigation
     return false;
   }
-  
-  if (to.name === 'home') {
-    mainNavigation.activateButton('Home');
+
+  if (to.name === "home") {
+    mainNavigation.activateButton("Home");
   } else if (to.meta.deactivateMainMenuButton === true) {
     mainNavigation.deactivateButton();
   }
 
   if (to.meta) {
-
     if (to.meta.requiresAccountFeature && accountsEnabled === false) {
       // Redirect to 404
-      return { name: 'not-found' };
+      return { name: "not-found" };
     }
 
     if (to.meta.title) {
@@ -474,7 +600,7 @@ router.beforeEach((to, from) => {
       mainNavigation.removeCurrentPageTitle();
     }
 
-    if (mainNavigation.observationCTA && (to.meta.showObservationCTA === true)){
+    if (mainNavigation.observationCTA && to.meta.showObservationCTA === true) {
       mainNavigation.observationCTAvisible = true;
     } else {
       mainNavigation.observationCTAvisible = false;
@@ -482,9 +608,8 @@ router.beforeEach((to, from) => {
 
     mainNavigation.setBackbutton(to.meta.showBackbutton);
 
-    console.log('Navigating to:', to.fullPath, 'from:', from.fullPath);
- 
+    console.log("Navigating to:", to.fullPath, "from:", from.fullPath);
   }
 });
 
-export default router
+export default router;

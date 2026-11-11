@@ -1,128 +1,113 @@
 {
-    "NAME": "Seaforest Species Explorer",
-    "PACKAGE_NAME": "org.localcosmos.seaforestspecies",
-    "LANGUAGES": [
-        "en"
-    ],
-    "PRIMARY_LANGUAGE": "en",
-    "APP_UID": "seaforest",
-    "APP_UUID": "31c7ccbe-0dea-4959-bd41-d5755fd68889",
-    "APP_VERSION": 1,
-    "BUILD_NUMBER": 139,
-    "API_URL": "https://seaforest.seachangeproject-apps.com/api/",
-    "MEDIA_URL": "https://seaforest.seachangeproject-apps.com/media/",
-    "SERVER_URL": "https://seaforest.seachangeproject-apps.com/",
-    "PREVIEW": false,
-    "OPTIONS": {
-        "allowAnonymousObservations": false,
-        "doNotBuildLargeImages": false
+  "NAME": "BeachExplorer",
+  "PACKAGE_NAME": "org.localcosmos.beachexplorer",
+  "LANGUAGES": ["de"],
+  "PRIMARY_LANGUAGE": "de",
+  "APP_UID": "beachexplorer",
+  "APP_UUID": "34b97223-2414-47a6-9e51-326ea0fa46c9",
+  "APP_VERSION": 1,
+  "BUILD_NUMBER": 9,
+  "API_URL": "https://beachexplorer.explorer-apps.org/api/",
+  "MEDIA_URL": "https://beachexplorer.explorer-apps.org/media/",
+  "SERVER_URL": "https://beachexplorer.explorer-apps.org/",
+  "PREVIEW": false,
+  "OPTIONS": {
+    "allowAnonymousObservations": false,
+    "doNotBuildLargeImages": false
+  },
+  "frontend": "MultiverseBeta",
+  "version": "0.17",
+  "userContent": {
+    "configuration": {
+      "geonamesUsername": {
+        "required": false,
+        "helpText": "Enables Geonames search functionality"
+      }
     },
-    "frontend": "MultiverseBeta",
-    "version": "0.10",
-    "userContent": {
-        "configuration": {
-            "geonamesUsername": {
-                "required": false,
-                "helpText": "Enables Geonames search functionality"
-            }
+    "images": {
+      "appLauncherIcon": {
+        "restrictions": {
+          "fileType": ["svg"],
+          "ratio": "1:1"
         },
-        "images": {
-            "appLauncherIcon": {
-                "restrictions": {
-                    "fileType": [
-                        "svg"
-                    ],
-                    "ratio": "1:1"
-                },
-                "helpText": "Has to be an .SVG vector graphic AND the ratio must be 1:1. Will be displayed on your phones home screen to launch your app",
-                "required": true
-            },
-            "appSplashscreen": {
-                "restrictions": {
-                    "fileType": [
-                        "svg"
-                    ],
-                    "ratio": "1:1"
-                },
-                "helpText": "Will be displayed during app startup",
-                "required": true
-            },
-            "logo": {
-                "restrictions": {
-                    "fileType": [
-                        "svg"
-                    ]
-                },
-                "helpText": "Will be displayed on the apps main page",
-                "required": true
-            },
-            "favicon": {
-                "restrictions": {
-                    "fileType": [
-                        "png",
-                        "webp"
-                    ],
-                    "ratio": "1:1"
-                },
-                "helpText": "Will be displayed in the browser tab",
-                "required": true
-            },
-            "protraitBackground" : {
-                "restrictions": {
-                    "fileType": [
-                        "png", "jpg", "jpeg", "webp"
-                    ],
-                    "ratio": "9:16"
-                },
-                "helpText": "Will be displayed on the apps main page in portrait orientation",
-                "required": false
-            },
-            "landscapeBackground" : {
-                "restrictions": {
-                    "fileType": [
-                        "png", "jpg", "jpeg", "webp"
-                    ],
-                    "ratio": "16:9"
-                },
-                "helpText": "Will be displayed on the apps main page in landscape orientation",
-                "required": false
-            }
+        "helpText": "Has to be an .SVG vector graphic AND the ratio must be 1:1. Will be displayed on your phones home screen to launch your app",
+        "required": true
+      },
+      "appSplashscreen": {
+        "restrictions": {
+          "fileType": ["svg"],
+          "ratio": "1:1"
         },
-        "texts": {
-            "termsOfUse": {
-                "required": false,
-                "helpText": "Terms of Use"
-            }
-        }
+        "helpText": "Will be displayed during app startup",
+        "required": true
+      },
+      "logo": {
+        "restrictions": {
+          "fileType": ["svg"]
+        },
+        "helpText": "Will be displayed on the apps main page",
+        "required": true
+      },
+      "favicon": {
+        "restrictions": {
+          "fileType": ["png", "webp"],
+          "ratio": "1:1"
+        },
+        "helpText": "Will be displayed in the browser tab",
+        "required": true
+      },
+      "backgroundImage": {
+        "restrictions": {
+          "fileType": ["png", "jpg", "webp"],
+          "ratio": "9:16"
+        },
+        "helpText": "Will be displayed in the background of the app's main page",
+        "required": false
+      },
+      "landscapeBackgroundImage": {
+        "restrictions": {
+          "fileType": ["png", "jpg", "webp"],
+          "ratio": "16:9"
+        },
+        "helpText": "Will be displayed in the background of the app's main page when device is in landscape mode",
+        "required": false
+      }
     },
-    "templateContent": {
-        "urlPattern": "/pages/{templateName}/{slug}/",
-        "navigations": {
-            "main": {
-                "name": "Main navigation",
-                "maxLevels": 1
-            },
-            "burger": {
-                "name": "Burger menu",
-                "maxLevels": 1
-            }
-        },
-        "requiredOfflineContents": {}
-    },
-    "cordova": {
-        "platforms": {
-            "android": "android@14.0.1",
-            "ios": "ios@7.1.1",
-            "browser": "browser@7.0.0"
-        },
-        "plugins": [
-            "cordova-plugin-camera@8.0.0",
-            "cordova-plugin-device@2.1.0",
-            "cordova-plugin-geolocation@4.1.0",
-            "cordova-plugin-network-information@3.0.0",
-            "cordova-plugin-statusbar@3.0.0",
-            "cordova-plugin-wkwebview-file-xhr@3.1.0",
-            "cordova-plugin-inappbrowser@6.0.0"
-        ]
+    "texts": {
+      "termsOfUse": {
+        "required": false,
+        "helpText": "Terms of Use"
+      }
     }
+  },
+  "templateContent": {
+    "urlPattern": "/pages/{templateName}/{slug}/",
+    "navigations": {
+      "main": {
+        "name": "Main navigation",
+        "maxLevels": 1,
+        "maxEntries": 1
+      },
+      "burger": {
+        "name": "Burger menu",
+        "maxLevels": 1
+      }
+    },
+    "requiredOfflineContents": {}
+  },
+  "cordova": {
+    "platforms": {
+      "android": "android@15.0.0",
+      "ios": "ios@8.0.1",
+      "browser": "browser@7.0.0"
+    },
+    "plugins": [
+      "cordova-plugin-camera@8.0.0",
+      "cordova-plugin-device@3.0.0",
+      "cordova-plugin-geolocation@5.0.0",
+      "cordova-plugin-statusbar@4.0.0",
+      "cordova-plugin-wkwebview-file-xhr@3.1.1",
+      "cordova-plugin-inappbrowser@6.0.0"
+    ]
+  }
 }

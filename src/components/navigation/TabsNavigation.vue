@@ -10,10 +10,12 @@ withDefaults(
     tabs: TabButtonDefinition[];
     activeTab: number;
     letterSelectorId?: string;
+    searchText?: string;
   }>(),
   {
     activeTab: 1,
     letterSelectorId: 'tab-alphabet',
+    searchText: '',
   }
 );
 
@@ -36,8 +38,6 @@ const handleSelectLetter = (letter: string) => {
 const handleUnselectLetter = () => {
   emit('unselect-letter');
 };
-
-
 </script>
 
 <template>
@@ -55,6 +55,7 @@ const handleUnselectLetter = () => {
         :icon="button.icon ? button.icon : null"
         class="cursor-pointer"
         :active="button.tabIndex === activeTab"
+        :search-text="button.type === 'search' ? searchText : ''"
         :letters="button.letters ? button.letters : []"
         :letter-selector-id="letterSelectorId"
         @click="emit('select-tab', button.tabIndex)"
@@ -64,10 +65,16 @@ const handleUnselectLetter = () => {
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --tabs-navigation-dark: rgba(0, 0, 0, 0.5);
+  }
+}
+
 .tabs-navigation {
   display: flex;
-  flex-wrap:nowrap;
+  flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: center;
   min-width: 100%;
@@ -78,7 +85,11 @@ const handleUnselectLetter = () => {
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   z-index: var(--layer-1);
-  background-color: var(--color-white-translucent-light);
+  background-color: var(--bg-translucent-light);
+}
+
+body.dark .tabs-navigation {
+  background-color: var(--tabs-navigation-dark);
 }
 
 .tabs-navigation::-webkit-scrollbar {
@@ -107,6 +118,9 @@ const handleUnselectLetter = () => {
 }
 
 @media (min-width: 768px) {
+  .tabs-navigation {
+    padding-left: var(--size-md);
+  }
 }
 
 @media (min-width: 1024px) {
@@ -114,11 +128,16 @@ const handleUnselectLetter = () => {
 
 @media (min-width: 1280px) {
   .tabs-navigation > div {
-    justify-content: center;
+    justify-content: flex-start;
+    width: 1280px;
+    min-width: auto;
+    margin: 0 auto;
+    padding-left: var(--size-xl);
   }
 
   .tabs-navigation {
-    background-color: var(--color-white-translucent);
+    padding-left: 0;
+    background-color: var(--bg-translucent);
   }
 }
 

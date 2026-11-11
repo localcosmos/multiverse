@@ -24,15 +24,15 @@ const decodeBase64Unicode = (base64String: string): string => {
     if (typeof Buffer !== 'undefined') {
       return Buffer.from(base64String, 'base64').toString('utf-8');
     }
-    
+
     // Browser environment with TextDecoder
     const binaryString = window.atob(base64String);
     const bytes = new Uint8Array(binaryString.length);
-    
+
     for (let i = 0; i < binaryString.length; i++) {
       bytes[i] = binaryString.charCodeAt(i);
     }
-    
+
     return new TextDecoder('utf-8').decode(bytes);
   } catch (error) {
     console.error('Base64 decode error:', error);
@@ -56,7 +56,7 @@ const loadGlossaryEntry = () => {
   if (glossary) {
     const termDefinition = glossary.definition(props.termB64);
     definition.value = t(termDefinition, {ns: 'plain'});
-    
+
     // ✅ Properly handle Unicode characters
     const termText = decodeBase64Unicode(props.termB64);
     term.value = termText;
@@ -85,15 +85,31 @@ onUpdated(() => {
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --glossary-bubble-bg: #FFF;
+    --darkmode-glossary-bubble-bg: #000;
+    --glossary-bubble-color: #000;
+    --darkmode-glossary-bubble-color: #FFF;
+  }
+
+}
+
 #glossary-bubble {
     position: fixed;
     width: 250px;
     z-index: 101;
     transition: opacity 0.5s ease;
-    background: #FFF;
+    background: var(--glossary-bubble-bg);
+    color: var(--glossary-bubble-color);
     padding: var(--size-md);
     border-radius: var(--border-radius-sm);
     box-shadow: var(--box-shadow);
+}
+
+body.dark #glossary-bubble {
+    background: var(--darkmode-glossary-bubble-bg);
+    color: var(--darkmode-glossary-bubble-color);
 }
 </style>

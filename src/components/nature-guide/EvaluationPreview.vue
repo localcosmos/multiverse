@@ -2,7 +2,8 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue';
 import { t } from 'i18next';
 import { useNatureGuideStore } from '@/stores/nature-guides';
-import { IdentificationStepEvents, Node } from 'localcosmos-client';
+import { IdentificationStepEvents, NodeEvents, Node } from 'localcosmos-client';
+import type { IdentificationStep } from 'localcosmos-client';
 import { calculatePercentageColor } from '@/composables/calculatePercentageColor';
 
 const modalBottomSheetTitle = t('natureGuide.Evaluation');
@@ -11,6 +12,7 @@ const noResultYetText = t('natureGuide.NoResultYet');
 const natureGuideStore = useNatureGuideStore();
 
 const result = ref<Node | null>(null);
+const tiedCount = ref<number>(0);
 const defaultBackgroundColor = '#FFF'; // Default background color
 
 // Calculate the pointsColor for the progress bar
@@ -37,50 +39,66 @@ const pointsText = computed(() => {
   return '';
 });
 
-// Function to update the result when the identification step changes
-const updateModalBottomSheet = () => {
-  if (natureGuideStore.currentStep) {
-    result.value = natureGuideStore.currentStep.currentResult;
+const tieLabel = computed(() => {
+  return tiedCount.value > 1 ? `+${tiedCount.value - 1}` : null;
+});
+
+const updateState = () => {
+  const step = natureGuideStore.currentStep;
+  if (!step) return;
+  result.value = step.currentResult;
+  tiedCount.value = step.topNodes.length;
+};
+
+const attachNodeListeners = (step: IdentificationStep) => {
+  for (const node of step.nodes) {
+    node.on(NodeEvents.NodePointsChanged, updateState);
   }
 };
 
-// Function to attach event listeners to the current identification step
+const detachNodeListeners = (step: IdentificationStep) => {
+  for (const node of step.nodes) {
+    node.off(NodeEvents.NodePointsChanged, updateState);
+  }
+};
+
 const attachListeners = () => {
-  if (natureGuideStore.currentStep) {
-    natureGuideStore.currentStep.on(IdentificationStepEvents.IdentificationResultChanged, updateModalBottomSheet);
-  }
+  const step = natureGuideStore.currentStep;
+  if (!step) return;
+  step.on(IdentificationStepEvents.IdentificationResultChanged, updateState);
+  attachNodeListeners(step);
 };
 
-// Function to detach event listeners from the current identification step
 const detachListeners = () => {
-  if (natureGuideStore.currentStep) {
-    natureGuideStore.currentStep.off(IdentificationStepEvents.IdentificationResultChanged, updateModalBottomSheet);
-  }
+  const step = natureGuideStore.currentStep;
+  if (!step) return;
+  step.off(IdentificationStepEvents.IdentificationResultChanged, updateState);
+  detachNodeListeners(step);
 };
 
 // Watch for changes to the currentStep in the natureGuideStore
 watch(
   () => natureGuideStore.currentStep,
   (newStep, oldStep) => {
-    // Detach listeners from the old step
     if (oldStep) {
-      oldStep.off(IdentificationStepEvents.IdentificationResultChanged, updateModalBottomSheet);
+      oldStep.off(IdentificationStepEvents.IdentificationResultChanged, updateState);
+      detachNodeListeners(oldStep);
     }
-    // Attach listeners to the new step
     if (newStep) {
-      newStep.on(IdentificationStepEvents.IdentificationResultChanged, updateModalBottomSheet);
-      updateModalBottomSheet(); // Update the result immediately
+      newStep.on(IdentificationStepEvents.IdentificationResultChanged, updateState);
+      attachNodeListeners(newStep);
+      updateState();
     }
   }
 );
 
 onMounted(() => {
-  attachListeners(); // Attach listeners when the component is mounted
-  updateModalBottomSheet(); // Initialize the result
+  attachListeners();
+  updateState();
 });
 
 onUnmounted(() => {
-  detachListeners(); // Detach listeners when the component is unmounted
+  detachListeners();
 });
 </script>
 
@@ -91,9 +109,10 @@ onUnmounted(() => {
       :style="{ width: progressPercentage + '%', backgroundColor: pointsColor }"
     ></div>
     <div class="evaluation-content">
-      {{ modalBottomSheetTitle }}:
-      <span v-if="result">{{ result.name }}</span>
-      <span v-else>{{ noResultYetText }}</span>
+      <span class="evaluation-title">{{ modalBottomSheetTitle }}:</span>
+      <span v-if="result" class="evaluation-name">{{ result.name }}</span>
+      <span v-else class="evaluation-name">{{ noResultYetText }}</span>
+      <span v-if="tieLabel" class="tie-label">{{ tieLabel }}</span>
       <span v-if="result" class="points-text">({{ pointsText }})</span>
     </div>
   </div>
@@ -127,12 +146,39 @@ onUnmounted(() => {
   position: relative;
   z-index: 2; /* Ensure content is above the progress bar */
   display: flex;
-  gap: 8px; /* Add spacing between elements */
   align-items: center;
+  gap: 8px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.evaluation-title {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.evaluation-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .points-text {
+  flex-shrink: 0;
+  white-space: nowrap;
   font-size: 0.9rem;
   color: #666; /* Subtle color for the points text */
+}
+
+.tie-label {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.12);
+  border-radius: 999px;
+  padding: 0 6px;
 }
 </style>

@@ -9,9 +9,9 @@ const mainNavigation = useMainNavigationStore();
 const router = useRouter();
 
 const props = defineProps<{
-  button:NavigationButton
+  button:NavigationButton,
   buttonIndex:number,
-  navigation: string,
+  navigation: 'bottom' | 'rail' | 'desktop',
 }>();
 
 const emit = defineEmits(['onSelect']);
@@ -21,7 +21,7 @@ let cssClasses = `${props.button.genericContent} ${props.navigation}`;
 let transitionOrigin = 'center center';
 if (props.navigation == 'bottom') {
   const totalButtons = navigations.bottom.length
-  const transitionXOrigin = ( (props.buttonIndex * 20) + 10 ) + ( (100 - (totalButtons * 20) ) / 2); 
+  const transitionXOrigin = ( (props.buttonIndex * 20) + 10 ) + ( (100 - (totalButtons * 20) ) / 2);
   transitionOrigin = `${transitionXOrigin}% 115%`;
 } else if (props.navigation == 'rail') {
   transitionOrigin = 'left center';
@@ -65,7 +65,7 @@ const stackButtonAction = (stackButton: NavigationButton) => {
   } else if (stackButton.route) {
     router.push(stackButton.route);
   }
-  
+
   mainNavigation.closeSubmenu();
 };
 
@@ -86,7 +86,7 @@ onMounted( () => {
     <div
       v-if="button.hasSubmenu"
       ref="Submenu"
-      class="mn-submenu bg-solid backdrop-filter"
+      class="mn-submenu backdrop-filter"
       :class="{ open: mainNavigation.currentSubmenu === button.genericContent }"
     >
       <div
@@ -109,7 +109,7 @@ onMounted( () => {
       >
         <div
           v-if="stackButton.routeName || stackButton.route"
-          class="stack-button bg-light backdrop-filter"
+          class="stack-button backdrop-filter"
           @click="stackButtonAction(stackButton)"
         >
           <div class="navicon-container">
@@ -140,6 +140,55 @@ onMounted( () => {
 </template>
 
 <style>
+@layer defaults {
+ :root {
+    --main-navigation-button-bg: rgba(255, 255, 255, 1);
+    --main-navigation-button-text-color: rgba(0, 0, 0, 1);
+    --main-navigation-button-indicator-bg: rgba(0, 0, 0, 0.1);
+    --stack-button-bg: #FFF;
+    --main-navigation-icon-indicator-bg: rgba(0,0,0, .1);
+
+    --darkmode-main-navigation-button-bg: rgba(0, 0, 0, 1);
+    --darkmode-main-navigation-button-text-color: rgba(255, 255, 255, 1);
+    --darkmode-main-navigation-button-indicator-bg: rgba(255, 255, 255, 0.1);
+    --darkmode-stack-button-bg: #000;
+    --darkmode-main-navigation-icon-indicator-bg: rgba(255,255,255, .1);
+    /* bottom navigation */
+    --bottom-nav-button-bg: rgba(255, 255, 255, 1);
+    --bottom-nav-button-text-color: rgba(0, 0, 0, 1);
+    --bottom-nav-button-indicator-bg: rgba(0, 0, 0, 0.1);
+    --bottom-nav-icon-indicator-bg: rgba(0,0,0, .1);
+    --bottom-stack-button-bg: #FFF;
+    --darkmode-bottom-nav-button-bg: rgba(0, 0, 0, 1);
+    --darkmode-bottom-nav-button-text-color: rgba(255, 255, 255, 1);
+    --darkmode-bottom-nav-button-indicator-bg: rgba(255, 255, 255, 0.1);
+    --darkmode-bottom-nav-icon-indicator-bg: rgba(255,255,255, .1);
+    --darkmode-bottom-stack-button-bg: #000;
+    /* rail navigation */
+    --rail-nav-button-bg: rgba(255, 255, 255, 1);
+    --rail-nav-button-text-color: rgba(0, 0, 0, 1);
+    --rail-nav-button-indicator-bg: rgba(0, 0, 0, 0.1);
+    --rail-nav-icon-indicator-bg: rgba(0,0,0, .1);
+    --rail-stack-button-bg: #FFF;
+    --darkmode-rail-nav-button-bg: rgba(0, 0, 0, 1);
+    --darkmode-rail-nav-button-text-color: rgba(255, 255, 255, 1);
+    --darkmode-rail-nav-button-indicator-bg: rgba(255, 255, 255, 0.1);
+    --darkmode-rail-nav-icon-indicator-bg: rgba(255,255,255, .1);
+    --darkmode-rail-stack-button-bg: #000;
+    /* desktop navigation */
+    --desktop-nav-button-bg: rgba(255, 255, 255, 1);
+    --desktop-nav-button-text-color: rgba(0, 0, 0, 1);
+    --desktop-nav-button-indicator-bg: rgba(0, 0, 0, 0.1);
+    --desktop-nav-icon-indicator-bg: rgba(0,0,0, .1);
+    --desktop-stack-button-bg: #FFF;
+    --darkmode-desktop-nav-button-bg: rgba(0, 0, 0, 1);
+    --darkmode-desktop-nav-button-text-color: rgba(255, 255, 255, 1);
+    --darkmode-desktop-nav-button-indicator-bg: rgba(255, 255, 255, 0.1);
+    --darkmode-desktop-nav-icon-indicator-bg: rgba(255,255,255, .1);
+    --darkmode-desktop-stack-button-bg: #000;
+ }
+}
+
 .navbutton-container {
   padding: 12px 0px 12px 0px;
   width: calc( (100vw - var(--size-md) - var(--size-md) ) / 5);
@@ -163,11 +212,13 @@ onMounted( () => {
   width: 100%;
   height: 100%;
   border-radius: 15px;
-  background: rgba(0,0,0, .1);
+  background: var(--main-navigation-button-indicator-bg);
   transform: scale3d(0,0,0);
   transition: var(--transition-cubic);
   transform-origin: center center;
 }
+
+
 
 .navbutton.active {
   opacity: 1;
@@ -180,8 +231,10 @@ onMounted( () => {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  
+  color: var(--main-navigation-button-text-color);
 }
+
+
 
 .navicon-indicator {
   position: absolute;
@@ -190,11 +243,13 @@ onMounted( () => {
   width: 100%;
   height: 100%;
   border-radius: 15px;
-  background: rgba(0,0,0, .1);
+  background: var(--main-navigation-icon-indicator-bg);
   transform: scale3d(0,0,0);
   transition: var(--transition-cubic);
   transform-origin: center center;
 }
+
+
 
 .navbutton.active .navicon-indicator{
   transform: scale3d(1,1,1);
@@ -210,15 +265,18 @@ onMounted( () => {
 
 .navbuttontext {
   font-size: 11px;
-  font-family: --var(font-family-tight);
+  font-family: var(--font-family-tight);
   text-align: center;
   height: 16px;
   text-overflow: ellipsis;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   padding: 0px 4px;
   white-space: nowrap;
   width: calc( (100vw - var(--size-md) - var(--size-md) ) / 5);
+  color: var(--main-navigation-button-text-color);
 }
+
+
 
 .mn-submenu {
   position: absolute;
@@ -233,7 +291,10 @@ onMounted( () => {
   transition: var(--transition-cubic);
   transform: scale3d(0,0,0);
   opacity: 1;
+  background: var(--main-navigation-button-bg);
 }
+
+
 
 .mn-submenu.open {
   transform: scale3d(1,1,1);
@@ -273,6 +334,52 @@ onMounted( () => {
   height: var(--bottom-navigation-height);
   border-radius: var(--border-radius);
   cursor: pointer;
+  background: var(--stack-button-bg);
+}
+
+.navbutton-container.bottom {
+  --main-navigation-button-bg: var(--bottom-nav-button-bg);
+  --main-navigation-button-text-color: var(--bottom-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--bottom-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--bottom-nav-icon-indicator-bg);
+  --stack-button-bg: var(--bottom-stack-button-bg);
+}
+body.dark .navbutton-container.bottom {
+  --main-navigation-button-bg: var(--darkmode-bottom-nav-button-bg);
+  --main-navigation-button-text-color: var(--darkmode-bottom-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--darkmode-bottom-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--darkmode-bottom-nav-icon-indicator-bg);
+  --stack-button-bg: var(--darkmode-bottom-stack-button-bg);
+}
+
+.navbutton-container.rail {
+  --main-navigation-button-bg: var(--rail-nav-button-bg);
+  --main-navigation-button-text-color: var(--rail-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--rail-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--rail-nav-icon-indicator-bg);
+  --stack-button-bg: var(--rail-stack-button-bg);
+}
+body.dark .navbutton-container.rail {
+  --main-navigation-button-bg: var(--darkmode-rail-nav-button-bg);
+  --main-navigation-button-text-color: var(--darkmode-rail-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--darkmode-rail-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--darkmode-rail-nav-icon-indicator-bg);
+  --stack-button-bg: var(--darkmode-rail-stack-button-bg);
+}
+
+.navbutton-container.desktop {
+  --main-navigation-button-bg: var(--desktop-nav-button-bg);
+  --main-navigation-button-text-color: var(--desktop-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--desktop-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--desktop-nav-icon-indicator-bg);
+  --stack-button-bg: var(--desktop-stack-button-bg);
+}
+body.dark .navbutton-container.desktop {
+  --main-navigation-button-bg: var(--darkmode-desktop-nav-button-bg);
+  --main-navigation-button-text-color: var(--darkmode-desktop-nav-button-text-color);
+  --main-navigation-button-indicator-bg: var(--darkmode-desktop-nav-button-indicator-bg);
+  --main-navigation-icon-indicator-bg: var(--darkmode-desktop-nav-icon-indicator-bg);
+  --stack-button-bg: var(--darkmode-desktop-stack-button-bg);
 }
 
 @media (min-width: 640px) {

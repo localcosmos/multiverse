@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import { VueFinalModal } from 'vue-final-modal';
-import { computed } from 'vue';
-import { useModalsStore } from '@/stores/modals';
-import { PhX } from '@phosphor-icons/vue';
+import { VueFinalModal } from "vue-final-modal";
+import { computed } from "vue";
+import { useModalsStore } from "@/stores/modals";
+import { PhX } from "@phosphor-icons/vue";
 
 const props = defineProps<{
-  modalType: string
+  modalType: string;
+  topAligned?: boolean;
 }>();
 
 const modals = useModalsStore();
@@ -18,7 +19,7 @@ const isOpen = computed({
     } else if (modals.open === props.modalType) {
       modals.closeModal();
     }
-  }
+  },
 });
 
 const close = () => {
@@ -31,7 +32,7 @@ const close = () => {
     v-model="isOpen"
     overlay-transition="vfm-fade"
     content-transition="vfm-fade"
-    class="vfm-centered"
+    :class="['vfm-centered', { 'vfm-top-aligned': topAligned }]"
     v-bind="$attrs"
   >
     <div class="modal-box">
@@ -51,7 +52,7 @@ const close = () => {
   </VueFinalModal>
 </template>
 
-<style scoped>
+<style>
 .modal-box {
   background: #fff;
   border-radius: var(--border-radius);
@@ -66,12 +67,22 @@ const close = () => {
   flex-direction: column;
 }
 
+.vfm-top-aligned {
+  align-items: flex-start;
+}
+
+.vfm-top-aligned .modal-box {
+  margin: 5vh auto 0 auto;
+}
+
 .modal-title {
   font-size: 1.3rem;
+  font-family: var(--font-family-h1);
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin-bottom: var(--size-xl);
   color: #222;
 }
+
 .modal-content {
   flex: 1 1 auto;
   display: flex;
@@ -86,9 +97,10 @@ const close = () => {
 }
 
 .modal-close-btn {
+  display: block;
   position: absolute;
-  top: 8px;
-  right: 8px;
+  top: 0;
+  right: 0;
   background: transparent;
   border: none;
   font-size: 2rem;
@@ -100,6 +112,7 @@ const close = () => {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 12px;
 }
 .modal-close-btn:hover {
   color: #222;

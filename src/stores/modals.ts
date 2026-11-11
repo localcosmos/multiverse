@@ -1,58 +1,72 @@
-import { defineStore } from 'pinia';
+import { defineStore } from "pinia";
 
 export const MODAL_TYPES = {
-  BURGER: 'burger',
-  MODAL: 'modal',
-  FULLSCREEN: 'fullscreen',
-  IMAGE_GALLERY: 'imageGallery',
-  LOGIN: 'login',
-  DELETE_ACCOUNT: 'deleteAccount',
-  PROFILE_PICTURE: 'profilePicture',
-  DELETE_PROFILE_PICTURE: 'deleteProfilePicture',
-  DELETE_PICTURE: 'deletePicture',
-  DELETE_OBSERVATION: 'deleteObservation',
-  GPS_INPUT: 'gpsInput',
-  IMAGE_UPLOAD_PROGRESS: 'imageUploadProgress',
-  SYNC_OBSERVATIONS: 'syncObservations',
+  BURGER: "burger",
+  MODAL: "modal",
+  FULLSCREEN: "fullscreen",
+  IMAGE_GALLERY: "imageGallery",
+  LOGIN: "login",
+  DELETE_ACCOUNT: "deleteAccount",
+  PROFILE_PICTURE: "profilePicture",
+  DELETE_PROFILE_PICTURE: "deleteProfilePicture",
+  DELETE_PICTURE: "deletePicture",
+  DELETE_OBSERVATION: "deleteObservation",
+  GPS_INPUT: "gpsInput",
+  IMAGE_UPLOAD_PROGRESS: "imageUploadProgress",
+  SYNC_OBSERVATIONS: "syncObservations",
 } as const;
 
-type ModalType = typeof MODAL_TYPES[keyof typeof MODAL_TYPES] | string;
+type ModalType = (typeof MODAL_TYPES)[keyof typeof MODAL_TYPES] | string;
 
-export const useModalsStore = defineStore('modals', {
+export const useModalsStore = defineStore("modals", {
   state: () => ({
-    open: '' as ModalType,
-    id: '',
+    open: "" as ModalType,
+    id: "",
   }),
   getters: {
     isOpen: (state) => (type: ModalType) => state.open === type,
-    hasOpenModal: (state) => state.open !== '',
+    hasOpenModal: (state) => state.open !== "",
   },
   actions: {
     openModal(type: ModalType, id?: string) {
-      console.log('Opening modal:', type, id);
-      this.open = '';
-      this.id = '';
+      console.log("Opening modal:", type, id);
+      this.open = "";
+      this.id = "";
       // Push a new state for any modal (not just burger)
       if (!window.history.state || window.history.state.modalType !== type) {
-        console.log('Pushing new history state for modal:', type);
-        window.history.pushState({ ...window.history.state, modalType: type }, '', window.location.href);
+        console.log("Pushing new history state for modal:", type);
+        window.history.pushState(
+          { ...window.history.state, modalType: type },
+          "",
+          window.location.href,
+        );
       }
       this.open = type;
       if (id) this.id = id;
     },
     closeModal() {
-      console.log('Closing modal:', this.open);
+      console.log("Closing modal:", this.open);
       // If a modal is open and the current history state matches, go back
-      if (this.open && window.history.state && window.history.state.modalType === this.open && this.open !== '') {
-        console.log('Going back in history for modal:', this.open);
+      if (
+        this.open &&
+        window.history.state &&
+        window.history.state.modalType === this.open &&
+        this.open !== ""
+      ) {
+        console.log("Going back in history for modal:", this.open);
         window.history.back();
       }
-      this.open = '';
-      this.id = '';
+      this.open = "";
+      this.id = "";
+    },
+    // Use this when closing a modal during navigation to avoid async history.back()
+    // triggering a popstate that would close the next modal being opened.
+    closeModalSilently() {
+      this.open = "";
+      this.id = "";
     },
     isModalOpen(type: ModalType): boolean {
       return this.open === type;
-    }
-    
+    },
   },
 });

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, inject, computed, onUpdated, onMounted, watch } from 'vue';
 import type { GenericFormField, DatasetReadOnlyImage, LocalCosmosApi } from 'localcosmos-client';
-import { LCApiResultTypes } from 'localcosmos-client'; 
+import { LCApiResultTypes } from 'localcosmos-client';
 import { useField } from 'vee-validate';
 import type { DatasetImage } from '@/database/db';
 import { useIdbDatasets } from '@/composables/datasets/useIdbDatasets';
@@ -67,7 +67,7 @@ watch(() => props.datasetUuid, (newUuid) => {
 const updatePictureInput = (fileList: FileList) => {
   if (pictureField.value) {
     pictureField.value.files = fileList;
-    
+
     // Convert FileList to array and set the value
     const filesArray = Array.from(fileList);
     setValue(filesArray);
@@ -205,26 +205,26 @@ onMounted(() => {
         <div>
           {{ $t(genericField.definition.label) }}
         </div>
-        <div class="licence-remark">
+        <div class="imagefield__licence-remark">
           {{ $t('observationForm.pictureLicenceRemark') }}
         </div>
       </div>
       <div>
         &nbsp;
       </div>
-      <div class="image-input-fields">
+      <div class="imagefield__image-input-fields">
         <input
           ref="pictureField"
           type="file"
           :accept="accept"
-          class="image-input-for-form"
+          class="imagefield__image-input-for-form"
           :required="genericField.definition.required"
           multiple
           @change="handleChange"
         >
 
-        <div class="image-input-proxies mb-m">
-          <label class="image-input-album image-input-proxy">
+        <div class="imagefield__image-input-proxies mb-m">
+          <label class="imagefield__image-input-album imagefield__image-input-proxy">
             <PhImage
               size="28"
             />
@@ -239,8 +239,8 @@ onMounted(() => {
           </label>
 
           <label
-            class="image-input-camera image-input-proxy"
-            :class="isCameraCapable ? '' : 'hidden'"
+          class="imagefield__image-input-camera imagefield__image-input-proxy"
+          :class="isCameraCapable ? '' : 'imagefield__hidden'"
           >
             <PhCameraPlus
               size="28"
@@ -257,7 +257,7 @@ onMounted(() => {
         </div>
         <div
           v-if="serverImages && serverImages.length"
-          class="server-images mb-m"
+          class="imagefield__server-images mb-m"
         >
           <div
             v-for="(image, index) in serverImages"
@@ -272,7 +272,7 @@ onMounted(() => {
         </div>
         <div
           v-if="localImages && localImages.length"
-          class="selected-images mb-m"
+          class="imagefield__selected-images mb-m"
         >
           <div
             v-for="(image, index) in localImages"
@@ -284,7 +284,7 @@ onMounted(() => {
             />
           </div>
         </div>
-        <div class="selected-images">
+        <div class="imagefield__selected-images">
           <div
             v-for="(v, index) in value"
             :key="index"
@@ -296,25 +296,31 @@ onMounted(() => {
           </div>
         </div>
         <div v-if="errorMessage" class="help-text">
-          <span class="error-message">{{ errorMessage }}</span>
+          <span class="imagefield__error-message">{{ errorMessage }}</span>
         </div>
       </div>
     </div>
   </div>
 </template>
 
-<style scoped>
-.image-input-fields {
+<style>
+@layer defaults {
+  :root {
+
+  }
+}
+
+.imagefield__image-input-fields {
   position: relative;
 }
 
-.selected-images, .server-images {
+.imagefield__selected-images, .imagefield__server-images {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px var(--gap-medium);
 }
 
-.image-input-for-form {
+.imagefield__image-input-for-form {
   opacity:0;
   position: absolute;
   left: 0;
@@ -324,7 +330,7 @@ onMounted(() => {
   height: 0;
 }
 
-.image-input-proxy {
+.imagefield__image-input-proxy {
   cursor: pointer;
   display: flex;
   flex-direction: row;
@@ -339,17 +345,17 @@ onMounted(() => {
   position: relative;
 }
 
-.image-input-proxies {
+.imagefield__image-input-proxies {
   display: flex;
   flex-direction: row;
   gap: var(--gap-medium);
 }
 
-.image-input-proxy span {
+.imagefield__image-input-proxy span {
   font-size: 28px;
 }
 
-.image-input-proxy input {
+.imagefield__image-input-proxy input {
   opacity: 0;
   position: absolute;
   width: 0;
@@ -357,17 +363,17 @@ onMounted(() => {
   z-index: -1;
 }
 
-.licence-remark {
+.imagefield__licence-remark {
   font-size: 10px;
   font-weight: 400;
   padding: 8px 0px;
 }
 
-.hidden {
+.imagefield__hidden {
   display: none;
 }
 
-.error-message {
+.imagefield__error-message {
   color: var(--color-error);
   font-size: 0.875rem;
 }
@@ -377,19 +383,19 @@ onMounted(() => {
 }
 
 @media (min-width: 768px) {
-  .selected-images, .server-images {
+  .imagefield__selected-images, .imagefield__server-images {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 
 @media (min-width: 1024px) {
-  .selected-images, .server-images {
+  .imagefield__selected-images, .imagefield__server-images {
     grid-template-columns: repeat(5, 1fr);
   }
 }
 
 @media (min-width: 1280px) {
-  .selected-images, .server-images {
+  .imagefield__selected-images, .imagefield__server-images {
     grid-template-columns: repeat(5, 1fr);
   }
 }

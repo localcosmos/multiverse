@@ -4,7 +4,8 @@ import type { ComputedRef } from 'vue';
 import { useRoute } from 'vue-router';
 import { useNatureGuideStore } from '@/stores/nature-guides';
 import { useModalBottomSheet } from '@/stores/modal-bottomsheet';
-import { IdentificationStep } from 'localcosmos-client';
+import { IdentificationStep, IdentificationModes, IdentificationStepEvents, NodeType } from 'localcosmos-client';
+import type { Node } from 'localcosmos-client';
 import { t } from 'i18next';
 import ContentContainer from '@/components/container/ContentContainer.vue';
 import { resolveComponent } from '@/utils/filterComponentResolver';
@@ -20,9 +21,8 @@ const props = defineProps<{
   nodeSlug: string;
 }>();
 
-const route = useRoute();
-
 const modalBottomSheet = useModalBottomSheet();
+const route = useRoute();
 
 const natureGuideStore = useNatureGuideStore();
 
@@ -31,29 +31,68 @@ natureGuideStore.loadIdentificationStepBySlug(`${props.nodeSlug}`);
 
 const identificationStep: ComputedRef<IdentificationStep | null> = computed(() => natureGuideStore.currentStep);
 
-const renderKey = ref<number>(0); // Reactive key to force re-rendering
+const isPolytomous = computed(() =>
+  identificationStep.value?.identificationMode === IdentificationModes.polytomous
+);
+
+const polytomousFilter = computed(() => {
+  if (!identificationStep.value) return null;
+  const entries = Object.entries(identificationStep.value.matrixFilters);
+  return entries.length > 0 ? entries[0][1] : null;
+});
+
+const renderKey = ref<number>(0);
 
 const resetIdentificationStep = () => {
   natureGuideStore.resetIdentificationStep();
   renderKey.value++;
 };
 
-onMounted(() => {
-  const modalBottomSheetTitle = t('natureGuide.Evaluation');
-  modalBottomSheet.create(NodeList, modalBottomSheetTitle, EvaluationPreview);
-  
-  // check if the modal is opened by the url
-  const modalState = route.query.modalbottomsheet;
+const goToNode = (node: Node) => {
+  natureGuideStore.pushLastStep();
+  if (natureGuideStore.natureGuide) {
+    if (node.data.nodeType === NodeType.node) {
+      router.push({ name: 'nature-guide', params: { guideSlug: natureGuideStore.natureGuide.slug, nodeSlug: node.slug } });
+    } else {
+      modalBottomSheet.destroy();
+      router.push({ name: 'taxon-profile-nameuuid', params: { nameUuid: node.data.taxon.nameUuid } });
+    }
+  }
+};
 
-  modalBottomSheet.collapse();
-    
-  if (modalState === 'expanded') {
-    console.log('Modal was expanded via back navigation - fixing route');
-    router.back();
+const onPolytomousResult = (result: Node | null) => {
+  if (result) goToNode(result);
+};
+
+// Snapshot this component's own step at setup time, before the store can change.
+// onBeforeUnmount fires after the incoming component's setup has already
+// updated natureGuideStore.currentStep, so we must NOT read currentStep there.
+const thisStep = natureGuideStore.currentStep;
+const thisStepIsPolytomous = thisStep?.identificationMode === IdentificationModes.polytomous;
+
+if (thisStepIsPolytomous && thisStep) {
+  thisStep.on(IdentificationStepEvents.IdentificationResultChanged, onPolytomousResult);
+}
+
+onMounted(() => {
+  if (!thisStepIsPolytomous) {
+    const modalBottomSheetTitle = t('natureGuide.Evaluation');
+    modalBottomSheet.create(NodeList, modalBottomSheetTitle, EvaluationPreview);
+
+    // Restore sheet state from the URL — this handles back navigation returning
+    // to a step that had the sheet open (feature 2), as well as the normal case.
+    if (route.query.modalbottomsheet === 'expanded') {
+      modalBottomSheet.expand();
+    } else {
+      modalBottomSheet.collapse();
+    }
   }
 });
 
 onBeforeUnmount(() => {
+  if (thisStepIsPolytomous && thisStep) {
+    thisStep.off(IdentificationStepEvents.IdentificationResultChanged, onPolytomousResult);
+  }
   modalBottomSheet.destroy();
 });
 </script>
@@ -64,46 +103,78 @@ onBeforeUnmount(() => {
       <div
         v-if="identificationStep"
         class="identification-step full-height"
+        :class="{ polytomous: isPolytomous }"
       >
-        <div class="traits-container full-height scroll-y">
-          <div class="identification-step-header">
-            <div>
-              <h1 class="font-medium text-xl">
+
+        <!-- polytomous mode: single filter, direct navigation on selection -->
+        <template v-if="isPolytomous">
+          <div class="traits-container full-height scroll-y">
+            <div class="identification-step-header">
+              <h2 class="font-medium text-xl">
                 {{ identificationStep.name }}
-              </h1>
+              </h2>
             </div>
-            <div>
-              <ColorButton
-                class="cursor-pointer"
-                :text="t('reset')"
-                @click="resetIdentificationStep"
-              />
-            </div>
-          </div>
-          
-          <div class="trait-list mt-xl">
-            <template
-              v-for="[uuid, filter] in Object.entries(identificationStep.matrixFilters)" :key="uuid"
-            >
+            <div class="polytomous trait-list mt-xl">
               <component
-                :is="resolveComponent(filter.data.type)"
-                :filter="filter"
+                v-if="polytomousFilter"
+                :is="resolveComponent(polytomousFilter.data.type)"
+                :filter="polytomousFilter"
                 :read-only="false"
               />
-            </template>
+            </div>
           </div>
-        </div>
+        </template>
 
-        <div class="nodelist-xl">
-          <NodeList />
-        </div>
+        <!-- matrix mode: full filter list + node list -->
+        <template v-else>
+          <div class="traits-container full-height scroll-y">
+            <div class="identification-step-header">
+              <div>
+                <h2 class="font-medium text-xl">
+                  {{ identificationStep.name }}
+                </h2>
+              </div>
+              <div>
+                <ColorButton
+                  class="cursor-pointer"
+                  :text="t('reset')"
+                  @click="resetIdentificationStep"
+                />
+              </div>
+            </div>
+
+            <div class="trait-list mt-xl">
+              <template
+                v-for="[uuid, filter] in Object.entries(identificationStep.matrixFilters)" :key="uuid"
+              >
+                <component
+                  :is="resolveComponent(filter.data.type)"
+                  :filter="filter"
+                  :read-only="false"
+                />
+              </template>
+            </div>
+          </div>
+
+          <div class="nodelist-xl">
+            <NodeList />
+          </div>
+        </template>
 
       </div>
     </div>
   </ContentContainer>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+ :root {
+  --identification-bg: rgba(255,255,255,.6);
+
+  --darkmode-identification-bg: rgba(0,0,0,.6);
+ }
+}
+
 .identification-step-header {
   display: flex;
   gap: var(--size-md);
@@ -122,9 +193,13 @@ onBeforeUnmount(() => {
 }
 
 .identification-step-container {
-  padding-top: var(--header-bar-height);
   height: 100vh;
   height: 100dvh;
+  background: var(--identification-bg);
+}
+
+body.dark .identification-step-container {
+  background: var(--darkmode-identification-bg);
 }
 
 .full-height {
@@ -168,7 +243,6 @@ onBeforeUnmount(() => {
 
 @media (min-width: 768px) {
   .identification-step-container {
-    padding-top: 0;
     padding-left: var(--navigation-rail-width);
   }
 
@@ -197,6 +271,13 @@ onBeforeUnmount(() => {
 
   .identification-step {
     grid-template-columns: 4fr 2fr;
+  }
+
+  .identification-step.polytomous {
+    grid-template-columns: 1fr;
+    max-width: 1280px;
+    width: 100%;
+    margin-inline: auto;
   }
 
   .full-height {

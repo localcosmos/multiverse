@@ -1,24 +1,31 @@
 <script setup lang="ts">
 const props = defineProps<{
   modelValue: boolean;
+  disabled?: boolean;
   label?: string;
+  labelLeft?: boolean;
 }>();
 
 const emit = defineEmits<{
-  'update:modelValue': [value: boolean];
+  "update:modelValue": [value: boolean];
 }>();
 
 const toggle = () => {
-  emit('update:modelValue', !props.modelValue);
+  emit("update:modelValue", !props.modelValue);
 };
 </script>
 
 <template>
   <div class="toggle-container">
+    <span v-if="labelLeft" class="toggle-label-group">
+      <slot />
+      <span v-if="label" class="toggle-label" @click="toggle">{{ label }}</span>
+    </span>
     <button
       type="button"
       class="toggle-button"
       :class="{ 'is-on': modelValue }"
+      :disabled="disabled"
       @click="toggle"
       role="switch"
       :aria-checked="modelValue"
@@ -26,17 +33,24 @@ const toggle = () => {
     >
       <span class="toggle-slider"></span>
     </button>
-    <span v-if="label" class="toggle-label" @click="toggle">
-      {{ label }}
+    <span v-if="!labelLeft" class="toggle-label-group">
+      <slot />
+      <span v-if="label" class="toggle-label" @click="toggle">{{ label }}</span>
     </span>
   </div>
 </template>
 
-<style scoped>
+<style>
 .toggle-container {
   display: inline-flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+.toggle-label-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
 }
 
 .toggle-button {

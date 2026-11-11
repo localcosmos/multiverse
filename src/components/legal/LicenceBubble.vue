@@ -12,6 +12,7 @@ const props = defineProps<{
 
 const bubble = ref<HTMLElement>();
 const licenceRegistry = inject('licenceRegistry') as LicenceRegistry;
+const isInPreviewMode = inject<boolean>('isInPreviewMode', false);
 const loading = ref<boolean>(false);
 const loadedRegistry = ref<boolean>(false);
 
@@ -25,7 +26,7 @@ const openExternalLink = (link: string) => {
     // @ts-ignore
     if (device.platform === 'browser' || device.platform === 'Android') {
       target = '_system';
-    } 
+    }
     // @ts-ignore
     cordova.InAppBrowser.open(link, target);
 };
@@ -81,13 +82,20 @@ const positionBubble = () => {
 }
 
 const updateImageLicence = async () => {
+  if (isInPreviewMode) {
+    loading.value = false;
+    imageLicence.value = null;
+    imageLicenceLink.value = null;
+    return;
+  }
+
   if (props.imageUrl) {
     if (loadedRegistry.value === false) {
       loading.value = true;
       await licenceRegistry.loadRegistry();
       loadedRegistry.value = true;
     }
-    imageLicence.value = licenceRegistry.getLicence(props.imageUrl);
+    imageLicence.value = licenceRegistry.getLicence(props.imageUrl) ?? props.licence ?? null;
   } else if (props.licence) {
     imageLicence.value = props.licence;
   }
@@ -113,10 +121,12 @@ onUpdated(async () => {
   <div
     ref="bubble"
     id="licenceBubble"
-    class="bg-solid"
   >
+    <div v-if="isInPreviewMode">
+      licences not avialable in preview mode
+    </div>
     <div
-      v-if="loading"
+      v-else-if="loading"
       class="loading-licences"
     >
       <div>
@@ -125,7 +135,7 @@ onUpdated(async () => {
       <div>
         {{ $t('legal.loadingLicences') }}
       </div>
-      
+
     </div>
     <div v-else>
       <div class="licence-title">
@@ -164,16 +174,15 @@ onUpdated(async () => {
   </div>
 </template>
 
-<style scoped>
-.loading-licences {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 2px;
+<style>
+@layer defaults {
+  :root {
+    --licence-bubble-bg: rgba(255, 255, 255, 1);
+    --licence-bubble-link-color: var(--color-primary);
+    --darkmode-licence-bubble-bg: rgba(0, 0, 0, 1);
+    --darkmode-licence-bubble-link-color: var(--color-primary);
+  }
 }
-
-
 
 #licenceBubble {
   position: fixed;
@@ -183,13 +192,30 @@ onUpdated(async () => {
   padding: var(--size-md);
   border-radius: var(--border-radius-sm);
   box-shadow: var(--box-shadow);
+  background: var(--licence-bubble-bg);
 }
 
-.image-licence-link {
-  color: var(--color-primary);
+body.dark #licenceBubble {
+  background: var(--darkmode-licence-bubble-bg);
 }
 
-.licence-title {
+#licenceBubble.loading-licences {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+
+#licenceBubble .image-licence-link {
+  color: var(--licence-bubble-link-color);
+}
+
+body.dark #licenceBubble .image-licence-link {
+  color: var(--darkmode-licence-bubble-link-color);
+}
+
+#licenceBubble .licence-title {
   font-size: var(--font-size-md);
   color: rgb(150,150,150);
 }

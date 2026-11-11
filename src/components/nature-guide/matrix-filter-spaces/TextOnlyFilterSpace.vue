@@ -27,16 +27,32 @@ const { toggleSelection } = useFilterSpace(props.space, props.readOnly);
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --text-only-filter-space-bg: white;
+    --text-only-filter-space-border-radius: var(--border-radius);
+
+    --darkmode-text-only-filter-space-bg: black;
+  }
+}
 .text-only-filter-space {
   width: 100%;
   aspect-ratio: 3 / 2;
-  background: white;
-  border-radius: var(--border-radius);
+  background: var(--text-only-filter-space-bg);
+  border-radius: var(--text-only-filter-space-border-radius);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: var(--size-md);
+}
+
+body.dark .text-only-filter-space {
+  background: var(--darkmode-text-only-filter-space-bg);
+}
+
+.text-only-filter-space p {
+  margin-bottom: 0;
 }
 </style>
 

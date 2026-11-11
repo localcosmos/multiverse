@@ -1,17 +1,21 @@
 <script setup lang="ts">
+import { ref, computed, watch, onMounted, onBeforeUnmount, nextTick } from 'vue';
 import { t } from 'i18next';
 import type { ContentVideo } from '@/types/template-content';
-
 import { useCookieConsentStore } from '@/stores/cookie-consent';
 import OnOffButton from '../ui/OnOffButton.vue';
+import { useRouter } from 'vue-router';
+import Player from '@vimeo/player';
+import { useVideoUrl } from '@/composables/useVideoUrl';
 
 const consentStore = useCookieConsentStore();
 
-const props = defineProps<{
-  video: ContentVideo
-}>();
-
-import { useRouter } from 'vue-router';
+const props = withDefaults(defineProps<{
+  video: ContentVideo,
+  autoplay?: boolean,
+}>(), {
+  autoplay: false,
+});
 
 const router = useRouter();
 
@@ -26,65 +30,69 @@ const handleLinkClick = (event: Event) => {
   }
 };
 
-// Function to extract video ID from different platforms
-const getEmbedUrl = (url: string, videoType: string) => {
-  if (videoType === 'Vimeo') {
-    // Extract Vimeo ID from URL like https://vimeo.com/123456789
-    const vimeoMatch = url.match(/vimeo\.com\/(\d+)/);
-    if (vimeoMatch) {
-      return `https://player.vimeo.com/video/${vimeoMatch[1]}?dnt=1`;
-    }
-    // If it's already just the ID
-    return `https://player.vimeo.com/video/${url}?dnt=1`;
-  }
-  
-  if (videoType === 'YouTube') {
-    // Extract YouTube ID from various URL formats
-    let videoId = '';
-    
-    // https://www.youtube.com/watch?v=VIDEO_ID
-    const youtubeMatch1 = url.match(/[?&]v=([^&#]*)/);
-    if (youtubeMatch1) videoId = youtubeMatch1[1];
-    
-    // https://youtu.be/VIDEO_ID
-    const youtubeMatch2 = url.match(/youtu\.be\/([^?&#]*)/);
-    if (youtubeMatch2) videoId = youtubeMatch2[1];
-    
-    // https://www.youtube.com/embed/VIDEO_ID
-    const youtubeMatch3 = url.match(/youtube\.com\/embed\/([^?&#]*)/);
-    if (youtubeMatch3) videoId = youtubeMatch3[1];
-    
-    if (videoId) {
-      return `https://www.youtube.com/embed/${videoId}`;
-    }
-    // If it's already just the ID
-    return `https://www.youtube.com/embed/${url}`;
-  }
-  
-  // For direct video URLs (mp4, webm, etc.)
-  if (videoType === 'Direct') {
-    return url;
-  }
-  
-  return url;
+const { getEmbedUrl } = useVideoUrl();
+
+// Vimeo Player SDK — data-vimeo-url with a player.vimeo.com URL bypasses the
+// oEmbed lookup, so unlisted/restricted videos work just like a plain iframe.
+const vimeoContainer = ref<HTMLDivElement | null>(null);
+let vimeoPlayer: Player | null = null;
+
+const youtubeEmbedUrl = computed(() => {
+  const base = getEmbedUrl(props.video.url, 'YouTube');
+  return props.autoplay ? `${base}&autoplay=1` : base;
+});
+
+const initVimeoPlayer = () => {
+  if (!vimeoContainer.value || vimeoPlayer) return;
+  vimeoPlayer = new Player(vimeoContainer.value, {
+    responsive: true,
+    autoplay: props.autoplay,
+  });
+  vimeoPlayer.on('ended', () => {
+    vimeoPlayer?.setCurrentTime(0);
+  });
 };
 
+const destroyVimeoPlayer = () => {
+  if (vimeoPlayer) {
+    vimeoPlayer.destroy();
+    vimeoPlayer = null;
+  }
+};
+
+onMounted(() => {
+  if (props.video.videoType === 'Vimeo' && consentStore.hasVimeoConsent) {
+    initVimeoPlayer();
+  }
+});
+
+onBeforeUnmount(() => {
+  destroyVimeoPlayer();
+});
+
+watch(
+  () => consentStore.hasVimeoConsent,
+  async (hasConsent) => {
+    if (props.video.videoType !== 'Vimeo') return;
+    if (!hasConsent) {
+      destroyVimeoPlayer();
+      return;
+    }
+    await nextTick();
+    initVimeoPlayer();
+  }
+);
 </script>
 
 <template>
   <div class="video-embed-container">
     <!-- Vimeo -->
     <div v-if="video.videoType === 'Vimeo'">
-      <iframe
+      <div
         v-if="consentStore.hasVimeoConsent"
-        :src="getEmbedUrl(video.url, 'Vimeo')"
-        width="100%"
-        height="360"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen
-        title="Embedded Vimeo video"
-      ></iframe>
+        ref="vimeoContainer"
+        :data-vimeo-url="getEmbedUrl(video.url, 'Vimeo')"
+      ></div>
       <div v-else class="video-placeholder-container">
         <div class="video-provider-logo">
           <img src="/images/logos/Vimeo_Logo.svg" />
@@ -104,12 +112,12 @@ const getEmbedUrl = (url: string, videoType: string) => {
         </div>
       </div>
     </div>
-    
+
     <!-- YouTube -->
     <div v-else-if="video.videoType === 'YouTube'">
       <iframe
         v-if="consentStore.hasYoutubeConsent"
-        :src="getEmbedUrl(video.url, 'YouTube')"
+        :src="youtubeEmbedUrl"
         width="100%"
         height="360"
         frameborder="0"
@@ -136,7 +144,7 @@ const getEmbedUrl = (url: string, videoType: string) => {
         </div>
       </div>
     </div>
-    
+
     <!-- Fallback for other types -->
     <div v-else>
       <p>Unsupported video type: {{ video.videoType }}</p>
@@ -164,7 +172,7 @@ const getEmbedUrl = (url: string, videoType: string) => {
   text-align: center;
   gap: var(--size-2xl);
   background: #000;
-  color: rgb(200,200,200);
+  color: rgb(200, 200, 200);
   padding: var(--size-2xl);
 }
 
@@ -187,12 +195,11 @@ const getEmbedUrl = (url: string, videoType: string) => {
   width: auto;
 }
 
-iframe, video {
+:deep(iframe), video {
   aspect-ratio: 16/9;
   width: 100%;
   height: auto;
 }
-
 
 /* Make links readable on black background */
 .video-embed-container :deep(a) {

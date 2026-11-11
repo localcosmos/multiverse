@@ -31,4 +31,5 @@ export type TabButtonDefinition = {
   icon?: Component | null,
   type: TabButtonType,
   letters?: string[],
+  tabClass?: string,
 }

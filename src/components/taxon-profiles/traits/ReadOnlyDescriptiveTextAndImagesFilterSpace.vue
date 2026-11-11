@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import { ref } from 'vue';
-import type { ImageWithTextAndLicence } from 'localcosmos-client';
-import type { DescriptiveTextAndImagesFilterSpaceData } from 'localcosmos-client';
-import { PhSwap } from '@phosphor-icons/vue';
-import TranslatableGlossarizedText from '@/components/text/TranslatableGlossarizedText.vue';
-import ImageWithLicence from '@/components/images/ImageWithLicence.vue';
+import { ref } from "vue";
+import type { ImageWithTextAndLicence } from "localcosmos-client";
+import type { DescriptiveTextAndImagesFilterSpaceData } from "localcosmos-client";
+import { PhSwap } from "@phosphor-icons/vue";
+import TranslatableGlossarizedText from "@/components/text/TranslatableGlossarizedText.vue";
+import ImageWithLicence from "@/components/images/ImageWithLicence.vue";
 
 const props = defineProps<{
   space: DescriptiveTextAndImagesFilterSpaceData;
-  unit: string | null,
+  unit: string | null;
 }>();
 
 let initialImage: ImageWithTextAndLicence | null = null;
@@ -31,7 +31,10 @@ const currentImage = ref<ImageWithTextAndLicence | null>(initialImage);
 // Toggle between primary and secondary images
 const toggleImage = () => {
   if (initialImage && secondaryImage) {
-    if (currentImage.value && currentImage.value.imageUrl === initialImage.imageUrl) {
+    if (
+      currentImage.value &&
+      currentImage.value.imageUrl === initialImage.imageUrl
+    ) {
       currentImage.value = secondaryImage;
     } else {
       currentImage.value = initialImage;
@@ -41,72 +44,64 @@ const toggleImage = () => {
 </script>
 
 <template>
-  <div class="dtai-space-container">
-    <div class="dtai-image">
-      <ImageWithLicence
-        v-if="currentImage"
-        :image="currentImage"
-        rounded="rounded"
-      />
-      <img
-        v-else
-        src="@/assets/images/no-image.svg"
-      >
+  <div class="ro-dtai-space-container">
+    <div class="ro-dtai-image">
+      <ImageWithLicence v-if="currentImage" :image="currentImage" />
+      <img v-else src="@/assets/images/no-image.svg" />
       <div
         v-if="space.secondaryImageUrl"
-        class="image-swap cursor-pointer"
+        class="ro-dtai-image-swap cursor-pointer"
         @click.stop="toggleImage"
       >
-        <div class="image-swap-circle box-shadow">
+        <div class="ro-dtai-image-swap-circle box-shadow">
           <PhSwap color="#BDBDBD" :size="20" />
         </div>
       </div>
     </div>
-    <div
-      class="dtai-text"
-    >
-      <TranslatableGlossarizedText
-        :text-key="space.encodedSpace"
-      />
+    <div class="ro-dtai-text">
+      <TranslatableGlossarizedText :text-key="space.encodedSpace" />
     </div>
   </div>
 </template>
 
-<style scoped>
-.dtai-space-container {
+<style>
+.ro-dtai-space-container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 150px;
 }
 
-.dtai-image {
-  width: 80px;
+.ro-dtai-image {
+  width: 100%;
+  background: var(--dtai-space-bg);
+  border-radius: var(--dtai-space-border-radius);
 }
 
-.dtai-space {
+.ro-dtai-space {
   position: relative;
   border-radius: var(--border-radius);
 }
 
-.dtai-space .image-container {
+.ro-dtai-space .image-container {
   border-radius: var(--border-radius);
 }
 
-.image-swap {
+.ro-dtai-image-swap {
   position: absolute;
-  bottom: 10px;
-  right: 10px;
+  top: var(--image-swap-top);
+  right: var(--image-swap-right);
 }
 
-.dtai-text {
+.ro-dtai-text {
   text-align: center;
 }
 
-.dtai-text.impossible {
+.ro-dtai-text.impossible {
   opacity: 0.3;
 }
 
-.image-swap-circle {
+.ro-dtai-image-swap-circle {
   width: 32px;
   height: 32px;
   border-radius: 50%;

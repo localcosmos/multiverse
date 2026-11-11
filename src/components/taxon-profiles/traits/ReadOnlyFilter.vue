@@ -30,12 +30,13 @@ const spaceComponent = resolveReadOnlySpaceComponent(props.filter.type);
         :is="spaceComponent"
         :space="space"
         :unit="filter.definition?.unit || null"
+        class="matrix-filter-ro-space"
       />
     </div>
   </div>
 </template>
 
-<style scoped>
+<style>
 .matrix-filter-ro-name {
   font-weight: bold;
   font-size: var(--font-size-xl);
@@ -48,5 +49,9 @@ const spaceComponent = resolveReadOnlySpaceComponent(props.filter.type);
   gap: var(--size-md);
   margin-top: var(--size-sm);
   width: 100%;
+}
+
+.matrix-filter-ro-space {
+  position: relative;
 }
 </style>

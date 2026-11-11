@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, nextTick, computed } from 'vue';
+import { ref, nextTick, computed, watch } from 'vue';
 import type { Component } from 'vue';
 import { PhX } from '@phosphor-icons/vue';
 
@@ -9,6 +9,7 @@ const props = defineProps<{
   icon?: Component | null,
   noResults?: boolean
   variant?: 'solid' | 'translucent',
+  searchText?: string,
 }>();
 
 const emit = defineEmits<{
@@ -19,7 +20,7 @@ const emit = defineEmits<{
 const isSearching = ref<boolean>(false);
 const hasInteracted = ref<boolean>(false); // Tracks if the user has interacted with the input
 const searchInputRef = ref<HTMLInputElement | null>(null); // Reference to the input field
-const searchText = ref<string>(''); // Reactive state for the search text
+const searchText = ref<string>(props.searchText ?? ''); // Reactive state for the search text
 
 // Function to toggle the search state
 const toggleSearch = async () => {
@@ -29,14 +30,14 @@ const toggleSearch = async () => {
   // Focus the input field after it is rendered
   if (isSearching.value) {
     await nextTick(); // Wait for the DOM to update
-    searchInputRef.value?.focus();
+    searchInputRef.value?.focus({ preventScroll: true });
   }
 };
 
 // Function to handle blur event
 const handleBlur = () => {
-  if (!hasInteracted.value || searchText.value === '') {
-    isSearching.value = false; // Only close if no interaction occurred
+  if (searchText.value === '') {
+    isSearching.value = false;
   }
 };
 
@@ -59,20 +60,42 @@ const clearSearch = () => {
 const searchInputClass = computed(() =>
   props.noResults ? 'search-input error' : 'search-input'
 );
+
+watch(
+  () => props.searchText,
+  (newSearchText) => {
+    const nextText = newSearchText ?? '';
+
+    if (!hasInteracted.value || nextText === '') {
+      searchText.value = nextText;
+    }
+
+    if (props.active && nextText) {
+      isSearching.value = true;
+    }
+  },
+  { immediate: true },
+);
+
+watch(
+  () => props.active,
+  (isActive) => {
+    if (isActive && searchText.value) {
+      isSearching.value = true;
+    }
+  },
+);
 </script>
 
 <template>
-  <div
-    class="tab-button-container search-mode"
-  >
+  <div class="tab-button-container search-mode">
     <!-- Search Button -->
     <div
       v-if="!isSearching"
       class="tab-button"
       :class="{
-        'active': active,
-        'bg-translucent-light': !variant, // Only apply default background if no style
-        [`style-${variant}`]: variant
+        active: active,
+        [`style-${variant ?? 'solid'}`]: true,
       }"
       @click="toggleSearch"
     >
@@ -99,7 +122,8 @@ const searchInputClass = computed(() =>
       <div
         v-if="searchText"
         class="clear-icon"
-        @click="clearSearch"
+        @mousedown.prevent
+        @click.stop="clearSearch"
       >
         <PhX :size="16" />
       </div>
@@ -122,7 +146,7 @@ const searchInputClass = computed(() =>
   border-radius: 5em;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: --var(font-family-tight);
+  font-family: var(--font-family-tight);
   transition: var(--transition-cubic);
   transform-origin: center center;
   display: flex;
@@ -138,13 +162,13 @@ const searchInputClass = computed(() =>
 }
 
 .tab-button.active {
-  color: var(--color-white);
-  background: var(--color-black-translucent);
+  color: #FFF;
+  background: var(--bg-translucent-2);
 }
 
 body.dark .tab-button.active {
-  color: var(--color-black);
-  background: var(--color-white-translucent);
+  color: #000;
+  background: var(--bg-translucent);
 }
 
 .tab-icon {
@@ -168,13 +192,13 @@ body.dark .tab-button.active {
   min-width: 0;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: --var(font-family-tight);
-  border: 1px solid var(--color-black-translucent);
+  font-family: var(--font-family-tight);
+  border: 1px solid var(--bg-translucent-2);
   border-radius: 5em;
   outline: none;
   transition: var(--transition-cubic);
   height: 31px;
-  padding-right: 32px; /* Add space for the clear icon */
+  padding-right: 32px;
 }
 
 .search-input.error {
@@ -189,12 +213,12 @@ body.dark .tab-button.active {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--color-black-translucent);
+  color: var(--bg-translucent-2);
   transition: color 0.2s;
 }
 
 .clear-icon:hover {
-  color: var(--color-black);
+  color: #000;
 }
 
 @media (min-width: 640px) {

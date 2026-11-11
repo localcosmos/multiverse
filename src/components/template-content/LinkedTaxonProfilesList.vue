@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { inject } from 'vue';
 import type { TaxonWithImage } from 'localcosmos-client';
 import ImageCard from '@/components/ui/ImageCard.vue';
 import TaxonName from '@/components/ui/TaxonName.vue';
@@ -7,6 +8,8 @@ import TaxonProfileLink from '../ui/TaxonProfileLink.vue';
 const props = defineProps<{
   linkedTaxonProfiles: TaxonWithImage[]
 }>();
+
+const isInPreviewMode = inject<boolean>('isInPreviewMode', false);
 
 </script>
 
@@ -18,10 +21,10 @@ const props = defineProps<{
       class="taxon-profiles-list mb-4"
     >
       <TaxonProfileLink
-          :taxon="taxon"
+          :taxon="isInPreviewMode ? null : taxon"
           class="nolinkstyle"
         >
-          <ImageCard :image="taxon.image">
+          <ImageCard :image="taxon.image" :is-template-content-image="true">
             <TaxonName
               :taxon-latname="taxon.taxonLatname"
               :taxon-author="taxon.taxonAuthor"

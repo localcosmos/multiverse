@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import type { TextBlock } from '@/types/template-content';
+import type { TextBlock } from "@/types/template-content";
+import type { TemplateContentSource } from "@/composables/useTemplateContent";
 
-const props = defineProps<{
-  textBlock: TextBlock
+defineProps<{
+  textBlock: TextBlock;
+  templateSource?: TemplateContentSource | null; // Optional prop to pass the source for template content images
 }>();
 </script>
-
 
 <template>
   <div class="page-padding-x pb-xl">
@@ -14,12 +15,11 @@ const props = defineProps<{
       <ImageWithLicence
         :image="textBlock.image"
         sizes="(max-width: 640px) 100vw, 640px"
-        rounded="rounded-sm"
-        :isTemplateContentImage="true"
+        :is-template-content-image="true"
+        :template-content-source="templateSource"
       />
     </div>
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>

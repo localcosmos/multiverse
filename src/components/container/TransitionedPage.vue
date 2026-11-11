@@ -1,20 +1,53 @@
 <script setup lang="ts">
-import { ref, onMounted, onBeforeUnmount } from 'vue';
+import { ref, onMounted, onBeforeUnmount, onActivated, onDeactivated } from 'vue';
 
 const page = ref<HTMLElement>();
+let fadeTimer: ReturnType<typeof setTimeout> | null = null;
 
-onMounted(() => {
-  setTimeout(()=> {
+const clearFadeTimer = () => {
+  if (fadeTimer) {
+    clearTimeout(fadeTimer);
+    fadeTimer = null;
+  }
+};
+
+const fadeIn = () => {
+  clearFadeTimer();
+  if (!page.value) {
+    return;
+  }
+
+  page.value.classList.remove('faded-in');
+
+  fadeTimer = setTimeout(() => {
     if (page.value) {
       page.value.classList.add('faded-in');
     }
+    fadeTimer = null;
   }, 50);
-});
+};
 
-onBeforeUnmount(() => {
+const resetFade = () => {
+  clearFadeTimer();
   if (page.value) {
     page.value.classList.remove('faded-in');
   }
+};
+
+onMounted(() => {
+  fadeIn();
+});
+
+onActivated(() => {
+  fadeIn();
+});
+
+onDeactivated(() => {
+  resetFade();
+});
+
+onBeforeUnmount(() => {
+  resetFade();
 });
 
 </script>

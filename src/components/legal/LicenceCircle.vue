@@ -1,16 +1,15 @@
 <script setup lang="ts">
-import { inject, ref } from 'vue';
-import type { Ref } from 'vue';
-import { PhCopyright } from '@phosphor-icons/vue';
-import type { ImageLicence } from 'localcosmos-client';
+import { inject, ref } from "vue";
+import type { Ref } from "vue";
+import { PhCopyright } from "@phosphor-icons/vue";
+import type { ImageLicence } from "localcosmos-client";
 
 const props = defineProps<{
-  licence?: ImageLicence
-  imageUrl?: string
-  sharp?: boolean
+  licence?: ImageLicence;
+  imageUrl?: string;
 }>();
 
-const licenceBubble: Ref = inject('licenceBubble') as Ref;
+const licenceBubble: Ref = inject("licenceBubble") as Ref;
 
 const autoHideId = ref<number | null>(null);
 
@@ -31,13 +30,12 @@ const showBubble = (event: Event) => {
     y,
   };
 
-  window.addEventListener('pointerdown', hideBubble, { once: true });
+  window.addEventListener("pointerdown", hideBubble, { once: true });
 
   if (autoHideId.value) {
     clearTimeout(autoHideId.value);
   }
   autoHideId.value = setTimeout(hideBubble, 3000);
-  
 };
 
 const hideBubble = (event: Event) => {
@@ -47,24 +45,26 @@ const hideBubble = (event: Event) => {
     autoHideId.value = null;
   }
 };
-
 </script>
 
 <template>
-  <div
-    class="licence-circle-container"
-    @click="showBubble"
-  >
-    <div
-      class="licence-circle box-shadow cursor-pointer"
-      :class="{ 'sharp': sharp }"
-    >
-      <PhCopyright color="#B0B0B0" :size="18" />
+  <div class="licence-circle-container" @click="showBubble">
+    <div class="licence-circle box-shadow cursor-pointer">
+      <PhCopyright color="var(--licence-circle-icon-color)" :size="18" />
     </div>
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --licence-circle-bg: rgba(0, 0, 0, 0.7);
+    --darkmode-licence-circle-bg: rgba(0, 0, 0, 0.7);
+    --licence-circle-icon-color: #bebebe;
+    --darkmode-licence-circle-icon-color: #bebebe;
+  }
+}
+
 .licence-circle-container {
   width: 40px;
   aspect-ratio: 1/1;
@@ -77,8 +77,8 @@ const hideBubble = (event: Event) => {
 .licence-circle {
   width: 23px;
   aspect-ratio: 1/1;
-  border-radius: 50% 0 var(--border-radius-xs) 0;
-  background: rgba(240,240,240);
+  border-radius: 50% 0 0 0;
+  background: var(--licence-circle-bg);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -87,7 +87,8 @@ const hideBubble = (event: Event) => {
   position: relative;
 }
 
-.licence-circle.sharp {
-  border-radius: 50% 0 0 0;
+body.dark .licence-circle {
+  background: var(--darkmode-licence-circle-bg);
+  --licence-circle-icon-color: var(--darkmode-licence-circle-icon-color);
 }
 </style>

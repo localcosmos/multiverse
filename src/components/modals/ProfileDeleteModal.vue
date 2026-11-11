@@ -38,7 +38,7 @@ const openModal = () => {
         {{ $t('MyAccount.deleteAccount') }}
       </template>
       <div>
-        <h1>{{ $t('MyAccount.confirmDelete') }}</h1>
+        <div>{{ $t('MyAccount.confirmDelete') }}</div>
         <div class="my-xl">
           <div class="alert alert-warning">
             {{ $t('MyAccount.deleteWarning') }}

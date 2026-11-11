@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, watch, onMounted } from 'vue';
 import { transform } from 'ol/proj';
 import type { GenericFormField, GeoJSONFeature } from 'localcosmos-client';
 import { pointLatLngToFeature, GenericValueManager } from 'localcosmos-client';
@@ -48,7 +48,7 @@ const manualError = ref<string>('');
 
 // sets the selected point, draws a marker
 // does NOT abort GPS
-const setSelectedPoint = (lng: number, lat: number, accuracy:number) => {
+const setSelectedPoint = (lng: number, lat: number, accuracy:number, syncManualInputs = true) => {
   accuracy = accuracy | 0;
 
   const xy: number[] = transform([lng, lat], 'EPSG:4326', 'EPSG:3857');
@@ -77,6 +77,10 @@ const setSelectedPoint = (lng: number, lat: number, accuracy:number) => {
 
   geolocationMessage.value = `${lat.toFixed(3)}N, ${lng.toFixed(3)}E (±${accuracy}m)`;
   geolocationError.value = '';
+  if (syncManualInputs) {
+    manualLat.value = lat.toFixed(6);
+    manualLng.value = lng.toFixed(6);
+  }
 };
 
 const removeSelectedPoint = () => {
@@ -84,10 +88,18 @@ const removeSelectedPoint = () => {
   setValue(null);
   selectedPosition.value = null;
   selectedPoint.value = null;
+  manualLat.value = '';
+  manualLng.value = '';
+  manualError.value = '';
   map.value?.clearMarkerLayer();
 };
 
-const setManualCoordinates = () => {
+watch([manualLat, manualLng], () => {
+  if (!manualLat.value || !manualLng.value) {
+    manualError.value = '';
+    return;
+  }
+
   const lat = parseFloat(manualLat.value);
   const lng = parseFloat(manualLng.value);
 
@@ -102,12 +114,12 @@ const setManualCoordinates = () => {
     manualError.value = t('validation.invalid');
     return;
   }
+
   manualError.value = '';
-  setSelectedPoint(lng, lat, 0);
+  setSelectedPoint(lng, lat, 0, false);
+  map.value?.setCenter(lng, lat);
   userSetPosition.value = true;
-  // Optionally close modal after setting
-  modals.closeModal();
-};
+});
 
 geolocation.$subscribe((mutation, state) => {
   if (state.error && userSetPosition.value === false) {
@@ -203,7 +215,7 @@ const goToGeoname = (result: GeonameResult) => {
 </script>
 
 <template>
-  <div>
+  <div class="pointjsonfield">
     <VerbosePlaceholderField
       :label="label"
       :icon="PhMapPin"
@@ -220,7 +232,7 @@ const goToGeoname = (result: GeonameResult) => {
         </div>
       </template>
     </VerbosePlaceholderField>
-    <div class="form-field-map">
+    <div class="pointjsonfield__form-field-map">
       <input
         :name="genericField.uuid"
         v-model="value"
@@ -242,6 +254,7 @@ const goToGeoname = (result: GeonameResult) => {
 
     <ModalOverlay
       :modal-type="MODAL_TYPES.DELETE_ACCOUNT"
+      :top-aligned="true"
       @update:modelValue="val => { if (!val) modals.closeModal(); }"
       @close="modals.closeModal"
     >
@@ -250,7 +263,7 @@ const goToGeoname = (result: GeonameResult) => {
       </template>
       <div>
         <!-- Tabs -->
-        <div class="modal-tabs">
+        <div class="pointjsonfield__modal-tabs">
           <TabButton
             :active="activeTab === 'map'"
             @click="activeTab = 'map'"
@@ -265,19 +278,19 @@ const goToGeoname = (result: GeonameResult) => {
           </TabButton>
         </div>
         <!-- Tab Content -->
-        <div v-show="activeTab === 'map'" class="modal-map-container">
+        <div v-show="activeTab === 'map'" class="pointjsonfield__modal-map-container">
           <div id="map" />
           <GeonameSearch
-            class="geoname-search"
+            class="pointjsonfield__geoname-search"
             @result-selected="goToGeoname"
           />
           <GPSButton
-            class="gps-button-container"
+            class="pointjsonfield__gps-button-container"
             @activated="removeSelectedPoint"
           />
         </div>
-        <div v-show="activeTab === 'manual'" class="manual-coords-container">
-          <div class="manual-coords-fields">
+        <div v-show="activeTab === 'manual'" class="pointjsonfield__manual-coords-container">
+          <div class="pointjsonfield__manual-coords-fields">
             <div>
               <div class="form-field">
                 <div class="form-field-icon">
@@ -314,15 +327,6 @@ const goToGeoname = (result: GeonameResult) => {
                 </div>
               </div>
             </div>
-            <div class="flex">
-              <ColorButton
-                :text="t('observationForm.setPosition')"
-                type="success"
-                @click="setManualCoordinates"
-                class="inline-block"
-              >  
-              </ColorButton>
-            </div>
             <div v-if="manualError" class="alert alert-error">
               {{ manualError }}
             </div>
@@ -357,23 +361,25 @@ const goToGeoname = (result: GeonameResult) => {
   </div>
 </template>
 
-<style scoped>
-.form-field-map {
+<style>
+
+
+.pointjsonfield__form-field-map {
   margin-top: -25px;
 }
 
-.modal-map-container {
+.pointjsonfield__modal-map-container {
   width: 100%;
   position: relative;
 }
 
-.geoname-search {
+.pointjsonfield__geoname-search {
   position: absolute;
   padding-left: 10px;
   top: 10px;
 }
 
-.gps-button-container {
+.pointjsonfield__gps-button-container {
   position: absolute;
   right: 10px;
   bottom: 100px;
@@ -384,22 +390,22 @@ const goToGeoname = (result: GeonameResult) => {
   height: 50vh;
 }
 
-.map-label {
+.pointjsonfield__map-label {
   font-weight: 500;
 }
 
-.gps-indicator {
+.pointjsonfield__gps-indicator {
   font-size: var(--font-size-small);
   font-weight: 500;
   color: var(--color-error);
 }
 
-.modal-tabs {
+.pointjsonfield__modal-tabs {
   display: flex;
   gap: 1em;
   margin-bottom: 1em;
 }
-.modal-tabs button {
+.pointjsonfield__modal-tabs button {
   padding: 0.5em 1em;
   background: none;
   border: 1px solid var(--color-border, #ccc);
@@ -408,15 +414,15 @@ const goToGeoname = (result: GeonameResult) => {
   font-weight: 500;
   border-radius: 6px 6px 0 0;
 }
-.modal-tabs button.active {
+.pointjsonfield__modal-tabs button.active {
   background: var(--color-background, #fff);
   border-bottom: 2px solid var(--color-primary, #007bff);
 }
-.manual-coords-container {
+.pointjsonfield__manual-coords-container {
   padding: var(--size-md);
 }
 
-.manual-coords-fields {
+.pointjsonfield__manual-coords-fields {
   display: flex;
   flex-direction: column;
   gap: var(--gap-medium);

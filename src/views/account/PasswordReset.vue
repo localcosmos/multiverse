@@ -1,83 +1,39 @@
 <script setup lang="ts">
-import { ref, inject } from 'vue';
-import type { LocalCosmosApi } from 'localcosmos-client';
-import { LCApiResultTypes } from 'localcosmos-client';
+import { ref } from 'vue';
 import ContentContainer from '@/components/container/ContentContainer.vue';
-import AsyncButton from '@/components/ui/AsyncButton.vue';
-import * as Yup from 'yup';
-import { PhEnvelope } from '@phosphor-icons/vue';
-import type { AnyObjectSchema } from 'yup';
+import PasswordResetFlow from '@/components/modals/PasswordResetFlow.vue';
 
-import FormWrapper from '@/components/forms/FormWrapper.vue';
-import BasicFormField from '@/components/forms/fields/BasicFormField.vue';
+const resetSuccess = ref<boolean>(false);
 
-const LCApi = inject('LCApi') as LocalCosmosApi;
-
-const validation: AnyObjectSchema = Yup.object({
-  email: Yup.string().required().email(),
-});
-
-const initialData = {
-  email: '',
-};
-
-const resetPasswordEmailSent = ref<boolean>(false);
-
-const submitting = ref<boolean>(false);
-
-const onSubmit = async (data: Record<string, any>, setServerErrors: Function) => {
-
-  const email: string = data.email;
-
-  submitting.value = true;
-  const result = await LCApi.resetPasswordEmail(email);
-  submitting.value = false;
-
-  if (result.type === LCApiResultTypes.success) {
-    resetPasswordEmailSent.value = true;
-  }
-  else {
-    setServerErrors(result.error);
-  }
+const onResetFlowSuccess = () => {
+  resetSuccess.value = true;
 };
 </script>
 
 <template>
-  <ContentContainer>
+  <ContentContainer class="bg-translucent">
     <div class="page page-padding">
       <div class="container-small">
         <div>
           <h1 class="h1">
             {{ $t('passwordReset.title') }}
           </h1>
-          <p class="my-xl">
+          <div class="my-xl">
             {{ $t('passwordReset.intro') }}
-          </p>
+          </div>
         </div>
         <div class="my-xl">
-          <div v-if="resetPasswordEmailSent">
+          <div v-if="resetSuccess">
             <div class="alert alert-success">
-              {{ $t('passwordReset.emailSent') }}
+              {{ $t('passwordReset.successMessage') }}
             </div>
           </div>
           <div v-else>
-            <FormWrapper
-              :validation="validation"
-              :initial-data="initialData"
-              @submit="onSubmit"
-            >
-              <BasicFormField
-                name="email"
-                :label="$t('user.email')"
-                type="email"
-                :icon="PhEnvelope"
-              >
-              </BasicFormField>
-              <template #actions>
-                <AsyncButton :submitting="submitting" :text="$t('send')">
-                </AsyncButton>
-              </template>
-            </FormWrapper>
+            <PasswordResetFlow
+              context="manual"
+              :show-back-button="false"
+              @success="onResetFlowSuccess"
+            />
           </div>
         </div>
       </div>

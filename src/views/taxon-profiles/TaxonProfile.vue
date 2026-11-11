@@ -6,13 +6,13 @@
  * see https://michaelnthiessen.com/force-re-render/
  * and https://router.vuejs.org/guide/essentials/dynamic-matching.html#reacting-to-params-changes
  */
-import { ref, computed, watch, inject, type ComputedRef } from 'vue';
-import { useRoute, useRouter } from 'vue-router';
-import TaxonProfileContent from './TaxonProfileContent.vue';
-import type { BackboneTaxonomy } from 'localcosmos-client';
-import ContentContainer from '@/components/container/ContentContainer.vue';
+import { ref, computed, watch, inject, type ComputedRef } from "vue";
+import { useRoute, useRouter } from "vue-router";
+import TaxonProfileContent from "./TaxonProfileContent.vue";
+import type { BackboneTaxonomy } from "localcosmos-client";
+import ContentContainer from "@/components/container/ContentContainer.vue";
 
-const backboneTaxonomy = inject('backboneTaxonomy') as BackboneTaxonomy;
+const backboneTaxonomy = inject("backboneTaxonomy") as BackboneTaxonomy;
 
 const route = useRoute();
 const router = useRouter();
@@ -20,16 +20,15 @@ const slug = route.params.slug as string;
 
 const componentKey = ref<string>(`${slug}`);
 
-const nameUuid = ref<string|null>(null);
+const nameUuid = ref<string | null>(null);
 
-const morphotype = computed<string|null>(() => {
+const morphotype = computed<string | null>(() => {
   const morphotypeParam = route.params.morphotype;
-  if (typeof morphotypeParam === 'string') {
+  if (typeof morphotypeParam === "string") {
     return morphotypeParam;
   }
   return null;
 });
-
 
 if (route.params.nameUuid) {
   nameUuid.value = route.params.nameUuid as string;
@@ -38,7 +37,7 @@ if (route.params.nameUuid) {
 }
 
 if (nameUuid.value == null) {
-  router.replace({ name: 'not-found' });
+  router.replace({ name: "not-found" });
 }
 
 watch(
@@ -47,7 +46,7 @@ watch(
     if (newUuid !== oldUuid) {
       componentKey.value = `${newUuid}`;
     }
-  }
+  },
 );
 
 watch(
@@ -57,12 +56,12 @@ watch(
       componentKey.value = `${newSlug}`;
       const newUuid = backboneTaxonomy.slugToNameUuid(newSlug as string);
       if (newUuid == null) {
-        router.replace({ name: 'not-found' });
+        router.replace({ name: "not-found" });
       } else {
         nameUuid.value = newUuid;
       }
     }
-  }
+  },
 );
 
 watch(
@@ -71,7 +70,7 @@ watch(
     if (newMorphotype !== oldMorphotype) {
       componentKey.value = `${route.params.slug}-${newMorphotype}`;
     }
-  }
+  },
 );
 </script>
 
@@ -81,7 +80,11 @@ watch(
       <div>loading</div>
     </template>
     <ContentContainer>
-      <TaxonProfileContent :key="componentKey" :nameUuid="nameUuid" :morphotype="morphotype"/>
+      <TaxonProfileContent
+        :key="componentKey"
+        :nameUuid="nameUuid"
+        :morphotype="morphotype"
+      />
     </ContentContainer>
   </Suspense>
 </template>

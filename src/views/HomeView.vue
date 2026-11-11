@@ -2,27 +2,30 @@
 import { inject } from 'vue';
 import ContentContainer from '@/components/container/ContentContainer.vue';
 import LandingPage from '@/components/LandingPage.vue';
+import ExhibitionView from '@/views/exhibition/ExhibitionView.vue';
+import { useExhibitionModeStore } from '@/stores/exhibition-mode';
 
 const isInPreviewMode = inject('isInPreviewMode') as boolean;
-
+const exhibitionMode = useExhibitionModeStore();
 </script>
 
 <template>
   <ContentContainer>
     <div>
-        <div
-          v-if="isInPreviewMode"
-          class="page-full page-padding"
-        >
-          <div class="preview-indicator">
-            <div>
-              App in preview mode
-            </div>
+      <div
+        v-if="isInPreviewMode"
+        class="page-full page-padding"
+      >
+        <div class="preview-indicator">
+          <div>
+            App in preview mode
           </div>
-          
         </div>
-        <LandingPage v-else />
+        
       </div>
+      <LandingPage v-else-if="!exhibitionMode.isActive" />
+      <ExhibitionView v-else />
+    </div>
   </ContentContainer>
 </template>
 

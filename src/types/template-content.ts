@@ -19,6 +19,13 @@ export type StreamContentVideo = ContentVideo & {
 }
 
 
+export type IncidentReport = {
+  templateName: 'IncidentReport',
+  heading?: string,
+  text?: string,
+  image?: ImageWithTextAndLicence,
+}
+
 export type TextBlock = {
   text: string,
   templateName: 'TextBlock',

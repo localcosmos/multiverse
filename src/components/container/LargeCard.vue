@@ -11,10 +11,21 @@
     </div>
 </template>
 
-<style scoped>
+<style>
+s {
+  :root {
+    --color-large-card-bg: rgba(255, 255, 255, .75);
+    --darkmode-large-card-bg: rgba(0, 0, 0, .75);
+  }
+}
+
 .large-card {
-    background-color: rgba(255, 255, 255, .75);
+    background-color: var(--color-large-card-bg);
     box-shadow: var(--box-shadow);
+}
+
+body.dark .large-card {
+    background-color: var(--darkmode-large-card-bg);
 }
 
 .large-card.rounded-sm {

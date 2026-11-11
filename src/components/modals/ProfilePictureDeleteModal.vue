@@ -27,7 +27,7 @@ const deleteProfilePicture = async () => {
     }
   }
   else if (result.type === LCApiResultTypes.error) {
-    const errorMessageStr = parseServerErrorsToString(result.error);  
+    const errorMessageStr = parseServerErrorsToString(result.error);
     errorMessage.value = errorMessageStr;
   } else {
     emit('updated');
@@ -44,7 +44,7 @@ const deleteProfilePicture = async () => {
 <template>
   <div>
     <ColorButton
-      type="error"
+      type="danger"
       @click="modals.openModal(MODAL_TYPES.DELETE_PROFILE_PICTURE)"
       :text="$t('MyAccount.deleteProfilePicture')"
     >
@@ -57,19 +57,19 @@ const deleteProfilePicture = async () => {
         {{ t('MyAccount.deleteProfilePicture') }}
       </template>
       <div class="my-xl">
-        <h1>{{ $t('MyAccount.confirmDeletePicture') }}</h1>
+        <div>{{ $t('MyAccount.confirmDeletePicture') }}</div>
         <div class="my-xl">
           <div class="alert alert-warning">
             {{ $t('MyAccount.deletePictureWarning') }}
           </div>
-        </div>   
+        </div>
       </div>
       <div v-if="errorMessage" class="alert alert-danger">
         {{  errorMessage }}
       </div>
       <template #actions>
         <ColorButton
-          type="error"
+          type="danger"
           @click="deleteProfilePicture"
           :text="$t('delete')"
         ></ColorButton>

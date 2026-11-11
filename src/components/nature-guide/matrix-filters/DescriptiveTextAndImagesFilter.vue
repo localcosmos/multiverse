@@ -33,12 +33,29 @@ const props = defineProps<{
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+
+  }
+}
+
 .dtai-spaces {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: var(--size-md);
 }
+
+.polytomous .dtai-spaces {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media (min-width: 450px) {
+  .polytomous .dtai-spaces {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 
 @media (min-width: 640px) {
 }
@@ -47,11 +64,19 @@ const props = defineProps<{
   .dtai-spaces {
     grid-template-columns: repeat(4, 1fr);
   }
+
+  .polytomous .dtai-spaces {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (min-width: 1024px) {
   .dtai-spaces {
     grid-template-columns: repeat(5, 1fr);
+  }
+
+  .polytomous .dtai-spaces {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -59,11 +84,19 @@ const props = defineProps<{
   .dtai-spaces {
     grid-template-columns: repeat(6, 1fr);
   }
+
+  .polytomous .dtai-spaces {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 
 @media (min-width: 1536px) {
   .dtai-spaces {
     grid-template-columns: repeat(8, 1fr);
+  }
+
+  .polytomous .dtai-spaces {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 </style>

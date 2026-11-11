@@ -1,7 +1,5 @@
 <script setup lang="ts">
-import { ref, nextTick, computed } from 'vue';
 import type { Component } from 'vue';
-import { PhX } from '@phosphor-icons/vue';
 
 const props = defineProps<{
   text: string,
@@ -9,9 +7,6 @@ const props = defineProps<{
   icon?: Component | null,
   variant?: 'solid' | 'translucent',
 }>();
-
-
-
 </script>
 
 <template>
@@ -20,9 +15,8 @@ const props = defineProps<{
     <div
       class="tab-button"
       :class="{
-        'active': active,
-        'bg-translucent-light': !variant, // Only apply default background if no style
-        [`style-${variant}`]: variant
+        active: active,
+        [`style-${variant ?? 'solid'}`]: true,
       }"
     >
       <div v-if="icon" class="tab-icon">
@@ -36,6 +30,31 @@ const props = defineProps<{
 </template>
 
 <style>
+@layer defaults {
+  :root {
+    --tab-button-bg-solid: #FFF;
+    --tab-button-color-solid: #000;
+
+    --tab-button-active-bg-solid: var(--tab-button-bg-solid);
+    --tab-button-active-color-solid: var(--tab-button-color-solid);
+
+    --tab-button-bg-translucent: rgba(255, 255, 255, 0.7);
+    --tab-button-color-translucent: #000;
+
+    --tab-button-active-bg-translucent: var(--tab-button-bg-translucent);
+    --tab-button-active-color-translucent: var(--tab-button-color-translucent);
+
+    --darkmode-tab-button-bg-solid: #000;
+    --darkmode-tab-button-color-solid: #FFF;
+    --darkmode-tab-button-bg-translucent: rgba(0, 0, 0, 0.7);
+    --darkmode-tab-button-color-translucent: #FFF;
+    --darkmode-tab-button-active-bg-solid: var(--darkmode-tab-button-bg-solid);
+    --darkmode-tab-button-active-color-solid: var(--darkmode-tab-button-color-solid);
+    --darkmode-tab-button-active-bg-translucent: var(--darkmode-tab-button-bg-translucent);
+    --darkmode-tab-button-active-color-translucent: var(--darkmode-tab-button-color-translucent);
+  }
+}
+
 .tab-button-container {
   display: flex;
   align-items: center;
@@ -45,7 +64,7 @@ const props = defineProps<{
   border-radius: 5em;
   padding: 8px 16px;
   font-size: 12px;
-  font-family: --var(font-family-tight);
+  font-family: var(--font-family-tight);
   transition: var(--transition-cubic);
   transform-origin: center center;
   display: flex;
@@ -56,18 +75,48 @@ const props = defineProps<{
   cursor: pointer;
 }
 
+.tab-button.style-translucent {
+  background: var(--tab-button-bg-translucent);
+  color: var(--tab-button-color-translucent);
+  opacity: 0.7;
+}
+
+body.dark .tab-button.style-translucent {
+  background: var(--darkmode-tab-button-bg-translucent);
+  color: var(--darkmode-tab-button-color-translucent);
+  opacity: 0.7;
+}
+
 .tab-button.style-solid {
-  background: #FFF;
+  background: var(--tab-button-bg-solid);
+  color: var(--tab-button-color-solid);
 }
 
-.tab-button.active {
-  color: var(--color-white);
-  background: var(--color-black-translucent);
+.tab-button.style-solid.active {
+  color: var(--tab-button-active-color-solid);
+  background: var(--tab-button-active-bg-solid);
 }
 
-body.dark .tab-button.active {
-  color: var(--color-black);
-  background: var(--color-white-translucent);
+.tab-button.style-translucent.active {
+  color: var(--tab-button-active-color-translucent);
+  background: var(--tab-button-active-bg-translucent);
+  opacity: 1;
+}
+
+body.dark .tab-button.style-solid.active {
+  color: var(--darkmode-tab-button-active-color-solid);
+  background: var(--darkmode-tab-button-active-bg-solid);
+}
+
+body.dark .tab-button.style-translucent.active {
+  color: var(--darkmode-tab-button-active-color-translucent);
+  background: var(--darkmode-tab-button-active-bg-translucent);
+  opacity: 1;
+}
+
+body.dark .tab-button.style-solid {
+  background: var(--darkmode-tab-button-bg-solid);
+  color: var(--darkmode-tab-button-color-solid);
 }
 
 .tab-icon {

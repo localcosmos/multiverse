@@ -59,8 +59,8 @@ onMounted(() => {
 </script>
 
 <template>
-  <span
+  <div
     ref="glossaryText"
     v-html="htmlText"
-  ></span>
+  ></div>
 </template>

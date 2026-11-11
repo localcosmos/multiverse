@@ -25,7 +25,7 @@ if (props.node.data.imageUrl) {
 }
 
 const goToNextStep = () => {
-  
+
   natureGuideStore.pushLastStep();
 
   if (natureGuideStore.natureGuide) {
@@ -59,10 +59,11 @@ const pointsColor = computed(() => {
   >
     <div class="node-points" :style="`background-color: ${pointsColor}`">
       <span class="font-bold">{{ node.points }}</span>
-      <span class="text-xs">/{{ node.data.maxPoints }}</span>
+      <span class="node-points-divider"></span>
+      <span class="text-xs">{{ node.data.maxPoints }}</span>
     </div>
     <div class="node-name">
-      <div class="font-bold">
+      <div class="font-bold node-name-text">
         {{ node.name }}
       </div>
       <div v-if="node.data.taxon" class="node-scientific-name">
@@ -86,9 +87,9 @@ const pointsColor = computed(() => {
 <style scoped>
 .node {
   display: grid;
-  grid-template-columns: 75px 1fr 100px;
+  grid-template-columns: 30px 1fr 100px;
   border-radius: var(--border-radius-sm);
-  background: var(--color-white-translucent-light);
+  background: var(--bg-translucent-light);
 }
 
 .node-name {
@@ -96,25 +97,45 @@ const pointsColor = computed(() => {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-lg);
   padding: 4px 0 4px var(--size-md);
+  min-width: 0;
+  overflow: hidden;
 }
 
 .node-points {
   height: 100%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   border-radius: var(--border-radius-sm) 0 0 var(--border-radius-sm);
-  font-size: var(--font-size-xl);
-}
-
-.node-scientific-name {
   font-size: var(--font-size-lg);
 }
 
-.node.impossible {
+.node-scientific-name {
+  font-size: var(--font-size-md);
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.node-name-text {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.node-points-divider {
+  display: block;
+  width: 60%;
+  height: 1px;
+  background-color: currentColor;
+  opacity: 0.4;
+  margin: 1px 0;
+
   opacity: 0.5;
 }
 
@@ -134,7 +155,18 @@ const pointsColor = computed(() => {
   border-radius: var(--border-radius-sm);
 }
 
+@media (min-width: 500px) {
+  .node {
+    grid-template-columns: 50px 1fr 100px;
+  }
+
+}
+
 @media (min-width: 640px) {
+  .node {
+    grid-template-columns: 75px 1fr 100px;
+  }
+
 }
 
 @media (min-width: 768px) {

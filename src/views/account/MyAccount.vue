@@ -89,9 +89,9 @@ onBeforeMount(async() => {
 </script>
 
 <template>
-  <ContentContainer>
-    <div class="page page-padding">
-      <div class="container">
+  <ContentContainer class="bg-translucent subheader-padding-top">
+    <div class="container">
+      <div class="page page-padding">
         <div v-if="authStore.user">
           <div class="user-user">
             <div class="user-picture">
@@ -116,7 +116,7 @@ onBeforeMount(async() => {
               </div>
               <div class="edit-account-form">
                 <FormWrapper :key="formKey" :validation="validation" :initial-data="initialData" @submit="onSubmit">
-                  
+
                   <div>
                     <!--<BasicFormField
                       v-model="initialData.username"
@@ -204,8 +204,8 @@ onBeforeMount(async() => {
 }
 
 .user-picture {
-  width: 72px;
-  height: 72px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;
   background: #f3f4f6;
@@ -262,8 +262,8 @@ onBeforeMount(async() => {
     max-width: 480px;
   }
   .user-picture {
-    width: 96px;
-    height: 96px;
+    width: 200px;
+    height: 200px;
   }
 }
 
@@ -279,8 +279,8 @@ onBeforeMount(async() => {
     max-width: 540px;
   }
   .user-picture {
-    width: 128px;
-    height: 128px;
+    width: 250px;
+    height: 250px;
   }
 }
 </style>

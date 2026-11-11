@@ -86,9 +86,9 @@ const selectLetter = (letter: string) => {
 </script>
 
 <template>
-  <div class="start-letters-container">
-    <div class="start-letters-wrap">
-      <div class="start-letters">
+  <div class="letter-selector">
+    <div class="letter-selector__start-letters-wrap">
+      <div class="letter-selector__start-letters">
         <button
           v-for="letter in usableLetters"
           :key="letter"
@@ -106,13 +106,30 @@ const selectLetter = (letter: string) => {
   </div>
 </template>
 
-<style scoped>
-.start-letters-container {
-  width: 100%;
-  position: relative;
+<style>
+@layer defaults {
+  :root {
+    --letter-selector-background-color: none;
+    --letter-selector-letters-color: rgb(100, 100, 100);
+    --letter-selector-selected-letter-color: rgb(0, 0, 0);
+
+    --darkmode-letter-selector-background-color: none;
+    --darkmode-letter-selector-letters-color: rgb(150, 150, 150);
+    --darkmode-letter-selector-selected-letter-color: rgb(255, 255, 255);
+  }
 }
 
-.start-letters-wrap {
+.letter-selector {
+  width: 100%;
+  position: relative;
+  background: var(--letter-selector-background-color);
+}
+
+body.dark .letter-selector {
+  background: var(--darkmode-letter-selector-background-color);
+}
+
+.letter-selector__start-letters-wrap {
   width: 100%;
   position: relative;
   overflow-x: scroll;
@@ -121,73 +138,69 @@ const selectLetter = (letter: string) => {
   scrollbar-width: none; /* Firefox */
 }
 
-.start-letters-wrap::-webkit-scrollbar {
+.letter-selector__start-letters-wrap::-webkit-scrollbar {
   display: none; /* Safari and Chrome */
 }
 
-.start-letters {
+.letter-selector__start-letters {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: nowrap;
   padding: 0px;
 }
 
-.start-letter {
+.letter-selector .start-letter {
   background: none;
   border: none;
-  color: rgb(100, 100, 100);
+  color: var(--letter-selector-letters-color);
   font-size: 14px;
   padding: 28px 14px 28px 14px;
 }
 
-.start-letter.slim {
-  padding-top: 8px;
-  padding-bottom: 8px;
+body.dark .letter-selector .start-letter {
+  color: var(--darkmode-letter-selector-letters-color);
 }
 
-.start-letter.selected {
-  font-weight: bold;
-  color: black;
+.letter-selector .start-letter.slim {
+  padding-top: 14px;
+  padding-bottom: 14px;
 }
+
+.letter-selector .start-letter.selected {
+  font-weight: bold;
+  color: var(--letter-selector-selected-letter-color);
+}
+
+body.dark .letter-selector .start-letter.selected {
+  color: var(--darkmode-letter-selector-selected-letter-color);
+}
+
 
 @media (min-width: 768px) {
-  .start-letters-wrap {
-    overflow-x: auto;
-    overflow-y: auto;
-    padding: 14px 0px 14px 0px;
+  .letter-selector__start-letters-wrap {
+    overflow-x: scroll;
+    overflow-y: hidden;
   }
 
-  .start-letters {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 0px 0px 0px 0px;
-  }
-
-  .start-letter {
-    background: none;
-    border: none;
-    color: rgb(100, 100, 100);
+  .letter-selector .start-letter {
     font-size: 14px;
-    padding: 28px 8px 28px 8px;
+    padding: 28px 14px 28px 14px;
   }
 
-  .start-letter.slim {
-    padding-top: 4px;
-    padding-bottom: 4px;
+  .letter-selector .start-letter.slim {
+    padding-top: 14px;
+    padding-bottom: 14px;
   }
 }
 
-@media (orientation: landscape ) {
-  .start-letters-wrap {
+@media (orientation: landscape) {
+  .letter-selector__start-letters-wrap {
     padding: 0;
   }
 }
 
-@media ((orientation: landscape) and (min-width: 1280px) ) {
-  .start-letters-wrap {
-    padding: 14px 0px 14px 0px;
+@media ((orientation: landscape) and (min-width: 1280px)) {
+  .letter-selector__start-letters-wrap {
   }
 }
-
 </style>

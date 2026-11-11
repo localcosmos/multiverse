@@ -1,49 +1,34 @@
 <script setup lang="ts">
-import { onMounted, reactive, ref, watch } from 'vue';
-import { useRouter } from 'vue-router';
-import { storeToRefs } from 'pinia';
-import { PhCaretDown } from '@phosphor-icons/vue';
-import { useModalBottomSheet } from '@/stores/modal-bottomsheet';
-import { Directions, Pan, PointerListener } from 'contactjs';
-import type { GestureEvent, PointerListenerOptions } from 'contactjs';
-import { useRoute } from 'vue-router';
+import { onMounted, reactive, ref, watch } from "vue";
+import { useRouter, useRoute } from "vue-router";
+import { storeToRefs } from "pinia";
+import { PhCaretDown } from "@phosphor-icons/vue";
+import { useModalBottomSheet } from "@/stores/modal-bottomsheet";
+import { Directions, Pan, PointerListener } from "contactjs";
+import type { GestureEvent, PointerListenerOptions } from "contactjs";
 
 const route = useRoute();
+const router = useRouter();
 const modalBottomSheet = useModalBottomSheet();
 
-const model = reactive({});
-
-const router = useRouter();
+let model = reactive({});
 
 const bottomSheetHead = ref<HTMLElement | null>(null);
 
-// Convert all state properties to reactive references to be used on view
 const { mode, view, title, collapsedView } = storeToRefs(modalBottomSheet);
 
-const goToQuery = (modalbottomsheet: string) => {
-  if (route.query.modalbottomsheet === modalbottomsheet) {
-    // If already expanded, call expand directly
-    modalBottomSheet.expand();
-  } else {
-    // Otherwise, update the query to trigger the watcher
-    router.push({ query: { modalbottomsheet } });
-  }
-};
-
+// Sync sheet state from the URL: expanding pushes ?modalbottomsheet=expanded onto
+// the history stack, so the browser back button naturally collapses the sheet.
 watch(
   () => route.query.modalbottomsheet,
-  (mode) => {
-    switch (mode) {
-      case 'expanded':
-        modalBottomSheet.expand();
-        break;
-      default:
-        if (modalBottomSheet.mode === 'expanded') {
-          modalBottomSheet.collapse();
-        }
-        break;
+  (queryMode) => {
+    if (modalBottomSheet.mode === 'hidden') return;
+    if (queryMode === 'expanded') {
+      modalBottomSheet.expand();
+    } else if (modalBottomSheet.mode === 'expanded') {
+      modalBottomSheet.collapse();
     }
-  }
+  },
 );
 
 onMounted(() => {
@@ -81,44 +66,60 @@ const onSwipeDown = (event: GestureEvent) => {
           {{ title }}
         </div>
       </div>
-      <div id="BottomSheet-Body" class="page-padding-x">
+      <div id="BottomSheet-Body">
         <component :is="view" v-model="model" />
       </div>
     </div>
     <div
       id="BottomSheet-Collapsed"
-      class="page-padding-x cursor-pointer"
+      class="cursor-pointer"
       v-show="mode === 'collapsed'"
-      @click="goToQuery('expanded')"
+      @click="router.push({ query: { modalbottomsheet: 'expanded' } })"
     >
       <component :is="collapsedView" v-model="model" />
     </div>
   </div>
 </template>
 
-<style scoped>
+<style>
+@layer defaults {
+  :root {
+    --modal-bottom-sheet-padding-x: var(--size-md);
+  }
+}
 #BottomSheet {
   position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
   transition: var(--transition-cubic);
 }
 
 #BottomSheet.mode-collapsed {
-  transform: translateY(calc( (var(--bottom-navigation-height) + var(--bottom-navigation-offset-bottom) + var(--collapsed-bottomsheet-height) + 7px) * (-1) ));
+  transform: translateY(
+    calc(
+      (
+          var(--bottom-navigation-height) + var(--bottom-navigation-offset-bottom) + 7px
+        ) *
+        (-1)
+    )
+  );
   width: 100%;
   z-index: var(--layer-2);
   height: var(--collapsed-bottomsheet-height);
 }
 
 #BottomSheet-Collapsed {
+  padding-left: var(--modal-bottom-sheet-padding-x);
+  padding-right: var(--modal-bottom-sheet-padding-x);
   height: var(--collapsed-bottomsheet-height);
 }
 
 #BottomSheet.mode-expanded {
-  transform: translateY(-100vh);
-  transform: translateY(-100dvh);
+  transform: translateY(0);
   height: 100vh;
   height: 100dvh;
-  background: rgb(230,230,230);
+  background: rgb(230, 230, 230);
   z-index: var(--layer-4);
   width: 100vw;
   width: 100dvw;
@@ -157,6 +158,23 @@ const onSwipeDown = (event: GestureEvent) => {
 }
 
 @media (min-width: 768px) {
+  /* Navigation rail is visible — offset the sheet so it doesn't overlap the rail. */
+  #BottomSheet {
+    left: var(--navigation-rail-width);
+    right: 0;
+  }
+
+  /* No bottom navigation at this breakpoint — reset the bottom-nav-aware translateY.
+     width: auto lets the browser derive the width from left + right (no overflow). */
+  #BottomSheet.mode-collapsed {
+    transform: translateY(calc(-1 * var(--bottom-navigation-offset-bottom)));
+    width: auto;
+  }
+
+  /* The explicit 100dvw in mode-expanded overrides left/right, so reset it here. */
+  #BottomSheet.mode-expanded {
+    width: auto;
+  }
 }
 
 @media (min-width: 1024px) {

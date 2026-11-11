@@ -81,7 +81,7 @@ const onSubmit = async (data:Record<string, any>, setServerErrors: Function) => 
 </script>
 
 <template>
-  <ContentContainer>
+  <ContentContainer class="bg-translucent">
     <div class="page subheader-padding-top">
       <div class="form-page-container page-padding">
         <div class="my-xl">
